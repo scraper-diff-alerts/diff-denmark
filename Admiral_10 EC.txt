@@ -1,0 +1,151 @@
+Admiral 10 EC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Admiral 10 EC
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-69370 St.Didier au Mont d´OrTlf: Fax: Mail: ','Sumitomo Chemical Agro Europe S.A.'); return true;" onmouseout="nd(); return true;" href="Http://www.sumitomo-chem.co.jp/english/index.html" target="_new"Sumitomo Chemical Agro Europe S.A.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+3.659,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+100 g/l
+pyriproxyfen
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+10,1 l/ha
+0,0990 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+10,1 l/ha
+0,0990 B/l
+
+Pesticidafgift: 16 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-07-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+526-5
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af insekter i prydplanter samt agurk, courgetter, asier og drueagurk dyrket i væksthus.
+Behandlingsfrist
+Må i agurk, courgette, asier og drueagurk dyrket i væksthus ikke anvendes senere end 3 dage før høst. Højst 2 behandlinger og 10 dage mellem hver behandling.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Undgå forurening via dræn fra gårdspladser og veje (SP1).
+Opbevares under lås og utilgængeligt for børn (P102+P405).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Asier i v&#230;ksthusCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusPrydplanter i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Admiral 10 EC, reg.nr. 526-5
+Asier i v&#230;ksthusCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusPrydplanter i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Admiral 10 EC, reg.nr. 526-5, afmeldt
+På forbudsliste
+
+Admiral 10 EC, reg.nr. 526-5, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H315
+Forårsager hudirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102+P405
+Opbevares under lås og utilgængeligt for børn.
+P280
+Bær beskyttelseshandsker.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P332+P313
+Ved hudirritation: Søg lægehjælp.
+P362
+Forurenet tøj tages af og vaskes, før det bruges igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Admiral 10 EC
+Sikkerhedsdatablad
+Admiral 10 EC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Admiral_10_EC_526-5_Etikette_20221017.pdf
