@@ -1,0 +1,507 @@
+Clomate - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Clomate
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 og 3 l
+Registreringsindehaver
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Distributør
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Firmaets produktside
+Clomate
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+610,00 kr/l
+&nbsp()
+Formulering
+Kapselsuspension
+Status
+Markedsført
+Indhold af aktivstoffer
+360 g/l
+clomazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,250 l/ha
+4,00 BI/l
+(Kartofler)
+0,250 l/ha
+4,00 BI/l
+Roer
+0,250 l/ha
+4,00 BI/l
+Vinterraps
+0,333 l/ha
+3,00 BI/l
+Vårraps
+0,250 l/ha
+4,00 BI/l
+(Ærter)
+0,250 l/ha
+4,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+2,45 l/ha
+0,408 B/l
+Miljøeffekt
+6,93 l/ha
+0,144 B/l
+I alt
+1,81 l/ha
+0,552 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+756-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i raps.
+Behandlingsfrist
+Må ikke anvendes senere end før fremspiring.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Den maksimale dosering er 0,25 L/ha, svarende til 90 g a.s. per ha.
+For at beskytte grundvandet må dette produkt maksimalt anvendes hvert tredje år. Der må endvidere i samme periode ikke også anvendes andre produkter, der indeholder clomazon (Spe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Clomate, reg.nr. 756-1
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i bederoer til foder og fødevarer
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i radise til frøproduktion på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i spinat til frøavl
+Hesteb&#248;nner til fr&#248;avlVinterhesteb&#248;nnerV&#229;rhesteb&#248;nner','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i vår- og vinterhestebønner til produktion af udsæd og foder
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i vårraps til produktion af udsæd
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i etableret skorzonerrod til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i kinesisk kål til frøavl
+Rodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i pastinak og persillerod
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod sort natskygge, hanekro og hundepersille i gulerødder efter fremspiring.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (756-1), alene eller i kombination med Stomp CS (19-205), mod bredbladet ukrudt i vinterraps i afgrødens stadie 12-13
+BroccoliHvidk&#229;lRosenk&#229;lR&#248;dk&#229;lSavoyk&#229;l','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Clomate (reg.nr. 756-1) til mindre anvendelse mod ukrudt i rosenkål, hovedkål (rød – og hvidkål, savoykål) samt blomsterkål (blomkål og broccoli)
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse af resistens.
+For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme enten i form
+af en tankblanding, eller ved at skifte middel med jævne mellemrum. Producenten kan ikke drages til ansvar for
+manglende effekt ved en evt. resistensdannelse. Clomate tilhører gruppen af DOXP-syntese-hæmmer.
+(Resistensklasse HRAC F4).
+Resistensklasse
+F4 / 13
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+Må i kartofler og vinterraps kun anvendes hvert tredje år.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæsken
+Sprøjtebeholderen skal være rengjort før Clomate fyldes i. Fyld 75 % af den ønskede vandmængde i
+beholderen, tilsæt Clomate, og tilsæt resten af den ønskede vandmængde. Sæt gang i returløb og omrøring.
+Eventuel skumdannelse ved påfyldningen kan reduceres ved at mindske omrøringen.
+Tankblanding
+Clomate er kemisk kompatibelt med de relevante jordmidler, der benyttes i vinterraps og kartofler.
+Tankblanding med glyphosat-holdige produkter er ligeledes muligt, hvis betingelserne for dette ellers er overholdt.
+Rengøring
+Ingen oplysninger
+Opbevaring
+I uåbnet original emballage, frostfrit og beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Fenix, LFS Aclonifen, Stomp CS
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Andet tokimbladet ukrudt, burresnerre, fuglegræs, hyrdetaske, rød tvetand, ærenpris
+0,25 lEfterår umiddelbart efter såning og senest 3 dage efter såning
+Max. 1 behandling pr. sæson.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ved udvintring af vinterraps behandlet med Clomate, kan man om foråret efter grundig pløjning så om med
+korn, ærter, majs, kartofler, vårraps, gulerødder, løg og hør.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+god
+
+Såbedskvalitet
+
+uden knolde
+
+Andet
+Brug af Clomate anbefales ikke på jorde med et højt humusindhold, da dette kan give en mindsket effekt.
+Virkemåde
+Clomazon er et systemisk middel der efter udsprøjtning hurtigt bliver optaget i spiringsfasen via kimstænglen og
+rødder. Midlet bliver herefter transporteret i vedvævet (xylemet) nedefra og ud/op mod blad- og skudspidserne.
+Fordelingen i bladene sker ved hjælp af diffusion.
+Clomazon har en hæmmende/blokerende effekt på dannelsen af klorofyl i grønkornene og andre pigmenter involveret
+i fotosyntesen, der derved blokeres. Clomate udsprøjtes før ukrudtet er fremspiret. Under ukrudtets fremspiring
+eller umiddelbart efter afbleges dette med nedvisning til følge.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agerkål
+0,25 l/ha
+Albaugh produktsupport
+
+Agersennep
+0,25 l/ha
+Albaugh produktsupport
+
+Agerstedmoder
+0,25 l/ha
+Albaugh produktsupport
+
+Agersvinemælk (frøfremspiret)
+0,25 l/ha
+Albaugh produktsupport
+
+Agertidsel (frøfremspiret)
+0,25 l/ha
+Albaugh produktsupport
+
+Alm. hanespore
+0,25 l/ha
+Albaugh produktsupport
+
+Alm. pengeurt
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Alm. rajgræs
+0,25 l/ha
+Albaugh produktsupport
+
+Alm. svinemælk
+0,25 l/ha
+Albaugh produktsupport
+
+Bleg pileurt
+0,25 l/ha
+Albaugh produktsupport
+
+Burresnerre
+0,25 l/ha
+Etiketten
+Meget god effekt ifølge etiketten
+Enårig rapgræs
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Ferskenpileurt
+0,25 l/ha
+Albaugh produktsupport
+
+Flyvehavre
+0,25 l/ha
+Albaugh produktsupport
+
+Forglemmigej
+0,25 l/ha
+Albaugh produktsupport
+
+Fuglegræs
+0,25 l/ha
+Etiketten
+God effekt ifølge etiketten
+Grøn skærmaks
+0,25 l/ha
+Albaugh produktsupport
+
+Gråbynke (frøfremspiret)
+0,25 l/ha
+Albaugh produktsupport
+
+Gul okseøje
+0,25 l/ha
+Albaugh produktsupport
+
+Gulurt
+0,25 l/ha
+Albaugh produktsupport
+
+Hanekro
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Haremad
+0,25 l/ha
+Albaugh produktsupport
+
+Hundepersille
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Hvede spildkorn
+0,25 l/ha
+Albaugh produktsupport
+
+Hvidmelet gåsefod
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Hyrdetaske
+0,25 l/ha
+Etiketten
+Meget god effekt ifølge etiketten
+Kornblomst
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Kornvalmue
+0,25 l/ha
+Albaugh produktsupport
+
+Kruset skræppe
+0,25 l/ha
+Albaugh produktsupport
+
+Kvik
+0,25 l/ha
+Albaugh produktsupport
+
+Liden nælde
+0,25 l/ha
+Albaugh produktsupport
+
+Lugtløs kamille
+0,25 l/ha
+Albaugh produktsupport
+
+Lægejordrøg
+0,25 l/ha
+Albaugh produktsupport
+
+Markærenpris
+0,25 l/ha
+Albaugh produktsupport
+
+Pileurt
+0,25 l/ha
+Etiketten
+Moderat effekt ifølge etiketten
+Raps
+0,25 l/ha
+Albaugh produktsupport
+
+Rug spildkorn
+0,25 l/ha
+Albaugh produktsupport
+
+Rød tvetand
+0,25 l/ha
+Etiketten
+God effekt ifølge etiketten
+Rødsvingel
+0,25 l/ha
+Albaugh produktsupport
+
+Skivekamille
+0,25 l/ha
+Albaugh produktsupport
+
+Snerlepileurt
+0,25 l/ha
+Albaugh produktsupport
+
+Sort natskygge
+0,25 l/ha
+Albaugh produktsupport
+
+Storkenæb
+0,25 l/ha
+Albaugh produktsupport
+
+Storkronet ærenpris
+0,25 l/ha
+Albaugh produktsupport
+
+Vedbendærenpris
+0,25 l/ha
+Albaugh produktsupport
+
+Vejpileurt
+0,25 l/ha
+Albaugh produktsupport
+
+Vindaks
+0,25 l/ha
+Albaugh produktsupport
+
+Ærenpris
+0,25 l/ha
+Etiketten
+God effekt ifølge etiketten
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+Ingen oplysninger
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Sørg for at den tilskadekomne får frisk luft og ro. Søg læge ved vedvarende ubehag og
+medbring brugsanvisning.
+Indtagelse: Skyl munden grundigt og drik mælk eller vand. Undgå opkastning. Søg læge og medbring
+brugsanvisning.
+Hudkontakt: Fjern forurenet tøj og vask huden med rigelige mængder vand og sæbe. Søg læge ved
+ubehag og sygdomstegn. Medbring brugsanvisning.
+Øjenkontakt: Skyl straks med vand, gerne fra en øjenskyller. Spil øjet godt op og fortsæt behandlingen i
+min. 20 minutter/indtil kemikaliet er skyllet væk. Fjern eventuelle kontaktlinser. Søg læge ved
+fortsat ubehag. Medbring brugsanvisning.
+Yderligere information: Ingen specifik modgift eller symptomer.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Clomate
+Sikkerhedsdatablad
+Clomate
+Vejledning i Planteværn
+2025
+Side 190 til 194
+VP25s190-194.pdf.pdf--
+Side 190 til 194--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Clomate_756-1_Etikette_20200223.pdf
