@@ -1,0 +1,126 @@
+Antergon SG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Antergon SG
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-4818CP BredaTlf: Fax: Mail: ','UPL Holdings Coöperatief U.A.'); return true;" onmouseout="nd(); return true;"UPL Holdings Coöperatief U.A.
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+600 g/kg
+maleinhydrazid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Grøntsager
+3,33 kg/ha
+0,300 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+111 kg/ha
+0,0090 B/kg
+Miljøeffekt
+27,1 kg/ha
+0,0369 B/kg
+I alt
+21,8 kg/ha
+0,0459 B/kg
+
+Pesticidafgift: 19 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1046-15
+Miljøstyrelsens godkendelse
+Må kun anvendes til spirehæmning af løg.
+Behandlingsfrist
+Må ikke anvendes senere end 2 uger før høst.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Antergon SG, reg.nr. 1046-15
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9,III
+IMDG
+9,III
+IATA
+9,III
+Yderligere oplysninger
+Etikette oplysninger
+Antergon SG
+Sikkerhedsdatablad
+Antergon SG
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Antergon_SG_1046-15_Godkendt_Etikette_20231201.pdf
