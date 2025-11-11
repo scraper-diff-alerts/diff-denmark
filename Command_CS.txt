@@ -1,0 +1,205 @@
+Command CS - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Command CS
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Kapselsuspension
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+360 g/l
+clomazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,250 l/ha
+4,00 BI/l
+Kartofler
+0,250 l/ha
+4,00 BI/l
+Roer
+0,250 l/ha
+4,00 BI/l
+Vinterraps
+0,333 l/ha
+3,00 BI/l
+Vårraps
+0,250 l/ha
+4,00 BI/l
+Ærter
+0,250 l/ha
+4,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+2,45 l/ha
+0,408 B/l
+Miljøeffekt
+6,93 l/ha
+0,144 B/l
+I alt
+1,81 l/ha
+0,552 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+19-109
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinterraps, kartofler, ærter og gulerødder.
+Behandlingsfrist
+Må i kartofler, ærter, gulerødder og raps ikke anvendes senere end før fremspiring.
+Forbehold
+Den maksimale dosering for alle anvendelser er 0,25 L/ha, svarende til 90 g a.s./ha.
+For at beskytte grundvandet må dette produkt maksimalt anvendes hvert tredje år. Der må endvidere i samme periode ikke også anvendes andre produkter, der indeholder clomazon.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (søer, vandløb mm.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+BroccoliHvidk&#229;lRosenk&#229;lR&#248;dk&#229;lSavoyk&#229;l','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i rosenkål, hovedkål (rød – og hvidkål, savoykål) samt blomsterkål (blomkål og broccoli)
+KartoflerVinterraps&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Command CS, reg.nr. 19-109
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i spinat til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i vårraps til produktion af udsæd
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i bladbeder til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i etableret skorzonerrod til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i hvidkål til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i kinesisk kål til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i gul sennep til produktion af udsæd
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse til kørvel til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i olieræddike til produktion af udsæd
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i urtechrysantemum til frøavl
+V&#229;rhesteb&#248;nner','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i vår- og vinterhestebønne til foder og produktion af udsæd
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i bederoer til foder og fødevarer
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS af mindre anvendelse i diverse blomsterfrø mod ukrudt
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS til mindre anvendelse i planteskolekulturer og og prydplanter på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS, reg.nr. 19-109, til mindre anvendelse mod bredbladet ukrudt i persille til frø
+Rodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS (19-109) til mindre anvendelse mod ukrudt i pastinak og persillerod
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS (19-109) og Stomp CS (19-205) til mindre anvendelse mod ukrudt i vinterraps
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS (19-109) til mindre anvendelse mod ukrudt i gulerødder efter fremspiring
+Sikkerhed
+Fareklasse
+Ingen oplysninger
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder polymethylenpolyphenylisocyanat og 1,2-benzisothiazolin-3-on (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H413
+Kan forårsage langvarige skadelige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Command CS
+Sikkerhedsdatablad
+Command CS
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Command_CS_19-109_Etikette_20171018.pdf
