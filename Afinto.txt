@@ -1,0 +1,302 @@
+Afinto - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Afinto
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+2 kg
+Registreringsindehaver
+B-1050 BruxellesTlf: Fax: Mail: ','ISK Biosciences Products Inc.'); return true;" onmouseout="nd(); return true;" href="Http://www.iskweb.co.jp" target="_new"ISK Biosciences Products Inc.
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Afinto
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+flonicamid
+Parallelprodukt, identisk med Teppeki
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,160 kg/ha
+6,25 BI/kg
+Roer
+0,140 kg/ha
+7,14 BI/kg
+Vintersæd
+0,140 kg/ha
+7,14 BI/kg
+Vårsæd
+0,140 kg/ha
+7,14 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20,0 kg/ha
+0,0500 B/kg
+Miljøadfærd
+53,0 kg/ha
+0,0189 B/kg
+Miljøeffekt
+36,9 kg/ha
+0,0271 B/kg
+I alt
+10,4 kg/ha
+0,0960 B/kg
+
+Pesticidafgift: 24 kr. pr. kg
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-09-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+352-19
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af insekter i korn, kartofler, æbler, pærer, bederoer samt i friske bønner med bælg og friske ærter med og uden bælg.
+Behandlingsfrist
+Må i korn ikke anvendes senere end vækststadie BBCH 77.
+Må i kartofler ikke anvendes senere end 14 dage før høst.
+Må i æbler og pærer ikke anvendes senere end 21 dage før høst.
+Må i bederoer ikke anvendes senere end 60 dage før høst.
+Må i friske bønner med bælg og ærter med og uden bælg ikke anvendes senere end 14 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Afinto (reg.nr. 352-19) til mindre anvendelse til insektbekæmpelse i prydplanter i væksthuse. Vejledningen findes på etiketten.
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Afinto (reg.nr. 352-19) til mindre anvendelse til insektbekæmpelse i planteskolekulturer og prydplanter på friland. Vejledningen findes på etiketten.
+Friske b&#248;nner med b&#230;lgHavreKartoflerP&#230;rerRugSpeltTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede&#198;bler&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Afinto, reg.nr. 352-19
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Afinto (reg.nr. 352-19) til mindre anvendelse i havefrø til frøproduktion. Vejledningen findes på etiketten.
+Friske b&#248;nner med b&#230;lgHavreKartoflerP&#230;rerRugSpeltTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede&#198;bler&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Afinto, reg.nr. 352-19, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Afinto, reg.nr. 352-19, anvendelses- og besiddelsesforbud
+Anvendelse
+Resistensrisiko
+Flonicamid tilhører sin egen resistensgruppe (IRAC gruppe 29) som
+vurderes at have en lav risiko for udvikling af resistens. Der er ikke
+kendskab til krydsresistens til andre aktivstoffer.
+Gentagen anvendelse af samme type middel kan resultere i
+dannelse af resistens. Det anbefales derfor at veksle med andre
+middeltyper med jævne mellemrum.
+Resistensklasse
+29
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Afinto er blandbar med aktuelle svampe- og insektmidler. Blanding af sprøjtevæske:
+Fyld tanken med den halve vandmængde. Tilsæt Afinto under omrøring og fyld op med vand.
+Rengøring
+Det er vigtigt at rengøre sprøjteudstyret grundigt
+efter brug. Husk vask med rengøringsmiddel ud- og indvendigt og
+flere gange skylning af alle indvendige dele. For yderligere regler
+vedrørende fyldning, tømning og rengøring af sprøjteudstyret henvises
+til Bekendtgørelse 1401 af 26.11.2018 eller eventuel senere udgave.
+Opbevaring
+Opbevares tørt og køligt, men frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Proxanil
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Spelt, Triticale, Vinterhvede, Vårhvede
+Græsbladlus, havrebladlus, kornbladlus
+0,1-0,14 kgVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Afgrødens vækststadie 21-77. Anvend 100-140 g Afinto pr. ha med ca. 3 ugers interval, når skadetærsklen er overskredet. Maksimalt 2 sprøjtninger pr. sæson.
+0,1-0,14 kg2. behandling 3 uger senere
+Havre, Vinterbyg, Vårbyg
+Græsbladlus, havrebladlus, kornbladlus
+0,1-0,14 kgVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Afgrødens vækststadie 21-77. Anvend 100-140 g Afinto pr. ha, når skadetærsklen er overskredet. Maksimalt 1 sprøjtning pr. sæson.
+Pærer, Æbler
+Grøn æblebladlus, pærebladlus, rød æblebladlus
+0,14 kgVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Anvend 140 g Afinto pr. ha med ca. 3 ugers interval ved begyndende angreb. Maksimalt 3 sprøjtninger pr. sæson.
+0,14 kg2. behandling 3 uger senere0,14 kg3. sprøjtning
+Kartofler
+Ferskenbladlus, kartoffelbladlus, nasturtiebladlus, stribet kartoffelbladlus, tørstetræbladlus
+0,16 kgVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Anvend 160 g Afinto pr. ha, når bladlus optræder. Virkningstiden er normalt mindst 3 uger, hvorefter behandlingen kan gentages. Maksimalt 2 sprøjtninger pr. sæson.
+0,16 kg2. behandling 3 uger senere
+Effekt
+Effekt på nyttedyr
+Afinto er skånsom overfor bier, humlebier, rovmider og andre nyttedyr.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10
+ºC
+10-20
+ºC
+25
+ºC
+Timers tørvejr
+1
+
+1-2
+
+2
+
+Virkemåde
+Afinto er systemisk virkende, idet aktivstoffet transporteres opad og udad i planten. Midlet virker også ved at trænge gennem bladene (translaminær virkning), så der er gode muligheder for at bekæmpe selv godt gemte bladlus. Virkningen er ikke temperaturafhængig. Afinto virker ved at stoppe fødeindtaget efter få timer, hvorefter skadedyrene dør af sult i løbet af nogle dage. Der er altså ikke en egentlig knockdown effekt, men skadevirkningen er stoppet næsten øjeblikkeligt. Virkningstiden er op til 4 uger.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller
+etiketten (P101).
+Indånding: Frisk luft. Kontakt læge ved fortsat ildebefindende.
+Huden: Fjern forurenet tøj. Skyl straks huden med rigeligt vand
+efterfulgt af sæbevask.
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere
+minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning (P305+P351+P338). Ved vedvarende øjenirritation:
+Søg lægehjælp (P337+P313).
+Indtagelse: Rens munden med vand. Fremkald ikke opkastning.
+Kontakt læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder dinatriummaleat. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret.
+RID_ADR
+Ikke klassificeret.
+IMDG
+Ikke klassificeret.
+IATA
+Ikke klassificeret.
+Yderligere oplysninger
+Etikette oplysninger
+Afinto
+Sikkerhedsdatablad
+Ingen oplysninger
+Vejledning i Planteværn
+2025
+Side 256 til 257
+VP25s256-257.pdf.pdf--
+Side 256 til 257--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Afinto_352-19_Godkendt_Etikette_20240513.pdf
