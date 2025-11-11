@@ -1,0 +1,162 @@
+1,4SIGHT - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+1,4SIGHT
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+PH2 8DF PerthTlf: +44 (0)1738 633 859Fax: Mail: info@dormfresh.co.uk','DormFresh Limited'); return true;" onmouseout="nd(); return true;" href="Http://www.dormfresh.co.uk" target="_new"DormFresh Limited
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Industriel anvendelse, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+993,7 g/l
+1,4-dimethylnaphtalen
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+5,75 l/ha
+0,174 B/l
+
+Pesticidafgift: 45 kr. pr. l
+Godkendelse
+Registreringsnummer
+964-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til hæmning af spiredannelse i oplagrede kartofler.
+Behandlingsfrist
+Må i kartofler senest anvendes 30 dage før bearbejdning. Behandlede kartofler må ikke bruges til foder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Behandlede kartofler må ikke bruges til foder.
+Brugere skal anvende handsker og åndedrætsværn mod flygtige aerosoltåger når beholderen er åben.
+Beholderen med produktet skal være tilsluttet tågegeneratoren via et tætsluttende skruelåg med slange, for at sikre et lukket kredsløb under tågesprøjtning.
+Må højest anvendes til 2000 tons kartofler på lager.
+Efter tågesprøjtning skal lageret være afspærret i mindst 24 timer. Personale må først gå ind på lageret, når friskluftsventialtion har kørt i minimum 30 minutter.
+Der må kun arbejdes på lageret i 30 minutter per dag indtil 30 dage efter behandling. I denne periode skal der anvendes åndedrætsværn mod flygtige aerosoltåger.
+Friskluftsventilation af lageret må ikke foregå hvis vindhastigheden er under 3 m/s.
+Friskluftsventilation af lageret skal foregå i tidsrummet 00 - 04.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket (P403+P233).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav (anvendes på lager).
+Afstand til §3-områder
+Ingen afstandskrav (anvendes på lager).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav (anvendes på lager).
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Spireh&#230;mning af kartofler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+1,4SIGHT, reg.nr. 964-1
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P273
+Undgå udledning til miljøet.
+P280
+Bær øjenbeskyttelse.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P391
+Udslip opsamles.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+1,4SIGHT
+Sikkerhedsdatablad
+1,4SIGHT
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/1,4SIGHT_964-1_Godkendt_Etikette_20241121.pdfFakeChangeForTests
