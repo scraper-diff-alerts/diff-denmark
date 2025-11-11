@@ -1,0 +1,135 @@
+Bonus InsektVæk - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Bonus InsektVæk
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-31860 EmmerthalTlf: Fax: Mail: ','Neudorff GmbH KG'); return true;" onmouseout="nd(); return true;" href="Http://www.neudorff.de" target="_new"Neudorff GmbH KG
+Distributør
+4000 RoskildeTlf: 70 27 29 50Fax: 70 27 29 60Mail: info@fausol.dk','Fausol K/S'); return true;" onmouseout="nd(); return true;" href="Http://www.fausol.dk" target="_new"Fausol K/S
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+0,0459 g/l
+pyrethrin I og II
+8,25 g/l
+rapsolie
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+2.128 l/ha
+0,0005 B/l
+Miljøeffekt
+1.563 l/ha
+0,0006 B/l
+I alt
+901 l/ha
+0,0011 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+364-77
+Miljøstyrelsens godkendelse
+Må kun bruges til privat anvendelse mod visse skadegørere på prydplanter, tomat, aubergine, salat, spinat, portulak,
+persille og krydderurter i væksthus og på friland samt i æbler, pærer, kirsebær, blomme, solbær, ribs, stikkelsbær,
+blåbær, gulerødder, rødbeder, knoldselleri, persillerod, pastinak, radise, skorzonerrod, cikorie, beder og peberrod
+på friland.
+Behandlingsfrist
+Må i afgrøder på friland ikke anvendes senere end 3 dage før høst. Må i afgrøder i væksthus ikke anvendes
+senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen
+nævnte. Må i afgrøder på friland ikke anvendes senere end 3 dage før høst. Må i afgrøder i væksthus ikke anvendes
+senere end 7 dage før høst. Farligt for bier - for at beskytte bier og andre bestøvende insekter må dette produkt ikke
+anvendes i blomstrende afgrøder. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. Undgå forurening via dræn fra gårdspladser og veje (SP1). Må ikke tømmes i kloaka
+øb. Opbevares
+utilgængeligt for børn (P102). Må ikke opbevares sammen med fødevarer, drikkevarer og fodersto
+er.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+P&#230;rerRoserSalat&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Bonus InsektVæk, reg. nr. 364-77
+P&#230;rerRoserSalat&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Bonus InsektVæk, reg. nr. 364-77, under revurdering
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Bonus InsektVæk
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Bonus_Insektvaek_364-77_Godkendt_Etikette_20190131.pdf
