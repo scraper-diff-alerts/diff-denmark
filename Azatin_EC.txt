@@ -1,0 +1,162 @@
+Azatin EC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Azatin EC
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-1200 BrusselsTlf: Fax: Mail: ','Mitsui AgriScience International S.A./B.V.'); return true;" onmouseout="nd(); return true;"Mitsui AgriScience International S.A./B.V.
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+26 g/l
+azadirachtin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+225 l/ha
+0,0045 B/l
+Miljøeffekt
+104 l/ha
+0,0097 B/l
+I alt
+11,2 l/ha
+0,0891 B/l
+
+Pesticidafgift: 13 kr. pr. l
+Godkendelse
+Registreringsnummer
+738-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i jordbær, tomater, aubergine, agurk, squash, melon, græskar, spinat, salater, krydderurter og prydplanter i væksthus.
+Behandlingsfrist
+Må i jordbær ikke anvendes senere end 7 dage før høst.
+Må i tomat, aubergine, agurk, squash, meloner og græskar ikke anvendes senere end 3 dage før høst.
+Må i spinat, salater og krydderurter ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugs-anvisningen
+nævnte.
+Ved håndtering af behandlede tomat, agurk, squash, melon, græskar, salat, spinat og krydderurter og
+prydplanter skal der anvendes kemisk bestandige handsker . Sprøjteførere skal anvende handsker og
+beskyttelsesdragt ved blanding, påfyldning og udbringning.
+Der må ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale
+og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i v&#230;ksthusEndivie i v&#230;ksthusGr&#230;skar i v&#230;ksthusJordb&#230;r i v&#230;ksthusKrydderurter i v&#230;ksthusMelon i v&#230;ksthusPrydplanter i v&#230;ksthusRucola i v&#230;ksthusSalat i v&#230;ksthusSpinat i v&#230;ksthusSquash (zucchini) i v&#230;ksthusTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Azatin EC, reg.nr. 738-3
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Azatin EC (reg.nr. 738-3) til mindre anvendelse til insektbekæmpelse i prydplanter dyrket i potter i åbne væksthuse
+Aubergine i &#229;bne v&#230;ksthuseBedeblade i &#229;bne v&#230;ksthuseEndivie i &#229;bne v&#230;ksthuseEndiviesalat i &#229;bne v&#230;ksthuseGr&#230;skar i &#229;bne v&#230;ksthuseKrydderurter i &#229;bne v&#230;ksthuseMelon i &#229;bne v&#230;ksthuseRucola i &#229;bne v&#230;ksthuseSalat i &#229;bne v&#230;ksthuseSquash (zucchini) i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Azatin EC (reg.nr. 738-3) til mindre anvendelse til insektbekæmpelse i tomat, aubergine, agurk, squash, melon, græskar, salat, spinat, endiviesalat, endivie, rucola, bedeblade og krydderurter dyrket i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Azatin EC (reg.nr. 738-3) til mindre anvendelse til insektbekæmpelse i jordbær dyrket i render i åbne væksthuse
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder azadirachtin. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P273
+Undgå udledning til miljøet.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P391
+Udslip opsamles.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Azatin EC
+Sikkerhedsdatablad
+Azatin EC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Azatin_EC_738-3_Godkendt_Etikette_20190701.pdf
