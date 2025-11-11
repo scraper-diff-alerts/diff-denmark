@@ -1,0 +1,178 @@
+Benta 480 SL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Benta 480 SL
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-1730 AsseTlf: Fax: Mail: ','Sharda Europe b.v.b.a.'); return true;" onmouseout="nd(); return true;"Sharda Europe b.v.b.a.
+Distributør
+6000 KoldingTlf: 69 91 98 80/30 13 23 27Fax: 86 51 98 89Mail: to@agros.dk','Agros'); return true;" onmouseout="nd(); return true;" href="Http://www.agros.dk" target="_new"Agros
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+480 g/l
+bentazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+3,00 l/ha
+0,333 BI/l
+Græs og kløver
+2,00 l/ha
+0,500 BI/l
+Majs
+1,04 l/ha
+0,960 BI/l
+(Vintersæd)
+1,50 l/ha
+0,667 BI/l
+Vårsæd
+1,50 l/ha
+0,667 BI/l
+Ærter
+1,00 l/ha
+1,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,47 l/ha
+0,224 B/l
+Miljøadfærd
+8,11 l/ha
+0,123 B/l
+Miljøeffekt
+21,0 l/ha
+0,0475 B/l
+I alt
+2,54 l/ha
+0,394 B/l
+
+Pesticidafgift: 65 kr. pr. l
+Godkendelse
+Registreringsnummer
+653-8
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vårsæd med udlæg, ærter, kløver til frø, majs, frøgræs samt græs- og kløvergræsmarker til slæt og/eller afgræsning.
+Behandlingsfrist
+Må i korn ikke anvendes senere end 10 uger før høst.
+Må i ærter med og uden bælg og helsæd ikke anvendes senere end 7 uger før høst.
+Må i tørrede ærter og foder ærter ikke anvendes senere end 9 uger før høst.
+Må i kløver til frø ikke anvendes senere end 6 uger før høst.
+Må i græs- og kløvergræsmarker til slet/afgræsning ikke anvendes senere end 2 uger før slet/afgræsning.
+Må i majs ikke anvendes senere end 2 uger før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+For at beskytte grundvandet må dette produkt eller andre produkter, der indeholder bentazon, kun anvendes 1 gang om året forår-sommer i de i brugsanvisningen anførte samlede maksimale doseringer for aktivstoffet. I kløver til frø må der maksimalt anvendes 1,5 L produkt/ha. I etablerede græsmarker kan anvendelse ske indtil 1. september.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Fr&#248;gr&#230;sGr&#230;sKl&#248;ver til fr&#248;Kl&#248;vergr&#230;sMajsV&#229;rs&#230;d med udl&#230;g af kl&#248;ver til fr&#248;V&#229;rs&#230;d med udl&#230;g af kl&#248;vergr&#230;sV&#229;rs&#230;d med udl&#230;g af lucerneV&#229;rs&#230;d med udl&#230;g af &#230;rter&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Benta 480 SL, reg.nr. 653-8
+Fr&#248;gr&#230;sGr&#230;sKl&#248;ver til fr&#248;Kl&#248;vergr&#230;sMajsV&#229;rs&#230;d med udl&#230;g af kl&#248;ver til fr&#248;V&#229;rs&#230;d med udl&#230;g af kl&#248;vergr&#230;sV&#229;rs&#230;d med udl&#230;g af lucerneV&#229;rs&#230;d med udl&#230;g af &#230;rter&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Benta 480 SL, reg.nr. 653-8, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Benta 480 SL
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Benta_480_SL_653-8_Godkendt_Etikette_20160314.pdf
