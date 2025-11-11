@@ -1,0 +1,132 @@
+Armicarb - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Armicarb
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Distributør
+8382 HinnerupTlf: Fax: Mail: ','Horticoop Scandinavia A/S'); return true;" onmouseout="nd(); return true;"Horticoop Scandinavia A/S
+Anvendes indenfor
+Frilandsgartneri, Frugtavl
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt pulver
+Status
+Markedsført
+Indhold af aktivstoffer
+850 g/kg
+kaliumhydrogencarbonat
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+59,1 kg/ha
+0,0169 B/kg
+I alt
+59,1 kg/ha
+0,0169 B/kg
+
+Pesticidafgift: 20 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1008-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af skurv i æbler på friland.
+Behandlingsfrist
+Må i spiselige afgrøder ikke anvendes senere end 1 dag før høst.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr
+nær overfladevand (SP1).
+Skal opbevares tørt og ved eller under stuetemperatur.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må i æbler højere end 50 cm ikke anvendes nærmere end 3 meter fra §3-områder for at beskytte insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+I æbler, der er mere end 60 cm høje: Må ikke anvendes nærmere end 5 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aronia p&#229; frilandArtiskok p&#229; frilandAsieagurk p&#229; frilandAsparges p&#229; frilandAubergine p&#229; frilandBladbede p&#229; frilandBladselleri p&#229; frilandBlomsterkulturer p&#229; frilandBl&#229;b&#230;r p&#229; frilandBromb&#230;r p&#229; frilandBundtl&#248;g p&#229; frilandFor&#229;rsl&#248;g p&#229; frilandGr&#230;skar p&#229; frilandGuler&#248;dder p&#229; frilandHindb&#230;r p&#229; frilandHvidl&#248;g p&#229; frilandHyben p&#229; frilandJordb&#230;r p&#229; frilandJordskok p&#229; frilandKardon p&#229; frilandKnoldfennikel p&#229; frilandKnoldselleri p&#229; frilandKrydderurter p&#229; frilandK&#229;lroer p&#229; frilandL&#248;g p&#229; frilandMajroe p&#229; frilandPastinak p&#229; frilandPeberfrugt p&#229; frilandPeberrod p&#229; frilandPersillerod p&#229; frilandPorrer p&#229; frilandPrydbuske p&#229; frilandPrydplanter p&#229; frilandRibs p&#229; frilandRoser p&#229; frilandR&#248;dbeder p&#229; frilandSalat p&#229; frilandSkalottel&#248;g p&#229; frilandSkorzonerrod p&#229; frilandSolb&#230;r p&#229; frilandSquash (zucchini) p&#229; frilandStikkelsb&#230;r p&#229; frilandTomater p&#229; frilandVindruer p&#229; friland&#198;bler p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Brugsanvisning til mindre anvendelse af Armicarb (1008-3) til svampebekæmpelse i en række kulturer på friland.
+Agurk i &#229;bne v&#230;ksthuseAronia i lukket v&#230;ksthusAronia i &#229;bne v&#230;ksthuseArtiskok i lukket v&#230;ksthusArtiskok i &#229;bne v&#230;ksthuseAsparges i lukket v&#230;ksthusAsparges i &#229;bne v&#230;ksthuseBladbede i lukket v&#230;ksthusBladbede i &#229;bne v&#230;ksthuseBladselleri i lukket v&#230;ksthusBladselleri i &#229;bne v&#230;ksthuseBlomsterkulturer i lukket v&#230;ksthusBlomsterkulturer i &#229;bne v&#230;ksthuseBl&#229;b&#230;r i lukket v&#230;ksthusBl&#229;b&#230;r i &#229;bne v&#230;ksthuseBromb&#230;r i lukket v&#230;ksthusBromb&#230;r i &#229;bne v&#230;ksthuseBundtl&#248;g i lukket v&#230;ksthusBundtl&#248;g i &#229;bne v&#230;ksthuseB&#230;lgfrugt i lukket v&#230;ksthusB&#230;lgfrugt i &#229;bne v&#230;ksthuseFor&#229;rsl&#248;g i lukket v&#230;ksthusFor&#229;rsl&#248;g i &#229;bne v&#230;ksthuseGuler&#248;dder i lukket v&#230;ksthusGuler&#248;dder i &#229;bne v&#230;ksthuseHindb&#230;r i lukket v&#230;ksthusHindb&#230;r i &#229;bne v&#230;ksthuseHvidl&#248;g i lukket v&#230;ksthusHvidl&#248;g i &#229;bne v&#230;ksthuseHyben i lukket v&#230;ksthusHyben i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseJordskok i lukket v&#230;ksthusJordskok i &#229;bne v&#230;ksthuseKardon i lukket v&#230;ksthusKardon i &#229;bne v&#230;ksthuseKnoldfennikel i lukket v&#230;ksthusKnoldfennikel i &#229;bne v&#230;ksthuseKnoldselleri i lukket v&#230;ksthusKnoldselleri i &#229;bne v&#230;ksthuseKrydderurter i lukket v&#230;ksthusKrydderurter i &#229;bne v&#230;ksthuseK&#229;lroer i lukket v&#230;ksthusK&#229;lroer i &#229;bne v&#230;ksthuseL&#248;g i lukket v&#230;ksthusL&#248;g i &#229;bne v&#230;ksthuseMajroe i lukket v&#230;ksthusMajroe i &#229;bne v&#230;ksthusePastinak i lukket v&#230;ksthusPastinak i &#229;bne v&#230;ksthusePeberrod i lukket v&#230;ksthusPeberrod i &#229;bne v&#230;ksthusePersillerod i lukket v&#230;ksthusPersillerod i &#229;bne v&#230;ksthusePorrer i lukket v&#230;ksthusPorrer i &#229;bne v&#230;ksthusePrydbuske i lukket v&#230;ksthusPrydbuske i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseRibs i lukket v&#230;ksthusRibs i &#229;bne v&#230;ksthuseRoser i lukket v&#230;ksthusRoser i &#229;bne v&#230;ksthuseR&#248;dbeder i lukket v&#230;ksthusR&#248;dbeder i &#229;bne v&#230;ksthuseSalat i lukket v&#230;ksthusSalat i &#229;bne v&#230;ksthuseSkalottel&#248;g i lukket v&#230;ksthusSkalottel&#248;g i &#229;bne v&#230;ksthuseSkorzonerrod i lukket v&#230;ksthusSkorzonerrod i &#229;bne v&#230;ksthuseSolb&#230;r i lukket v&#230;ksthusSolb&#230;r i &#229;bne v&#230;ksthuseSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) i &#229;bne v&#230;ksthuseStikkelsb&#230;r i lukket v&#230;ksthusStikkelsb&#230;r i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Brugsanvisning til mindre anvendelse af Armicarb (1008-3) til svampebekæmpelse i en række kulturer i åbne og lukkede væksthuse.
+Godkendt
+
+Armicarb, reg.nr. 1008-3
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Armicarb
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Armicarb_1008-3_Godkendt_Etikette_20250411.pdf
