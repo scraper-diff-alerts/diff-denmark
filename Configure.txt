@@ -1,0 +1,126 @@
+Configure - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Configure
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+WR5 2RQ Tlf: +44 1905 361800Fax: +44 1905 361810Mail: enquire@fine-agrochemicals.com','Fine Agrochemicals Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.fine-agrochemicals.com" target="_new"Fine Agrochemicals Ltd.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+20 g/l
+benzyladenin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+544-5
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i prydplanter i lukkede væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Ved håndtering af prydplanter skal der anvendes kemisk bestandige handsker.
+Der må ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak.
+Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Configure, reg.nr. 544-5
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Configure (reg.nr. 544-5) til mindre anvendelse til vækstregulering af prydplanter i væksthus
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-on (BIT) og 2-methyl-4-isothiazolin-3-on (MIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Configure
+Sikkerhedsdatablad
+Configure
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/configure-label-dk.pdf
