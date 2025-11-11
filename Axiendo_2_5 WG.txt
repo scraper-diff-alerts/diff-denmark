@@ -1,0 +1,344 @@
+Axiendo 2,5 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Axiendo 2,5 WG
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Axiendo 2,5WG
+Pakningsstørrelse
+5 kg
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Axiendo 2,5 WG
+Anvendes indenfor
+Frilandsgartneri, Skovbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+460,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+25 g/kg
+lambda-cyhalothrin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,300 kg/ha
+3,33 BI/kg
+(Græs og kløver)
+0,600 kg/ha
+1,67 BI/kg
+(Grøntsager)
+0,600 kg/ha
+1,67 BI/kg
+(Kartofler)
+0,300 kg/ha
+3,33 BI/kg
+(Majs)
+0,600 kg/ha
+1,67 BI/kg
+(Roer)
+0,250 kg/ha
+4,00 BI/kg
+(Vinterraps)
+0,300 kg/ha
+3,33 BI/kg
+(Vintersæd)
+0,300 kg/ha
+3,33 BI/kg
+(Vårraps)
+0,300 kg/ha
+3,33 BI/kg
+(Vårsæd)
+0,300 kg/ha
+3,33 BI/kg
+(Ærter)
+0,250 kg/ha
+4,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,03 kg/ha
+0,199 B/kg
+Miljøadfærd
+35,0 kg/ha
+0,0286 B/kg
+Miljøeffekt
+0,367 kg/ha
+2,73 B/kg
+I alt
+0,339 kg/ha
+2,95 B/kg
+
+Pesticidafgift: 415 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1-252
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af insekter i planteskolekulturer på friland, prydplanter i væksthus samt i skovbrug.
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Farligt for bier - for at beskytte bier og andre bestøvende insekter må dette produkt ikke anvendes i blomstrende afgrøder
+i biernes flyvetid fra kl. 03 til kl. 21.
+SP1 Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i planteskolekulturer ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand.
+Må i skovbrug ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Prydplanter i v&#230;ksthusSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Axiendo 2,5 WG, reg. nr. 1-252
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Axiendo 2,5 WG (reg. nr. 1-252) til mindre anvendelse mod insekter i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Prydplanter i v&#230;ksthusSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Axiendo 2,5 WG, reg. nr. 1-252, under revurdering
+Anvendelse
+Resistensrisiko
+Der er flere rapporter om resistens mod pyretroider. Hvis der er fundet resistens bør
+der skiftes til et andet middel med anden virkemekanisme, og der bør ikke anvendes
+pyretroider mere end tre gange i en sæson.
+Der er mange grunde til dårlig effekt, så som dårlig timing og dårligt sprøjteudstyr
+eller uhensigtsmæssig brug af sprøjten.
+Resistensklasse
+3A
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tankblanding:
+Med vore nuværende kundskaber er Axiendo 2,5 WG fysisk blandbar med de vigtigste
+svampe-, insekt-, ukrudts- og vækstreguleringsmidler samt mikronæringsstoffer af god
+kvalitet.
+Fysisk blandbar indebærer at ingen udfældning sker. Forskellige faktorer såsom
+vandkvalitet, temperatur, vandets hårdhed mm kan indvirke på blandingen. Lav
+derfor altid en prøveblanding først.
+Læs altid respektive præparaters etiket før brug.
+Rengøring
+Se etiketten.
+Opbevaring
+Frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, Goltix SC 700
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Magnesiumsulfat 10% Mg, Mangansulfat 32, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Planteskolekulturer
+Bladbiller, bladlus
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Max. 2 behandlinger pr. år.
+Planteskolekulturer
+Larver af målere, viklere
+0,4 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Max. 2 behandlinger pr. år.
+Prydplanter i væksthus
+Væksthusmellus
+0,2-0,4 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+NB! Dosering 0,02-0,04% i sprøjtevæsken. Max. 5 behandlinger pr. år. Sprøjt til afdrypning. Bemærk! Ved sprøjtning af prydplanter tilrådes det at prøvebehandle et bord før et større areal behandles. Karate er ikke forenelig med biologisk bekæmpelse.
+Skovbrug
+Bladbiller, bladlus, larver af målere, larver af viklere, ædelgranlus
+0,4 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Begrænset effekt mod ædelgranlus. Max. 2 behandlinger. Vandmængde: 200-600 l/ha.
+Ved større træer (over 150-175 cm) skal den maksimale vandmængde bruges for at sikre tilstrækkelig dækning med sprøjtevæske.
+Skovbrug
+Nåletræsnudebiller
+0 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+NB! Dosering 2,0-8,0% i sprøjtevæsken. 1 behandling ved udplantning, samt evt. 1 behandling 2. år efter udplantning.
+Fældet træ
+Barkbiller, vedborer
+0 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Råtræ. NB! Dosering 1,5-4,0% i sprøjtevæsken. 1 behandling.
+Effekt
+Effekt på nyttedyr
+Axiendo 2,5 WG er ikke foreneligt med biologisk bekæmpelse.
+Virkning på efterfølgende afgrøde
+Ingen restriktioner mht. omsåning eller efterfølgende afgrøder.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10
+ºC
+10-20
+ºC
+25
+ºC
+Timers tørvejr
+1
+
+1-2
+
+2
+
+Andet
+Axiendo 2,5 WG er regnfast når sprøjtevæsken er tørret ind på planten.
+Virkemåde
+Axiendo 2,5 WG er et bredtvirkende kontaktmiddel mod insekter. Axiendo 2,5 WG
+virker effektivt ved direkte kontakt mellem aktivstof og insekt. Ligeledes bekæmpes
+insekter der suger eller gnaver af behandlet plantemateriale. Endelig har Axiendo
+2,5 WG en vis afvisende (repellerende) virkning mod nyankomne insekter.
+Eventuelt overlevende skadedyr vil normalt være uden betydning pga. nedsat ædelyst.
+Langtidsvirkning opnås på plantemateriale, som er dækket med sprøjtevæske.
+Insekter der sidder skjult er vanskelige at bekæmpe, da det sprøjteteknisk er svært
+at dække de nedre dele af planten.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H332
+Farlig ved indånding.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Axiendo 2,5 WG
+Sikkerhedsdatablad
+Axiendo 2,5 WG
+Vejledning i Planteværn
+2025
+Side 327 til 332
+VP25s327-332.pdf.pdf--
+Side 327 til 332--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Axiendo_2,5_WG_1-252_Etikette_1kg_20221017.pdf
