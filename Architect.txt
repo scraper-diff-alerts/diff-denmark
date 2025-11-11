@@ -1,0 +1,355 @@
+Architect - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Architect
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1, 5, 10 og 50 l
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Architect
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+294,00 kr/l
+&nbsp()
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+pyraclostrobin
+150 g/l
+mepiquat-chlorid
+(~ 114 g/l
+mepiquat)
+25 g/l
+prohexadion-calcium
+(~ 21,2 g/l
+prohexadion)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,41 l/ha
+0,711 BI/l
+(Vintersæd)
+1,29 l/ha
+0,775 BI/l
+(Vårsæd)
+1,11 l/ha
+0,900 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,04 l/ha
+0,248 B/l
+Miljøadfærd
+10,4 l/ha
+0,0962 B/l
+Miljøeffekt
+4,56 l/ha
+0,219 B/l
+I alt
+1,78 l/ha
+0,563 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+19-244
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering og svampebekæmpelse i raps.
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding og påfyldning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand
+(SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 5 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand for doseringer op til og inklusiv 1 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand for doseringer over 1 L produkt/ha (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+V&#229;rraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Architect (BAS 678 01 F), reg.nr. 19-244
+H&#248;rIndisk sennepOlier&#230;ddikeRybsSort sennepS&#230;d-dodderValmue','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Architecht (19-244) til mindre anvendelse til vækstregulering og svampebekæmpelse i ryps, gul sennep, indisk sennep, sort sennep, almindelig hør, valmue, sæddodder og olieræddike. Se vejledning på etiketten.
+Anvendelse
+Resistensrisiko
+For mange fungicider er der risiko for forekomst af biotyper, der er modstandsdygtige (resistente)
+overfor de anvendte aktivstoffer. Architect indeholder (foruden vækstreguleringsmidler) pyraclostrobin,
+som tilhører gruppen af strobiluriner (FRAC gruppe 11). Strobiluriner er generelt karakteriseret ved at
+have høj risiko for udvikling af resistens hos visse sygdomme. I raps er der dog ikke konstateret nedsat
+følsomhed hos sygdomme mod strobiluriner.
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling
+af resistens, hvorfor det anbefales så vidt det er muligt at, skifte mellem midler med forskellige
+virkemekanismer. Risikoen for resistens hos fungicider kan nedsættes ved sprøjtning tidligt i
+vækstforløbet/(infektionsforløbet).
+Resistensklasse
+11
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Architect kan blandes med andre plantebeskyttelsesmidler. For eventuelle blandings muligheder bør lokal vejledning eller rådgivning følges.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på vaskepladsen. En
+uvasket sprøjte skal placeres i den behandlede mark, på vaskepladsen eller under tag.
+Sprøjten skal være monteret med spuledyser til indvendig rengøring af tanken og med separat vandtank
+med tilstrækkelig kapacitet, således at restsprøjtevæske kan fortyndes, og der kan foretages en grundig
+rengøring i marken. Restsprøjtevæske skal fortyndes mindst 50 gange med vand og udsprøjtes i den
+behandlede mark under kørsel (uden at den maksimalt tilladte dosering for det pågældende middel
+herved overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt. etiketten på det sidst anvendte
+middel for specifikke anvisninger) samtidig med at filtre, slanger og dyser kontrolleres for urenheder og
+eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøministeriets vejledning om påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Agil 100 EC, Focus Ultra, Kaiso Sorbie, Lamdex, Mavrik, Magnesiumsulfat 10% Mg, Mangansulfat (Brenntag), Mangansulfat 32
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Belkar
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Lys bladplet, Phoma, vækstregulering
+1-2 l + 0,375-0,75 kg AmmoniumsulfatAfgrødens stadium 13-20
+Behandling efterår og forår. Maks. 2 behandlinger pr. vækstår.
+1-2 l + 0,375-0,75 kg AmmoniumsulfatAfgrødens stadium 21-59
+Vinterraps
+Lys bladplet, Phoma, vækstregulering
+1-2 l + 0,375-0,75 kg AmmoniumsulfatAfgrødens stadium 13-20
+Behandling kun efterår. Enkeltbehandling.
+Vinterraps
+Lys bladplet, Phoma, vækstregulering
+1 l + 0,375 kg AmmoniumsulfatAfgrødens stadium 13-20
+Behandling kun efterår. Delt behandling. Mindst 14 dage mellem behandlinger. Maks. 2 behandlinger pr. vækstår.
+1 l + 0,375 kg Ammoniumsulfat2. sprøjtning
+Vinterraps
+Lejesæd, lys bladplet, Phoma, vækstregulering
+1-2 l + 0,375-0,75 kg AmmoniumsulfatAfgrødens stadium 21-59
+Behandling kun forår. Enkeltbehandling.
+Vinterraps
+Lejesæd, lys bladplet, Phoma, vækstregulering
+1 l + 0,375 kg AmmoniumsulfatAfgrødens stadium 21-59
+Behandling kun forår. Delt behandling. Mindst 14 dage mellem behandlinger. Maks. 2 behandlinger pr. vækstår.
+1 l + 0,375 kg Ammoniumsulfat2. sprøjtning
+Vårraps
+Lejesæd, lys bladplet, Phoma, vækstregulering
+1-2 l + 0,375-0,75 kg AmmoniumsulfatAfgrødens stadium 21-59
+Enkeltbehandling. Ved dosis over 1 liter pr. ha maks. 1 behandling pr. vækstår.
+Vårraps
+Lejesæd, lys bladplet, Phoma, vækstregulering
+1 l + 0,375 kg AmmoniumsulfatAfgrødens stadium 21-59
+Delt behandling. Mindst 14 dage mellem behandlinger. Maks. 2 behandlinger pr. vækstår.
+1 l + 0,375 kg Ammoniumsulfat2. sprøjtning
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+1
+
+2
+
+2
+
+Lysintensitet
+
+god
+
+Nattefrostrisiko
+
+ingen risiko
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Det anbefales at sprøjte tidligt på dagen, men undgå behandlinger midt på dagen i tilfælde med høj lysintensitet (forårs anvendelse). Ved risiko for nattefrost bør behandling udsættes.
+Virkemåde
+Architect er et systemisk svampe- og vækstreguleringsmiddel i raps. Architect består af 3 aktive
+stoffer: Pyraclostrobin, prohexadione-calcium og mepiquat-chlorid.
+Pyraclostrobin er et svampemiddel der tilhører strobilurin gruppen. Den virker ved at påvirke svampens
+energiproduktion. Pyraclostrobin har effekt mod tørråd (phoma) og mod lys bladplet.
+Prohexadione-calcium og mepiquat-chlorid påvirker dannelsen af gibberelin og dermed internodielængden i planten, således den vegetative vækst nedsættes. Ved at reducere højden af vinterraps i
+efteråret nedsættes risikoen for udvintring og ved at reducere højden om foråret mindskes risikoen for
+lejesæd.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vejrtrækningen lettes. Ring til
+GIFTLINJEN eller en læge i tilfælde af ubehag (P304+P340+P312).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand og sæbe (P302+P352).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+I TILFÆLDE AF INDTAGELSE: Ring til GIFTLINJEN eller en læge i tilfælde af ubehag (P301+P312).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Nødstilfælde: Giftlinjen tlf.: 82121212 (24 timers service), Internationale BASF vagt.: +49 180
+2273-112. Se i øvrigt sikkerhedsdatabladet.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H335
+Kan forårsage irritation af luftvejene.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P103
+Læs etiketten før brug.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P330
+Skyl munden.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Architect
+Sikkerhedsdatablad
+Architect
+Vejledning i Planteværn
+2025
+Side 349 til 350
+VP25s349-350.pdf.pdf--
+Side 349 til 350--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Architect_19-244_Etikette_20240905.pdf
