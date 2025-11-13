@@ -1,0 +1,151 @@
+Diopyr - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Diopyr
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-1050 BruxellesTlf: Fax: Mail: ','ISK Biosciences Products Inc.'); return true;" onmouseout="nd(); return true;" href="Http://www.iskweb.co.jp" target="_new"ISK Biosciences Products Inc.
+Distributør
+B-1050 BruxellesTlf: Fax: Mail: ','ISK Biosciences Products Inc.'); return true;" onmouseout="nd(); return true;" href="Http://www.iskweb.co.jp" target="_new"ISK Biosciences Products Inc.
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+180 g/l
+pyriofenon
+Parallelprodukt, identisk med Property 180 SC
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vintersæd
+0,500 l/ha
+2,00 BI/l
+Vårsæd
+0,500 l/ha
+2,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,86 l/ha
+0,350 B/l
+Miljøadfærd
+5,89 l/ha
+0,170 B/l
+Miljøeffekt
+68,6 l/ha
+0,0146 B/l
+I alt
+1,87 l/ha
+0,534 B/l
+
+Pesticidafgift: 79 kr. pr. l
+Godkendelse
+Registreringsnummer
+352-16
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i korn.
+Behandlingsfrist
+Må i korn ikke anvendes senere end vækststadie BBCH 49.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HvedeRugSpeltTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Diopyr, reg.nr. 352-16
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P201
+Indhent særlige anvisninger før brug.
+P202
+Anvend ikke produktet, før alle advarsler er læst og forstået.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker.
+P281
+Anvend de påkrævede personlige værnemidler.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Diopyr
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Diopyr_352-16_Godkendt_Etikette_20200812.pdf
