@@ -1,0 +1,338 @@
+Trimaxx M - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Trimaxx M
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Distributør
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Firmaets produktside
+Trimaxx M
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+276,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+175 g/l
+trinexapac-ethyl
+(~ 156 g/l
+trinexapac)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,571 l/ha
+1,75 BI/l
+Vintersæd
+0,714 l/ha
+1,40 BI/l
+Vårsæd
+0,571 l/ha
+1,75 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,75 l/ha
+0,573 B/l
+Miljøadfærd
+64,4 l/ha
+0,0155 B/l
+Miljøeffekt
+70,3 l/ha
+0,0142 B/l
+I alt
+1,66 l/ha
+0,603 B/l
+
+Pesticidafgift: 88 kr. pr. l
+Godkendelse
+Registreringsnummer
+347-41
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterrug, vinter- og vårhvede, vinter- og vårbyg, vintertriticale, havre og frøgræs.
+Behandlingsfrist
+Må i rug ikke anvendes senere end vækststadie BBCH 39 før høst.
+Må i hvede, triticale, byg og frøgræs ikke anvendes senere end vækststadie BBCH 49 før høst.
+Må i havre ikke anvendes senere end vækststadie BBCH 34 før høst.
+Behandlede afgrøder, undtagen frøgræs, må bruges til foder.
+Behandlet frøgræs må ikke bruges til foder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Behandlede afgrøder, undtagen frøgræs, må bruges til foder.
+Behandlet frøgræs må ikke bruges til foder.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+De angivne doseringer af trinexapac må ikke overskrides. Hvis der i samme vækstsæson anvendes andre produkter indeholdende trinexapac, skal doseringerne omregnes forholdsmæssigt ud fra produkternes respektive maksimale doser (N) i den pågældende afgrøde. Se regneeksempel på etiketten.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb og søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 1 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HavreRugTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Trimaxx M, reg.nr: 347-41 - udvidet godkendelse
+Anvendelse
+Resistensrisiko
+Ikke relevant.
+Resistensklasse
+Ingen oplysninger
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tankblanding:
+Alle de under blandinger nævnte produkter kan anvendes i tankblanding med Trimaxx M under forudsætning af at brugstidspunktet for begge produkter er sammenfaldende.
+Uanset hvilken blandingspartner der anvendes er det vigtigt, at begge etiketteforskrifter omkring sprøjtefrister m.m. overholdes. Bland aldrig Trimaxx M med
+mere end ét produkt inklusiv spredemidler.
+Rengøring
+Rengøring af sprøjte: Husk at tømme sprøjten helt mellem hver skylning/vask, aktivèr alle haner/ ventiler, hæv trykket så meget,
+at overtryksventilen fra det selvrensende filter udløses.
+1. Sprøjten tømmes helt for sprøjtevæske i marken. Restsprøjtevæsken fortyndes med mindst 50 gange og udsprøjtes på det
+behandlede areal under kørsel. Den maksimalt tilladte dosering må ikke overskrides på markniveau.
+2. Straks efter sprøjtning skylles sprøjten grundigt med rent vand - både indvendigt og udvendigt. Tøm tanken ved at sprøjte
+skyllevandet ud gemmen bom/dyser. Skyllevandet kan sprøjtes ud over den afgrøde, der lige er behandlet.
+3. Fyld tanken med 10-15 % af tankkapaciteten (100-150 l/1000 l tank) og tilsæt 0,5 l ALL CLEAR Extra pr. 100 l vand. Lad omrøringen
+og tankspuledyse køre i mindst 15 minutter, inden indholdet tømmes ud gennem bom/dyser. Vaskevandet kan sprøjtes
+udover den afgrøde, der lige er behandlet.
+4. Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml ALL CLEAR EXTRA pr. 10 liter vand. Dyser, filtre og sier monteres
+igen.
+5. Sprøjten fyldes igen med 10-15 % af tankkapaciteten. Lad omrøringen og tankspuledyse køre i mindst 15 minutter, inden
+indholdet tømmes ud gennem bom/dyser over et egnet areal.
+Vask af marksprøjter og traktor, der har været anvendt til udbringning, skal ske på en vaskeplads med opsamling til gyllebeholder
+eller anden beholder, eller på det areal hvor Trimaxx M er blevet udbragt. Et areal der anvendes til vask må kun benyttes én
+gang inden for en vækstsæson.
+Uvasket sprøjteudstyr eller traktor skal placeres på behandlet areal, vaskeplads med opsamling til gyllebeholder eller anden
+beholder, eller under tag.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler,
+jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Trimaxx M bør opbevares frostfrit i uåbnet og ubeskadiget original emballage beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Accurate Max, Ally 20 SX, Amistar, Balaya, CCC 750, Comet Pro, Cycocel 750, Entargo, Express 50 SX, Fighter 480, Flurostar 180, Harmony 50 SX, Harmony Plus 50 SX, Juventus 90, Kaiso Sorbie, Lamdex, Lenvyor, Metaxon, Nicanor SG, Nuance Max 75 WG, Primus, Saracen M, Stabilan Extra, Starane 333 HL, Tomahawk 200 EC, Trece 750, Trimmer SG, U46 M
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Evure Neo, Himalaya Pro, Input EC 460, Mavrik, Mirador 250 SC, Pixxaro EC, Primus 250 WG, Proline EC 250, Proline Xpert EC 240, Starane XL, Topik EC, Zypar, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+ATR Floclopy, Broadway, Foxtrot, Primera Super, Rexade 440, Tombo
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug
+Lejesæd
+0,3-0,4 lAfgrødens stadium 30-39
+Rug er den kornafgrøde der lettest går i leje, hvorfor vækstregulering ofte er nødvendig. Højeste dosis anvendes i blødstråede sorter og ved stor risiko for lejesæd. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Vinterhvede
+Lejesæd
+0,3-0,5 lAfgrødens stadium 30-49
+Højeste dosis anvendes i blødstråede sorter. I år med øget risko for lejesæd kan det være påkrævet at hæve doseringen til 0,5 l/ha. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Vårhvede
+Lejesæd
+0,3-0,5 lAfgrødens stadium 30-49
+Højeste dosis anvendes i blødstråede sorter. I år med øget risko for lejesæd kan det være påkrævet at hæve doseringen til 0,5 l/ha. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Triticale
+Lejesæd
+0,3-0,5 lAfgrødens stadium 30-49
+Højeste dosis anvendes i blødstråede sorter og ved stor risiko for lejesæd. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Vinterbyg
+Lejesæd
+0,2-0,5 lAfgrødens stadium 30-49
+Højeste dosis anvendes i blødstråede sorter. I år med øget risiko for lejesæd kan det være påkrævet at hæve doseringen til 0,5 L/ha. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Vårbyg
+Lejesæd
+0,2-0,4 lAfgrødens stadium 30-49
+Højeste dosis anvendes i blødstråede sorter. Der bør aldrig sprøjtes på tørkestressede planter. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Havre
+Lejesæd
+0,2-0,4 lAfgrødens stadium 30-34
+Højeste dosis anvendes i blødstråede sorter. Der bør aldrig sprøjtes på tørkestressede planter. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Frøgræs
+Lejesæd
+0,4-0,8 lAfgrødens stadium 30-49
+Vækstregulering foretages fra beg. strækningsvækst ca. 25. april, når 1 knæ er synligt. Der anvendes 0,8 L/ha under de fleste forhold fra slutning af april. Enkelt- eller splitbehandling. Ved splitbehandling maksimum 2 behandlinger med minimum 7 dages interval.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen restriktioner.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+8
+ºC
+10
+ºC
+
+Timers tørvejr
+1
+
+2
+
+Nattefrostrisiko
+
+ingen betydning
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Aktiviteten af Trimaxx M stiger med stigende lysintensitet.
+Virkemåde
+Trimaxx M er et vækstreguleringsmiddel til anvendelse i alle kornarter, både vinter- og vårsæd samt frøgræs. Trimaxx M modvirker lejesæd samtidig med, at der opnås en mere ensartet modning. Midlet optages gennem bladene og transporteres systemisk til de voksende skud, hvor aktivstoffet hæmmer stråets strækningsvækst. Det resulterer i et kortere og stærkere strå.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt:
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning. (P305 + P351 + P338).
+Ved vedvarende øjenirritation: Søg lægehjælp (P337+P313).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Trimaxx M
+Sikkerhedsdatablad
+Trimaxx M
+Vejledning i Planteværn
+2025
+Side 461 til 469
+VP25s461-469.pdf.pdf--
+Side 461 til 469--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Trimaxx_M_347-41_Godkendt_Etikette_20240503.pdf
