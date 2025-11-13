@@ -1,0 +1,162 @@
+Menno Florades - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Menno Florades
+Desinfektionsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-22850 NorderstedtTlf: +49 40 52906670Fax: +49 40 529066766Mail: info@menno.de','Menno Chemie Vertrieb GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.menno.de" target="_new"Menno Chemie Vertrieb GmbH
+Distributør
+D-22850 NorderstedtTlf: +49 40 52906670Fax: +49 40 529066766Mail: info@menno.de','Menno Chemie Vertrieb GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.menno.de" target="_new"Menno Chemie Vertrieb GmbH
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+90 g/l
+benzoesyre
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,834 l/ha
+1,20 B/l
+Miljøadfærd
+2.778 l/ha
+0,0004 B/l
+Miljøeffekt
+862 l/ha
+0,0012 B/l
+I alt
+0,833 l/ha
+1,20 B/l
+
+Pesticidafgift: 170 kr. pr. l
+Godkendelse
+Registreringsnummer
+908-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til indendørs desinfektion af bygninger, åbne og lukkede væksthuse, lagerrum, borde, udstyr, værktøj og opbevaringskasser anvendt i jordbrugserhvervet ifm. produktion og opbevaring af afgrøder mod bakterier, virus og svampesygdomme.
+Behandlingsfrist
+Ingen oplysninger
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Efter desinfektion skal bygninger, væksthuse eller lagerrum være afspærret mindst 8 timer. Personale må først gå ind, når
+friskluftsventilation har kørt i minimum 30 minutter. Personale må først udføre arbejdsopgaver i bygninger, væksthuse eller
+lagerrum, når de behandlede overflader eller udstyr er tørret. Brugere skal anvende kemisk bestandige handsker ved blanding
+og håndtering af produktet. Brugere må maksimalt håndtere produktet 4 timer om dagen. Undgå forurening af vandmiljøet med
+produktet eller med beholdere, der har indeholdt produktet (SP1). Må ikke tømmes i kloakafløb. Afledning af spildevand med
+rester af midlet skal ske i henhold til de kommunale spildevandsregler. Holdes væk fra varme, varme overflader, gnister, åben
+ild og andre antændelseskilder. Rygning forbudt (P210). Opbevares under lås og utilgængeligt for børn (P405+P102).
+Midlet må kun opbevares i originalemballagen. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+MENNO Florades (VP-LF/5), reg.nr. 908-3.
+Sikkerhed
+Fareklasse
+GHS02
+Brandfarlig
+
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H225
+Meget brandfarlig væske og damp.
+H318
+Forårsager alvorlig øjenskade.
+H336
+Kan forårsage sløvhed eller svimmelhed.
+H361d
+Mistænkt for at skade det ufødte barn.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P210
+Holdes væk fra varme/gnister/åben ild/varme overflader. Rygning forbudt.
+P260
+Indånd ikke damp.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P303+P361+P353
+VED KONTAKT MED HUDEN (eller håret): Tilsmudset tøj tages straks af/fjernes. Skyl/brus huden med vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P370+P378a
+Ved brand: Anvend pulver, skum eller CO2 til brandslukning
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1987
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Menno Florades
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Menno_Florades_908-3_Godkendt_Etikette_20240904.pdf
