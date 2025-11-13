@@ -1,0 +1,162 @@
+LFS Propamocarb + Fosetyl-Al - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Propamocarb + Fosetyl-Al
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+530 g/l
+propamocarb
+310 g/l
+fosetyl-Al
+(~ 96,3 g/l
+fosetyl
+Parallelprodukt, identisk med Previcur Energy
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Grøntsager
+1,06 l/ha
+0,939 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+4,50 l/ha
+0,222 B/l
+Miljøeffekt
+19,1 l/ha
+0,0522 B/l
+I alt
+1,38 l/ha
+0,723 B/l
+
+Pesticidafgift: 119 kr. pr. l
+Godkendelse
+Registreringsnummer
+318-188
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i salat på friland og i væksthus, småplanter af hovedkål, blomsterkål og rosenkål samt tomat og agurk dyrket i stenuld eller i jord.
+Behandlingsfrist
+Må i tomater og agurker ikke anvendes senere end 3 dage før høst.
+Må i salat ikke anvendes senere end 21 dage før høst.
+Der er ikke sat behandlingsfrist for hovedkål, blomsterkål og rosenkål.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Må i tomater og agurker ikke anvendes senere end 3 dage før høst.
+Må i salat ikke anvendes senere end 21 dage før høst.
+Må i salat på friland efter vækststadie (BBCH) 40 ikke udbringes i en vandmængde under 1000 L/Ha for at beskytte fugle (SPe3).
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P102+P405).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet, vandløb, søer m.v. for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Blomsterk&#229;l i v&#230;ksthusHovedk&#229;l i v&#230;ksthusRosenk&#229;l i v&#230;ksthusSalat i v&#230;ksthusSalat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Propamocarb + Fosetyl-Al, reg.nr. 318-188
+Blomsterk&#229;l i v&#230;ksthusHovedk&#229;l i v&#230;ksthusRosenk&#229;l i v&#230;ksthusSalat i v&#230;ksthusSalat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Propamocarb + Fosetyl-Al, reg.nr. 318-188, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H361d
+Mistænkt for at skade det ufødte barn.
+H413
+Kan forårsage langvarige skadelige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102+P405
+Opbevares under lås og utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Propamocarb + Fosetyl-Al
+Sikkerhedsdatablad
+LFS Propamocarb + Fosetyl-Al
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Propamocarb_Fosetyl-Al_318-188_Godkendt_Etikette_20160610.pdf
