@@ -1,0 +1,159 @@
+LFS Prothioconazol - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Prothioconazol
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+250 g/l
+prothioconazol
+Parallelprodukt, identisk med Proline EC 250
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,800 l/ha
+1,25 BI/l
+(Kartofler)
+0,450 l/ha
+2,22 BI/l
+(Majs)
+0,700 l/ha
+1,43 BI/l
+(Roer)
+0,800 l/ha
+1,25 BI/l
+(Vinterraps)
+0,700 l/ha
+1,43 BI/l
+Vintersæd
+0,800 l/ha
+1,25 BI/l
+Vårsæd
+0,800 l/ha
+1,25 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,36 l/ha
+0,425 B/l
+Miljøadfærd
+59,7 l/ha
+0,0168 B/l
+Miljøeffekt
+46,0 l/ha
+0,0218 B/l
+I alt
+2,16 l/ha
+0,463 B/l
+
+Pesticidafgift: 70 kr. pr. l
+Godkendelse
+Registreringsnummer
+318-108
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i korn.
+Behandlingsfrist
+Må ikke anvendes senere end 35 dage før høst. Må maksimalt anvendes 2 gange pr. sæson.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb og søer m.v.).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HavreHvedeRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Prothioconazol, reg.nr. 318-108
+HavreHvedeRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Prothioconazol, reg.nr. 318-108, under revurdering
+Sikkerhed
+Fareklasse
+Xi
+Lokalirriterende
+
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R43
+Kan give overfølsomhed ved kontakt med huden.
+R50/53
+Meget giftig for organismer, der lever i vand; kan forårsage uønskede langtidsvirkninger i vandmiljøet.
+Bemærk(R61)
+Der dannes et nedbrydningsprodukt (desthio-prothioconazol) af produktet som er fosterskadende (R61: Kan skade barnet under graviditeten)
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+S24
+Undgå kontakt med huden.
+S28
+Kommer stoffet på huden vaskes straks med store mængder vand.
+S29
+Må ikke kommes i kloakafløb.
+Transport
+UN-nr.
+3082
+RID_ADR
+Kl. 9 III
+IMDG
+Kl. 9 III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Prothioconazol
+Sikkerhedsdatablad
+LFS Prothioconazol
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Prothioconazol_318-108_Etikette_20120802.pdf
