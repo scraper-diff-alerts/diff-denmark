@@ -1,0 +1,164 @@
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+300 g/kg
+foramsulfuron
+10 g/kg
+iodosulfuron-methyl-Na
+(~ 9,32 g/kg
+iodosulfuron
+300 g/kg
+isoxadifen-ethyl
+(~ 272 g/kg
+isoxadifen
+Parallelprodukt, identisk med MaisTer
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Majs
+150 g/ha
+0,0067 BI/g
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+15.152 g/ha
+0,0001 B/g
+Miljøadfærd
+31.027 g/ha
+0,0000 B/g
+Miljøeffekt
+1.891 g/ha
+0,0005 B/g
+I alt
+1.595 g/ha
+0,0006 B/g
+
+Pesticidafgift: 0,094 kr. pr. g
+Godkendelse
+Registreringsnummer
+318-93
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i fodermajs.
+Behandlingsfrist
+Må ikke anvendes senere end 75 dage før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med
+produktet eller med beholdere, der har
+indeholdt produktet. Rens ikke
+sprøjteudstyr nær overfladevand (Sp1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (Spe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen, reg.nr. 318-93
+Kirseb&#230;rP&#230;rer&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af LFS Foramsulfuron+Iodosulfuron+Isoxadifen (318-93) til mindre anvendelse mod ukrudt i æble, pære, blomme og kirsebær
+Under revurdering
+
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen, reg.nr. 318-93, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen
+Sikkerhedsdatablad
+LFS Foramsulfuron+Iodosulfuron+Isoxadifen
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Foramsulfuron_Iodosulfuron_Isoxadifen_318-93_Godkendt_Etikette_20161024.pdf
