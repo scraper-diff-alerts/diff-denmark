@@ -1,0 +1,174 @@
+Lenvyor - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Lenvyor
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+100 g/l
+mefentrifluconazol
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Vinterraps)
+1,50 l/ha
+0,667 BI/l
+Vintersæd
+1,50 l/ha
+0,667 BI/l
+Vårsæd
+1,50 l/ha
+0,667 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,61 l/ha
+0,623 B/l
+Miljøadfærd
+6,94 l/ha
+0,144 B/l
+Miljøeffekt
+44,8 l/ha
+0,0223 B/l
+I alt
+1,27 l/ha
+0,789 B/l
+
+Pesticidafgift: 113 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-01-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+19-237
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i korn.
+Behandlingsfrist
+Må ikke anvendes senere end 35 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding og påfyldning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningen angivne maksimale doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder tebuconazol, difenoconazol eller mefentrifuconazol med mindre doseringerne nedsættes tilsvarende. Hvis der anvendes flere produkter med disse stoffer skal doseringerne beregnes forholdsmæssigt ud fra aktivstoffernes respektive maksimale doser i de pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne (SPe1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 5 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Lenvyor (BAS 750 01 F), reg.nr. 19-237
+Afmeldt / registrering trukket
+
+Lenvyor (BAS 750 01 F), reg.nr. 19-237, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Lenvyor (BAS 750 01 F), reg.nr. 19-237, anvendelses- og besiddelsesforbud
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H332
+Farlig ved indånding.
+H335
+Kan forårsage irritation af luftvejene.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af pulver/røg/gas/tåge/damp/spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Lenvyor
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Lenvyor_19-237_Godkendt_Etikette_20230904.pdf
