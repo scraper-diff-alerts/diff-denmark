@@ -1,0 +1,213 @@
+LFS Pirimicarb - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Pirimicarb
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+pirimicarb
+Parallelprodukt, identisk med Pirimor G
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,500 kg/ha
+2,00 BI/kg
+Grøntsager
+0,500 kg/ha
+2,00 BI/kg
+(Kartofler)
+0,300 kg/ha
+3,33 BI/kg
+Roer
+0,300 kg/ha
+3,33 BI/kg
+Vintersæd
+0,250 kg/ha
+4,00 BI/kg
+Vårsæd
+0,250 kg/ha
+4,00 BI/kg
+Ærter
+0,250 kg/ha
+4,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,77 kg/ha
+0,565 B/kg
+Miljøadfærd
+1,88 kg/ha
+0,533 B/kg
+Miljøeffekt
+0,502 kg/ha
+1,99 B/kg
+I alt
+0,324 kg/ha
+3,09 B/kg
+
+Pesticidafgift: 443 kr. pr. kg
+Godkendelse
+Registreringsnummer
+318-81
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af bladlus i visse afgrøder i landbrug, gartneri, frugtavl og planteskoler.
+Behandlingsfrist
+Udendørs:
+Må i vinter- og vårhvede, vinter- og vårbyg, rug, triticale og havre ikke anvendes senere end 30 dage før høst.
+Må i raps, sennep og blommer ikke anvendes senere end 14 dage før høst.
+Må i æbler, pærer, kirsebær, gulerødder, persillerod, pastinak, peberrod, salat og rucola, krydderurter, sukker- og foderroer, kål- og majroer, rødbeder og spinat ikke anvendes senere end 7 dage før høst.
+Må i jordbær, ribs, stikkelsbær, solbær, blåbær, hyldebær, brombær, hindbær, ærter og bønner med og uden bælg, hestebønner og tørrede ærter, grønkål, kinakål, blomkål, broccoli, rød- og hvidkål, savojkål og rosenkål ikke anvendes senere end 3 dage før høst.
+I væksthus:
+Må i salat, rucola og krydderurter ikke anvendes senere end 7 dage før høst.
+Må i jordbær, aubergine, pepino, tomat, peberfrugt, melon, agurk, drueagurk, squash og courgetter ikke anvendes senere end 3 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i markafgrøder, prydplanter på friland og planteskolekulturer (SPe3).
+Må ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i bærbuske (SPe3).
+Må ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i frugttræer (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i v&#230;ksthusBladgr&#248;ntBlomk&#229;lBlommerBl&#229;b&#230;rBredbladet endivieBroccoliBromb&#230;rB&#248;nner med b&#230;lgB&#248;nner uden b&#230;lgCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusFodersukkerroerGr&#248;nk&#229;lGuler&#248;dderHavreHesteb&#248;nnerHindb&#230;rHvidk&#229;lHyldeb&#230;rJordb&#230;rKarseKinak&#229;lKirseb&#230;rKrydderurterK&#229;lroerMajroeMelon i v&#230;ksthusPastinakPeberrodPepino i v&#230;ksthusPlanteskolekulturerPrydplanter i v&#230;ksthusP&#230;rerRapsRibsRodpersilleRosenk&#229;lRucolaRugR&#248;dbederR&#248;dk&#229;lSalat p&#229; frilandSavoyk&#229;lSennepSolb&#230;rSpinatSquash (zucchini) i v&#230;ksthusStikkelsb&#230;rSukkerroerTomater i v&#230;ksthusTriticaleVandmelon i v&#230;ksthusVinterbygVinterhvedeV&#229;rbygV&#229;rhvedeV&#229;rsalat p&#229; friland&#198;bler&#198;rter&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Pirimicarb, reg.nr. 318-81
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af LFS Pirimicarb (318-81) til mindre anvendelse mod bladlus i sukkermajs
+Aubergine i &#229;bne v&#230;ksthuseCourgetter i &#229;bne v&#230;ksthuseDrueagurk i &#229;bne v&#230;ksthuseKrydderurter i &#229;bne v&#230;ksthuseMelon i &#229;bne v&#230;ksthusePeberfrugt i &#229;bne v&#230;ksthusePepino i &#229;bne v&#230;ksthuseRucola i &#229;bne v&#230;ksthuseSalat i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af LFS Pirimicarb (381-81) til mindre anvendelse mod bladlus i agurk, drueagurk, courgette, melon, peberfrugt, tomat, aubergine, pepino, salat, rucola og krydderurter i åbne væksthuse
+Jordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; tabletop p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af LFS Pirimicarb (reg.nr. 318-81) til mindre anvendelse til insektbekæmpelse i jordbær dyrket i render i åbne væksthuse samt på tabletop på friland eller i tunneller
+på friland.
+Aubergine i v&#230;ksthusBladgr&#248;ntBlomk&#229;lBredbladet endivieBroccoliBromb&#230;rB&#248;nner med b&#230;lgB&#248;nner uden b&#230;lgCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusFodersukkerroerGr&#248;nk&#229;lHavreHesteb&#248;nnerHindb&#230;rHvidk&#229;lHyldeb&#230;rJordb&#230;rKinak&#229;lKrydderurterK&#229;lroerMajroeMelon i v&#230;ksthusPepino i v&#230;ksthusPlanteskolekulturerPrydplanter i v&#230;ksthusRibsRosenk&#229;lRugR&#248;dbederR&#248;dk&#229;lSalat p&#229; frilandSavoyk&#229;lSolb&#230;rSquash (zucchini) i v&#230;ksthusStikkelsb&#230;rSukkerroerTomater i v&#230;ksthusTriticaleVandmelon i v&#230;ksthusVinterbygVinterhvedeV&#229;rbygV&#229;rsalat p&#229; friland&#198;rter&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Pirimicarb, reg.nr. 318-81, under revurdering
+Sikkerhed
+Fareklasse
+GHS06
+Giftig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H301
+Giftig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H332
+Farlig ved indånding.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P260
+Indånd ikke spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P310+P330
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Skyl munden.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+2757
+RID_ADR
+6.1 73(c)
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Pirimicarb
+Sikkerhedsdatablad
+LFS Pirimicarb
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Pirimicarb_318-81_Godkendt_Etikette_20160810.pdf
