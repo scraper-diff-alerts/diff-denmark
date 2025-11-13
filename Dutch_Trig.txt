@@ -1,0 +1,105 @@
+Dutch Trig - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Dutch Trig
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-7333 PJ ApeldoornTlf: +31 55 599 94 44Fax: Mail: bomendienst@btl.nl','idverde Bomendienst B.V. (tidligere BTL Bomendienst B.V.)'); return true;" onmouseout="nd(); return true;" href="Http://dutchtrig.com/" target="_new"idverde Bomendienst B.V. (tidligere BTL Bomendienst B.V.)
+Distributør
+NL-7333 PJ ApeldoornTlf: +31 55 599 94 44Fax: Mail: bomendienst@btl.nl','idverde Bomendienst B.V. (tidligere BTL Bomendienst B.V.)'); return true;" onmouseout="nd(); return true;" href="Http://dutchtrig.com/" target="_new"idverde Bomendienst B.V. (tidligere BTL Bomendienst B.V.)
+Anvendes indenfor
+Frilandsgartneri, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt, men kræver ingen gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+10000000 CFU/ml
+Verticillium albo-atrum strain WCS850
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Ingen
+Godkendelse
+Registreringsnummer
+863-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til forebyggelse af elmesyge (Ophiostoma spp.) i elmetræer (Ulmus spp.).
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Dutch Trig, reg.nr. 863-1
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder xxxxxx. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Dutch Trig
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Dutch_Trig_863-1_Godkendt_Etikette_20210602.pdf
