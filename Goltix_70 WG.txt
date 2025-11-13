@@ -1,0 +1,150 @@
+Goltix 70 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Goltix 70 WG
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+260,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+700 g/kg
+metamitron
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Roer
+3,00 kg/ha
+0,333 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20,2 kg/ha
+0,0495 B/kg
+Miljøadfærd
+2,86 kg/ha
+0,350 B/kg
+Miljøeffekt
+16,6 kg/ha
+0,0602 B/kg
+I alt
+2,18 kg/ha
+0,460 B/kg
+
+Pesticidafgift: 79 kr. pr. kg
+Godkendelse
+Registreringsnummer
+396-69
+Miljøstyrelsens godkendelse
+Må kun anvendes til anvendes til bekæmpelse af frøukrudt i bederoer, rødbeder og jordbær.
+Behandlingsfrist
+Må i bederoer og rødbeder ikke anvendes senere end vækststadium 18. Behandling højst hver tredje år på samme mark.
+Må i jordbær kun anvendes før blomstring eller efter høst. Behandling højst hver tredje år på samme mark.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Ved inspektion af afgrøder efter behandling skal der anvendes kemisk bestandige handsker.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Jordb&#230;rR&#248;dbeder','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Goltix 70 WG, reg.nr. 396-69
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Goltix 70 WG (396-69) til mindre anvendelse mod ukrudt i planteskolekulturer og prydplanter på friland
+Jordb&#230;rR&#248;dbeder','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Goltix 70 WG, reg.nr. 396-69, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Goltix 70 WG
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Goltix_70_WG_396-69_Godkendt_Etikette_20170327.pdf
