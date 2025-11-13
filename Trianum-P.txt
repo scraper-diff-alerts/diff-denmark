@@ -1,0 +1,128 @@
+Trianum-P - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Trianum-P
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-2651 BE Berkel en Rodenr?sTlf: Fax: Mail: ','Koppert B.V.'); return true;" onmouseout="nd(); return true;"Koppert B.V.
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Frilandsgartneri, Golfbaner, idrætsanlæg mv., Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+150000000000 CFU/kg
+Trichoderma harzianum T-22
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+0,0000 kg/ha
+0,0000 B/kg
+
+Pesticidafgift: 0 kr. pr. kg
+Godkendelse
+Registreringsnummer
+677-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i grøntsager og prydplanter i åbne og lukkede væksthuse, i gulerødder og salat på friland samt i etablerede græsarealer.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller
+med beholdere, der har indeholdt produktet. Opbevares
+utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer
+og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#230;sGr&#248;nsager i lukket v&#230;ksthusGr&#248;nsager i &#229;bne v&#230;ksthuseGuler&#248;dderPrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseSalat p&#229; frilandSportsanl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Trianum-P, reg.nr. 677-3, opdatering vedr. åbne og lukkede væksthuse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder Trichoderma harzianum T-22; kan udløse en allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Trianum-P
+Sikkerhedsdatablad
+Trianum-P
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Trianum_P_677-3_Godkendt_Etikette_500g_20231013.pdf
