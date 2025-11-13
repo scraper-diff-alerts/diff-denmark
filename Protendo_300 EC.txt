@@ -1,0 +1,320 @@
+Protendo 300 EC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Protendo 300 EC
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 og 10 l
+Registreringsindehaver
+B-3803 Sint TruidenTlf: +32 11 78 57 17Fax: +32 11 68 15 65Mail: globachem@globachem.com','Globachem NV'); return true;" onmouseout="nd(); return true;" href="Http://www.globachem.com" target="_new"Globachem NV
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+300 g/l
+prothioconazol
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,667 l/ha
+1,50 BI/l
+(Kartofler)
+0,375 l/ha
+2,67 BI/l
+(Majs)
+0,583 l/ha
+1,71 BI/l
+(Roer)
+0,667 l/ha
+1,50 BI/l
+Vinterraps
+0,583 l/ha
+1,71 BI/l
+Vintersæd
+0,667 l/ha
+1,50 BI/l
+Vårsæd
+0,667 l/ha
+1,50 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+48,7 l/ha
+0,0205 B/l
+Miljøeffekt
+37,3 l/ha
+0,0268 B/l
+I alt
+2,02 l/ha
+0,496 B/l
+
+Pesticidafgift: 76 kr. pr. l
+Godkendelse
+Registreringsnummer
+613-26
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i korn, raps og rybs.
+Behandlingsfrist
+Må i raps og rybs ikke anvendes senere end 56 dage før høst.
+Må i korn ikke anvendes senere end 35 dage før høst.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Skal opbevares i lystæt beholder.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må i korn ikke anvendes nærmere end 5 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Må i raps og rybs ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+RapsRybsVinters&#230;dV&#229;rs&#230;d','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Vedrørende zonegodkendelse af Protendo 300 EC (Prothioconazole 300 EC), reg.nr. 613-26
+Anvendelse
+Resistensrisiko
+Prothioconazol tilhører gruppen DMI-fungicider (FRAC kode 3). Der er medium risiko for dannelse af resistens. Der er dog fundet udbredt resistens hos
+septoria overfor prothioconazol.
+For at mindske risikoen for udvikling af resistens anbefales det at blande med eller skifte mellem midler med andre virkemekanismer, som har god effekt over
+for skadegøreren.
+Resistensklasse
+3
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblanding:
+Protendo 300 EC kan blandes med produkter med
+en anden virkemekanisme af resistensforebyggende
+hensyn og for at opnå bredere svampeeffekt. Ved
+tankblanding følges anvisningerne for hvert produkt.
+Opblanding:
+1) Fyld tanken halvt med vand og start omrøring.
+2) Tilsæt Protendo 300 EC via
+præparatfyldeudstyret.
+3) Fyld op med den resterende vandmængde og
+tilsæt eventuel blandingspartner under vejs.
+Udsprøjtes straks. Hold omrøringen i gang under
+udsprøjtningen. Påfyldning skal ske i marken eller på
+plads med opsamling.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor
+rengøres enten i marken eller på vaskepladsen.
+Rengøring af sprøjten foretages både udvendigt og
+indvendigt. Restsprøjtevæske skal på passende vis
+fortyndes mindst 50 gange med vand og udsprøjtes
+i den behandlede mark under kørsel (uden at den
+maksimalt tilladte dosering for det pågældende
+middel herved overskrides).
+Husk omrøring og aktivering af alle ventiler, så
+alle indvendige dele af sprøjten bliver rene. Husk
+gennemskylning af kemikaliepåfyld og alle øvrige
+dele af systemet. Vaskevandet opsamles i egnede
+beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøstyrelsens vejledning
+angående påfyldning og vask m.v. af sprøjter til
+udbringning af plantebeskyttelsesmidler, jf. senest
+gældende bekendtgørelse om påfyldning og vask m.v.
+af sprøjter til udbringning af plantebeskyttelsesmidler.
+Opbevaring
+Opbevares tørt og køligt, men frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Durumhvede, Havre, Rug, Triticale, Vinterbyg, Vinterhvede, Vårbyg, Vårhvede
+Svampesygdomme
+0,33-0,65 lAfgrødens stadium 30-69
+Maks. 2 behandlinger pr. sæson, mindst 14 dage mellem gentagne behandlinger.
+Vinterraps, Vinterrybs, Vårraps, Vårrybs
+Svampesygdomme
+0,3-0,6 lAfgrødens stadium 61-69
+Maks. 1 behandling pr. sæson.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+1
+
+2
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Optimal virkning opnås ved behandling på ustressede planter i god vækst.
+Virkemåde
+Protendo 300 EC er et systemisk svampemiddel
+som beskytter kornafgrøder, raps og rybs mod en lang
+række svampesygdomme. Protendo 300 EC virker
+både præventivt og helbredende men virker bedst
+ved forebyggende behandling.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Førstehjælp generelt:
+Giv aldrig noget gennem munden til en bevidstløs person. Hvis du føler dig utilpas, søg læge (vis etiketten, hvis det er muligt).
+Førstehjælp efter indånding:
+Lad den berørte person indånde frisk luft. Lad offeret hvile.
+Førstehjælpsforanstaltninger efter hudkontakt:
+Vask med rigeligt vand. Vask forurenet tøj før genbrug. Hvis der opstår hudirritation: Søg lægehjælp. Specifik behandling (se supplerende førstehjælpsinstruktioner på denne etiket).
+Førstehjælp efter øjenkontakt:
+Skyl forsigtigt med vand i flere minutter. Fjern kontaktlinser, hvis de er til stede og let at gøre. Fortsæt med at skylle. Ring omgående til en GIFTINFORMATION/læge.
+Førstehjælp efter indtagelse:
+Skyl munden. Fremkald IKKE opkastning. Få akut lægehjælp. Ring til en GIFTINFORMATION/læge, hvis du føler dig utilpas.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H315
+Forårsager hudirritation.
+H318
+Forårsager alvorlig øjenskade.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P332+P313
+Ved hudirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Protendo 300 EC
+Sikkerhedsdatablad
+Protendo 300 EC
+Vejledning i Planteværn
+Ingen oplysninger
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Protendo_300_EC_613-26_Godkendt_Etikette_20250623.pdf
