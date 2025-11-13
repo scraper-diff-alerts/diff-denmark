@@ -1,0 +1,143 @@
+LFS Fosetyl WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Fosetyl WG
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+800 g/kg
+fosetyl-Al
+(~ 249 g/kg
+fosetyl
+Parallelprodukt, identisk med Aliette WG 80
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Grøntsager
+1,00 kg/ha
+0,999 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20,0 kg/ha
+0,0500 B/kg
+Miljøadfærd
+139 kg/ha
+0,0072 B/kg
+Miljøeffekt
+69,4 kg/ha
+0,0144 B/kg
+I alt
+14,0 kg/ha
+0,0716 B/kg
+
+Pesticidafgift: 27 kr. pr. kg
+Godkendelse
+Registreringsnummer
+318-190
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i jordbær, agurk, asier, squash, græskar og melon på friland og i væksthus, salat på friland samt prydplanter og planteskolekulturer på friland og i væksthus.
+Behandlingsfrist
+Må i jordbær ikke anvendes senere end 14 dage før høst.
+Må i agurk, asie, squash, græskar og melon ikke anvendes senere end 3 dage før høst.
+Må i salat ikke anvendes senere end 14 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk p&#229; frilandAsier i v&#230;ksthusAsier p&#229; frilandBlomsterkulturerGr&#230;skar i v&#230;ksthusGr&#230;skar p&#229; frilandJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandMelon i v&#230;ksthusMelon p&#229; frilandPlanteskolekulturer i v&#230;ksthusPlanteskolekulturer p&#229; frilandPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandSalat p&#229; frilandSquash (zucchini) i v&#230;ksthusSquash (zucchini) p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Fosetyl WG, reg.nr. 318-190
+Agurk p&#229; frilandAsier i v&#230;ksthusAsier p&#229; frilandBlomsterkulturerGr&#230;skar i v&#230;ksthusGr&#230;skar p&#229; frilandJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandMelon i v&#230;ksthusMelon p&#229; frilandPlanteskolekulturer i v&#230;ksthusPlanteskolekulturer p&#229; frilandPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandSalat p&#229; frilandSquash (zucchini) i v&#230;ksthusSquash (zucchini) p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Fosetyl WG, reg.nr. 318-190, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+P102
+Opbevares utilgængeligt for børn.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+ikke klassificeret
+RID_ADR
+ikke klassificeret
+IMDG
+ikke klassificeret
+IATA
+ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+LFS Fosetyl WG
+Sikkerhedsdatablad
+LFS Fosetyl WG
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Fosetyl_WG_318-190_Godkendt_Etikette_20160203.pdf
