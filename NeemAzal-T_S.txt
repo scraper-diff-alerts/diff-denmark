@@ -1,0 +1,135 @@
+NeemAzal-T/S - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+NeemAzal-T/S
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-35633 LahnauTlf: Fax: Mail: ','Trifolio-M GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.trifolio-m.de" target="_new"Trifolio-M GmbH
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frugtavl, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+10 g/l
+azadirachtin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+599 l/ha
+0,0017 B/l
+Miljøeffekt
+276 l/ha
+0,0036 B/l
+I alt
+189 l/ha
+0,0053 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+643-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i kartofler og kernefrugt samt i tomater, auberginer, peberfrugter, agurker, drueagurker, courgetter, meloner, græskar og prydplanter i væksthuse.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 4 dage før høst.
+Må i kernefrugt ikke anvendes senere end vækststadie 69.
+Må i tomater, auberginer, peberfrugter, agurker, drueagurker, courgetter, meloner, græskar ikke anvendes senere end 3 dage før høst.
+For at beskytte grundvandet må dette produkt kun anvendes en gang hvert 3. år i kernefrugt (SPe1).
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i kartofler ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i kernefrugt ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må kernefrugt ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i v&#230;ksthusCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusGr&#230;skar i v&#230;ksthusKartoflerMelon i v&#230;ksthusPeber i v&#230;ksthusPrydplanter i v&#230;ksthusTomater i v&#230;ksthus&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+NeemAzal-T/S, reg.nr. 643-1
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal-T/S (reg.nr. 643-1) til mindre anvendelse mod insekter i væksthusgrøntsager i åbne væksthuse
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal T/S (reg.nr. 643-1) til mindre anvendelse mod insekter i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal-T/S (reg.nr. 643-1) til mindre anvendelse mod bladlus og trips i jordbær på friland
+Sikkerhed
+Fareklasse
+Ingen oplysninger
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder azadirachtin. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+NeemAzal-T/S
+Sikkerhedsdatablad
+NeemAzal-T/S
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/neemazal-label-dk.pdf
