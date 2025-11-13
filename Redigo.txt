@@ -1,0 +1,279 @@
+Redigo - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Redigo
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+200 og 1000 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Redigo
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende bejdse
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+prothioconazol
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+15,2 l/ha
+0,0660 B/l
+Miljøadfærd
+146 l/ha
+0,0069 B/l
+Miljøeffekt
+35,4 l/ha
+0,0282 B/l
+I alt
+9,89 l/ha
+0,101 B/l
+
+Pesticidafgift: 17 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-679
+Miljøstyrelsens godkendelse
+Må kun anvendes til bejdsning af korn i lukkede industrielle bejdseanlæg.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end
+de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. (SP1)
+Må ikke tømmes i kloakafløb.
+Det bejdsede korn skal umiddelbart efter bejdsningen emballeres i sække/
+poser og plomberes.
+Disse korn er bejdset med Redigo som indeholder prothioconazol.
+Det bejdsede korn er farligt og må ikke anvendes til menneskeføde eller foder.
+Ved håndtering af det bejdsede korn bær beskyttelseshandsker.
+Beholderen/emballagen må ikke anvendes til brødkorn, andre levnedsmidler
+og foderstoffer.
+Det bejdsede korn må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Ved såning skal frøet dækkes med jord. Ikke dækkede frø skal opsamles.
+For at beskytte fugle/vilde pattedyr skal alt spildt korn fjernes.
+Der må højst sås 200 kg bejdsede korn pr. ha.
+Ovenstående indrammede angivelse skal være tydeligt anført på en etikette
+eller bindemærke, der straks skal fastgøres på beholderen/emballagen på
+en sådan måde, at etiketten eller bindemærket normalt vil blive siddende
+indtil indholdet er brugt.
+Skal opbevares køligt ved eller under stuetemperatur.
+Skal omrøres før brug.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (industriel anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav til vandmiljø (industriel anvendelse).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav til vandmiljø (industriel anvendelse).
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bejdsning af rugBejdsning af triticaleBejdsning af vinterbygBejdsning af vinterhvedeBejdsning af v&#229;rbygBejdsning af v&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Redigo, reg. nr. 18-679, godkendelse udvidet
+Anvendelse
+Resistensrisiko
+Det kan ikke udelukkes, at svampe (f.eks. fusarium) udvikler resistens overfor Redigo. Bayer
+CropScience hæfter ikke for tab, der kan opstå på denne måde.
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse
+af resistens.
+For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme,
+f.eks. ved at skifte middel.
+Prothioconazol hører til gruppen af DMI fungicider (FRAC kode 3). Risikoen for resistensudvikling hos
+denne gruppe vurderes at være moderat.
+I Danmark er der ikke registreret resistens hos de svampe der bekæmpes med Redigo.
+Resistensklasse
+3
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Ingen oplysninger
+Rengøring
+Ingen oplysninger
+Opbevaring
+Skal opbevares køligt ved eller under stuetemperatur.
+Opbevares frostfrit.
+Opbrudt emballage skal lukkes omhyggeligt efter brug.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Bejdsning af vinterhvede, Bejdsning af vårhvede
+Fusarium spp., hvedestinkbrand, sneskimmel
+0,12 lSe bemærkninger
+Bejdsning i lukkede industrielle anlæg. NB! Dosering er baseret på anvendelse af 150 kg udsæd pr. ha. Der anvendes 80 ml Redigo pr. 100 kg udsæd. Maks. 200 kg såsæd/ha.
+Bejdsning af vinterbyg, Bejdsning af vårbyg
+Bygbladplet, bygstribesyge, Fusarium spp., nøgen bygbrand, sneskimmel
+0,12 lSe bemærkninger
+Bejdsning i lukkede industrielle anlæg. NB! Dosering er baseret på anvendelse af 150 kg udsæd pr. ha. Der anvendes 80 ml Redigo pr. 100 kg udsæd. Maks. 80-160 kg såsæd/ha.
+Bejdsning af vinterrug
+Fusarium spp., rugstængelbrand, sneskimmel
+0,12 lSe bemærkninger
+Bejdsning i lukkede industrielle anlæg. NB! Dosering er baseret på anvendelse af 150 kg udsæd pr. ha. Der anvendes 80 ml Redigo pr. 100 kg udsæd. Maks. 200 kg såsæd/ha.
+Bejdsning af triticale
+Fusarium spp., hvedestinkbrand, rugstængelbrand, sneskimmel
+0,12 lSe bemærkninger
+Bejdsning i lukkede industrielle anlæg. NB! Dosering er baseret på anvendelse af 150 kg udsæd pr. ha. Der anvendes 80 ml Redigo pr. 100 kg udsæd. Maks. 200 kg såsæd/ha.
+Bejdsning af havre
+Fusarium spp.
+0,12 lSe bemærkninger
+Bejdsning i lukkede industrielle anlæg. NB! Dosering er baseret på anvendelse af 150 kg udsæd pr. ha. Der anvendes 80 ml Redigo pr. 100 kg udsæd. Må kun anvendes i havre til eksport.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Ingen oplysninger
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+Indånding: Bring personen i frisk luft.
+Hud: VED KONTAKT MED HUDEN: Vask med rigeligt vand. (P302+P352).
+VED eksponering eller mistanke om eksponering: Søg lægehjælp. (P308+P313).
+Ved hudirritation eller udslæt: søg lægehjælp (P333+P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Øjne: VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle
+kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. (P305+P351+P338).
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Bortskaffelse af emballage
+Tom emballage skal tilbageleveres til forhandleren.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Redigo
+Sikkerhedsdatablad
+Redigo
+Vejledning i Planteværn
+2025
+Side 412 til 413
+VP25s412-413.pdf.pdf--
+Side 412 til 413--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/redigo-etiket-dk.pdf
