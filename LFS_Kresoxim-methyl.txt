@@ -1,0 +1,152 @@
+LFS Kresoxim-methyl - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Kresoxim-methyl
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+kresoxim-methyl
+(~ 478 g/kg
+kresoxim
+Parallelprodukt, identisk med Candit
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Vintersæd)
+0,250 kg/ha
+4,00 BI/kg
+(Vårsæd)
+0,250 kg/ha
+4,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,29 kg/ha
+0,233 B/kg
+Miljøadfærd
+1,28 kg/ha
+0,784 B/kg
+Miljøeffekt
+13,1 kg/ha
+0,0765 B/kg
+I alt
+0,914 kg/ha
+1,09 B/kg
+
+Pesticidafgift: 164 kr. pr. kg
+Godkendelse
+Registreringsnummer
+318-143
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i æble, pære, solbær, ribs, stikkelsbær, blåbær og tranebær, jordbær i væksthus og på friland, roser i væksthus og på friland samt krysantemum i væksthus.
+Behandlingsfrist
+Må i æbler og pærer ikke anvendes senere end 28 dage før høst.
+Må i jordbær (friland og væksthus) ikke anvendes senere end 7 dage før høst.
+Må i ribs, solbær, stikkelsbær, blåbær og tranebær ikke anvendes senere end 14 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+For at beskytte grundvandet må dette produkt i jordbær og roser på friland kun anvendes i selve rækkerne (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med behol-dere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfla-devand (SP1).
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Ved håndtering af krysantemum dyrket i væksthuse skal der anvendes kemisk bestandige handsker.
+Efter tågesprøjtning skal væksthuset være afspærret mindst 16 timer.
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foder-stoffer.
+Afstand til vandløb
+Må i æbler og pærer ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i solbær, ribs, stikkelsbær, blåbær og tranebær ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i jordbær og roser ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Chrysanthemum i v&#230;ksthusJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandP&#230;rerRibsRoser i v&#230;ksthusRoser p&#229; frilandSolb&#230;rStikkelsb&#230;rTraneb&#230;r&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Kresoxim-methyl, reg.nr. 318-143
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9.12 c
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Kresoxim-methyl
+Sikkerhedsdatablad
+LFS Kresoxim-methyl
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Kresoxim-Methyl_318-143_Godkendt_Etikette_20170418.pdf
