@@ -1,0 +1,150 @@
+Trico - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Trico
+Afskrækningsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+A-1010 WienTlf: Fax: Mail: ','Kwizda Agro GmbH'); return true;" onmouseout="nd(); return true;"Kwizda Agro GmbH
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+110,00 kr/l
+&nbsp()
+Formulering
+Olie i vand emulsion
+Status
+Markedsført
+Indhold af aktivstoffer
+65 g/l
+fårefedt
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+l/ha
+BI/l
+Majs
+l/ha
+BI/l
+Vinterraps
+l/ha
+BI/l
+Vintersæd
+l/ha
+BI/l
+Vårraps
+l/ha
+BI/l
+Vårsæd
+l/ha
+BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+7.692 l/ha
+0,0001 B/l
+I alt
+7.692 l/ha
+0,0001 B/l
+
+Pesticidafgift: 2 kr. pr. l
+Godkendelse
+Registreringsnummer
+706-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til afskrækning af hjortevildt i skovbrug, frugttræer og markafgrøder.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Markafgr&#248;derSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Trico, reg.nr. 706-1
+Markafgr&#248;derSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Trico, reg.nr. 706-1, under revurdering
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder methylchloroisothiazolinon og methylisothiazolinon (C(M)IT/MIT (3:1)). Kan udløse allergisk reaktion
+EUH210
+Sikkerhedsdatablad kan på anmodning rekvireres.
+EUH211
+Advarsel! Der kan danne sig farlige respirable dråber, når der sprayes. Undgå indånding af spray eller tåge.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+Trico
+Sikkerhedsdatablad
+Trico
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/trico-label-dk.pdf
