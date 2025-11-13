@@ -1,0 +1,185 @@
+Mirador - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Mirador
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+240,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+azoxystrobin
+Parallelprodukt, identisk med Amistar
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,00 l/ha
+1,00 BI/l
+Kartofler
+1,00 l/ha
+1,00 BI/l
+Roer
+1,00 l/ha
+1,00 BI/l
+Vinterraps
+1,00 l/ha
+1,00 BI/l
+Vintersæd
+1,00 l/ha
+1,00 BI/l
+Vårraps
+1,00 l/ha
+1,00 BI/l
+Vårsæd
+1,00 l/ha
+1,00 BI/l
+Ærter
+1,00 l/ha
+1,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+2,40 l/ha
+0,416 B/l
+Miljøeffekt
+19,4 l/ha
+0,0515 B/l
+I alt
+1,84 l/ha
+0,543 B/l
+
+Pesticidafgift: 81 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-243
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i korn, gulerødder, knoldselleri, persillerod, pastinak, raps, ærter med og uden bælg, kartofler, kålroer, majroer og græsfrø, samt i jordbær i væksthuse.
+Behandlingsfrist
+Må i hvede, rug, triticale og byg ikke anvendes senere end 35 dage før høst.
+Må i havre ikke anvendes senere end 35 dage før høst.
+Må i ærter med og uden bælg ikke anvendes senere end 14 dage før høst.
+Må i gulerødder, knoldselleri, persillerødder, pastinak, kålroer og majroer ikke anvendes senere end 14 dage før høst.
+Må i raps ikke anvendes senere end 21 dage før høst.
+Må i kartofler ikke anvendes senere end 7 dage før høst.
+Må i jordbær i væksthuse ikke anvendes senere 3 dage før høst.
+Behandlet frøgræs må ikke anvendes til foder.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Behandlet frøgræs må ikke anvendes til foder.
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Guler&#248;dderHavreJordb&#230;r i v&#230;ksthusKartoflerKnoldselleriK&#229;lroerMajroePastinakRodpersilleRugTriticaleVinterbygVinterhvedeVinterrapsV&#229;rbygV&#229;rhvedeV&#229;rraps&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Mirador, reg.nr. 1-243
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (reg.nr. 1-172), ATR Azoxystrobin (826-6), LFS Azoxystrobin (318-52), Zaftra AZT 250 SC (1-244), Mirador (1-243), Mirador 250 SC (396-41) og Azaka (11-56) til mindre anvendelse mod svampesygdomme i planteskolekulturer og prydplanter på friland og i væksthus
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Mirador (reg.nr. 1-243) til mindre anvendelse mod svampesygdomme i hestebønner
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Mirador (1-243) til mindre anvendelse mod svampesygdomme i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Mirador (1-243) til mindre anvendelse mod meldug og jordbærsortråd i jordbær dyrket på tætte borde eller i render i åbne væksthuse
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H332
+Farlig ved indånding.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Mirador
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Mirador_1-243_Godkendt_Etikette_20240829.pdf
