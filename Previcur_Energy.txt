@@ -1,0 +1,311 @@
+Previcur Energy - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Previcur Energy
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Previcur Energy
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+576,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+530 g/l
+propamocarb
+310 g/l
+fosetyl-Al
+(~ 96,3 g/l
+fosetyl)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Grøntsager
+1,06 l/ha
+0,939 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+4,50 l/ha
+0,222 B/l
+Miljøeffekt
+19,1 l/ha
+0,0522 B/l
+I alt
+1,38 l/ha
+0,723 B/l
+
+Pesticidafgift: 119 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-544
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i salat på friland og i væksthus, småplanter af hovedkål, blomsterkål og rosenkål samt tomat og agurk dyrket i stenuld eller i jord.
+Behandlingsfrist
+Må i tomater og agurker ikke anvendes senere end 3 dage før høst.
+Må i salat ikke anvendes senere end 21 dage før høst.
+Der er ikke sat behandlingsfrist for hovedkål, blomsterkål og rosenkål.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Må i salat på friland efter vækststadie (BBCH) 40 ikke udbringes i en vandmængde under 1000 L/Ha for at beskytte fugle.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet, vandløb, søer m.v. for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Blomsterk&#229;l i v&#230;ksthusHovedk&#229;l i v&#230;ksthusRosenk&#229;l i v&#230;ksthusSalat i v&#230;ksthusSalat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Previcur Energy, reg.nr. 18-544
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Previcur Energy, reg. nr. 18-544, til mindre anvendelse mod svampesygdomme i planteskolekulturer og prydplanter på friland og i væksthus.
+Salat i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Previcur Energy (reg. nr. 18-544) til mindre anvendelse mod Pythium spp. i tomat, agurk og salat i åbne væksthuse
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Previcur Energy (reg. nr. 18-544) til mindre anvendelse til udsprøjtning mod Pythium og Peronospora i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Previcur Energy (reg. nr. 18-544) til mindre anvendelse til udvanding mod Pythium i prydplanter dyrket i potter i åbne væksthuse
+Blomsterk&#229;l i v&#230;ksthusHovedk&#229;l i v&#230;ksthusRosenk&#229;l i v&#230;ksthusSalat i v&#230;ksthusSalat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Previcur Energy, reg.nr. 18-544, under revurdering
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller middel med
+samme virkemekanisme kan resultere i dannelse af resistens.
+For at undgå dette, anbefales det med jævne mellemrum
+at anvende midler med anden virkemekanisme.
+Sælger påtager sig intet ansvar for tab eller skade som
+følge af fejlagtig anvendelse, og kan ikke drages til ansvar
+for manglende effekt ved en evt. resistensdannelse.
+Resistensklasse
+28 + P07
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se etiketten.
+Opblandingsanvisninger
+Kemikalierne tilsættes i sprøjtens fyldeudstyr samtidig
+med vandpåfyldning og omrøring. Ved tankblanding bør
+det først tilsatte middel være væk fra fyldeudstyret inden
+næste middel tilsættes. Foretag konstant omrøring af
+sprøjtevæsken under transport og udsprøjtning.
+Ved håndtering af plantebeskyttelsesmidler anvendes
+personligt beskyttelsesudstyr, såsom egnede handsker
+og briller.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares køligt men frostfrit, beskyttet mod sollys.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Salat i væksthus, Salat på friland
+Pythium spp.
+30 lSe bemærkninger
+NB! Dosering 3 ml/m2. Udvandet før udplantning. 1. behandling lige efter såning og inden fremspiring. 2. behandling efter fremspiring, 10-14 dage senere. Udbringes på fugtigt vækstmedium i 2-4 ltr. vand/m2. Maks. 2 behandlinger pr. afgrøde.
+Salat i væksthus, Salat på friland
+Salatskimmel
+2,5 lSe bemærkninger
+Forebyggende behandling ved sprøjtning efter udplantning. Efterfølgende behandling ca. 10 dage senere. Udbringes i 250-1000 ltr. vand/ha. Maks. 2 behandlinger pr. afgrøde.
+Blomsterkål i væksthus, Hovedkål i væksthus, Rosenkål i væksthus
+Pythium spp.
+30 lSe bemærkninger
+NB! Dosering 3 ml/m2. Udvandet før udplantning. 1. behandling lige efter såning og inden fremspiring. 2. behandling efter fremspiring, 10-14 dage senere. Udbringes på fugtigt vækstmedium i 2-4 ltr. vand/m2. Maks. 2 behandlinger pr. afgrøde.
+Agurk dyrket i stenuld, Tomater dyrket i stenuld
+Pythium spp.
+30 lSe bemærkninger
+NB! Dosering 3 ml/m2. Udvandet før udplantning. 1. behandling lige efter såning og inden fremspiring. 2. behandling efter fremspiring, 10-14 dage senere. Udbringes på fugtigt vækstmedium i 2-4 ltr. vand/m2. Maks. 2 behandlinger pr. afgrøde.
+Agurk dyrket i stenuld, Tomater dyrket i stenuld
+Pythium spp.
+3 lSe bemærkninger
+Efter udplantning tilført via drypvanding (ikke i recirkulerende anlæg). 1. behandling lige efter plantning. Efterfølgende behandlinger med ca. 10 dages interval. Maks. 4 behandlinger pr. afgrøde.
+Agurk dyrket i jord, Tomater dyrket i jord
+Pythium spp.
+30 lSe bemærkninger
+NB! Dosering 3 ml/m2. Udvandet før udplantning. 1. behandling lige efter såning og inden fremspiring. 2. behandling efter fremspiring, 10-14 dage senere. Udbringes på fugtigt vækstmedium i 2-4 ltr. vand/m2. Maks. 2 behandlinger pr. afgrøde.
+Agurk dyrket i jord, Tomater dyrket i jord
+Pythium spp.
+3 lSe bemærkninger
+Efter udplantning tilført via drypvanding (ikke i recirkulerende anlæg). 1. behandling lige efter plantning. 2. behandling 10-14 dage senere. Maks. 2 behandlinger pr. afgrøde.
+Effekt
+Effekt på nyttedyr
+Det er ikke oplyst, om midlet er foreneligt med biologisk
+bekæmpelse.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Previcur Energy er et systemisk svampemiddel, der indeholder
+en kombination af to aktivstoffer, propamocarb og
+fosetyl, som effektivt beskytter rødder og overjordiske
+plantedele af bredbladede afgrøder mod Oomyceter. Kombinationen
+har multi-site virkning og er derfor velegnet som
+del af en strategi for at undgå resistens. Midlet har direkte
+effekt ved at modvirke mycelievækst/indtrængning samt
+sporeproduktion og -spiring. Indirekte har midlet effekt ved
+at stimulere plantens naturlige forsvarsmekanismer og fremmer
+væksten.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: Kommer stoffet på huden, vaskes straks
+med store mængder vand.
+Øjne: Skyl straks med rigeligt vand i 15 minutter.
+Evt. kontaktlinser fjernes. Søg læge.
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H361d
+Mistænkt for at skade det ufødte barn.
+H413
+Kan forårsage langvarige skadelige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102+P405
+Opbevares under lås og utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P281
+Anvend de påkrævede personlige værnemidler.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Previcur Energy
+Sikkerhedsdatablad
+Previcur Energy
+Vejledning i Planteværn
+2025
+Side 396 til 398
+VP25s396-398.pdf.pdf--
+Side 396 til 398--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/previcur-energy-etiket-dk.pdf
