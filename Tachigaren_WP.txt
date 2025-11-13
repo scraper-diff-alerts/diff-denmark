@@ -1,0 +1,182 @@
+Tachigaren WP - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Tachigaren WP
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+DE-40215 DüsseldorfTlf: +49 (0)211-17332-0Fax: Mail: regulatory@mcie.de','Mitsui Chemicals Europe GmbH'); return true;" onmouseout="nd(); return true;" href="Http://eu.mitsuichem.com" target="_new"Mitsui Chemicals Europe GmbH
+Distributør
+DE-40215 DüsseldorfTlf: +49 (0)211-17332-0Fax: Mail: regulatory@mcie.de','Mitsui Chemicals Europe GmbH'); return true;" onmouseout="nd(); return true;" href="Http://eu.mitsuichem.com" target="_new"Mitsui Chemicals Europe GmbH
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart pulver
+Status
+Markedsført
+Indhold af aktivstoffer
+700 g/kg
+hymexazol
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,25 kg/ha
+0,798 B/kg
+Miljøadfærd
+1,53 kg/ha
+0,652 B/kg
+Miljøeffekt
+2,45 kg/ha
+0,408 B/kg
+I alt
+0,538 kg/ha
+1,86 B/kg
+
+Pesticidafgift: 275 kr. pr. kg
+Godkendelse
+Registreringsnummer
+864-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme ved bejdsning i forbindelse med pillering af sukkerroefrø i lukkede industrielle anlæg.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. (SP1)
+Må ikke tømmes i kloakafløb.
+De bejdsede frø skal umiddelbart efter bejdsningen emballeres i en beholder/emballage og plomberes.
+De bejdsede frø er bejdset med Tachigaren® WP som indeholder
+hymexazol.
+De bejdsede frø er farlige og må ikke anvendes til menneskeføde eller
+foder.
+Ved håndtering af de bejdsede frø bær beskyttelseshandsker.
+Beholderen/emballagen må ikke anvendes til brødkorn, andre
+levnedsmidler og foderstoffer.
+Ovenstående indrammede angivelse skal være tydeligt anført på en
+etikette eller bindemærke, der straks skal fastgøres på
+beholderen/emballagen på en sådan måde, at etiketten eller bindemærket
+normalt vil blive siddende indtil indholdet er brugt.
+Holdes væk fra varme, varme overflader, gnister, åben ild og andre
+antændelseskilder. Rygning forbudt. (P210)
+Opbevares under lås og utilgængeligt for børn. (P405+P102)
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav (industriel anvendelse)
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Tachigaren WP, reg.nr. 864-1 - godkendelse overført fra Sumi Agro Europe Limited, Zweigniederlassung Deutschland
+Under revurdering
+
+Tachigaren WP, reg.nr. 864-1, under revurdering
+Sikkerhed
+Fareklasse
+GHS02
+Brandfarlig
+
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H228
+Brandfarligt fast stof.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H361d
+Mistænkt for at skade det ufødte barn.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P210
+Holdes væk fra varme/gnister/åben ild/varme overflader. Rygning forbudt.
+P261
+Undgå indånding af pulver.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P370+P378b
+Ved brand: Anvend vand, pulver eller skum til brandslukning
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1325
+RID_ADR
+4.1, III
+IMDG
+4-1. III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Tachigaren WP
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Tachigaren_WP_864-1_Godkendt_Etikette_20200608.pdf
