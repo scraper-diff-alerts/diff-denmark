@@ -1,0 +1,158 @@
+LFS Fenoxaprop-P + Mefenpyr - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Fenoxaprop-P + Mefenpyr
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Olie i vand emulsion
+Status
+Endnu ikke markedsført
+Indhold af aktivstoffer
+69 g/l
+fenoxaprop-P-ethyl
+(~ 63,6 g/l
+fenoxaprop-P
+75 g/l
+mefenpyr-diethyl
+(~ 63,7 g/l
+mefenpyr
+Parallelprodukt, identisk med Primera Super
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+1,000 l/ha
+1,00 BI/l
+Vintersæd
+1,000 l/ha
+1,00 BI/l
+Vårsæd
+1,000 l/ha
+1,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,01 l/ha
+0,498 B/l
+Miljøadfærd
+66,2 l/ha
+0,0151 B/l
+Miljøeffekt
+152 l/ha
+0,0066 B/l
+I alt
+1,92 l/ha
+0,520 B/l
+
+Pesticidafgift: 75 kr. pr. l
+Godkendelse
+Registreringsnummer
+318-92
+Miljøstyrelsens godkendelse
+Må kun anvendes én gang per vækstår til bekæmpelse af flyvehavre, vindaks og agerrævehale om foråret i vårbyg, vårbyg med udlæg af kløver, rødsvingel og engsvingel til frø, vårhvede, vinterhvede, vinterbyg, vinterrug og triticale samt bekæmpelse af flyvehavre på brakarealer, eller til bekæmpelse af vindaks og agerrævehale om efteråret i vinterhvede, vinterrug og triticale.
+Behandlingsfrist
+Må i korn ikke anvendes senere end i vækststadium BBCH 39.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må kun anvendes én gang per vækstår (1. august - 31. juli).
+Græs fra brakarealer må ikke bruges til foder.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rbyg med udl&#230;g af engsvingelV&#229;rbyg med udl&#230;g af kl&#248;verV&#229;rbyg med udl&#230;g af r&#248;dsvingelV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Fenoxaprop-P + Mefenpyr, reg.nr. 318-92
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rbyg med udl&#230;g af engsvingelV&#229;rbyg med udl&#230;g af kl&#248;verV&#229;rbyg med udl&#230;g af r&#248;dsvingelV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Fenoxaprop-P + Mefenpyr, reg.nr. 318-92, under revurdering
+Sikkerhed
+Fareklasse
+Xn
+Sundhedsskadelig
+
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R43
+Kan give overfølsomhed ved kontakt med huden.
+R51/53
+Giftig for organismer der lever i vand; kan forårsage uønskede langtidseffekter i vandmiljøet.
+R63
+Mulighed for skade på barnet under graviditeten.
+R66
+Gentagen udsættelse kan give tør eller revnet hud.
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+S23
+Undgå indånding af aerosoltåger.
+S24
+Undgå kontakt med huden.
+S36
+Brug særligt arbejdstøj.
+S37
+Brug egnede beskyttelseshandsker under arbejdet.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Fenoxaprop-P + Mefenpyr
+Sikkerhedsdatablad
+LFS Fenoxaprop-P + Mefenpyr
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Fenoxaprop-Mefenpyr_318-92_Godkendt_Etikette_20140710.pdf
