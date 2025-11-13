@@ -1,0 +1,146 @@
+Neudosan Agro - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Neudosan Agro
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-31860 EmmerthalTlf: Fax: Mail: ','Neudorff GmbH KG'); return true;" onmouseout="nd(); return true;" href="Http://www.neudorff.de" target="_new"Neudorff GmbH KG
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+110,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+515 g/l
+fedtsyrer (C7-C18 og C18 umættede kaliumsalte)
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+10,1 l/ha
+0,0990 B/l
+Miljøadfærd
+63,5 l/ha
+0,0158 B/l
+Miljøeffekt
+13,7 l/ha
+0,0728 B/l
+I alt
+5,33 l/ha
+0,188 B/l
+
+Pesticidafgift: 37 kr. pr. l
+Godkendelse
+Registreringsnummer
+364-80
+Miljøstyrelsens godkendelse
+Må kun anvendes til insekt- og midebekæmpelse i bælgfrugter, grøntsager, kål, rod- og knoldafgrøder, løgafgrøder, frugttræer, bærbuske, jordbær og friske krydderurter og prydplante på friland, eller i åbne og lukkede væksthuse jf. brugsanvisningen.
+Behandlingsfrist
+Ingen oplysninger
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+På friland: Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+I frugttræer: Må ikke anvendes nærmere end 5 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk p&#229; frilandArtiskok i v&#230;ksthusArtiskok p&#229; frilandAsparges i v&#230;ksthusAsparges p&#229; frilandAubergine i v&#230;ksthusAubergine p&#229; frilandBladbede i v&#230;ksthusBladbede p&#229; frilandBlegselleri i v&#230;ksthusBlegselleri p&#229; frilandBlomk&#229;l i v&#230;ksthusBlomk&#229;l p&#229; frilandBlommer p&#229; frilandBl&#229;b&#230;r p&#229; frilandBroccoli i v&#230;ksthusBroccoli p&#229; frilandBromb&#230;r p&#229; frilandB&#248;nner i v&#230;ksthusB&#248;nner p&#229; frilandFennikel i v&#230;ksthusFennikel p&#229; frilandGlask&#229;l i v&#230;ksthusGlask&#229;l p&#229; frilandGr&#230;skar i v&#230;ksthusGr&#230;skar p&#229; frilandGr&#248;nk&#229;l i v&#230;ksthusGr&#248;nk&#229;l p&#229; frilandGuler&#248;dder i v&#230;ksthusGuler&#248;dder p&#229; frilandHindb&#230;r p&#229; frilandHvidk&#229;l i v&#230;ksthusHvidk&#229;l p&#229; frilandHvidl&#248;g i v&#230;ksthusHvidl&#248;g p&#229; frilandJordb&#230;r p&#229; frilandKepal&#248;g i v&#230;ksthusKepal&#248;g p&#229; frilandKnoldselleri i v&#230;ksthusKnoldselleri p&#229; frilandKrydderurter i v&#230;ksthusKrydderurter p&#229; frilandK&#229;lrabi i v&#230;ksthusK&#229;lrabi p&#229; frilandMajroe i v&#230;ksthusMajroe p&#229; frilandMelon i v&#230;ksthusMelon p&#229; frilandPak choi i v&#230;ksthusPak choi p&#229; frilandPalmek&#229;l i v&#230;ksthusPalmek&#229;l p&#229; frilandPastinak i v&#230;ksthusPastinak p&#229; frilandPeberfrugt i v&#230;ksthusPeberfrugt p&#229; frilandPeberrod i v&#230;ksthusPeberrod p&#229; frilandPerlel&#248;g i v&#230;ksthusPerlel&#248;g p&#229; frilandPorrer i v&#230;ksthusPorrer p&#229; frilandPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandP&#230;rer p&#229; frilandRabarber i v&#230;ksthusRabarber p&#229; frilandRadiser i v&#230;ksthusRadiser p&#229; frilandRibs p&#229; frilandRodpersille i v&#230;ksthusRodpersille p&#229; frilandRosenk&#229;l i v&#230;ksthusRosenk&#229;l p&#229; frilandR&#248;dbeder i v&#230;ksthusR&#248;dbeder p&#229; frilandR&#248;dk&#229;l i v&#230;ksthusR&#248;dk&#229;l p&#229; frilandSalat i v&#230;ksthusSalat p&#229; frilandSkalottel&#248;g i v&#230;ksthusSkalottel&#248;g p&#229; frilandSkorzonerrod i v&#230;ksthusSkorzonerrod p&#229; frilandSolb&#230;r p&#229; frilandSpidsk&#229;l i v&#230;ksthusSpidsk&#229;l p&#229; frilandSpinat i v&#230;ksthusSpinat p&#229; frilandStikkelsb&#230;r p&#229; frilandSukkermajs i v&#230;ksthusSukkermajs p&#229; frilandSukker&#230;rter i v&#230;ksthusSukker&#230;rter p&#229; frilandSurkirseb&#230;r p&#229; frilandS&#248;dkirseb&#230;r p&#229; frilandTomater i v&#230;ksthusTomater p&#229; frilandZucchini (squash) i v&#230;ksthusZucchini (squash) p&#229; friland&#198;bler&#198;bler p&#229; friland&#198;rter i v&#230;ksthus&#198;rter p&#229; friland&#198;rter til modenhed p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Neudosan Agro, reg.nr. 364-80
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H335
+Kan forårsage irritation af luftvejene.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Neudosan Agro
+Sikkerhedsdatablad
+Neudosan Agro
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/neudosan-agro-label-dk.pdf
