@@ -1,0 +1,144 @@
+LFS Metconazol - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Metconazol
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+90 g/l
+metconazol
+Parallelprodukt, identisk med Juventus 90
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vinterraps
+1,00 l/ha
+1,00 BI/l
+Vintersæd
+1,00 l/ha
+1,00 BI/l
+Vårraps
+1,00 l/ha
+1,00 BI/l
+Vårsæd
+1,00 l/ha
+1,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,86 l/ha
+0,350 B/l
+Miljøadfærd
+14,4 l/ha
+0,0697 B/l
+Miljøeffekt
+30,3 l/ha
+0,0330 B/l
+I alt
+2,21 l/ha
+0,452 B/l
+
+Pesticidafgift: 66 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-06-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+318-170
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i hvede, byg, rug, triticale og raps samt til vækstregulering i vinterraps om efteråret.
+Behandlingsfrist
+Må i raps ikke anvendes senere end 56 dage før høst. Må i korn ikke anvendes senere end 35 dage før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides. Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje. Opbevares under lås og utilgængeligt for børn. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HvedeRapsRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Metconazol, reg.nr. 318-170
+HvedeRapsRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+LFS Metconazol, reg.nr. 318-170, godkendelse trukket
+På forbudsliste
+
+LFS Metconazol, reg.nr. 318-170, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+Xn
+Sundhedsskadelig
+
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R51/53
+Giftig for organismer der lever i vand; kan forårsage uønskede langtidseffekter i vandmiljøet.
+R63
+Mulighed for skade på barnet under graviditeten.
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+S23
+Undgå indånding af aerosoltåger.
+S37
+Brug egnede beskyttelseshandsker under arbejdet.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+3.31 (c)
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Metconazol
+Sikkerhedsdatablad
+LFS Metconazol
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Metconazol_318-170_Godkendt_Etikette_20140507.pdf
