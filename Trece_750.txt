@@ -1,0 +1,161 @@
+Trece 750 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Trece 750
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2900 HellerupTlf: 35 25 78 70Fax: 35 43 76 11Mail: pah@rambo.dk','Klarsø A/S'); return true;" onmouseout="nd(); return true;"Klarsø A/S
+Distributør
+1503 København VTlf: 33 68 30 00Fax: 33 68 87 87Mail: info@dlg.dk','Dansk Landbrugs Grovvareselskab (DLG)'); return true;" onmouseout="nd(); return true;" href="Http://www.dlg.dk" target="_new"Dansk Landbrugs Grovvareselskab (DLG)
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+115,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+750 g/l
+chlormequat-chlorid
+(~ 582 g/l
+chlormequat
+Parallelprodukt, identisk med CCC 750
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+2,45 l/ha
+0,408 BI/l
+Vintersæd
+1,23 l/ha
+0,815 BI/l
+Vårsæd
+1,23 l/ha
+0,815 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+8,03 l/ha
+0,125 B/l
+Miljøadfærd
+10,9 l/ha
+0,0915 B/l
+Miljøeffekt
+3,98 l/ha
+0,251 B/l
+I alt
+2,14 l/ha
+0,467 B/l
+
+Pesticidafgift: 81 kr. pr. l
+Godkendelse
+Registreringsnummer
+49-42
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterhvede, vårhvede, rug, triticale, havre og frøgræs.
+Behandlingsfrist
+Må i rug og hvede ikke anvendes senere end vækststadie BBCH 32.
+Må i havre, triticale og frøgræs ikke anvendes senere end vækststadie BBCH 31.
+Halmen fra frøgræs må ikke bruges til foder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HavreTriticaleVinterhvedeVinterrugV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Trece 750, reg.nr. 49-42
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H290
+Kan ætse metaller.
+H302
+Farlig ved indtagelse.
+H312
+Farlig ved hudkontakt.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352+P312
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand. Ring til en GIFTINFORMATION eller en læge i tilfælde af ubehag.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1760
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Trece 750
+Sikkerhedsdatablad
+Trece 750
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Trece_750_49-42_Godkendt_Etikette_20160826.pdf
