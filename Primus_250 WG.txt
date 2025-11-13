@@ -1,0 +1,156 @@
+Primus 250 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Primus 250 WG
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+1411 København KTlf: 45 28 08 00Fax: 45 28 08 01Mail: info-dk@corteva.com','Dow AgroSciences Danmark A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Dow AgroSciences Danmark A/S
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Endnu ikke markedsført
+Indhold af aktivstoffer
+250 g/kg
+florasulam
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+30,0 g/ha
+0,0333 BI/g
+Græs og kløver
+30,0 g/ha
+0,0333 BI/g
+(Majs)
+20,0 g/ha
+0,0500 BI/g
+Vintersæd
+20,0 g/ha
+0,0500 BI/g
+Vårsæd
+20,0 g/ha
+0,0500 BI/g
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20.000 g/ha
+0,0001 B/g
+Miljøadfærd
+389 g/ha
+0,0026 B/g
+Miljøeffekt
+3.439 g/ha
+0,0003 B/g
+I alt
+344 g/ha
+0,0029 B/g
+
+Pesticidafgift: 0,413 kr. pr. g
+Godkendelse
+Registreringsnummer
+64-89
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i korn samt i frøgræs og græs.
+Behandlingsfrist
+Må i korn ikke anvendes senere end vækststadium BBCH 39.
+Behandlet græs kan anvendes til afgræsning og slet med en behandlingsfrist på 5 dage.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#230;sHavreTriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Primus 250 WG
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Primus 250 WG
+Sikkerhedsdatablad
+Primus 250 WG
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Primus_250_WG_64-89_Godkendt_Etikette_20201125.pdf
