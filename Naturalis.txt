@@ -1,0 +1,138 @@
+Naturalis - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Naturalis
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+IT-20834 Nova Milanese (MB)Tlf: Fax: Mail: ','CBC (Europe) S.r.l. xxxx'); return true;" onmouseout="nd(); return true;"CBC (Europe) S.r.l. xxxx
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+23000000000 CFU/l
+Beauveria bassiana ATCC 74040
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 0 kr. pr. l
+Godkendelse
+Registreringsnummer
+699-2
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af mellus og væksthusspindemider i grøntsager og jordbær i åbne og lukkede væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Må ikke anvendes mod andre
+skadevoldere og ikke i højere doseringer
+end de i brugsanvisningen nævnte.
+Opbevares utilgængeligt for børn
+(P102).
+Må ikke opbevares sammen med
+fødevarer, drikkevarer og foderstoffer.
+Må ikke tømmes i kloakafløb.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#248;nsager i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Naturalis, reg.nr. 699-2, opdatering vedr. åbne og lukkede væksthuse
+Bromb&#230;r i &#229;bne v&#230;ksthuseHindb&#230;r i lukket v&#230;ksthusHindb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseKrydderurter i lukket v&#230;ksthusKrydderurter i &#229;bne v&#230;ksthuseK&#229;l i lukket v&#230;ksthusK&#229;l i &#229;bne v&#230;ksthusePlanteskolekulturer i lukket v&#230;ksthusPlanteskolekulturer i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseRucolaRucola i v&#230;ksthusSalat i lukket v&#230;ksthusSalat i &#229;bne v&#230;ksthuseSpinat i lukket v&#230;ksthusSpinat i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af mindre anvendelse af Naturalis (reg.nr. 699-2) mod spindemider og insekter i prydplanter og planteskolekulturer, bladgrønt og bær i åbne og lukkede væksthuse
+Gr&#248;nsager i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Naturalis, reg.nr. 699-2, under revurdering
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder Beauveria bassiana ATCC 74040; Kan udløse en allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Naturalis
+Sikkerhedsdatablad
+Naturalis
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Naturalis_699-2_Godkendt_Etikette_20210423.pdf
