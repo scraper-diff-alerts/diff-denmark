@@ -1,0 +1,379 @@
+Kalif 360 CS - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Kalif 360 CS
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1,3 og 5 l
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Firmaets produktside
+Kalif 360 CS
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+695,00 kr/l
+&nbsp()
+Formulering
+Kapselsuspension
+Status
+Markedsført
+Indhold af aktivstoffer
+360 g/l
+clomazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,250 l/ha
+4,00 BI/l
+Kartofler
+0,250 l/ha
+4,00 BI/l
+Roer
+0,250 l/ha
+4,00 BI/l
+Vinterraps
+0,333 l/ha
+3,00 BI/l
+(Vårraps)
+0,250 l/ha
+4,00 BI/l
+(Ærter)
+0,250 l/ha
+4,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+2,45 l/ha
+0,408 B/l
+Miljøeffekt
+6,93 l/ha
+0,144 B/l
+I alt
+1,81 l/ha
+0,552 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+396-57
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i kartofler og vinterraps.
+Behandlingsfrist
+Må i vinterraps og kartofler kun anvendes hvert tredje år. Se anvendelsesfrister i brugsanvisningen.
+Forbehold
+Må kun anvendes til ukrudtsbekæmpelse i kartofler og raps.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Den maksimale dosering for alle anvendelser er 0,25 L/ha, svarende til 90 g a.s./ha.
+For at beskytte grundvandet må dette produkt maksimalt anvendes hvert tredje år. Der må endvidere i samme periode ikke også anvendes andre
+produkter, der indeholder clomazon.
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Vinterraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Kalif 360 CS, reg.nr. 396-57
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kalif 360 CS til mindre anvendelse i bederoer til foder og fødevarer
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kalif 360 CS (reg.nr. 396-57) til mindre anvendelse mod ukrudt i spinat til frøavl
+Anvendelse
+Resistensrisiko
+Kalif 360 CS tilhører gruppen af isoxazolidinoner (HRAC gruppe F4), som inhiberer carotenoid biosyntesen
+i det ukrudt, der bekæmpes. Kalif 360 CS vurderes at have lav risiko for udvikling af resistens, og
+der er ikke konstateret vigende effekter overfor aktivstoffet i Kalif 360 CS i Danmark.
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling af resistens.
+Kalif 360 CS anvendes almindeligvis kun én gang pr afgrøde pr sæson og i intervaller på 3
+år, hvorfor risikoen for opbygning af resistens minimeres. Generelt mindskes risikoen for udvikling af
+resistens ved at blande med eller skifte mellem midler med andre virkemekanismer, som har god effekt
+over for de aktuelle ukrudtsarter.
+Resistensklasse
+F4 / 13
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+Må i kartofler og vinterraps kun anvendes hvert tredje år.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæsken
+Påfyldning af koncentreret sprøjtemiddel bør kun ske på et bevokset areal, eller hvor opsamling af
+eventuelt spild er mulig og altid i god afstand til brønde og boringer.
+Inden sprøjten fyldes, skal den være omhyggeligt rengjort med et egnet rengøringsmiddel og efterset
+for evt. belægninger.
+Det samme gælder for dyser, sier og filtre. Tanken fyldes 3/4 op med rent vand. Kalif 360 CS tilsættes
+under omrøring, hvorefter tanken fyldes helt op.
+Der skal være konstant omrøring under påfyldning og kørsel. Sprøjtevæsken udsprøjtes straks efter
+tilberedningen.
+Tankblanding:
+Kalif 360 CS kan blandes med Stomp, Fenix, Boxer og glyphosat-midler. Tilsæt først
+Kalif 360 CS efter at blandingsmidlet er helt opløst i sprøjtevæsken.
+Rengøring
+uvasket sprøjte skal placeres i den behandlede mark på vaskepladsen eller under tag. Sprøjten skal
+være monteret med spuledyser til indvendig rengøring af tanken, og sprøjten skal være monteret med
+separat vandtank med tilstrækkelig kapacitet således, at restsprøjtvæske kan fortyndes, og der kan
+foretages en grundig rengøring i marken. Restsprøjtevæske skal på passende vis fortyndes 50 gange
+med vand og udsprøjtes i den behandlede mark (uden at den maksimalt tilladte dosering for det pågældende
+middel herved overskrides). Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt.
+etiketten for det sidst anvendte middel for specifikke anvisninger). Samtidig med at filtre, slanger og
+dyser kontrolleres for urenheder og eventuelle belægninger. Vaskevandet opsamles i egnede beholdere
+og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøstyrelsen vejledning angående påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler , jf. Miljøministeriets bekendtgørelse nr. 1355 af .
+Opbevaring
+Kalif 360 CS bør opbevares frostfrit i uåbnet og ubeskadiget original emballage beskyttet mod direkte
+sollys og andre varmekilder. Ved korrekt opbevaring er produktet holdbart i minimum 2 år fra produktionsdatoen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Boxer, Fenix, Stomp CS, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, YaraVita Magtrac, YaraVita Mantrac Pro
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Andet tokimbladet ukrudt, burresnerre, fuglegræs, hyrdetaske, rød tvetand, ærenpris
+0,25 lEfterår umiddelbart efter såning og ikke senere end før fremspiring
+Anvendes umiddelbart efter såning af vinterrapsen,
+og ikke senere end før fremspiring. Det anbefales dog at der højst går 3 dage fra såning til
+sprøjtning med Kalif 360 CS. Senere udsprøjtning kan medføre kraftig afblegning af rapsen.
+Rapsen skal være sået i en ensartet dybde og dækket af jord (mindst 2 cm). Direkte kontakt mellem
+rapsfrø og sprøjtevæske skal undgås. Kalif 360 CS kan udbringes sammen med glyfosatprodukter. Der
+kan under etableringsfasen komme nogen spredt og forbigående lysfarvning (afblegede blade) af rapsen
+– især efter kraftig nedbør på sandjord. Lysfarvningen forsvinder normalt indenfor ganske kort tid
+og har ingen indflydelse på udbytte eller kvalitet. Må kun anvendes hvert
+3. år i sædskiftet.
+Kartofler
+Andet tokimbladet ukrudt, burresnerre, fuglegræs, hyrdetaske, rød tvetand, ærenpris
+0,25 lUmiddelbart efter lægning og færdighypning af kartoflerne, og ikke senere end 5 dage før kartoflernes gennembrydning
+Anvendelsen sker ofte i en i tankblanding med et
+jordmiddel efter lægning og færdighypning af kartoflerne.
+Der må ikke anvendes Kalif 360 CS senere end 5 dage før kartoflernes gennembrydning. Senere
+udsprøjtning kan medføre kraftig afblegning af afgrøden. Kartoflerne må ikke være fremspiret på
+sprøjtetidspunktet. Kalif 360 CS må kun anvendes hvert tredje år i sædskiftet.
+Bland kun Kalif 360 CS med et jordmiddel, når sprøjtetidspunktet for tankblandingen er som ovenfor anført,
+og alle retningslinier (f.eks. Med hensyn til forskellige kartoffelsorters følsomhed) for anvendelsen
+af jordmidlet i øvrigt overholdes - læs blandingspartnerens etiket grundigt!
+Sprøjtevæsken fordeles jævnt over kammene. Virkningen er bedst på en fast og fugtig kam, der har
+fået tid til at sætte sig. Kartoflerne skal være lagt i en ensartet dybde og dækket af jord. Direkte kontakt
+mellem læggekartofler og sprøjtevæske skal undgås. Radrensning, nedvanding af kammene og andre
+aktiviteter, der påvirker det øverste jordlag bør undgås, da effekten af sprøjtningen derved nedsættes.
+Der kan umiddelbart efter gennembrydningen forekomme nogen spredt og forbigående lysfarvning
+(afblegede blade) af kartoflerne - især efter kraftig nedbør på let sandjord. Lysfarvningen forsvinder
+normalt indenfor ganske kort tid og har ingen indflydelse på udbytte eller kvalitet.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ved omsåning i efteråret efter behandling med Kalif 360 CS i vinterraps kan der ved dyb jordbehandling
+(20-30 cm) etableres vinterraps og vintersæd.
+Ved omsåning i foråret efter behandling i efteråret kan der efter let jordbehandling sås vårraps, ærter,
+bønner, gulerødder, turnips, majs, valmuer eller kartofler. Efter kraftig jordbehandling eller pløjning
+kan der ydermere etableres vårbyg, vårhvede, havre, bederoer, hør, lucerne salat, spinat, kål, løg eller
+havebønner.
+Ved omsåning i foråret efter behandling i kartofler i foråret kan der efter kraftig jordbehandling 6 uger
+efter behandling etableres vårbyg, vårhvede, havre, bederoer, majs, ærter, gulerødder, kartofler, vårraps
+turnips, valmuer hør, lucerne salat, spinat, kål, eller hestebønner.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+god
+
+Såbedskvalitet
+
+uden knolde
+
+Andet
+Brug af Kalif 360 CS anbefales ikke på jorde med et højt humusindhold, da dette kan give en mindsket effekt.
+Virkemåde
+Det aktive stof optages af ukrudtsplanterne i spiringsfasen via kimstængel og rodnet. Transporten til
+de overjordiske plantedele sker i saftstrømmen mod vækstpunkterne og fordelingen sker i bladene
+via diffusion.
+Clomazon blokerer for syntesen af klorofyl og andre fotosynteseaktive pigmenter. Virkningen ses som
+en tydelig afblegning (hvidfarvning) af følsomme ukrudtsplanter, under eller umiddelbart efter fremspiringen
+med efterfølgende nedvisning.
+Normalt er virkningstiden 4-8 uger afhængig af jordtype og klimatiske forhold.
+Kalif 360 CS har en god virkning mod hyrdetaske, burresnerre, fuglegræs og tvetand samt moderat
+virkning mod enårig rapgræs, sort natskygge, ærenpris, pengeurt, agerkål, spergel, kiddike og hvidmelet
+gåsefod. Der opnås ingen virkning mod rodukrudt. Kalif 360 CS anbefales ikke på jorde med et højt
+humusindhold, da der typisk opnås en dårligere ukrudtseffekt.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Alm. pengeurt
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Burresnerre
+0,25 l/ha
+Meget god effekt ifølge etiketten
+Enårig rapgræs
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Fuglegræs
+0,25 l/ha
+God effekt ifølge etiketten
+Hanekro
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Hundepersille
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Hvidmelet gåsefod
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Hyrdetaske
+0,25 l/ha
+Meget god effekt ifølge etiketten
+Kornblomst
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Pileurt
+0,25 l/ha
+Moderat effekt ifølge etiketten
+Rød tvetand
+0,25 l/ha
+God effekt ifølge etiketten
+Ærenpris
+0,25 l/ha
+God effekt ifølge etiketten
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt
+Ved utilpashed, søg lægehjælp (vis etiket). Ved ulykkestilfælde eller ved ildebefindende er
+omgående lægebehandling nødvendig. Vis etiketten, hvis det er muligt.
+Indtagelse: Drik 1-2 glas vand, fremkald ikke opkastning (søg lægehjælp).
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand.
+Indånding: Ved ulykkestilfælde ved indånding bringes tilskadekomne ud i frisk luft og holdes i ro.
+Yderligere information: Ingen specifik modgift eller symptomer.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Kalif 360 CS
+Sikkerhedsdatablad
+Kalif 360 CS
+Vejledning i Planteværn
+2025
+Side 190 til 194
+VP25s190-194.pdf.pdf--
+Side 190 til 194--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Kalif_360_CS_396-57_Godkendt_Etikette_20221201.pdf
