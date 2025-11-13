@@ -1,0 +1,148 @@
+DiPel DF - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+DiPel DF
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-69370 St.Didier au Mont d´OrTlf: Fax: Mail: ','Sumitomo Chemical Agro Europe S.A.'); return true;" onmouseout="nd(); return true;" href="Http://www.sumitomo-chem.co.jp/english/index.html" target="_new"Sumitomo Chemical Agro Europe S.A.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+520,00 kr/kg
+&nbsp()
+Formulering
+Minigranulat
+Status
+Markedsført
+Indhold af aktivstoffer
+12000000000000 CFU/kg
+Bacillus thuringiensis subsp. kurstaki ABTS-351
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+0,0000 kg/ha
+0,0000 B/kg
+
+Pesticidafgift: 0 kr. pr. kg
+Godkendelse
+Registreringsnummer
+526-13
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af larver af sommerfuglearter
+(Lepidoptera arter) i grøntsager og prydplanter i
+åbne og lukkede væksthuse og på friland.
+Behandlingsfrist
+Ingen. Dog vil det være uden mening at sprøjte umiddelbart før indhøstning,
+da larverne først dør nogle dage efter behandling.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte. Undgå forurening
+af vandmiljøet med produktet eller med beholdere,
+der har indeholdt produktet. Rens ikke sprøjteudstyr nær
+overfladevand.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bl&#229;b&#230;rBromb&#230;rHindb&#230;rHybenRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DiPel DF (reg.nr. 526-13) til mindre anvendelse mod sommerfuglelarver i solbær, ribs, stikkelsbær, hindbær, aronia, hyben og blåbær på friland
+Havefr&#248;Jordb&#230;r p&#229; frilandJordskokKrydderurter p&#229; frilandK&#229;lroerMajroeOlier&#230;ddike til fr&#248;avlRybs til fremavlSalat p&#229; frilandSennep til produktion af uds&#230;dSpinat p&#229; frilandVinterraps til fremavlV&#229;rraps til produktion af uds&#230;d','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DiPel DF (reg.nr. 526-13) til mindre anvendelse mod sommerfuglelarver i jordbær, salat, spinat, kålroer, majroer, glaskål, jordskok, havefrøafgrøder, krydderurter samt korsblomstrede afgrøder (vår- og vinterraps, sennep, rybs og olieræddike) til fremavl af frø på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DiPel DF (reg.nr. 526-13) til mindre anvendelse mod uglelarver, herunder gammauglelarver, i bederoer
+Gr&#248;nsager i &#229;bne v&#230;ksthuseGr&#248;nsager p&#229; frilandPrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthusePrydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+DiPel DF, reg.nr. 526-13, opdatering vedr. åbne og lukkede væksthuse
+Jordb&#230;r i tunneller p&#229; frilandJordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; tabletop p&#229; frilandKrydderurter i lukket v&#230;ksthusKrydderurter i &#229;bne v&#230;ksthuseSalat i lukket v&#230;ksthusSalat i &#229;bne v&#230;ksthuseSpinat i lukket v&#230;ksthusSpinat i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DiPel DF (reg.nr. 526-13) til mindre anvendelse mod sommerfuglelarver i jordbær, salat, spinat og krydderurter i åbne og lukkede væksthuse samt i jordbær på tabletop på friland eller i tunneller på friland
+Sikkerhed
+Fareklasse
+Ingen oplysninger
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af pulver.
+P261
+Undgå indånding af spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassifieret
+RID_ADR
+Ikke klassifieret
+IMDG
+Ikke klassifieret
+IATA
+Ikke klassifieret
+Yderligere oplysninger
+Etikette oplysninger
+DiPel DF
+Sikkerhedsdatablad
+DiPel DF
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/dipel-df-label-dk.pdf
