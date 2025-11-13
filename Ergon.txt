@@ -1,0 +1,142 @@
+Ergon - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ergon
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+BN21 2AS SussexTlf: Fax: Mail: ','Rotam Agrochemical Europe Limited'); return true;" onmouseout="nd(); return true;"Rotam Agrochemical Europe Limited
+Distributør
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Udgået
+Indhold af aktivstoffer
+682 g/kg
+thifensulfuron-methyl
+(~ 657 g/kg
+thifensulfuron
+68 g/kg
+metsulfuron-methyl
+(~ 65,5 g/kg
+metsulfuron
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vintersæd
+13,9 g/ha
+0,0720 BI/g
+Vårsæd
+9,26 g/ha
+0,108 BI/g
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 g/ha
+0,0000 B/g
+Miljøadfærd
+73,2 g/ha
+0,0137 B/g
+Miljøeffekt
+1.010 g/ha
+0,0010 B/g
+I alt
+68,2 g/ha
+0,0147 B/g
+
+Pesticidafgift: 2,068 kr. pr. g
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-10-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+607-4
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af ukrudt i vår- og vintersæd.
+Behandlingsfrist
+Må kun anvendes i afgrødens stadie 13-37.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Der må ikke sås eller plantes efterfølgende afgrøder eller rotationsafgrøder før 120 dage
+efter anvendelse af Ergon.
+For at beskytte grundvandet må dette produkt kun anvendes 1 gang pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder tribenuron-methyl, iodosulfuron, metsulfuron-methyl, triasulfuron eller thifensulfuron-methyl.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt
+produktet. Rens ikke sprøjteudstyr nær overfladevand/undgå forurening via dræn fra
+gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+VinterhvedeVinterrugVintertriticaleV&#229;rbygV&#229;rhavreV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Associate / Ergon, reg.nr. 607-4
+VinterhvedeVinterrugVintertriticaleV&#229;rbygV&#229;rhavreV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Ergon, reg.nr. 607-4, afmeldt i forbindelse med overførsel til andet firma
+På forbudsliste
+
+Ergon, reg.nr. 607-4, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R50/53
+Meget giftig for organismer, der lever i vand; kan forårsage uønskede langtidsvirkninger i vandmiljøet.
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ergon
+Sikkerhedsdatablad
+Ergon
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Ergon_607-4_Godkendt_Etikette_20231011.pdf
