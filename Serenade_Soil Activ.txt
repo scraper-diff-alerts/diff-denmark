@@ -1,0 +1,289 @@
+Serenade Soil Activ - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Serenade Soil Activ
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Serenade Soil Activ
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+312,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+27000000000000 CFU/l
+Bacillus amyloliquefaciens QST 713
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 0 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-681
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af visse svampesygdomme i kartofler på
+friland. Samt til mindre anvendelse i bladgrønt, jordbær, gulerødder og
+prydplanter på friland og i jordbær i åbne og lukkede væksthuse.
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen
+nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+(Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Kartofler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Serenade Soil Activ, reg.nr. 18-681
+Bladgr&#248;ntsager i &#229;bne v&#230;ksthuseBladgr&#248;ntsager p&#229; frilandGuler&#248;dder p&#229; frilandJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i tunnelJordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; frilandPrydplanter i tunnelPrydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Serenade Soil Activ (18-681) til mindre anvendelse mod svampe i bladgrøntsager, gulerødder, jordbær og prydplanter. Se brugsanvisning på Serenade Soil Activ etiketten.
+Anvendelse
+Resistensrisiko
+Bacillus amyloliquefaciens QST 713 tilhører FRAC gruppe BM02 (tidligere gruppe 44) med en meget lav risiko for udvikling af resistens. Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i udvikling af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme
+enten i form af en tankblanding, eller ved at skifte middel med jævne mellemrum.
+Resistensklasse
+BM02
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblanding:
+For at opnå bred effekt på almindeligt forekommende sygdomme anbefales
+det, at der blandes med et egnet godkendt middel. Følg altid etikettens
+anvisninger for blandingspartnere. Ved blandbarhed med andre
+produkter testes der ikke for eventuelle afgrødeskade, nedsat effekt eller
+andre påvirkninger af afgrøden. Se hjemmesiden www.cropscience.bayer.
+dk for en oversigt over fysisk testede kombinationer eller kontakt din
+lokale konsulent. Det er ikke oplyst, om midlet er foreneligt med biologisk
+bekæmpelse.
+Tilberedning af sprøjtevæske:
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger
+inden tilberedning af sprøjtevæsken begyndes. Dette gælder især,
+hvis sprøjten har været anvendt til sprøjteopgaver i andre afgrøder. Konstant
+omrøring under og efter opblanding af produktet.
+Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr og flydende
+præparater påfyldes den ønskede mængde præparat, som herefter
+suges op i sprøjtetanken. Efterfølgende skylles præparatfyldeudstyret,
+samt evt. tomme dunke. Gentag proceduren med at åbne/lukke for
+bundventil til der ikke er synlige spor af Serenade Soil Activ i fyldestationen.
+Direkte injektion: Ved anvendelse af direkte injektionsudstyr, ledes det
+ufortyndede præparat automatisk ind i de slanger, som fører fra sprøjtens
+tank til dyserne. Ved skift og afslutning af sprøjteopgaver gennemføres
+en gennemskylning og rengøring af systemet. Vaskevandet udsprøjtes
+under kørsel på det behandlede areal.
+Rengøring
+Indvendig rengøring for marksprøjter med præparatfyldeudstyr:
+Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det
+behandlede areal uanset fyldeudstyr. Skyllevandstankens kapacitet skal
+være så stor, at restsprøjtevæsken kan fortyndes mindst 50 gange.
+1. Ved hjælp af de indvendige spuledyser vaskes sprøjtetanken straks
+efter endt sprøjtning med vand fra skyllevandstanken. Skyllevandet fordeles
+så indvendig vask og udsprøjtning kan foregå ad 2-3 gange for at
+opnå den krævede fortyndingsgrad.
+2. Skyllevandet udsprøjtes på marken under kørsel.
+For rengøring ved anvendelse af direkte injektion henvises til afsnittet for
+Direkte injektion.
+Udvendig rengøring:
+Rengøring af marksprøjten og traktor skal ske på det behandlede areal
+eller på en vaskeplads med opsamling til gyllebeholder eller anden beholder.
+Rengøring på det behandlede areal forudsætter, at marksprøjten
+er monteret med udstyr hertil, samt at skyllevandskapaciteten er tilstrækkelig.
+Brug ikke samme sted i marken gentagne gange til den udvendige
+rengøring.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning
+og vask m.v. af sprøjter til udbringning af plantebeskyttelsesmidler,
+jf. senest gældende bekendtgørelse om påfyldning og vask
+m.v. af sprøjter til udbringning af plantebeskyttelsesmidler.
+Opbevaring
+Midlet må kun opbevares i original emballagen.
+Skal opbevares frostfrit. Bekæmpelsesmidler, rester af bekæmpelsesmidler,
+tom emballage samt sprøjtevæsker og andre blandinger, der er
+færdigblandet af bekæmpelsesmidler skal opbevares miljø- og sundhedsmæssigt
+forsvarligt og utilgængeligt for børn. Midlerne må ikke opbevares
+sammen med eller i nærheden af levnedsmidler, foderstoffer,
+lægemidler eller lignende.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Bejdsning af kartofler
+Rodfiltsvamp
+1-2 lVed lægningen
+BBCH 00-03. Maks. en behandling.
+Kartofler
+Rodfiltsvamp
+1-2 lAfgrødens stadium 00-19
+BBCH 00-19. Bejdsning ved lægningen efterfulgt af 1-2 sprøjtninger efter fremspiring. Mindst 21 dage mellem behandlinger. Maks. tre behandlinger og maks 6 liter pr. ha. pr. år.
+Effekt
+Effekt på nyttedyr
+Ingen information.
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+god
+
+Andet
+Jordtypen påvirker ikke effekten af Serenade men der bør være jordfugt
+tilstede under etableringen af afgrøden.
+Virkemåde
+Serenade Soil Activ indeholder Bacillus amyloliquefaciens
+QST 713 (tidligere Bacillus subtilis). Produktet indholder både
+lipopeptider og hvilende sporer. Serenade Soil Activ indeholder
+flere sporer end lipopeptider.
+Serenade bakterien danner lipopeptider med effekt overfor
+svampesygdomme. Når lipopeptiderne kommer i kontakt med
+svampesygdomme, svækkes svampenes cellemembraner.
+Serenade bakterien danner også sporer som indgår i et symbiotisk
+forhold med planterødderne. Dette muliggør: Dannelse
+af en biofilm der skaber en barriere mod svampesygdomme,
+stimulering af plantens naturlige forsvarsmekanismer, forøget
+rod- og plantevækst samt bedre tilgængelighed af næringsstoffer.
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: VED KONTAKT MED HUDEN: Vask med rigeligt vand.
+Øjne: VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter.
+Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Bortskaffelse af emballage
+Tom emballage og rester kan bortskaffes sammen med dagrenovationen.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af pulver/røg/gas/tåge/damp/spray.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+ikke farligt gods
+RID_ADR
+ikke farligt gods
+IMDG
+ikke farligt gods
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Serenade Soil Activ
+Sikkerhedsdatablad
+Serenade Soil Activ
+Vejledning i Planteværn
+2025
+Side 162 til 165
+VP25s162-165.pdf.pdf--
+Side 162 til 165--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/serenade-soil-activ-etiket-dk.pdf
