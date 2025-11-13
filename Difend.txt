@@ -1,0 +1,145 @@
+Difend - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Difend
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-3803 Sint TruidenTlf: +32 11 78 57 17Fax: +32 11 68 15 65Mail: globachem@globachem.com','Globachem NV'); return true;" onmouseout="nd(); return true;" href="Http://www.globachem.com" target="_new"Globachem NV
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Industriel anvendelse, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+200,00 kr/l
+&nbsp()
+Formulering
+Flydende bejdse
+Status
+Markedsført
+Indhold af aktivstoffer
+30 g/l
+difenoconazol
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,86 l/ha
+0,350 B/l
+Miljøadfærd
+29,5 l/ha
+0,0340 B/l
+Miljøeffekt
+89,3 l/ha
+0,0112 B/l
+I alt
+2,53 l/ha
+0,395 B/l
+
+Pesticidafgift: 56 kr. pr. l
+Godkendelse
+Registreringsnummer
+613-8
+Miljøstyrelsens godkendelse
+Må kun anvendes til bejdsning af hvede, rug og triticale i lukkede industrielle bejdseanlæg samt i lukkede mindre bejdseanlæg.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Må ikke tømmes i kloakafløb.
+Det bejdsede udsæd skal umiddelbart efter bejdsningen emballeres i sække/poser og plomberes.
+Det bejdsede udsæd er farligt og må ikke anvendes til menneskeføde eller foder. Beholderen/emballagen må ikke anvendes til brødkorn, andre levnedsmidler og foderstoffer. De bejdsede udsæd er giftige for fugle. Ved såning skal de bejdsede frø dækkes med jord. Ikke dækkede frø skal opsamles.
+Ovenstående indrammede angivelse skal være tydeligt anført på en etikette eller bindemærke, der straks skal fastgøres på beholderen/emballagen på en sådan måde, at etiketten eller bindemærket normalt vil blive siddende indtil indholdet er brugt.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (bejdsemiddel, som kun må benyttes i særlige bejdseanlæg).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bejdsning af rugBejdsning af triticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Difend, reg.nr. 613-8
+Bejdsning af rugBejdsning af triticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Difend, reg.nr. 613-8, under revurdering
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Difend
+Sikkerhedsdatablad
+Difend
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Difend_613-8_Godkendt_Etikette_20250331.pdf
