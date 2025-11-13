@@ -1,0 +1,131 @@
+Potato Super - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Potato Super
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Distributør
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+mandipropamid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,600 l/ha
+1,67 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+20,5 l/ha
+0,0488 B/l
+Miljøeffekt
+48,2 l/ha
+0,0208 B/l
+I alt
+14,4 l/ha
+0,0695 B/l
+
+Pesticidafgift: 15 kr. pr. l
+Godkendelse
+Registreringsnummer
+623-6
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i kartofler og salat på friland samt tomater i væksthus.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 3 dage før høst.
+Må i salat på friland ikke anvendes senere end 7 dage før høst.
+Må i tomater i væksthuse ikke anvendes senere end 3 dage før høst
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke tømmes i kloakafløb.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Salat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Potato Super - godkendelse overført fra Agros Pro
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Klasse 9, gruppe III
+IMDG
+Klasse 9, gruppe III
+IATA
+Klasse 9, gruppe III
+Yderligere oplysninger
+Etikette oplysninger
+Potato Super
+Sikkerhedsdatablad
+Potato Super
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Potato_Super_623-6_Godkendt_Etikette_20230327.pdf
