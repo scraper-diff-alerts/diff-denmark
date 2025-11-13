@@ -1,0 +1,284 @@
+Proplant SL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Proplant SL
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 l
+Registreringsindehaver
+B-4102 Ougree (Seraing)Tlf: +32 4 385 97 11Fax: +32 4 385 97 49Mail: info@arysta.com','Arysta LifeScience Benelux SPRL (tidl.: Agriphar S.A.)'); return true;" onmouseout="nd(); return true;" href="Http://www.upl-ltd.com/" target="_new"Arysta LifeScience Benelux SPRL (tidl.: Agriphar S.A.)
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+722 g/l
+propamocarb-HCl
+(~ 605 g/l
+propamocarb)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Grøntsager
+1,59 l/ha
+0,630 BI/l
+(Kartofler)
+1,64 l/ha
+0,610 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+10,1 l/ha
+0,0990 B/l
+Miljøadfærd
+7,93 l/ha
+0,126 B/l
+Miljøeffekt
+18,2 l/ha
+0,0550 B/l
+I alt
+3,57 l/ha
+0,280 B/l
+
+Pesticidafgift: 54 kr. pr. l
+Godkendelse
+Registreringsnummer
+361-57
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i produktion af prydplanter, tomat,
+aubergine, peberfrugt, agurk, courgette, melon, græskar, krydderurter,
+hovedkål, blomsterkål, rosenkål, salat samt til dypning af blomsterløg i
+lukkede væksthuse samt i drueagurker, asier og salat på friland.
+Behandlingsfrist
+Må i tomater, auberginer, agurker, courgetter, drueagurker, meloner, græskar og asier ikke anvendes senere end 3 dage før høst.
+Må i salat i væksthus ikke anvendes senere end 14 dage før høst.
+Må i salat på friland ikke anvendes senere end 7 dage før høst.
+Må i krydderurter, hovedkål, blomsterkål og rosenkål kun anvendes før udplantning (i vækststadie BBCH 0-10).
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens angivelser skal overholdes.
+Må i salat på friland ikke udbringes i en vandmængde under 550 L/ha for at beskytte fugle.
+Der må ikke plantes eller sås efterfølgende afgrøder før 120 dage efter sidste behandling med propamocarb.
+Planter skal dyrkes på tætte planteborde med afløb til opsamling af vand eller på tæt belægning med opsamling af pesticidholdigt vand, herunder kondensvand.
+Ved brug af drypvanding (restriktiv vanding) skal planter dyrkes i tætte plantesække af plast på helt tæt plastunderlag, hvor der ikke må kunne ske afledning til kloak, nedsivning i jorden eller afstrømning til et ubefæstet areal.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Hvis midlet anvendes i planteskolekulturer der bærer spiselig frugt, skal frugter fjernes før salg.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Asier p&#229; frilandAubergine i v&#230;ksthusBlomk&#229;lBlomsterl&#248;gBroccoliCourgetter i v&#230;ksthusDrueagurk p&#229; frilandGr&#230;skar i v&#230;ksthusHovedk&#229;lKrydderurterMelon i v&#230;ksthusPeber i v&#230;ksthusPrydplanter i v&#230;ksthusRosenk&#229;lSalat i v&#230;ksthusSalat p&#229; frilandSquash (zucchini) i v&#230;ksthusTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Proplant SL, reg.nr. 361-57
+Anvendelse
+Resistensrisiko
+Propamocarb tilhører gruppen carbamater (FRAC gruppe 28) som vurderes
+at have en lav- medium risiko for udvikling af resistens. Der er ikke kendskab
+til krydsresistens til andre aktivstoffer. Gentagen anvendelse af samme type
+middel kan resultere i dannelse af resistens. Det anbefales derfor at veksle med
+andre middeltyper med jævne mellemrum.
+BEMÆRK: Hverken producent eller distributør kan drages til ansvar for
+manglende effekt ved udvikling af resistens.
+Resistensklasse
+28
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Fyld beholderen halvt med vand. Tilsæt Propant SL og fyld op med vand under
+omrøring.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og
+vask af sprøjter til udbringning af bekæmpelsesmidler, jf. Miljøministeriets
+bekendtgørelse nr. 1401 af .
+Rengøring
+Der henvises til Miljøstyrelsens vejledning angående påfyldning og
+vask af sprøjter til udbringning af bekæmpelsesmidler, jf. Miljøministeriets
+bekendtgørelse nr. 1401 af .
+Opbevaring
+Opbevares frostfrit, men under 30 °C.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Agurk i væksthus, Aubergine i væksthus, Blomkål i væksthus, Broccoli i væksthus, Græskar i væksthus, Hovedkål i væksthus, Krydderurter i væksthus, Melon i væksthus, Peber i væksthus, Prydplanter i væksthus, Salat i væksthus, Squash (zucchini) i væksthus, Tomater i væksthus
+Phytophthora, Pythium spp.
+0 lAfgrødens stadium 0 (mekanisk opblanding i vækstmedie)
+NB! Dosering 300 ml Proplant SL i 10 l vand pr. kubikmeter vækstmedie. Sørg for, at vandmængden er tilstrækkelig til at gøre mediet fugtigt. Gentag behandlingen efter 1-2 uger afhængigt af sygdomstryk. Maksimalt 2 behandlinger i alt. Behandlingsfrist i krydderurter, hovedkål, blomsterkål og rosenkål: Før udplantning.
+Agurk i væksthus, Aubergine i væksthus, Blomkål i væksthus, Broccoli i væksthus, Græskar i væksthus, Hovedkål i væksthus, Krydderurter i væksthus, Melon i væksthus, Peber i væksthus, Prydplanter i væksthus, Salat i væksthus, Squash (zucchini) i væksthus, Tomater i væksthus
+Phytophthora, Pythium spp.
+5-10 lAfgrødens stadium 0-10 (udvanding)
+NB! Dosering 5-10 ml Propant SL pr. kvadratmeter: 3-6 l af en 0,15% opløsning (15 ml i 10 l vand) pr. kvadratmeter.Gennemvand vækstmediet. Brus behandlede planter over med rent vand. Gentag behandlingen efter 1-2 uger afhængigt af sygdomstryk. Maksimalt 2 behandlinger i alt. Behandlingsfrist i krydderurter, hovedkål, blomsterkål og rosenkål: Før udplantning.
+Blomsterløg
+Phytophthora, Pythium spp.
+0 lAfgrødens stadium 0 (dypning før udplantning)
+Dyppes 20-30 minutter i en 0,3% opløsning (30 ml i 10 l vand) før udplantning.
+Agurk i væksthus, Aubergine i væksthus, Melon i væksthus, Peber i væksthus, Squash (zucchini) i væksthus, Tomater i væksthus
+Phytophthora, Pythium spp.
+2 lAfgrødens stadium 12-89 (via drypvanding)
+I væksthuskulturer dyrket på kunstigt vækstmedie og/eller jord. Anvendes forebyggende ved udplantning og ved højrisikoperioder. Gentag med 1-2 ugers interval. Sprøjtefrist: 3 dage. Maksimalt 4 behandlinger pr. vækstsæson.
+Agurk i væksthus, Asier på friland, Drueagurk på friland, Squash (zucchini) i væksthus
+Agurkeskimmel
+3 lAfgrødens stadium 20-89 (bladsprøjtning)
+Vandmængde 300-1500 l pr. ha. Når første symptomer ses. Gentag med 10 dages interval. Sprøjtefrist: 3 dage. Max. tre behandlinger.
+Salat i væksthus, Salat på friland
+Salatskimmel
+1,5 lAfgrødens stadium 20-49
+Vandmængde 550-1500 l pr. ha. Når første symptomer ses. Gentag efter 10 dage. Sprøjtefrist: 14 dage i væksthus, 7 dage på friland. Max. to behandlinger.
+Effekt
+Effekt på nyttedyr
+Det er ikke oplyst, om midlet er foreneligt med biologisk bekæmpelse.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Propant SL er et systemisk svampemiddel som fortrinsvis optages af rødderne
+og derefter transporteres rundt i planten. Der er dog også en vis optagelse via
+bladene.
+Propant SL anvendes fortrinsvis forebyggende til beskyttelse af spirende frø,
+stiklinger, småplanter, løg og planter mod jordbårne svampeinfektioner som
+f. eks. Phytophthora og Pythium og desuden som bladsprøjtning mod meldug/
+skimmeltyper som f. eks. Pseudoperonospora og Bremia.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten. (P101).
+VED INDÅNDING:Flyttes personen til frisk luft. Hvis åndedrætsbesvær fortsætter,
+søg straks læge.
+VED INDTAGELSE:Skylles munden grundigt med vand og giv rigelige mængder
+vand at drikke. Søg straks lægehjælp.
+VED KONTAKT MED HUDEN:Vask med rigeligt sæbe og vand (P302+P352).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+KOMMER MIDLET I ØJNENE:Skyl straks med vand (helst med øjenskyller)
+i mindst 15 min. Spil øjet godt op. Fjern evt. kontaktlinser. Læge kontaktes.
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H413
+Kan forårsage langvarige skadelige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+Proplant SL
+Sikkerhedsdatablad
+Ingen oplysninger
+Vejledning i Planteværn
+Ingen oplysninger
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Proplant_SL_361-57_Etikette_20250610.pdf
