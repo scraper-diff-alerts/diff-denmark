@@ -1,0 +1,126 @@
+Provanto insektpinde - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Provanto insektpinde
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-69130 EcullyTlf: Fax: Mail: ','SBM Developpement SAS'); return true;" onmouseout="nd(); return true;"SBM Developpement SAS
+Distributør
+S-245 21 StaffanstorpTlf: Fax: Mail: ','SBM Life Science AB'); return true;" onmouseout="nd(); return true;" href="Http://www.sbmdeveloppement.com" target="_new"SBM Life Science AB
+Anvendes indenfor
+Indendørs anvendelse, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Insektpind
+Status
+Markedsført
+Indhold af aktivstoffer
+18,8 g/kg
+flupyradifuron
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 Stk/ha
+0,0000 B/Stk
+Miljøadfærd
+0,0000 Stk/ha
+0,0000 B/Stk
+Miljøeffekt
+0,0000 Stk/ha
+0,0000 B/Stk
+I alt
+0,0000 Stk/ha
+0,0000 B/Stk
+
+Pesticidafgift: 0,002 kr. pr. Stk
+Godkendelse
+Registreringsnummer
+579-8
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i prydplanter i potter indendørs og i væksthus.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Må ikke anvendes på spiselige planter.
+Ved anvendelse i potteplanter skal den imprægnerede stav begraves så dybt i jorden, at børn ikke kan få øje på den.
+Opbevar behandlede potteplanter utilgængeligt for børn.
+Der må ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen (indendørs anvendelse)
+Afstand til §3-områder
+Ingen (indendørs anvendelse)
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Prydplanter indend&#248;rs','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Provanto insektpinde, reg.nr. 579-8, udvidet godkendelse
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Provanto insektpinde
+Sikkerhedsdatablad
+Provanto insektpinde
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Provanto_Insektpinde_579-8_Godkendt_Etikette_20241107.pdf
