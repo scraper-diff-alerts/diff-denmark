@@ -1,0 +1,119 @@
+SvampeFri Armisan Klar-til-brug - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+SvampeFri Armisan Klar-til-brug
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Distributør
+5250 Odense SVTlf: 70 22 70 67Fax: 70 22 70 68Mail: info@ecostyle.dk','ECOstyle A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.ecostyle.dk" target="_new"ECOstyle A/S
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+4,25 g/l
+kaliumhydrogencarbonat
+Parallelprodukt, identisk med ANL-F002
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+11.765 l/ha
+0,0001 B/l
+I alt
+11.765 l/ha
+0,0001 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+1008-4
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i æble på friland, samt i tomat, aubergine, peberfrugt, agurk, drueagurk og squash på friland og i drivhus.
+Behandlingsfrist
+Må i spiselige afgrøder ikke anvendes senere end 1 dag før høst.
+Forbehold
+Brugsanvisningens angivelser skal overholdes. Må i spiselige afgrøder ikke anvendes senere end 1 dag før høst. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1). Må ikke tømmes i kloakafløb. Skal opbevares frostfrit. Må ikke opbevares ved temperaturer over 40 °C. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer. Opbevares utilgængeligt for børn (P102). Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk p&#229; frilandAubergine i v&#230;ksthusDrueagurk i v&#230;ksthusDrueagurk p&#229; frilandPeber i v&#230;ksthusPeber p&#229; frilandSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) p&#229; frilandTomater i v&#230;ksthusTomater p&#229; friland&#198;bleplanter&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Zonegodkendelse af SvampeFri Armisan klar-til-brug (ANL-F002), reg.nr. 1008-4
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+SvampeFri Armisan Klar-til-brug
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/SvampeFri_Armisan_Klar-til-brug_1008-4_Godkendt_Etikette_20250513.pdf
