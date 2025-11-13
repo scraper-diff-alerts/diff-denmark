@@ -1,0 +1,354 @@
+Tombo - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Tombo
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+GF-1637
+Pakningsstørrelse
+1000 g
+Registreringsindehaver
+1411 København KTlf: 45 28 08 00Fax: 45 28 08 01Mail: info-dk@corteva.com','Dow AgroSciences Danmark A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Dow AgroSciences Danmark A/S
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Firmaets produktside
+Tombo
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1,50 kr/g
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+25 g/kg
+florasulam
+50 g/kg
+aminopyralid
+50 g/kg
+pyroxsulam
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vintersæd
+118 g/ha
+0,0085 BI/g
+Vårsæd
+103 g/ha
+0,0097 BI/g
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 g/ha
+0,0000 B/g
+Miljøadfærd
+1.933 g/ha
+0,0005 B/g
+Miljøeffekt
+11.604 g/ha
+0,0001 B/g
+I alt
+1.657 g/ha
+0,0006 B/g
+
+Pesticidafgift: 0,087 kr. pr. g
+Godkendelse
+Registreringsnummer
+64-81
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vårhvede, samt vinterhvede, -rug og -triticale.
+Behandlingsfrist
+Må ikke anvendes senere end vækststadie BBCH 32.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt
+produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer
+og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+VinterhvedeVinterrugV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Tombo, reg.nr. 64-81
+Anvendelse
+Resistensrisiko
+Dow AgroSciences anbefaler en stærk anti-resistens strategi,
+efter retningslinierne udarbejdet af WRAG (Weed Resistance
+Action Group). Dow AgroSciences anbefaler, at der kun anvendes
+et ALS produkt pr. afgrøde til bekæmpelse af ukrudt. For at undgå
+resistensudvikling anbefaler Dow AgroSciences, at der generelt
+anvendes ukrudtsmidler med forskellige virkningsmekanismer
+i sædskiftet. Det anbefales endvidere at have både vår- og
+vinterafgrøder i sædskiftet. Særligt i forbindelse med reduceret
+jordbehandling bør disse anbefalinger følges nøje. Vær
+opmærksom på at manglende effekt (hvis midlet ellers er anvendt
+korrekt) kan skyldes begyndende resistensudvikling.
+Resistensklasse
+B / 2 + O / 4
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Sørg altid for, at sprøjten er korrekt rengjort samt efterset for
+belægninger før tilberedning af sprøjtevæsken. Vær ekstra
+opmærksom, hvis sprøjten har været anvendt til sprøjteopgaver i
+andre afgrøder.
+Præparatfyldeudstyr: Tilsæt den ønskede mængde Tombo
+ved at hælde granulatet kontrolleret og direkte i åbningen på
+bundventilen. Undgå at granulatet afsættes på de indvendige
+overflader ved at lade skyllesystemet køre under påfyldning.
+Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme
+dunke. Gentag proceduren med at åbne/lukke for bundventilen
+til der ikke er synlige spor af Tombo i fyldestationen.
+PG26N tilsættes inden den endelige tankblanding er udført.
+Direkte injektion: Der henvises til sprøjteproducentens
+vejledning.
+Rengøring
+Indvendig rengøring af sprøjteudstyr ved skift mellem/
+afslutning af sprøjteopgave
+Bemærk! Skyllevandstankens kapacitet skal være så
+restsprøjtevæsken kan
+fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle invendige dele af
+sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket
+så meget, at overtryksventilen fra det selvrengørende udløses.
+Dette gælder alle rengøringsprocesser.
+- Husk at tømme sprøjten
+helt inden rengøring.
+Restsprøjtevæsken
+og skyllevandet skal
+udsprøjtes eller anvendes
+på det behandlede areal.
+- Ved hjælp af de indvendige
+spuledyser vaskes sprøjtetank,
+slanger og bom straks efter
+endt sprøjtning med vand fra
+skyllevandstanken. Skyllevandet kan med fordel
+deles så indvendig vask og udsprøjtning foregår ad 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter
+vand i en 1.000 liter tank) og tilsæt 0,5 liter All Clear2 Extra
+eller lignende produkt pr. 100 liter vand. Sprøjt lidt af
+vaskevandet ud gennem slanger, bom og dyser, så disse
+sættes i blød. Lad omrøring og tankspuledyse køre i mindst
+15 minutter. Tøm sprøjten gennem bom og dyser over et
+egnet areal f.eks. På marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml
+All Clear Extra pr. 10 liter vand.
+- Skyl tanken og alle slanger grundigt i 5 min. Med rent vand.
+Skyllevandet sprøjtes ud gennem Bom og dyser
+Opbevaring
+Tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Entargo
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Ally 20 SX, Amistar, Atlantis OD, Comet Pro, DFF, Flexity, Flurostar 180, Kaiso Sorbie, Lamdex, Mavrik, Mustang forte, Nexide CS, Nicanor SG, Pirimor 500 WG, Pixxaro EC, Proline EC 250, Saracen Delta Max, Saracen M, Starane 333 HL, Starane XL, Tomahawk 200 EC, Zypar, Mangansulfat 32, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Mantrac Pro
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+CCC 750, Cycocel 750, Foxtrot, Medax Max, Medax Top, Moddevo, Moddus M, Moddus Start, Primera Super, Serrate, Stemper, Topik EC, Trimaxx M
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Triticale, Vinterhvede
+Burresnerre, fuglegræs, haremad, hvidmelet gåsefod, hyrdetaske, kornvalmue, kortstråle, lugtløs kamille, markforglemmigej, markærenpris, raps, vindaks
+100 g + 0,5 l PG 26NAfgrødens stadium 23-29
+Mindst 90% effekt mod de nævnte arter. 70-90% effekt mod kornblomst.
+Vårhvede
+Burresnerre, fuglegræs, haremad, hvidmelet gåsefod, hyrdetaske, kornvalmue, kortstråle, lugtløs kamille, markforglemmigej, markærenpris, raps, vindaks
+100 g + 0,5 l PG 26NAfgrødens stadium 21-32
+Mindst 90% effekt mod de nævnte arter. 70-90% effekt mod kornblomst.
+Rug, Triticale, Vinterhvede
+Burresnerre, flyvehavre, fuglegræs, haremad, hvidmelet gåsefod, hyrdetaske, kornblomst, kornvalmue, kortstråle, kruset skræppe, limurt, lugtløs kamille, markforglemmigej, markærenpris, raps, vindaks
+150 g + 0,5 l PG 26NAfgrødens stadium 23-29
+Mindst 90% effekt mod de nævnte arter. 70-90% effekt mod kornridderspore, stor ridderspore og agerstedmoder.
+Vårhvede
+Burresnerre, flyvehavre, fuglegræs, haremad, hvidmelet gåsefod, hyrdetaske, kornblomst, kornvalmue, kortstråle, kruset skræppe, limurt, lugtløs kamille, markforglemmigej, markærenpris, raps, vindaks
+150 g + 0,5 l PG 26NAfgrødens stadium 23-29
+Mindst 90% effekt mod de nævnte arter. 70-90% effekt mod kornridderspore, stor ridderspore og agerstedmoder.
+Rug, Triticale, Vinterhvede
+Agersennep, alm. pengeurt, burresnerre, flyvehavre, fuglegræs, haremad, hvidmelet gåsefod, hyrdetaske, kornblomst, kornridderspore, kornvalmue, kortstråle, kruset skræppe, limurt, lugtløs kamille, markforglemmigej, markærenpris, raps, snerlepileurt, vindaks
+200 g + 0,5 l PG 26NAfgrødens stadium 30-32
+Mindst 90% effekt mod de nævnte arter. 70-90% effekt mod kvik, stor ridderspore, kornvalmue og agerstedmoder.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Omsåning
+Ved omsåning kan der sås korn,
+græs eller majs efter dybdeharvning
+eller pløjning.
+Efterfølgende afgrøde
+Den efterfølgende vækstsæson kan der etableres korn, raps, græs
+og majs.
+Da Tombo indeholder aminopyralid, skal der gå 14-24 mdr.
+mellem Tombo behandlingen og etablering af følgende følsomme
+afgrøder:
+14 mdr. Kartofler og andre natskyggearter, sukkerroer, løg,
+gulerod og andre skærmplanter
+24 mdr. Ært, hestebønne, lupin og andre bælgplanter, agurk,
+salat og andre kurvblomstrede
+Plantemateriale og efterfølgende afgrøde
+Halm og staldgødning/dybstrøelse indeholdende halm fra
+afgrøder behandlet med Tombo, må ikke anvendes:
+- I drivhuse, til kompost eller produktion af champignon
+- Til tildækning af bredbladede afgrøder.
+- I biogasanlæg
+Efter anvendelse af 100 g/ha Tombo eller mindre, anbefales det
+at indarbejde halm samt staldgødning/dybstrøelse (ikke gylle)
+indeholdende halm fra afgrøder behandlet med Tombo, senest
+4 mdr. før etablering af andre afgrøder end korn, raps, græs og
+majs.
+Efter anvendelse af mere end 100 g/ha Tombo gælder følgende
+retningslinier (for halmhåndtering):
+- Halm må kun bortføres fra ejendommen til industriel brug
+eller afbrænding.
+- Halm eller staldgødning/dybstrøelse (ikke gylle) som
+indeholder halm fra afgrøder behandlet med Tombo:
+- Kan indarbejdes i jorden når som helst før etablering
+af korn, raps, græs og majs
+- Skal indarbejdes i jorden min. 7 mdr før etablering af
+andre afgrøder.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+15-20
+ºC
+
+Timers tørvejr
+1
+
+Nattefrostrisiko
+
+ingen
+
+Andet
+Undgå behandling under meget tørre og varme forhold
+eller forud for frost. Undgå endvidere at behandle når afgrøden er under stress fra kulde, tørke,
+står i vandlidende jord, angrebet af skadedyr, lider af mangel på næringsstoffer etc.
+Behandling af stressede afgrøder kan medføre en forbigående
+lysfarvning.
+Virkemåde
+Tombo indeholder ALS-hæmmerne pyroxsulam og florasulam
+samt auxin-danneren aminopyralid.
+Tombo optages primært gennem bladene. På følsomme
+ukrudtsarter ses effekten fra få dage til få uger efter behandling.
+Sluteffekten ses normalt ca. 4 uger efter behandling.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+I TILFÆLDE AF INDTAGELSE: Ring omgående til
+GIFTINFORMATION eller en læge.
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med
+vand i flere minutter.
+VED KONTAKT MED HUDEN: Vask med rigeligt
+sæbe og vand.
+VED INDÅNDING: Flyt personen til et sted med frisk luft
+og sørg for, at vejrtrækningen lettes.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder cloquintocet-mexyl, picloram og pyroxsulam. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Tombo
+Sikkerhedsdatablad
+Tombo
+Vejledning i Planteværn
+2019
+Side 141 til 142
+V19S141-142.pdf.pdf--
+Side 141 til 142--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.corteva.dk/content/dam/dpagco/corteva/eu/dk/da/products/files/DF-Tombo-Etikette-Dansk.pdf
