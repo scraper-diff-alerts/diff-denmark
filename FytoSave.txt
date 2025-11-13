@@ -1,0 +1,134 @@
+FytoSave - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+FytoSave
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-5032 IsnesTlf: Fax: Mail: ','FytoFend S.A.'); return true;" onmouseout="nd(); return true;"FytoFend S.A.
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+12,5 g/l
+COS-OGA
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+392 l/ha
+0,0026 B/l
+I alt
+392 l/ha
+0,0026 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+1059-2
+Miljøstyrelsens godkendelse
+Må kun anvendes mod svampesygdomme i agurk, drueagurk, squash, melon, græskar,
+tomat, peberfrugt, aubergine og pepino dyrket i åbne og lukkede væksthuse.
+Behandlingsfrist
+Ingen oplysninger
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i
+brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt
+produktet (SP1).
+Må ikke tømmes i kloakafløb
+Skal opbevares køligt, ved eller under stuetemperatur
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen oplysninger
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i lukket v&#230;ksthusDrueagurk i lukket v&#230;ksthusGr&#230;skar i lukket v&#230;ksthusMelon i lukket v&#230;ksthusPeber i lukket v&#230;ksthusPepino i lukket v&#230;ksthusSquash (zucchini) i lukket v&#230;ksthusTomater i lukket v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+FytoSave (Fyto11), reg.nr. 1059-2
+B&#230;rbuske i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseSalat i lukket v&#230;ksthusSalat i &#229;bne v&#230;ksthuseStenfrugt i lukket v&#230;ksthusStenfrugt i &#229;bne v&#230;ksthuseVindruer i lukket v&#230;ksthusVindruer i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af FytoSave (1059-2) til mindre anvendelse svampesygdomme i stenfrugt, vindruer, salatsorter, krydderurter, cikorie, rucola, radicchio, spinat, brøndkarse, andre skudplanter og andre spæde blade, jordbær, bærbuske og prydplanter i åbne og lukkede væksthuse (Se produktets etikette).
+Planteskolekulturer i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af FytoSave (1059-2) til mindre anvendelse mod meldug, falsk meldug og gråskimmel i prydplanter og planteskolekulturer i åbne og lukkede væksthuse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder xxxxxx. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+FytoSave
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/FytoSave_1059-2_Godkendt_Etikette_20240327.pdf
