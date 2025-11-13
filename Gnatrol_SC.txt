@@ -1,0 +1,137 @@
+Gnatrol SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Gnatrol SC
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-69370 St.Didier au Mont d´OrTlf: Fax: Mail: ','Sumitomo Chemical Agro Europe S.A.'); return true;" onmouseout="nd(); return true;" href="Http://www.sumitomo-chem.co.jp/english/index.html" target="_new"Sumitomo Chemical Agro Europe S.A.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+180000000000 CFU/l
+Bacillus thuringiensis ssp. israelensis AM65-52
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 0 kr. pr. l
+Godkendelse
+Registreringsnummer
+526-14
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af larver af sørgemyg i prydplanter dyrket
+i åbne og lukkede væksthuse.
+Behandlingsfrist
+Ingen
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i
+brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse til mindre anvendelse af Gnatrol SC (526-14) til mindre anvendelse mod stankelbenslarver på golfbaner
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Gnatrol SC, reg.nr. 526-14, opdatering vedr. åbne og lukkede væksthuse
+Krydderurter i &#229;bne v&#230;ksthuseSalat i lukket v&#230;ksthusSalat i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Gnatrol SC (reg.nr. 526-14) til mindre anvendelse mod larver af sørgemyg i krydderurter og salat i åbne og lukkede væksthuse
+Fr&#248;afgr&#248;der i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Gnatrol SC (reg.nr. 526-14) til mindre anvendelse mod larver af sørgemyg i frøafgrøder i åbne og lukkede væksthuse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder Bacillus thuringiensis subsp. israelensis AM65-52; kan udløse en allergisk reaktion.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med de lokale regler.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+Gnatrol SC
+Sikkerhedsdatablad
+Gnatrol SC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/gnatrol-sc-label-dk.pdf
