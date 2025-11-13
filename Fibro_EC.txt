@@ -1,0 +1,149 @@
+Fibro EC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Fibro EC
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+3521 AZ UtrechtTlf: Fax: Mail: ','Certis Belchim B.V.'); return true;" onmouseout="nd(); return true;"Certis Belchim B.V.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frugtavl, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+128,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+797 g/l
+paraffinolie (1)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+10,0 l/ha
+0,100 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20,2 l/ha
+0,0495 B/l
+Miljøadfærd
+2,73 l/ha
+0,366 B/l
+Miljøeffekt
+73,5 l/ha
+0,0136 B/l
+I alt
+2,33 l/ha
+0,429 B/l
+
+Pesticidafgift: 76 kr. pr. l
+Godkendelse
+Registreringsnummer
+631-11
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af bladlus i kartofler, spindemider i kerne- og stenfrugt eller pærebladlopper i pære.
+Behandlingsfrist
+Ingen oplysninger
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen
+nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr
+nær overfladevand (SP1). For at beskytte jordorganismer
+må dette produkt eller andre
+produkter, der indeholder paraffinolie, ikke anvendes mere
+end 8 gange pr. sæson hvert 3.
+år på samme areal med kartofler.
+(SPe1)
+Opbevares under lås og utilgængeligt
+for børn (P405+P102).
+Må ikke opbevares sammen
+med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Må i kartofler ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Må i frugttræer ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 3 meter fra §3-områder for at beskytte insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+KernefrugtP&#230;rerStenfrugt','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Fibro EC, reg.nr. 631-11
+Agurk i &#229;bne v&#230;ksthuseAubergine i lukket v&#230;ksthusAubergine i &#229;bne v&#230;ksthuseB&#248;nner i lukket v&#230;ksthusB&#248;nner i &#229;bne v&#230;ksthuseChili i lukket v&#230;ksthusChili i &#229;bne v&#230;ksthuseMelon i lukket v&#230;ksthusMelon i &#229;bne v&#230;ksthusePeberfrugt i lukket v&#230;ksthusPeberfrugt i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af mindre anvendelse af Fibro EC (reg.nr. 631-11) mod spindemider, bladlus, mellus, tæger, cikader og trips i agurk, tomat, aubergine, peberfrugt, chili, melon og friske bønner.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102+P405
+Opbevares under lås og utilgængeligt for børn.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Fibro EC
+Sikkerhedsdatablad
+Fibro EC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/fibro-ec-label-dk.pdf
