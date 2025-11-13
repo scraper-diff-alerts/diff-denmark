@@ -1,0 +1,157 @@
+Ferrex Garden - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ferrex Garden
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-59425 UnnaTlf: Fax: Mail: ','Frunol delicia GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.frunol-delicia.de" target="_new"Frunol delicia GmbH
+Distributør
+D-59425 UnnaTlf: Fax: Mail: ','Frunol delicia GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.frunol-delicia.de" target="_new"Frunol delicia GmbH
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Sneglekorn
+Status
+Markedsført
+Indhold af aktivstoffer
+25 g/kg
+jern(III)fosfat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+9,90 kg/ha
+0,101 BI/kg
+(Areal udenfor vækstsæsonen)
+9,90 kg/ha
+0,101 BI/kg
+(Græs og kløver)
+9,90 kg/ha
+0,101 BI/kg
+(Grøntsager)
+9,90 kg/ha
+0,101 BI/kg
+(Kartofler)
+9,90 kg/ha
+0,101 BI/kg
+(Majs)
+9,90 kg/ha
+0,101 BI/kg
+(Roer)
+9,90 kg/ha
+0,101 BI/kg
+(Vinterraps)
+9,90 kg/ha
+0,101 BI/kg
+(Vintersæd)
+9,90 kg/ha
+0,101 BI/kg
+(Vårraps)
+9,90 kg/ha
+0,101 BI/kg
+(Vårsæd)
+9,90 kg/ha
+0,101 BI/kg
+(Ærter)
+9,90 kg/ha
+0,101 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+23,2 kg/ha
+0,0431 B/kg
+I alt
+23,2 kg/ha
+0,0431 B/kg
+
+Pesticidafgift: 7 kr. pr. kg
+Godkendelse
+Registreringsnummer
+774-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af agersnegle og skovsnegle i spiselige og ikke spiselige afgrøder i private haver og drivhuse
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Ferrex Garden
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ferrex Garden
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Ferrex_Garden_774-3_Godkendt_Etikette_20180226.pdf
