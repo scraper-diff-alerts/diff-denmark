@@ -1,0 +1,442 @@
+Zetrola - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Zetrola
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+3 og 5 l
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Zetrola
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+254,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+propaquizafop
+Parallelprodukt, identisk med Agil 100 EC
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,50 l/ha
+0,667 BI/l
+Grøntsager
+1,50 l/ha
+0,667 BI/l
+Kartofler
+1,25 l/ha
+0,800 BI/l
+Roer
+1,50 l/ha
+0,667 BI/l
+Vinterraps
+0,750 l/ha
+1,33 BI/l
+Vårraps
+1,50 l/ha
+0,667 BI/l
+Ærter
+1,00 l/ha
+1,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,67 l/ha
+0,599 B/l
+Miljøadfærd
+20,4 l/ha
+0,0489 B/l
+Miljøeffekt
+48,3 l/ha
+0,0207 B/l
+I alt
+1,50 l/ha
+0,668 B/l
+
+Pesticidafgift: 96 kr. pr. l
+Godkendelse
+Registreringsnummer
+396-72
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i bederoer, raps, ærter, kartofler, rødbeder, bønner, hør og sennep.
+Behandlingsfrist
+Må i bederoer og rødbeder ikke anvendes senere end 60 dage før høst. Må i kartofler
+ikke anvendes senere end 30 dage før høst. Må i raps og sennep ikke anvendes senere end 90 dage før høst. Må i ærter og
+bønner ikke anvendes senere end 45 dage før høst. Må i hør ikke anvendes senere end 83 dage før høst.
+Forbehold
+Brugsanvisningens
+doseringsangivelser må ikke overskrides. Undgå forurening
+af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102). Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+B&#248;nnerGr&#248;nne &#230;rterHesteb&#248;nnerH&#248;rKartoflerR&#248;dbederSennepVinterrapsV&#229;rraps&#198;rter&#198;rter til modenhed','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Zetrola, reg.nr. 396-72
+Anvendelse
+Resistensrisiko
+Propaquizafop tilhører HRAC gruppe A. Der er en høj risiko for resistensudvikling ved gentagen
+brug af dette middel. Der er konstateret resistens hos agerrævehale, italiensk rajgræs og
+vindaks over for herbicider med samme virkemekanisme som Zetrola. Ved behov for yderligere
+behandling i samme afgrøde bør der så vidt muligt vælges et produkt med en anden virkningsmekanisme.
+Ved behandling i en efterfølgende afgrøde, bør der ligeledes vælges et middel
+med en anden virkemekanisme.
+Resistensklasse
+A / 1
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Der bør holdes afstand på 3 dage til andre herbicidbehandlinger. Genbehandling kan ske efter 7 dage.
+Opblandingsanvisninger
+Tanken fyldes 3/4 med rent vand. Midlet tilsættes under omrøring, og der fyldes op med vand. Der bør være konstant omrøring under tilberedning og sprøjtning. Sprøjtevæsken skal udsprøjtes samme dag, den er tilberedt.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Tørt og frostfrit. Ikke i sollys. Tåler kortvarigt mellem -10 og +35 gr. C
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Caryx, Goltix SC 700, Juventus 90, Kontakt 320 SC, Lamdex, Revus, Manganchelat 8% Mn
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Mangansulfat 32
+Blandingspartnere, som der IKKE bør blandes med
+Solubor DF
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Bederoer, Rødbeder
+Kvik
+0,75-0,8 lFra afgrødens stadium 11
+Fra fremspiring til 60 dage før høst.
+Maksimumdosering pr vækstsæson er 0,8
+L/ha ved enkeltbehandling og 0,4 L/ha/behandling ved delt behandling (max. 2
+behandlinger). Kun behandling hvert 3. år
+på samme areal.
+Bederoer, Rødbeder
+Flyvehavre, græsukrudt, spildkorn
+0,5-0,8 lFra afgrødens stadium 11
+Fra fremspiring til 60 dage før høst.
+Maksimumdosering pr vækstsæson er 0,8
+L/ha ved enkeltbehandling og 0,4 L/ha/behandling ved delt behandling (max. 2
+behandlinger). Kun behandling hvert 3. år
+på samme areal.
+Bederoer, Rødbeder
+Flyvehavre, græsukrudt, kvik, spildkorn
+0,4 l1. sprøjtning
+Fra fremspiring til 60 dage før høst.
+Maksimumdosering pr vækstsæson er 0,8
+L/ha ved enkeltbehandling og 0,4 L/ha/behandling ved delt behandling (max. 2
+behandlinger). Kun behandling hvert 3. år
+på samme areal.
+0,4 l2. sprøjtning 2-4 uger senere
+Kartofler
+Kvik
+0,75-0,8 lFra afgrødens stadium 11
+Fra fremspiring til 30 dage før høst.
+Maksimum 1 behandling pr. vækstsæson.
+Kun behandling hvert 2. år på samme
+areal.
+Kartofler
+Flyvehavre, græsukrudt, spildkorn
+0,5-0,8 lFra afgrødens stadium 11
+Fra fremspiring til 30 dage før høst.
+Maksimum 1 behandling pr. vækstsæson.
+Kun behandling hvert 2. år på samme
+areal.
+Bønner, Grønne ærter, Ærter, Ærter til modenhed
+Kvik
+0,75-0,93 lAfgrødens stadium 00-89
+Fra såning til BBCH 89. Behandlingsfrist 45 dage før høst.
+Kun behandling hvert 2. år på samme
+areal.
+Bønner, Grønne ærter, Ærter, Ærter til modenhed
+Flyvehavre, græsukrudt, spildkorn
+0,5-0,93 lAfgrødens stadium 00-89
+Fra såning til BBCH 89. Behandlingsfrist 45 dage før høst.
+Kun behandling hvert 2. år på samme
+areal.
+Vårraps
+Kvik
+0,75-1,5 lFra afgrødens stadium 11
+Fra fremspiring til 90 dage før høst.
+Maksimum 1,5 L/ha ved enkeltbehandling
+og 0,75 L/ha/behandling ved delt
+behandling (maks. 2 behandlinger).
+Vårraps
+Flyvehavre, græsukrudt, spildkorn
+0,5-1,5 lFra afgrødens stadium 11
+Fra fremspiring til 90 dage før høst.
+Maksimum 1,5 L/ha ved enkeltbehandling
+og 0,75 L/ha/behandling ved delt
+behandling (maks. 2 behandlinger).
+Vårraps
+Flyvehavre, græsukrudt, kvik, spildkorn
+0,75 l1. sprøjtning
+Fra fremspiring til 90 dage før høst.
+Maksimum 1,5 L/ha ved enkeltbehandling
+og 0,75 L/ha/behandling ved delt
+behandling (maks. 2 behandlinger).
+0,75 l2. sprøjtning 2-4 uger senere
+Vinterraps
+Flyvehavre, græsukrudt, kvik, spildkorn
+0,4-0,74 lEfterår på afgrødens stadium 13-16
+Enkeltbehandling efterår. Fra BBCH 13-16.
+Maks. Dosis på BBCH 13 er 0,54 L/ha.
+Kun behandling hvert 3. år på samme
+areal. Hvis der
+er anvendt Zetrola i efteråret kan dette
+produkt ikke anvendes i foråret, da
+samme areal kun må behandles hvert
+3. år.
+Vinterraps
+Flyvehavre, græsukrudt, kvik, spildkorn
+0,37 lEfterår på afgrødens stadium 13-16
+Splitbehandling efterår. Fra BBCH 13-16.
+Kun behandling hvert 3. år på samme
+areal. Hvis der
+er anvendt Zetrola i efteråret kan dette
+produkt ikke anvendes i foråret, da
+samme areal kun må behandles hvert
+3. år.
+0,37 l2. sprøjtning 21-28 dage senere
+Vinterraps
+Flyvehavre, græsukrudt, kvik, spildkorn
+0,5-1,2 lFra afgrødens stadium 13
+Forår fra BBCH 13 til 90 dage før høst. Hvis der
+er anvendt Zetrola i efteråret kan dette
+produkt ikke anvendes i foråret, da
+samme areal kun må behandles hvert
+3. år.
+Hør
+Flyvehavre, græsukrudt, spildkorn
+0,5-1 lSe bemærkninger
+Dosering afhængig af ukrudtets størrelse. Behandlingsfrist 83 dage før høst.
+Sennep
+Flyvehavre, græsukrudt, spildkorn
+0,6-0,8 lSe bemærkninger
+Dosering afhængig af ukrudtets størrelse. Behandlingsfrist 90 dage før høst.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger.
+Virkning på efterfølgende afgrøde
+Omsåning af korn og græsser kan ske tidligst 4 uger efter behandling.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+6
+ºC
+10-12
+ºC
+
+Luftfugtighed
+
+70
+%
+
+Jordfugtighed
+
+høj
+
+Timers tørvejr
+
+1
+
+Virkemåde
+Propaquizafop er et systemisk herbicid, der primært
+optages gennem bladene og transporteres til plantens
+vækstpunkter med saftstrømmen, herunder til de underjordiske
+udløbere hos kvik. Propaquizafop blokerer
+celledelingen i følsomme planter. Væksten standser
+forholdsvis kort tid efter behandling, mens synlig effekt
+i form af gul- eller rødfarvning indtræffer 10-14 dage
+efter behandling. Efter yderligere en periode opnås fuldstændig
+nedvisning.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Hejre
+1 l/ha
+Effektivitetsvurdering DJF
+Ingen forsøg, men baseret på at hejre er meget følsom over for midler med samme virkemekansime.
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger.
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller læge. Fremkald IKKE opkastning (P301+P310+P331).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vejrtrækningen lettes. Ring til en GIFTINFORMATION eller læge i
+tilfælde af ubehag (P304+P340+P312).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning (P305+P351+P338).
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+Ved vedvarende øjenirritation: Søg lægehjælp (P337+P313).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH066
+Gentagen kontakt kan give tør eller revnet hud.
+EUH208
+Indeholder propaquizafop. Kan give allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H319
+Forårsager alvorlig øjenirritation.
+H332
+Farlig ved indånding.
+H351
+Mistænkt for at fremkalde kræft.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Zetrola
+Sikkerhedsdatablad
+Zetrola
+Vejledning i Planteværn
+2025
+Side 401 til 402
+VP25s401-402.pdf.pdf--
+Side 401 til 402--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Zetrola_396-72_Etikette_20221017.pdf
