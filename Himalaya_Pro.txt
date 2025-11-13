@@ -1,0 +1,184 @@
+Himalaya Pro - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Himalaya Pro
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Distributør
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+505,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+pyraclostrobin
+100 g/l
+mefentrifluconazol
+Parallelprodukt, identisk med Balaya
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vintersæd
+0,938 l/ha
+1,07 BI/l
+Vårsæd
+0,938 l/ha
+1,07 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,49 l/ha
+0,672 B/l
+Miljøadfærd
+4,94 l/ha
+0,202 B/l
+Miljøeffekt
+4,57 l/ha
+0,219 B/l
+I alt
+0,915 l/ha
+1,09 B/l
+
+Pesticidafgift: 158 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 16-07-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+623-8
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i korn.
+Behandlingsfrist
+Må i korn ikke anvendes senere end 35 dage før høst.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningen angivne maksimale doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår
+ikke også anvendes andre produkter, der indeholder tebuconazol, difenzoconazol eller mefentrifluconazol, med mindre doseringerne
+nedsættes tilsvarende. Hvis der anvendes flere produkter med disse stoffer, skal doseringerne beregnes forholdsmæssigt ud fra
+aktivstoffernes respektive maksimale doser i de pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne (Spe1). Opbevares
+under lås og utilgængeligt for børn (P405+ P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter, insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Himalaya Pro, reg.nr. 623-8
+Afmeldt / registrering trukket
+
+Himalaya Pro, reg.nr. 623-8, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Himalaya Pro, reg.nr. 623-8, anvendelses- og besiddelsesforbud
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H315
+Forårsager hudirritation.
+H318
+Forårsager alvorlig øjenskade.
+H332
+Farlig ved indånding.
+H335
+Kan forårsage irritation af luftvejene.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Himalaya Pro
+Sikkerhedsdatablad
+Himalaya Pro
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Himalaya_Pro_623-8_Godkendt_Etikette_20230323.pdf
