@@ -1,0 +1,146 @@
+Linde Ethylene 100% - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Linde Ethylene 100%
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2750 BallerupTlf: Fax: Mail: ','Linde Gas A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.linde.com" target="_new"Linde Gas A/S
+Distributør
+2750 BallerupTlf: Fax: Mail: ','Linde Gas A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.linde.com" target="_new"Linde Gas A/S
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Gas
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+ethylen
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+10,0 kg/ha
+0,100 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+10,0 kg/ha
+0,100 B/kg
+
+Pesticidafgift: 34 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1028-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til modning og farveregulering af bananer samt til farveregulering af citrusfrugter i lukkede lagerrum.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Det er ikke tilladt at gå ind i lokalet under behandling. Lokalerne må først frigives efter gasning, når koncentrationen af ethylen er nået ned under 200 ppm.
+For at undgå indånding af gas under tilkobling og afkobling af gasflasker skal der bæres åndedrætsværn.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Holdes væk fra varme, varme overflader, gnister, åben ild og andre antændelseskilder. Rygning forbudt (P210).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Opbevares på et godt ventileret sted (P403).
+Beskyttes mod sollys (P410).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav (ndendørs anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Linde Ethylene 100% (100% Ethylene), reg.nr. 1028-1
+Sikkerhed
+Fareklasse
+GHS02
+Brandfarlig
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H220
+Yderst brandfarlig gas.
+H280
+Indeholder gas under tryk, kan eksplodere ved opvarmning.
+H336
+Kan forårsage sløvhed eller svimmelhed.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P210
+Holdes væk fra varme/gnister/åben ild/varme overflader. Rygning forbudt.
+P261
+Undgå indånding af gas.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P377
+Brand fra udsivende gas: Sluk ikke, medmindre det er sikkert at stoppe lækagen.
+P381
+Fjern alle antændelseskilder, hvis dette kan gøres sikkert.
+P403
+Opbevares på et godt ventileret sted.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P410
+Beskyttes mod sollys.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Linde Ethylene 100%
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Linde_Ethylene_100%_1028-1_Godkendt_Etikette_20220603.pdf
