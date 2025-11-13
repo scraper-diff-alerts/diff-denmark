@@ -1,0 +1,314 @@
+Foxtrot - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Foxtrot
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+CHA 4960
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Firmaets produktside
+Foxtrot
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+165,00 kr/l
+&nbsp()
+Formulering
+Olie i vand emulsion
+Status
+Markedsført
+Indhold af aktivstoffer
+69 g/l
+fenoxaprop-P-ethyl
+(~ 63,6 g/l
+fenoxaprop-P)
+33,5 g/l
+cloquintocet-mexyl
+(~ 23,7 g/l
+cloquintocet)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,000 l/ha
+1,00 BI/l
+Vintersæd
+1,000 l/ha
+1,00 BI/l
+Vårsæd
+1,000 l/ha
+1,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+6,73 l/ha
+0,149 B/l
+Miljøadfærd
+65,7 l/ha
+0,0152 B/l
+Miljøeffekt
+149 l/ha
+0,0067 B/l
+I alt
+5,87 l/ha
+0,170 B/l
+
+Pesticidafgift: 26 kr. pr. l
+Godkendelse
+Registreringsnummer
+11-31
+Miljøstyrelsens godkendelse
+Må kun anvendes én gang per vækstår til bekæmpelse af flyvehavre, vindaks og agerrævehale om foråret i vårbyg, vårbyg med udlæg af kløver i renbestand, vårhvede, vinterhvede, vinterbyg, vinterrug og triticale samt bekæmpelse af flyvehavre på brakarealer, eller til bekæmpelse af vindaks og agerrævehale om efteråret i vinterhvede, vinterrug, triticale og vinterbyg.
+Behandlingsfrist
+Må i vårbyg, vårhvede, vinterbyg, vinterrug og triticale ikke anvendes senere end BBCH 30. Må i vinterhvede ikke
+anvendes senere end BBCH 39.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må kun anvendes én gang pr. vækstår (1. august - 31. juli).
+Græs fra brakarealer må ikke bruges til foder.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Rajgr&#230;sStrandsvingel','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Foxtrot til mindre anvendelse i rajgræs, hundegræs og strandsvingel. Se vejledningen på etiketten.
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rbyg med udl&#230;g af kl&#248;ver i renbestandV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Foxtrot, reg.nr. 11-31
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rbyg med udl&#230;g af kl&#248;ver i renbestandV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Foxtrot, reg.nr. 11-31, under revurdering
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse
+af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden
+virkemekanisme end ACCase hæmning enten i form af en tankblanding, eller ved at skifte mellem midlerne.
+Specielt hvis der i en vintersædsafgrøde sprøjtes både efterår og forår er det vigtigt at veksle mellem
+midler med forskellige virkemekanismer.
+Der er på visse lokaliteter fundet agerrævehale der er resistent over for Foxtrot
+Sælger påtager sig intet ansvar for tab eller skade som følge af fejlagtig anvendelse. Det gælder også
+ved anvendelse under unormale kulturbetingelser. Ligeledes kan sælger ikke drages til ansvar for
+manglende effekt ved en evt. resistensdannelse.
+Resistensklasse
+A / 1
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Foxtrot kan normalt blandes med svampemidler, insektmidler og visse vækstreguleringsmidler. Skal der bekæmpes tokimbladet ukrudt samtidig med bekæmpelse af græsukrudt, kan Foxtrot blandes med en række ukrudtsmidler - dog bør der ikke blandes med metsulfuron- og florasulam-midler, bentazon midler eller hormonmidler, da det kan medføre nedsat effekt pga. antagonistisk virkning. Til ovennævnte midler skal der holdes en afstand på mindst 10 dage før og efter en sprøjtning med Foxtrot. Normalt blandes højst to midler. Tilberedning af sprøjtevæsken: Fyld tanken halvt med vand. Under omrøring tilsættes Foxtrot, herefter tilsættes evt. andet produkt under fortsat vandopfyldning. Isoblette eller tilsvarende additiv tilsættes til sidst.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Bør opbevares ved temperaturer over -5 °C.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, DFF, Express 50 SX, Lamdex, Nuance Max 75 WG, Pixxaro EC
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Boxer, Cycocel 750, Flight Xtra, Input EC 460, Proline Xpert EC 240
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Accurate Max, Ally 20 SX, Atlantis OD, ATR Floclopy, Basagran SG, Broadway, Catch, Cleave, Cossack OD, Cuadro NT, Fighter 480, Flurostar XL, Hussar OD, Hussar Plus OD, Lancelot, Metaxon, Mixin, Moddus M, Moddus Start, Mustang forte, Nicanor SG, Othello, Primus, Primus 250 WG, Primus XL, Rexade 440, Ricorso, Ricorso WG, Saracen Delta Max, Saracen M, Savvy, Savvy WG, Starane XL, Stemper, Tombo, Trimaxx M, Zypar, Mangansulfat 32
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Triticale, Vinterbyg, Vinterhvede
+Agerrævehale, vindaks
+0,8-1 l + 0,15 l Sprede-klæbemiddelEfterår på ukrudtets stadium 12-14 (2-4 løvblade)
+Når agerrævehale og vindaks er fremspiret og har ca. 2 blade. Ved efterårsbehandling bør dagtemperaturen være over 5 °C, og der må ikke sprøjtes ved udsigt til nattefrost. Efter enhver behandling i efteråret bør marken efterses tidligt forår for evt. nyfremspiret eller overlevet ukrudt.
+Rug, Triticale, Vinterbyg, Vinterhvede
+Agerrævehale, flyvehavre, vindaks
+0,8-1 l + 0,15 l Sprede-klæbemiddelForår når græsser er i god vækst
+Agerrævehale og vindaks: Foxtrot udsprøjtes i foråret, så snart græsukrudtet er i god vækst og der ikke er udsigt til nattefrost. Flyvehavre: Overlevet og nyfremspiret flyvehavre bekæmpes, når nyfremspiret flyvehavre har nået vækststadie 16, BBCH og er i god vækst uden udsigt til nattefrost. Vinterbyg, vinterrug og triticale må ikke behandles senere end vækststadie 30, BBCH. Vinterhvede må ikke behandles senere end vækststadie 39, BBCH.
+Vårbyg, Vårhvede
+Agerrævehale, flyvehavre, vindaks
+0,8-1 l + 0,15 l Sprede-klæbemiddelForår når græsser er i god vækst
+Foxtrot anvendes når græsukrudt er fuldt fremspiret og vårsæden er på vækststadie 14-30, BBCH. Optimalt behandlingstidspunkt er på byggens/hvedens vækststadie 16-21, BBCH, hvor der med en tankblanding samtidig kan bekæmpes bredbladet ukrudt (se afsnit omkring blandinger).
+Brakarealer
+Flyvehavre
+1 l + 0,15 l Sprede-klæbemiddelForår, flyvehavre i vækst
+Foxtrot kan anvendes frem til flyvehavrens stadium 30 (begyndende strækning).
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen forbehold.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+15-20
+ºC
+
+Luftfugtighed
+
+høj
+
+Timers tørvejr
+1
+
+2
+
+Nattefrostrisiko
+
+ingen
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Fenoxaprop-P-ethyl optages af bladene og transporteres herfra til ukrudtsplanternes vækstpunkter, hvor Fenoxaprop-P-ethyl påvirker fedtsyresyntesen, hvilket bevirker, at opbygningen af cellemembranen forhindres. Formuleringen af Fenoxaprop-P-ethyl med en safener medfører, at vårbyg, vinterhvede, vinterbyg, vinterrug og triticale ikke påvirkes af aktivstoffet. Fenoxaprop-P-ethyl stopper ukrudtets vækst i løbet af 2-3 dage men den fulde effekt ses først efter 10-30 dage afhængig af vejrforholdene. Kulde, tørke og dårlig vækst af agerrævehale, vindaks og flyvehavre kan give nedsat effekt.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved symptom på forgiftning bringes den forulykkede til et godt ventileret rum eller i
+frisk luft, men beskyttet mod afkøling. Det tilrådes altid at søge læge/skadestue ved
+vedvarende ubehag/forstyrrelser, og etikette eller leverandør brugsanvisning med -
+bringes.
+Indtagelse: Ved indtagelse skylles munden omhyggeligt med vand.
+Søg lægehjælp. Fremkald ikke opkastning.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store
+mængder vand.
+Øjenkontakt: Ved kontakt med øjnene skylles omgående med vand i mindst 15
+minutter.
+Fjern eventuelle kontaktlinser under skylning og søg læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P261
+Undgå indånding af spray.
+P264
+Vask forurenede kropsdele grundigt efter brug.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Klasse 9
+IMDG
+3082, Klasse 9, pakkegruppe III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Foxtrot
+Sikkerhedsdatablad
+Foxtrot
+Vejledning i Planteværn
+2025
+Side 250 til 252
+VP25s250-252.pdf.pdf--
+Side 250 til 252--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Foxtrot_11-31_Godkendt_Etikette_20230524.pdf
