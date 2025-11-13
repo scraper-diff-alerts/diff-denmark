@@ -1,0 +1,153 @@
+No Weed Special 1+3 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+No Weed Special 1+3
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+3250 GillelejeTlf: +45 48 30 17 27Fax: Mail: ','Punya Innovation ApS'); return true;" onmouseout="nd(); return true;"Punya Innovation ApS
+Distributør
+3250 GillelejeTlf: +45 48 30 17 27Fax: Mail: ','Punya Innovation ApS'); return true;" onmouseout="nd(); return true;"Punya Innovation ApS
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+240 g/l
+eddikesyre
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,88 l/ha
+0,170 B/l
+Miljøadfærd
+167 l/ha
+0,0060 B/l
+Miljøeffekt
+333 l/ha
+0,0030 B/l
+I alt
+5,59 l/ha
+0,179 B/l
+
+Pesticidafgift: 30 kr. pr. l
+Godkendelse
+Registreringsnummer
+715-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse
+på parkeringsarealer, veje, indkørsler,
+fortove, havegange, terrasser og udyrkede
+arealer.
+Behandlingsfrist
+Ingen oplysninger
+Forbehold
+Brugsanvisningens doseringsangivelser
+må ikke overskrides. Undgå at forurene
+vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+Undgå forurening via dræn fra gårdspladser
+og veje. Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke
+anvendes nærmere end 2 meter fra vandmiljøet
+(vandløb, søer m.v.) for at beskytte
+organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+No Weed Special 1+3, reg.nr. 715-1
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H319
+Forårsager alvorlig øjenirritation.
+H335
+Kan forårsage irritation af luftvejene.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+No Weed Special 1+3
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/No_Weed_Special_1_3_715-1_Godkendt_Etikette_20160129.pdf
