@@ -1,0 +1,155 @@
+Isomate CLR - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Isomate CLR
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+IT-20834 Nova Milanese (MB)Tlf: Fax: Mail: ','CBC (Europe) S.r.l. xxxx'); return true;" onmouseout="nd(); return true;"CBC (Europe) S.r.l. xxxx
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Frugtavl
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+2,20 kr/Stk
+&nbsp()
+Formulering
+Feromon-dispenser
+Status
+Markedsført
+Indhold af aktivstoffer
+54,767 g/kg
+codlelure
+52,326 g/kg
+(Z)-11-tetradecen-1-yl acetate
+10,465 g/kg
+(Z)-9-tetradecen-1-yl acetate
+8,488 g/kg
+dodecan-1-ol
+1,802 g/kg
+tetradecan-1-ol
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5.417 Stk/ha
+0,0002 B/Stk
+Miljøadfærd
+0,0000 Stk/ha
+0,0000 B/Stk
+Miljøeffekt
+19.703 Stk/ha
+0,0001 B/Stk
+I alt
+4.249 Stk/ha
+0,0002 B/Stk
+
+Pesticidafgift: 0,067124988 kr. pr. Stk
+Godkendelse
+Registreringsnummer
+699-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i æbler og pærer
+Behandlingsfrist
+Ingen.
+Forbehold
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Opbevares utilgængeligt for børn. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Isomate CLR, reg.nr. 699-1
+Kirseb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Isomate CLR (reg. nr. 699-1) til mindre anvendelse mod æblevikler, frugtskrælsvikler, chokoladebrun frugtskrælvikler, skarp-spidset frugtbladvikler og hækvikler i kirsebær og blomme
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Isomate CLR, reg.nr. 699-1, under revurdering
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af damp.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Isomate CLR
+Sikkerhedsdatablad
+Isomate CLR
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Isomate_CLR_699-1_Godkendt_Etikette_20200309.pdf
