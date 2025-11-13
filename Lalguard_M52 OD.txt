@@ -1,0 +1,123 @@
+Lalguard M52 OD - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Lalguard M52 OD
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+CH-6300 ZugTlf: Fax: Mail: ','Danstar Ferment AG'); return true;" onmouseout="nd(); return true;"Danstar Ferment AG
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+OD-formulering
+Status
+Markedsført
+Indhold af aktivstoffer
+2000000000000 CFU/l
+Metarhizium brunneum MA 43 (tidligere: Metarhizium anisopliae var. anisopliae)
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 0 kr. pr. l
+Godkendelse
+Registreringsnummer
+880-12
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i løg og porre på friland samt i jordbær, grøntsager og gerbera i åbne og lukkede væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk i &#229;bne v&#230;ksthuseAubergine i lukket v&#230;ksthusAubergine i &#229;bne v&#230;ksthuseChilipeber i lukket v&#230;ksthusChilipeber i &#229;bne v&#230;ksthuseFor&#229;rsl&#248;gGerbera i lukket v&#230;ksthusGerbera i &#229;bne v&#230;ksthuseGr&#230;skar i lukket v&#230;ksthusGr&#230;skar i &#229;bne v&#230;ksthuseHvidl&#248;gJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseMelon i lukket v&#230;ksthusMelon i &#229;bne v&#230;ksthusePeber i lukket v&#230;ksthusPeber i &#229;bne v&#230;ksthusePorrerSkalottel&#248;gSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuseVandmelon i lukket v&#230;ksthusVandmelon i &#229;bne v&#230;ksthuseZucchini (squash) i lukket v&#230;ksthusZucchini (squash) i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Lalguard M52 OD, reg. no. 880-12
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Lalguard M52 OD
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Lalguard_M52_OD_880-12_Godkendt_Etikette_20220805.pdf
