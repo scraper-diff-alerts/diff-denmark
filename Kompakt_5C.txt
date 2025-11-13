@@ -1,0 +1,168 @@
+Kompakt 5C - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Kompakt 5C
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2900 HellerupTlf: 35 25 78 70Fax: 35 43 76 11Mail: pah@rambo.dk','Klarsø A/S'); return true;" onmouseout="nd(); return true;"Klarsø A/S
+Distributør
+2900 HellerupTlf: 35 25 78 70Fax: 35 43 76 11Mail: pah@rambo.dk','Klarsø A/S'); return true;" onmouseout="nd(); return true;"Klarsø A/S
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+460 g/l
+chlormequat-chlorid
+(~ 357 g/l
+chlormequat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+4,00 l/ha
+0,250 BI/l
+(Vintersæd)
+2,00 l/ha
+0,500 BI/l
+(Vårsæd)
+2,00 l/ha
+0,500 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+8,03 l/ha
+0,125 B/l
+Miljøadfærd
+16,8 l/ha
+0,0594 B/l
+Miljøeffekt
+6,44 l/ha
+0,155 B/l
+I alt
+2,95 l/ha
+0,339 B/l
+
+Pesticidafgift: 57 kr. pr. l
+Godkendelse
+Registreringsnummer
+49-94
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i prydplanter i væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Ved håndtering af prydplanter skal der anvendes kemisk bestandige handsker.
+Der må ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav (anvendes i væksthuse).
+Afstand til §3-områder
+Ingen afstandskrav (anvendes i væksthuse).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav (anvendes i væksthuse).
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Kompakt 5C, reg.nr. 49-94
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kompakt 5 C (reg. nr. 49-94) til mindre anvendelse til vækstregulering af prydplanter og planteskolekulturer i åbne væksthuse.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H290
+Kan ætse metaller.
+H302
+Farlig ved indtagelse.
+H312
+Farlig ved hudkontakt.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352+P312
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand. Ring til en GIFTINFORMATION eller en læge i tilfælde af ubehag.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1760
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Kompakt 5C
+Sikkerhedsdatablad
+Kompakt 5C
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Kompakt_5C_49-94_Godkendt_Etikette_20240422.pdf
