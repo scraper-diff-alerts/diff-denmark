@@ -1,0 +1,120 @@
+Quick mod ukrudt og mos koncentrat - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Quick mod ukrudt og mos koncentrat
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-69130 EcullyTlf: Fax: Mail: ','SBM Developpement SAS'); return true;" onmouseout="nd(); return true;"SBM Developpement SAS
+Distributør
+4140 BorupTlf: 57 56 00 20Fax: 57 52 20 80Mail: ','Borup Kemi A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.borupkemi.dk" target="_new"Borup Kemi A/S
+Anvendes indenfor
+Ingen oplysninger
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+pelargonsyre
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+50,7 l/ha
+0,0197 B/l
+Miljøeffekt
+47,5 l/ha
+0,0211 B/l
+I alt
+24,5 l/ha
+0,0408 B/l
+
+Pesticidafgift: 11 kr. pr. l
+Godkendelse
+Registreringsnummer
+579-10
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af ukrudt og mos på indkørsler, fortove, havegange, terrasser, arealer med beplantning af vedagtige kulturer samt under og rundt om prydbuske og -træer.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Skal opbevares frostfrit.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+FortoveHavegangeIndk&#248;rslerTerrasserUnder prydbuske og -tr&#230;er','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Quick mod ukrudt og mos koncentrat, reg.nr. 579-10
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Quick mod ukrudt og mos koncentrat
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Quick_mod_ukrudt_og_mos_koncentrat_579-10_Godkendt_Etikette_20210609.pdf
