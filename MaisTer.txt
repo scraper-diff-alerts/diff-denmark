@@ -1,0 +1,286 @@
+MaisTer - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+MaisTer
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+AEF6014-06H
+Pakningsstørrelse
+375 og 750 g
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+MaisTer
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+3,30 kr/g
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+300 g/kg
+foramsulfuron
+10 g/kg
+iodosulfuron-methyl-Na
+(~ 9,32 g/kg
+iodosulfuron)
+300 g/kg
+isoxadifen-ethyl
+(~ 272 g/kg
+isoxadifen)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Majs
+150 g/ha
+0,0067 BI/g
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+15.152 g/ha
+0,0001 B/g
+Miljøadfærd
+31.027 g/ha
+0,0000 B/g
+Miljøeffekt
+1.891 g/ha
+0,0005 B/g
+I alt
+1.595 g/ha
+0,0006 B/g
+
+Pesticidafgift: 0,094 kr. pr. g
+Godkendelse
+Registreringsnummer
+18-442
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i al fodermajs (ensilagemajs, kolbemajs og kernemajs).
+Behandlingsfrist
+Må ikke anvendes senere end 75 dage før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides. Opbevares utilgængeligt for børn. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+MaisTer, reg.nr. 18-442
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af MaisTer (18-442) til brug i nordmannsgran til juletræer og pyntegrønt. Off-label godkendelse oprindeligt ansøgt af PC-Consult, Borupvej 102B, 4140 Borup.
+Bl&#229;b&#230;rRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af MaisTer (18-442) til ukrudtsbekæmpelse i solbær, ribs, stikkelsbær, blåbær og aronia.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af MaisTer (18-442) til mindre anvendelse til ukrudtsbekæmpelse i hyben
+Kirseb&#230;rP&#230;rer&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af MaisTer (18-442) til mindre anvendelse mod ukrudt i æble, pære, blomme og kirsebær
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af MaisTer (18-442) til mindre anvendelse mod ukrudt i jordbær dyrket i højbedssystem på friland
+Planteskolekulturer p&#229; frilandPrydplanter p&#229; frilandUdyrkede arealer','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af MaisTer (18-442) til mindre anvendelse mod ukrudt i prydplanter og planteskolekulturer på friland, i læhegn og på udyrkede arealer
+Under revurdering
+
+MaisTer, reg.nr. 18-442, under revurdering
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemanisme, enten i form af en tankblanding, eller ved at skifte middel med jævne mellemrum. Sædskifte kan også inddrages i en strategi for at reducere risikoen for resistens.
+Resistensklasse
+B / 2
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+MaisTer kan blandes med Callisto og Starane 180. Normalt blandes kun 2 midler. Fyld tanken halvt op med rent vand, og tilsæt den afmålte mængde MaisTer, der hurtigt fordeles i vandet. Skal der tilsættes en blandingspartner, tilsættes denne først når MaisTer granulaterne er fuldstændig opløst. Fyld sprøjten med 85-100 pct. af beregnet vandmængde og tilsæt olien. Sien fjernes inden olien tilsættes, så olien straks kommer i kontakt med store mængder vand. Opblandet MaisTer bør ikke henstå gennem længere tid i sprøjten.
+Rengøring
+Da nogle afgrøder er meget følsomme for selv små rester af minimidler som eks. MaisTer skal sprøjten rengøres grundigt efter brug. Det anbefales at gennemskylle sprøjten med rent vand lige efter sprøjtningens afslutning for at undgå, at sprøjtevæsken tørrer ind, og herefter rengøre sprøjten som normalt, med vand og rengøringsmiddel. Der anvendes et ammoniumsbaseret rengøringsmiddel f.eks. All Clear Extra.
+Opbevaring
+Skal opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+ATR Mesotrion 100 SC, Border 100 SC, Callisto, Fighter 480, Lumica, Stomp CS, Temsa SC, Tocalis, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zeatrel, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Diode, Evolya, Harmony 50 SX, LFS Mesotrion, Meristo, Onyx EC, Starship Max, BioBor 150, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Mangansulfat 32
+Blandingspartnere, som der IKKE bør blandes med
+Focus Ultra
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Fodermajs
+Agersennep, alm. pengeurt, enårig rapgræs, flyvehavre, fuglegræs, hanekro, hyrdetaske, raps, sort natskygge
+50 g + 0,67 l MaisOilUkrudtets stadium 12-14 (2-4 løvblade)
+NB! Behandling senest på majsens 8-bladstadie. Maks. 150 g MaisTer pr. ha pr. år.
+Fodermajs
+Agerrævehale, agersvinemælk, alm. rajgræs, forglemmigej, hvidmelet gåsefod, kamille, lægejordrøg, tvetand
+100 g + 1,33 l MaisOilUkrudtets stadium 12-14 (2-4 løvblade)
+Enkeltbehandling. 50 - 150 g afhængig af ukrudtsart, sprøjtetidspunkt og eventuel blandingspartner. NB! Behandling senest på majsens 8-bladstadie. Maks. 150 g MaisTer pr. ha pr. år.
+Fodermajs
+Agerrævehale, agersvinemælk, alm. rajgræs, forglemmigej, hvidmelet gåsefod, kamille, lægejordrøg, tvetand
+50 g + 0,67 l MaisOilUkrudtets stadium 12-14 (2-4 løvblade)
+Splitbehandling. NB! Behandling senest på majsens 8-bladstadie. Maks. 150 g MaisTer pr. ha pr. år.
+50 g + 0,67 l MaisOil2. sprøjtning 10-14 dage senere
+Fodermajs
+Alm. hanespore, bleg pileurt, burresnerre, ferskenpileurt, grøn skærmaks, kvik
+100 g + 1,33 l MaisOilUkrudtets stadium 12-14 (2-4 løvblade)
+NB! Behandling senest på majsens 8-bladstadie. Maks. 150 g MaisTer pr. ha pr. år.
+50 g + 0,67 l MaisOil2. sprøjtning 10-14 dage senere
+Fodermajs
+Snerlepileurt, vejpileurt, ærenpris
+100 g + 1,33 l MaisOilUkrudtets stadium 12-14 (2-4 løvblade)
+Tilsæt Callisto eller Starane 180. Effekten mod især snerle- og vejpileurt samt ærenpris er ikke tilstrækkelig. Ligeledes kan effekten imod andre pileurter i enkelte tilfælde variere. Hvor disse arter er et stort problem, anbefales det at tilsætte 0,25 ltr. Starane 180 ved hver sprøjtning, eller at udsprøjte 0,75 ltr. Callisto enten på det først fremspirerede ukrudts kimblade eller i blanding med den første MaisTer-behandling. Hvor ærenpris er et problem vælges Callisto som blandingspartner. NB! Behandling senest på majsens 8-bladstadie. Maks. 150 g MaisTer pr. ha pr. år.
+50 g + 0,67 l MaisOil2. sprøjtning 10-14 dage senere
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Da MaisTer hurtigt nedbrydes i jorden, kan der året efter anvendelse dyrkes alle normale markafgrøder.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+8
+ºC
+
+Timers tørvejr
+2
+
+4
+
+Virkemåde
+Begge aktivstoffer i MaisTer, foramsulfuron og iodosulfuron, tilhører gruppen af sulfonylureamidler. Virkemekanismen er for begge aktivstoffer en blokering af aminosyresyntesen. Optagelsen sker i altovervejende grad gennem ukrudtets blade, og efter optagelsen transporteres de aktive stoffer ind i plantens celler, hvor stoffet virker ved at hæmme dannelsen af aminosyrerne, isoleucin og valin. MaisTer indeholder en safener der betyder, at afgrøden ikke påvirkes. Efter optagelsen standser væksten i løbet af få dage. Efter 10 - 15 dage ses en gulfarvning af de yngste plantedele, og ukrudtet begynder at falde sammen, for at visne væk i løbet af de næste 2 - 4 uger.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt: Bring den forulykkede ud i det fri. Undgå afkøling (tildækning med f.eks. tæppe). Bevidstløse lægges med hovedet lavt (aflåst sideleje). Ved vejrtrækningsstop gives kunstigt åndedræt. Opsøg læge eller tilkald ambulance. Medbring brugsanvisning eller etikette. Indånding: Se generelt. Hud: Forurenet tøj fjernes straks. Kommer stof på huden vaskes med store mængder vand. Øjne: Skyl straks med rigeligt vand i mindst 15 minutter. Søg læge. Indtagelse: Søg straks læge. Opkastning må ikke fremkaldes. Skyl munden grundigt med vand. Modgift: Ingen kendt. Symptomatisk behandling.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+MaisTer
+Sikkerhedsdatablad
+MaisTer
+Vejledning i Planteværn
+2025
+Side 279 til 280
+VP25s279-280.pdf.pdf--
+Side 279 til 280--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/maister-etiket-dk.pdf
