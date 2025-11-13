@@ -1,0 +1,134 @@
+Mycotal - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Mycotal
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-2651 BE Berkel en Rodenr?sTlf: Fax: Mail: ','Koppert B.V.'); return true;" onmouseout="nd(); return true;"Koppert B.V.
+Distributør
+8200 Århus NTlf: 86 78 69 88Fax: 86 78 69 22Mail: borregaard@bioplant.dk','Borregaard BioPlant'); return true;" onmouseout="nd(); return true;" href="Http://www.bioplant.dk" target="_new"Borregaard BioPlant
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+10000000000000 CFU/kg
+Akanthomyces muscarius Ve6 (tidligere Lecanicillium muscarium Ve6)
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+0,0000 kg/ha
+0,0000 B/kg
+
+Pesticidafgift: 0 kr. pr. kg
+Godkendelse
+Registreringsnummer
+677-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af mellus i agurker, tomater, peberfrugter, cornichon, zucchini, melon, aubergine, jordbær, planteskolekulturer og
+prydplanter i åbne og lukkede væksthuse. Samt til mindre anvendelse i visse afgrøder i åbne og lukkede væksthuse, samt i tunnel på friland jf.
+brugsanvisningen.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet
+eller med beholdere, der har indeholdt
+produktet. Rens ikke sprøjteudstyr nær
+overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Afsk&#229;rne roser i &#229;bne v&#230;ksthuseAgurk i lukket v&#230;ksthusAgurk i &#229;bne v&#230;ksthuseAubergine i lukket v&#230;ksthusAubergine i &#229;bne v&#230;ksthuseCornichon i lukket v&#230;ksthusCornichon i &#229;bne v&#230;ksthuseJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseMelon i lukket v&#230;ksthusMelon i &#229;bne v&#230;ksthusePeberfrugt i lukket v&#230;ksthusPeberfrugt i &#229;bne v&#230;ksthusePlanteskolekulturer i lukket v&#230;ksthusPlanteskolekulturer i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuseZucchini (squash) i lukket v&#230;ksthusZucchini (squash) i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Mycotal, reg.nr. 677-1
+Agurk i &#229;bne v&#230;ksthuseAubergine i lukket v&#230;ksthusAubergine i &#229;bne v&#230;ksthuseBladgr&#248;ntsager i lukket v&#230;ksthusBladgr&#248;ntsager i &#229;bne v&#230;ksthuseChilipeber i lukket v&#230;ksthusChilipeber i &#229;bne v&#230;ksthuseCornichon i lukket v&#230;ksthusCornichon i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; frilandJordb&#230;r p&#229; tabletop p&#229; frilandKrydderurter i lukket v&#230;ksthusKrydderurter i &#229;bne v&#230;ksthuseMelon i lukket v&#230;ksthusMelon i &#229;bne v&#230;ksthusePersille i lukket v&#230;ksthusPersille i &#229;bne v&#230;ksthusePlanteskolekulturer i lukket v&#230;ksthusPlanteskolekulturer i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuseZucchini (squash) i lukket v&#230;ksthusZucchini (squash) i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Mycotal, reg.nr. 677-1, til mindre an mindre anvendelse i visse afgrøder i åbne og lukkede væksthuse, samt i tunnel på friland jf. brugsanvisningen. Se vejledning på etiketten.
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af pulver/røg/gas/tåge/damp/spray.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Mycotal
+Sikkerhedsdatablad
+Mycotal
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Mycotal_677-1_Godkendt_Etikette_20250411.pdf
