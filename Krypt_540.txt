@@ -1,0 +1,174 @@
+Krypt 540 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Krypt 540
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+15 DublinTlf: Fax: Mail: ','Barclay Chemicals Manufacturing Ltd.'); return true;" onmouseout="nd(); return true;"Barclay Chemicals Manufacturing Ltd.
+Distributør
+15 DublinTlf: Fax: Mail: ','Barclay Chemicals Manufacturing Ltd.'); return true;" onmouseout="nd(); return true;"Barclay Chemicals Manufacturing Ltd.
+Anvendes indenfor
+Frugtavl, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+540 g/l
+glyphosat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+2,33 l/ha
+0,429 BI/l
+Vinterraps
+2,33 l/ha
+0,429 BI/l
+Vintersæd
+2,33 l/ha
+0,429 BI/l
+Vårraps
+2,33 l/ha
+0,429 BI/l
+Vårsæd
+2,33 l/ha
+0,429 BI/l
+Ærter
+2,33 l/ha
+0,429 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+11,4 l/ha
+0,0881 B/l
+Miljøeffekt
+42,6 l/ha
+0,0235 B/l
+I alt
+5,36 l/ha
+0,187 B/l
+
+Pesticidafgift: 37 kr. pr. l
+Godkendelse
+Registreringsnummer
+357-9
+Miljøstyrelsens godkendelse
+Må kun anvendes til:
+Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder og efter såning men før fremspiring jf. brugsanvisningen.
+I følgende foderafgrøder: raps, korn, ærter, bønner, hestebønner, hør og græs, er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale/rughvede og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende aktivstoffet glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Raps og hør til frø må ikke behandles senere end 14 dage før høst.
+Hvede, rug, triticale, byg, havre, ærter og bønner må ikke behandles senere end 7 dage før høst.
+Græs må ikke behandles senere end 5 dage før høst.
+Ukrudtsbekæmpelse under vindruer inden bladknopudvikling (BBCH 00-03).
+Ukrudtsbekæmpelse i skovkulturer.
+Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er befæstede eller stærkt permeable.
+Ukrudtsbekæmpelse mellem og under frugttræer om efteråret efter høst.
+Behandlingsfrist
+Raps og hør til frø må ikke behandles senere end 14 dage før høst.
+Hvede, rug, triticale, byg, havre, ærter og bønner må ikke behandles senere end 7 dage før høst.
+Græs må ikke behandles senere end 5 dage før høst. Se også godkendelsestekst
+Forbehold
+I følgende foderafgrøder: raps, korn, ærter, bønner, hestebønner, hør og græs, er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale/rughvede og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende aktivstoffet glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Frugter, fra et areal behandlet med glyphosat, må anvendes som foder til husdyr.
+Afgrøder behandlet med glyphosat må ikke anvendes som foder til fjerkræ og får, da det vurderes, at restindhold i animalske produkter vil overskride grænseværdien.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter ved applikationsrater op til og inklusiv 1,85 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 1,85 L produkt/ha op til og inklusiv 3,63 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 3,63 L produkt/ha (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+B&#248;nnerF&#248;r fremspiring af afgr&#248;derF&#248;r s&#229;ning af afgr&#248;derGr&#230;sHesteb&#248;nnerH&#248;rKornRapsSkovbrugUdyrkede arealerUnder frugttr&#230;erVindruer&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Krypt 540 (Glyphosate 540 K-Salt), reg.nr. 357-9
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær øjenbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Krypt 540
+Sikkerhedsdatablad
+Krypt 540
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Krypt_540_357-9_Godkendt_Etikette_20240202.pdf
