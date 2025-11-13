@@ -1,0 +1,133 @@
+Svampe Stop - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Svampe Stop
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Distributør
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+4,25 g/l
+kaliumhydrogencarbonat
+Parallelprodukt, identisk med SvampeFri Armisan Klar-til-brug
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+2.500 l/ha
+0,0004 B/l
+I alt
+2.500 l/ha
+0,0004 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+1008-5
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i
+æble på friland, samt i tomat, aubergine, peberfrugt,
+agurk, drueagurk og squash på friland og i drivhus.
+Behandlingsfrist
+Må i spiselige afgrøder ikke anvendes senere end 1 dag før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke
+overskrides.
+Må ikke anvendes mod andre skadevoldere og ikke i
+højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer
+og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk p&#229; frilandAubergine i v&#230;ksthusDrueagurk i v&#230;ksthusDrueagurk p&#229; frilandPeber i v&#230;ksthusPeber p&#229; frilandSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) p&#229; frilandTomater i v&#230;ksthusTomater p&#229; friland&#198;bleplanter&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Svampe Stop, reg. nr. 1008-5
+BroccoliBromb&#230;rB&#230;lgfrugtB&#230;rbuskeGerberaGr&#230;skarHindb&#230;rHovedk&#229;lHvidk&#229;lJordb&#230;rK&#229;lMelonPrydplanterRosenk&#229;lRoserR&#248;dk&#229;lVindruer p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Svampe Stop, reg.nr. 1008-5, mod svampesygdomme i jordbær, bær, roser, vindruer, bælgfrugter, græskar, kål, rosenkål, blomkål, broccoli, rod- og knoldfrugter, prydplanter og prydbuske på friland samt i drivhus. Brugsanvisning kan findes på produktets etikette.
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Svampe Stop
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Svampe_Stop_1008-5_Godkendt_Etikette_20230614.pdf
