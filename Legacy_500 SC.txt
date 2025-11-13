@@ -1,0 +1,319 @@
+Legacy 500 SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Legacy 500 SC
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Legacy
+Pakningsstørrelse
+1 l
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Firmaets produktside
+Legacy 500 SC
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+450,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/l
+diflufenican
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,150 l/ha
+6,67 BI/l
+Majs
+0,0750 l/ha
+13,3 BI/l
+Vintersæd
+0,200 l/ha
+5,00 BI/l
+Vårsæd
+0,150 l/ha
+6,67 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,956 l/ha
+1,05 B/l
+Miljøeffekt
+3,94 l/ha
+0,254 B/l
+I alt
+0,770 l/ha
+1,30 B/l
+
+Pesticidafgift: 192 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-12-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+396-26
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinter- og vårhvede, vinter- og vårbyg, vinterrug og triticale.
+Behandlingsfrist
+Må ikke anvendes senere end afgrødens vækststadium 28.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse i purløg til frøproduktion
+PastinakRodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse i gulerod, pastinak og persillerod. Registreringsindehaver: Niels Ege Nielsen, Limfjords.
+VinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Legacy 500 SC, reg.nr. 396-26
+Priklebede p&#229; planteskoler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse i priklebede med planteskolekulturer
+Bl&#229;b&#230;rHybenRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod ukrudt i solbær, ribs, stikkelsbær, blåbær, aronia og hyben.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse til bekæmpelse af ukrudt i timian til frøproduktion i etableringsfasen
+Alm. rapgr&#230;s til fr&#248;avlEngrapgr&#230;s til fr&#248;avlEngsvingel til fr&#248;avlHundegr&#230;s til fr&#248;avlHybridrajgr&#230;s til fr&#248;avlItaliensk rajgr&#230;s til fr&#248;avlRajsvingel til fr&#248;avlR&#248;dsvingel til fr&#248;avlStivbladet svingel (bakkesvingel) til fr&#248;avlStrandsvingel til fr&#248;avlTimothe til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse i frøgræs
+Kirseb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod ukrudt i kirsebær og blomme
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse til bekæmpelse af ukrudt i juletræer
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod ukrudt i elefantgræs
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod ukrudt i pære og æble
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod ærenpris i fodermajs
+Kl&#248;ver til fr&#248;K&#248;rvel til fr&#248;Lucerne til fr&#248;avlLupin til fr&#248;avlPurl&#248;g til fr&#248;avlSkorzonerrod til fr&#248;avlTimian til fr&#248;avl&#198;rter til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Legacy 500 SC (396-26) til mindre anvendelse mod græsukrudt i kløver, lucerne, dild, kørvel, purløg, skorzonerrod, timian, ærter og lupin til produktion af frø på friland
+VinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Legacy 500 SC, reg.nr. 396-26, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Legacy 500 SC, reg.nr. 396-26, anvendelses- og besiddelsesforbud
+Anvendelse
+Resistensrisiko
+Produkt Legacy® 500 SC tilhører gruppen af Pyridinecarboxamides
+(HRAC gruppe F1), som vurderes at have en lav risiko for udvikling
+af resistens. I Danmark er der ikke fundet tilfælde med resistens.
+Gentagen anvendelse af samme middel eller midler med samme
+virkemekanisme kan resultere i dannelse af resistens. For at undgå
+dette, anbefales det med jævne mellemrum at anvende midler
+med anden virkemekanisme enten i form af en tankblanding, eller
+ved at skifte middel med jævne mellemrum.
+Resistensklasse
+F1 / 12
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Fyld tanken halvt op med rent vand. Tilsæt Legacy 500 SC og fyld op med den resterende vandmængde. Sørg for god omrøring før og under sprøjtning. Alle bekæmpelsesmidler bør behandles med forsigtighed, og egnet beskyttelsesudstyr bør anvendes. Når sprøjtearbejdet er afsluttet foretages en normal, grundig rengøring af udstyret.
+Rengøring
+Sprøjten bør rengøres med vand umiddelbart efter sprøjtningens afslutning ved at fortynde en eventuel rest 10 gange og udsprøjte denne på den netop behandlede afgrøde. Herefter spules tanken med 10 pct. af sit rumindhold 2 gange. Skyllevandet udsprøjtes på et areal, hvor eventuelle rester ikke kan gøre skade. Alle ventiler på sprøjten bør betjenes således, at skyllevandet kommer rundt i alle kroge. Skyllevandet må ikke løbe i kloakker, dræn, brønde og lignende. Udvendig rengøring af traktor og sprøjte med vand bør gøres på et græsdækket areal efter sprøjtningens afslutning.
+Opbevaring
+Opbevares utilgængelig for børn. Må ikke opbevares sammen med
+fødevare, drikkevarer samt foderstoffer. Skal opbevares frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Mateno Duo SC 600, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Boxer, CCC 750, Cycocel 750, Express 50 SX, Flight Xtra, Glyphomax 480 HL, Mustang forte, Pixxaro EC, Zypar, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Agerstedmoder, fuglegræs, hyrdetaske, markforglemmigej
+0,15 lEfterår på afgrødens stadium 00-28
+Legacy 500 SC kun må anvendes 1 gang årligt.
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Agerstedmoder, fuglegræs, hyrdetaske, markforglemmigej
+0,24 lAfgrødens stadium 20-28
+Legacy 500 SC kun må anvendes 1 gang årligt.
+Vårbyg, Vårhvede
+Agerstedmoder, fuglegræs, hyrdetaske, markforglemmigej
+0,1 lAfgrødens stadium 00-19
+Legacy 500 SC kun må anvendes 1 gang årligt.
+Vårbyg, Vårhvede
+Agerstedmoder, fuglegræs, hyrdetaske, markforglemmigej
+0,15 lAfgrødens stadium 20-28
+Legacy 500 SC kun må anvendes 1 gang årligt.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ved eventuel omsåning om foråret af en afgrøde, der er behandlet
+med Legacy 500 SC om efteråret, kan alle afgrøder sås efter
+pløjning. Korn kan sås efter en grundig harvning.
+Efteråret efter en afgrøde der er behandlet med diflufenican, kan
+der kun sås vintersæd og vinterraps. Ved såning af vinterraps efter
+en Legacy 500 SC behandlet afgrøde anbefales det at pløje inden
+såning.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+2
+ºC
+
+Jordfugtighed
+
+høj
+
+Nattefrostrisiko
+
+ingen
+
+Andet
+På humusjorde kan der være nedsat effekt.
+Virkemåde
+Diflufenican optages af ukrudtets blade og virker ligeledes som kontaktmiddel. Ved udsprøjtning danner diflufenican en film på jordoverfladen, hvorfra det optages ved
+fremspiring af nyt ukrudt. Herved opnås en effekt på endnu ikke fremspiret ukrudt. Kan give hvide pletter på afgrøden ved sen sprøjtning.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt:
+Ved symptom på forgiftning bringes den forulykkede til et godt ventileret rum eller i frisk luft, men beskyttet mod
+afkøling. Det tilrådes altid at søge læge/skadestue ved vedvarende ubehag/forstyrrelser, og der medbringes etikette
+eller leverandørbrugsanvisning.
+Indånding: Ved indånding flyttes personen til frisk luft, og der søges lægehjælp ved fortsat ildebefindende.
+Indtagelse: Ved indtagelse skylles munden omhyggeligt med vand, og der søges lægehjælp. Giv aldrig væske eller
+andet gennem munden hvis patienten er bevidstløs.
+Hudkontakt: Ved kontakt med huden fjernes gennemvædet tøj, og huden vaskes med vand og sæbe.
+Øjenkontakt: Ved kontakt med øjnene skylles omgående med vand i mindst 15 minutter. Fjern eventuelle
+kontaktlinser under skylning, og søg læge ved fortsat øjenirritation.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Legacy 500 SC
+Sikkerhedsdatablad
+Legacy 500 SC
+Vejledning i Planteværn
+2025
+Side 230 til 236
+VP25s230-236.pdf.pdf--
+Side 230 til 236--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Legacy_500_SC_396-26_Etikette_20180307.pdf
