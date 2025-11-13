@@ -1,0 +1,160 @@
+Vacciplant - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Vacciplant
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-35419 Saint Malo cedexTlf: +33 (0) 2 99 19 19 19Fax: Mail: ','Laboratoires GOËMAR SAS'); return true;" onmouseout="nd(); return true;"Laboratoires GOËMAR SAS
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+640,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+45 g/l
+laminarin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+2.000 l/ha
+0,0005 B/l
+Miljøeffekt
+376 l/ha
+0,0027 B/l
+I alt
+5,64 l/ha
+0,177 B/l
+
+Pesticidafgift: 26 kr. pr. l
+Godkendelse
+Registreringsnummer
+740-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme
+i jordbær, tomat, squash og græskar i åbne og lukkede
+væksthuse, samt i jordbær på friland.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller
+med beholdere, der har indeholdt produktet. Rens ikke
+sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Skal opbevares frostfrit.
+Opbevares utilgængeligt for børn
+(P102).
+Må ikke opbevares sammen
+med fødevarer, drikkevarer
+og foderstoffer.
+Midlet må kun
+opbevares i
+originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse Vacciplant, reg.nr. 740-1, til mindre anvendelse mod skurv og gloeosporiumråd i æble og pære. Brugsanvisning findes på Vacciplant-etiketten.
+Jordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; frilandSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Vacciplant, reg.nr. 740-1
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+Vacciplant
+Sikkerhedsdatablad
+Vacciplant
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Vacciplant_740-1_Etikette_20231213.pdf
