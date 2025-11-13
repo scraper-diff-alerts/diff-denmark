@@ -1,0 +1,159 @@
+LFS Clodinafop - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Clodinafop
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Endnu ikke markedsført
+Indhold af aktivstoffer
+100 g/l
+clodinafop-propargyl
+(~ 89,1 g/l
+clodinafop
+25 g/l
+cloquintocet-mexyl
+(~ 17,7 g/l
+cloquintocet
+Parallelprodukt, identisk med Topik
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,300 l/ha
+3,33 BI/l
+Vintersæd
+0,400 l/ha
+2,50 BI/l
+Vårsæd
+0,400 l/ha
+2,50 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,91 l/ha
+0,524 B/l
+Miljøadfærd
+55,2 l/ha
+0,0181 B/l
+Miljøeffekt
+68,5 l/ha
+0,0146 B/l
+I alt
+1,80 l/ha
+0,556 B/l
+
+Pesticidafgift: 80 kr. pr. l
+Godkendelse
+Registreringsnummer
+318-165
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vår- og vinterhvede, triticale og rug.
+Behandlingsfrist
+Må ikke anvendes senere end 90 dage før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må kun anvendes én gang om året.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+TriticaleVinterhvedeV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Clodinafop, reg.nr. 318-165
+TriticaleVinterhvedeV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+LFS Clodinafop, reg.nr. 318-165, under revurdering
+Sikkerhed
+Fareklasse
+Xn
+Sundhedsskadelig
+
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R36
+Irriterer øjnene.
+R43
+Kan give overfølsomhed ved kontakt med huden.
+R48/22
+Alvorlig sundhedsfare ved længere tids påvirkning ved indtagelse.
+R51/53
+Giftig for organismer der lever i vand; kan forårsage uønskede langtidseffekter i vandmiljøet.
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+S23
+Undgå indånding af aerosoltåger.
+S24
+Undgå kontakt med huden.
+S26
+Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes.
+S28
+Kommer stoffet på huden vaskes straks med store mængder vand.
+S37
+Brug egnede beskyttelseshandsker under arbejdet.
+Transport
+UN-nr.
+3082
+RID_ADR
+Klasse 9, punkt 11 PG III
+IMDG
+Klasse 9, pakkegruppe III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Clodinafop
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Clodinafob_318-165_Etikette_20120802.pdf
