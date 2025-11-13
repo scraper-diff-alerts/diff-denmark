@@ -1,0 +1,156 @@
+Ratio Super 50 SX - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ratio Super 50 SX
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/kg
+tribenuron-methyl
+(~ 241 g/kg
+tribenuron
+250 g/kg
+thifensulfuron-methyl
+(~ 241 g/kg
+thifensulfuron
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vintersæd
+18,0 g/ha
+0,0556 BI/g
+Vårsæd
+15,0 g/ha
+0,0667 BI/g
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4.292 g/ha
+0,0002 B/g
+Miljøadfærd
+177 g/ha
+0,0056 B/g
+Miljøeffekt
+2.655 g/ha
+0,0004 B/g
+I alt
+160 g/ha
+0,0063 B/g
+
+Pesticidafgift: 0,886 kr. pr. g
+Godkendelse
+Registreringsnummer
+11-67
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i korn med eller uden udlæg.
+Behandlingsfrist
+Må i korn med og uden udlæg af græs ikke anvendes senere end 2 måneder før høst, for helsæd dog ikke senere end 4 uger før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr
+nær overfladevand (SP1).
+For at beskytte grundvandet må dette produkt kun anvendes
+1 gang pr. vækstår (1. august-31. juli). Der må endvidere i samme
+vækstår ikke også anvendes andre produkter, der indeholder
+tribenuron-methyl, iodosulfuron, metsulfuron-methyl, triasulfuron
+eller thifensulfuron-methyl (Spe1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (Spe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Vinters&#230;d uden udl&#230;gV&#229;rs&#230;d med udl&#230;gV&#229;rs&#230;d uden udl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Ratio Super 50 SX, reg.nr. 11-67 - godkendelse overført fra Du Pont Danmark ApS
+Vinters&#230;d uden udl&#230;gV&#229;rs&#230;d med udl&#230;gV&#229;rs&#230;d uden udl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Ratio Super 50 SX, reg.nr. 11-67, under revurdering
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke pulver.
+P260
+Indånd ikke spray.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ratio Super 50 SX
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Ratio_Super_50_SX_11-67_Godkendt_Etikette_20230524.pdf
