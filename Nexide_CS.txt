@@ -1,0 +1,176 @@
+Nexide CS - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Nexide CS
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Kapselsuspension
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+60 g/l
+gamma-cyhalothrin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vinterraps
+0,0600 l/ha
+16,7 BI/l
+Vintersæd
+0,0500 l/ha
+20,0 BI/l
+Vårraps
+0,0600 l/ha
+16,7 BI/l
+Vårsæd
+0,0500 l/ha
+20,0 BI/l
+Ærter
+0,0500 l/ha
+20,0 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+14,3 l/ha
+0,0700 B/l
+Miljøeffekt
+0,0179 l/ha
+55,9 B/l
+I alt
+0,0177 l/ha
+56,4 B/l
+
+Pesticidafgift: 7901 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-10-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+11-40
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i korn, raps og i ærter til modenhed og grønne ærter.
+Behandlingsfrist
+Må i korn ikke anvendes senere end 21 dage før høst.
+Må i raps ikke anvendes senere end 28 dage før høst.
+Må i ærter ikke anvendes senere end 14 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i
+brugsanvisningen nævnte.
+Farligt for bier - for at beskytte bier og andre bestøvende insekter må dette
+produkt ikke anvendes i blomstrende afgrøder i biernes flyvetid fra kl. 03 til kl. 21 (dansk sommertid) (Spe8).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#248;nne &#230;rterHavreRugSpeltTriticaleVinterbygVinterhvedeVinterrapsV&#229;rbygV&#229;rhvedeV&#229;rraps&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Nexide CS, reg.nr. 11-40
+Gr&#248;nne &#230;rterHavreRugSpeltTriticaleVinterbygVinterhvedeVinterrapsV&#229;rbygV&#229;rhvedeV&#229;rraps&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Nexide CS, reg.nr. 11-40, godkendelse trukket på grund af manglende fornyelse af aktivstoffet i EU
+På forbudsliste
+
+Nexide CS, reg.nr. 11-40, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Nexide CS
+Sikkerhedsdatablad
+Nexide CS
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Nexide_CS_11-40_Godkendt_Etikette_1L_20230524.pdf
