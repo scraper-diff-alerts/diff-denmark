@@ -1,0 +1,174 @@
+LFS Ethephon + mepiquat-chlorid - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Ethephon + mepiquat-chlorid
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+155 g/l
+ethephon
+305 g/l
+mepiquat-chlorid
+(~ 233 g/l
+mepiquat
+Parallelprodukt, identisk med Terpal
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+3,49 l/ha
+0,286 BI/l
+(Vinterraps)
+1,07 l/ha
+0,939 BI/l
+(Vintersæd)
+1,73 l/ha
+0,577 BI/l
+(Vårsæd)
+0,866 l/ha
+1,15 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+20,2 l/ha
+0,0495 B/l
+Miljøadfærd
+10,4 l/ha
+0,0964 B/l
+Miljøeffekt
+15,7 l/ha
+0,0638 B/l
+I alt
+4,77 l/ha
+0,210 B/l
+
+Pesticidafgift: 39 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 16-11-2025, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+318-125
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterhvede, vinterrug, triticale, byg og frøgræs.
+Behandlingsfrist
+Behandlet hvede, rug, triticale og byg må ikke anvendes til foder.
+Halm fra frøgræs må ikke anvendes til foder.
+Må i vinterhvede, vinterrug, triticale og byg ikke anvendes senere end vækststadium 49 og i frøgræs ikke senere end vækststadium 39.
+Forbehold
+Behandlet hvede, rug, triticale og byg må ikke anvendes til foder.
+Halm fra frøgræs må ikke anvendes til foder.
+Må i vinterhvede, vinterrug, triticale og byg ikke anvendes senere end vækststadium 49 og i frøgræs ikke senere end vækststadium 39.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med behol-dere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Rajgr&#230;sR&#248;dsvingelTimotheTriticaleVinterbygVinterhvedeVinterrugV&#229;rbyg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS-Ethephon + mepiquat-chlorid, reg.nr. 318-125
+Rajgr&#230;sR&#248;dsvingelTimotheTriticaleVinterbygVinterhvedeVinterrugV&#229;rbyg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+LFS-Ethephon + mepiquat-chlorid, reg.nr. 318-125, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+LFS-Ethephon + mepiquat-chlorid, reg.nr. 318-125, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H290
+Kan ætse metaller.
+H302
+Farlig ved indtagelse.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P234
+Opbevares kun i den originale beholder.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P390
+Absorber udslip for at undgå materielskade.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3265
+RID_ADR
+Klasse 8, pakkegruppe III
+IMDG
+Ingen oplysninger
+IATA
+Klasse 8, pakkegruppe III
+Yderligere oplysninger
+Etikette oplysninger
+LFS Ethephon + mepiquat-chlorid
+Sikkerhedsdatablad
+LFS Ethephon + mepiquat-chlorid
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Ethephon_Mepiquatchlorid_318-125_Godkendt_Etikette_20160819.pdf
