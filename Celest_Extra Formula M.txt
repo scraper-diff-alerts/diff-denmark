@@ -1,0 +1,273 @@
+Celest Extra Formula M - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Celest Extra Formula M
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1000 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende bejdse
+Status
+Markedsført
+Indhold af aktivstoffer
+25 g/l
+difenoconazol
+25 g/l
+fludioxonil
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,87 l/ha
+0,349 B/l
+Miljøadfærd
+15,1 l/ha
+0,0660 B/l
+Miljøeffekt
+59,6 l/ha
+0,0168 B/l
+I alt
+2,32 l/ha
+0,432 B/l
+
+Pesticidafgift: 62 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-205
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme
+ved bejdsning i hvede, byg, rug og triticale i lukkede,
+industrielle anlæg.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen
+nævnte.
+SP1 Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+SPe1 For at beskytte grundvandet må der højest anvendes de i brugsanvisningen angivne maksimale
+doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også anvendes
+andre produkter, der indeholder epoxiconazol, propiconazol, tebuconazol eller difenoconazol med
+mindre doseringerne nedsættes tilsvarende. Hvis der anvendes flere produkter med disse stoffer
+skal doseringerne beregnes forholdsmæssigt ud fra aktivstoffernes respektive maksimale doser
+i de pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne.
+Må ikke tømmes i kloakafløb.
+Det bejdsede korn skal umiddelbart efter bejdsningen emballeres i beholder/emballage og plomberes.
+Det bejdsede korn er bejdset med Celest® Extra Formula M, som indeholder fludioxonil og
+difenoconazol. Det bejdsede korn er farligt og må ikke anvendes til menneskeføde eller foder.
+Ved håndtering af det bejdsede korn bær beskyttelseshandsker.
+For at beskytte grundvandet må der i samme vækstår ikke også anvendes andre produkter,
+der indeholder epoxiconazol, propiconazol, tebuconazol eller difenoconazol med mindre
+doseringerne nedsættes tilsvarende. Hvis der anvendes flere produkter med disse stoffer skal
+doseringerne beregnes forholdsmæssigt ud fra aktivstoffernes respektive maksimale doser i de
+pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne (SPe1).
+Beholderen/emballagen må ikke anvendes til brødkorn, andre levnedsmidler og foderstoffer.
+Ovenstående indrammede angivelse skal være tydeligt anført på en etiket eller bindemærke, der
+straks skal fastgøres på beholderen/emballagen på en sådan måde, at etiketten eller bindemærket
+normalt vil blive siddende indtil indholdet er brugt.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bejdsning af triticaleBejdsning af vinterbygBejdsning af vinterhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Celest Extra Formula M, reg.nr. 1-205, omklassificeret
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+3 + 12
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Ingen oplysninger
+Rengøring
+Ingen oplysninger
+Opbevaring
+Produkter som opbevares i mere end seks måneder skal omrøres før brug. Bejdsning med Celest Extra Formula M forringer ikke kornets lagerstabilitet eller spireevne i to år, ligesom bejdsningen bevarer sin effektivitet i en tilsvarende lagringsperiode. Behandlet udsæd bør dog ikke lagres i mere end et år.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Bejdsning af vinterhvede
+Hvedebrunplet, hvedestinkbrand, spiringsfusariose
+0,3 lFør såning
+NB! 0,3 l/ha er baseret på 150 kg udsæd pr. ha. Der anvendes 200 ml bejdsemiddel pr. 100 kg udsæd.
+Bejdsning af vinterbyg
+Bygbladplet, bygstribesyge, spiringsfusariose
+0,3 lFør såning
+NB! 0,3 l/ha er baseret på 150 kg udsæd pr. ha. Der anvendes 200 ml bejdsemiddel pr. 100 kg udsæd.
+Bejdsning af rug
+Rugstængelbrand, spiringsfusariose
+0,3 lFør såning
+NB! 0,3 l/ha er baseret på 150 kg udsæd pr. ha. Der anvendes 200 ml bejdsemiddel pr. 100 kg udsæd.
+Bejdsning af triticale
+Hvedebrunplet, hvedestinkbrand, spiringsfusariose
+0,3 lFør såning
+NB! 0,3 l/ha er baseret på 150 kg udsæd pr. ha. Der anvendes 200 ml bejdsemiddel pr. 100 kg udsæd.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Celest Extra Formula M indeholder de to aktivstoffer fludioxonil og difenoconazol. Fludioxonil er et kontaktvirkende og difenoconazol er et svagt systemisk og kontaktvirkende svampemiddel. Frø, rødder og den spirende plante optager en del af aktivstoffet under bejdsningen og spiringen, hvilket er tilstrækkeligt til at kontrollere svampesygdomme på eller i frøet. Celest Extra Formula M er ret ubevægeligt i jord og forbliver derfor i området omkring frøet i længere tid efter bejdsningen. Frø og den fremspirende plante er dermed beskyttet både udefra og indefra.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H332
+Farlig ved indånding.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Celest Extra Formula M
+Sikkerhedsdatablad
+Celest Extra Formula M
+Vejledning i Planteværn
+2025
+Side 268 til 269
+VP25s268-269.pdf.pdf--
+Side 268 til 269--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Celest_Extra_Formula_M_1-205_Godkendt_Etikette_20241209.pdf
