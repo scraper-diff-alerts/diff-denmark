@@ -1,0 +1,178 @@
+Diflanil 500 SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Diflanil 500 SC
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-3803 Sint-TruidenTlf: Fax: Mail: ','Q-CHEM NV'); return true;" onmouseout="nd(); return true;"Q-CHEM NV
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+450,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+500 g/l
+diflufenican
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,150 l/ha
+6,67 BI/l
+(Majs)
+0,0750 l/ha
+13,3 BI/l
+(Vintersæd)
+0,200 l/ha
+5,00 BI/l
+(Vårsæd)
+0,150 l/ha
+6,67 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,956 l/ha
+1,05 B/l
+Miljøeffekt
+3,94 l/ha
+0,254 B/l
+I alt
+0,770 l/ha
+1,30 B/l
+
+Pesticidafgift: 192 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-01-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+601-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinter- og vårhvede, vinter- og vårbyg, vinterrug og triticale samt til ukrudtsbekæmpelse i frugtplantager (æbler og pærer).
+Behandlingsfrist
+Må i vinter- og vårhvede, vinter- og vårbyg, vinterrug og triticale ikke anvendes senere end vækststadium 28. Må i æbler og pærer anvendes med én behandling i perioden efter blomstring til midten af juli.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ved doseringer op til 0,15 L/ha ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb og søer m.v.).
+Må ved doseringer op til 0,25 L/ha ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb og søer m.v.).
+Må ved doseringer op til 0,60 L/ha ikke anvendes nærmere end 40 meter fra vandmiljøet (vandløb og søer m.v.).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC til mindre anvendelse i purløg til frøproduktion
+PastinakRodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC til mindre anvendelse i gulerod, pastinak og persillerod. Vejledning til mindre anvendelser rekvireres ved Niels Ege Nielsen, Limfjords, email: nen@limfjords.com
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC (601-1) til mindre anvendelse i priklebede med planteskolekulturer
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Diflanil 500 SC, reg.nr. 601-1
+Bl&#229;b&#230;rHybenRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC til mindre anvendelse mod ukrudt i solbær, ribs, stikkelsbær, blåbær, aronia og hyben.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC til mindre anvendelse til bekæmpelse af ukrudt i timian til frøproduktion i etableringsfasen.
+Alm. rapgr&#230;s til fr&#248;avlEngrapgr&#230;s til fr&#248;avlEngsvingel til fr&#248;avlHundegr&#230;s til fr&#248;avlHybridrajgr&#230;s til fr&#248;avlItaliensk rajgr&#230;s til fr&#248;avlRajsvingel til fr&#248;avlR&#248;dsvingel til fr&#248;avlStivbladet svingel (bakkesvingel) til fr&#248;avlStrandsvingel til fr&#248;avlTimothe til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC (601-1) til mindre anvendelse i frøgræs
+Kirseb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC (601-1) til mindre anvendelse mod ukrudt i kirsebær og blomme
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC (601-1) til mindre anvendelse mod ukrudt i elefantgræs
+Kl&#248;ver til fr&#248;K&#248;rvel til fr&#248;Lucerne til fr&#248;avlLupin til fr&#248;avlPurl&#248;g til fr&#248;avlSkorzonerrod til fr&#248;avlTimian til fr&#248;avl&#198;rter til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Diflanil 500 SC (601-1) til mindre anvendelse mod græsukrudt i kløver, lucerne, dild, kørvel, purløg, skorzonerrod, timian, ærter og lupin til produktion af frø på friland
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Diflanil 500 SC, reg.nr. 601-1, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Diflanil 500 SC, reg.nr. 601-1, anvendelses- og besiddelsesforbud
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Diflanil 500 SC
+Sikkerhedsdatablad
+Diflanil 500 SC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/diflanil-label-dk.pdf
