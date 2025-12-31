@@ -1,0 +1,172 @@
+Delan 700 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Delan 700 WG
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Anvendes indenfor
+Frugtavl
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+730,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+700 g/kg
+dithianon
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,02 kg/ha
+0,981 B/kg
+Miljøadfærd
+14,0 kg/ha
+0,0716 B/kg
+Miljøeffekt
+3,23 kg/ha
+0,310 B/kg
+I alt
+0,734 kg/ha
+1,36 B/kg
+
+Pesticidafgift: 205 kr. pr. kg
+Godkendelse
+Registreringsnummer
+19-260
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i æbler, pærer og kirsebær.
+Behandlingsfrist
+Må i æbler og pærer ikke anvendes senere end 35 dage før høst.
+Må i kirsebær ikke anvendes senere end 21 dage før høst.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Der må ikke i samme afgrøde anvendes andre produkter indeholdende dithianon i samme vækstår, medmindre brugsanvisningen for Delan 700 WG overholdes inklusiv den totale mængde dithianon.
+Ved håndtering af behandlede afgrøder skal der anvendes kemisk bestandige handsker og arbejdstøj.
+Sprøjteførere skal anvende kemisk bestandige handsker og beskyttelsesdragt ved blanding, påfyldning og udbringning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 10 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+P&#230;rer&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Delan 700 WG, reg.nr. 19-260
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS06
+Giftig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H301
+Giftig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H330
+Livsfarlig ved indånding.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P260
+Indånd ikke pulver/spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P284
+Anvend åndedrætsværn.
+P301+P310+P330
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Skyl munden.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P310
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring omgående til en GIFTINFORMATION eller en læge.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Delan 700 WG
+Sikkerhedsdatablad
+Delan 700 WG
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Delan_700_WG_19-260_Etikette_20250527.pdf
