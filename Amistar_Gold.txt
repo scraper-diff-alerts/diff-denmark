@@ -1,0 +1,325 @@
+Amistar Gold - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Amistar Gold
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 og 10 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Amistar Gold
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+320,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+125 g/l
+difenoconazol
+125 g/l
+azoxystrobin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Kartofler)
+0,750 l/ha
+1,33 BI/l
+Roer
+0,667 l/ha
+1,50 BI/l
+Vinterraps
+0,667 l/ha
+1,50 BI/l
+Vintersæd
+0,667 l/ha
+1,50 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,11 l/ha
+0,474 B/l
+Miljøadfærd
+2,86 l/ha
+0,350 B/l
+Miljøeffekt
+24,1 l/ha
+0,0414 B/l
+I alt
+1,16 l/ha
+0,865 B/l
+
+Pesticidafgift: 127 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-233
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i vinterraps, sukkerroer og bederoer hvert 3. år, samt i rug, hvede og triticale hvert år.
+Behandlingsfrist
+Må i sukkerroer og bederoer ikke anvendes senere end 35 dage før høst.
+Må i rug, hvede, triticale og vinterraps ikke anvendes senere end vækststadie BBCH 69.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningens angivne maksimale doseringer pr. vækstår (1. august - 31.
+juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder tebuconazol eller difenoconazol med mindre
+doseringerne nedsættes tilsvarende. Hvis der anvendes flere produkter med disse stoffer skal doseringerne beregnes forholdsmæssigt ud
+fra aktivstoffernes respektive maksimale doser i de pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne (SPe1).
+Må ikke tømmes i kloakafløb.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Olier&#230;ddike til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar Gold (reg.nr. 1-233) til mindre anvendelse mod svampesygdomme i havefrø og olieræddike til frøproduktion på friland
+HvedeRugSukkerroerTriticaleVinterraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Amistar Gold, reg.nr. 1-233, omklassificeret
+Anvendelse
+Resistensrisiko
+Azoxystrobin tilhører gruppen af strobiluriner (FRAC gruppe 11), som vurderes at have en høj risiko for
+udvikling af resistens. Difenoconazol tilhører gruppen af triazoler (FRAC gruppe 3), som vurderes at
+have medium risiko for udvikling af resistens.
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling af resistens.
+For at mindske risikoen for udvikling af resistens anbefales det at blande med eller skifte mellem
+midler med andre virkemekanismer, som har god effekt over for de aktuelle svampe.
+Der er i Danmark udbredt resistens overfor strobiluriner hos hvedegråplet. Der er ligeledes fundet
+reduceret sensitivitet overfor visse triazoler, herunder difenoconazol. Effekten af Amistar Gold overfor
+hvedegråplet må derfor forventes at være moderat.
+Risikoen for resistens overfor fungicider kan nedsættes ved sprøjtning tidligt i infektionsforløbet.
+Resistensklasse
+3 + 11
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblanding:
+Med vore nuværende kundskaber er Amistar Gold fysisk blandbar med de vigtigste svampe-, insekt-, ukrudtsog
+vækstreguleringsmidler samt mikronæringsstoffer af god kvalitet.
+Fysisk blandbar indebærer at ingen udfældning sker. Forskellige faktorer såsom vandkvalitet, temperatur, vandets
+hårdhed m.m. kan indvirke på blandingen. Læs altid respektive præparaters etiket før brug.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på vaskepladsen. En uvasket
+sprøjte skal placeres i den behandlede mark på vaskepladsen eller under tag. Sprøjten skal være monteret
+med spuledyser til indvendig rengøring af tanken, og sprøjten skal være monteret med separat vandtank med
+tilstrækkelig kapacitet således, at restsprøjtvæske kan fortyndes, og der kan foretages en grundig rengøring i
+marken. Restsprøjtevæske skal på passende vis fortyndes 50 gange med vand og udsprøjtes i den behandlede
+mark (uden at den maksimalt tilladte dosering for det pågældende middel herved overskrides). Rengøring i
+øvrigt foretages med egnede rengøringsmidler (se evt. etiketten for det sidst anvendte middel for specifikke
+anvisninger).
+Samtidig med at filtre, slanger og dyser kontrolleres for urenheder og eventuelle belægninger.
+Vaskevandet opsamles i egnede beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler,
+jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Balaya
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Himalaya Pro
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Knoldbægersvamp
+1 lAfgrødens stadium 60-69
+Max 1 behandling om foråret. Vandmængde: 200-400 l/ha.
+Bederoer, Sukkerroer
+Bedemeldug, bederust, Cercospora-bladplet, ramularia
+1 lAfgrødens stadium 39-49
+Max. 1,0 L/ha per sæson. Som enkelt eller split behandling, f.eks. 2 x 0,5 L/ha. Min. 21 dages interval ved split behandling. Må kun anvendes hvert 3. år. Vandmængde: 200-400 l/ha.
+Hvede
+Brunrust, gulrust, hvedegråplet
+1 lAfgrødens stadium 33-69
+Max 1 behandling. Vandmængde: 100-400 l/ha.
+Rug
+Brunrust, hvedegråplet
+1 lAfgrødens stadium 33-69
+Max 1 behandling. Vandmængde: 100-400 l/ha.
+Triticale
+Brunrust, gulrust, hvedegråplet
+1 lAfgrødens stadium 33-69
+Max 1 behandling. Vandmængde: 100-400 l/ha.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen restriktioner i forbindelse med omsåning eller efterfølgende afgrøde.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+8-10
+ºC
+
+Timers tørvejr
+1
+
+2
+
+Virkemåde
+Azoxystrobin er et bredspektret fungicid fra gruppen af strobiluriner. Azoxystrobin
+virker systemisk i planten og har desuden en bladgennemtrængende (translaminar)
+effekt. Midlet har primært en forebyggende effekt, men også en antisporulerende
+effekt på visse svampesygdomme.
+Difenoconazole er et systemisk triazol fungicid som giver en vis kurativ og
+beskyttende effekt.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+Flyt personen til et sted med frisk luft og sørg for, at vejrtrækningen lettes. Ring til en GIFTINFORMATION eller læge i
+tilfælde af ubehag.
+Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+Nødtelefon: Alarm 112, Giftlinjen (Bispebjerg Hospital) 82 12 12 12
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H332
+Farlig ved indånding.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Amistar Gold
+Sikkerhedsdatablad
+Amistar Gold
+Vejledning i Planteværn
+2025
+Side 156 til 158
+VP25s156-158.pdf.pdf--
+Side 156 til 158--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://bmd.mst.dk/External/Entry/DownloadExternal/17956476-609c-40da-8098-0689c1c77065
