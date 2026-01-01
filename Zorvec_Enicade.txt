@@ -1,0 +1,296 @@
+Zorvec Enicade - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Zorvec Enicade
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 og 2,5 l
+Registreringsindehaver
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Firmaets produktside
+Zorvec Enicade
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+2.130,00 kr/l
+&nbsp()
+Formulering
+OD-formulering
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+oxathiapiprolin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,150 l/ha
+6,67 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+6,73 l/ha
+0,149 B/l
+Miljøadfærd
+1,21 l/ha
+0,824 B/l
+Miljøeffekt
+94,7 l/ha
+0,0106 B/l
+I alt
+1,02 l/ha
+0,983 B/l
+
+Pesticidafgift: 140 kr. pr. l
+Godkendelse
+Registreringsnummer
+64-128
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i kartofler.
+Behandlingsfrist
+Må ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må dette eller andre produkter, der indeholder oxathiapiprolin ikke anvendes oftere end hvert 3. år (SPe1).
+Skal opbevares frostfrit.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 1 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Zorvec Enicade, reg.nr. 64-128
+L&#248;gSkalottel&#248;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Zorvec Enicade (reg.nr. 64-128) til mindre anvendelse mod løgskimmel i løg inkl. skalotteløg og hvidløg på friland
+Anvendelse
+Resistensrisiko
+Zorvec Enicade indeholder Oxathiapiprolin der tilhører FRAC gruppe F9#49 (virker som en oxysterol
+protein bindings modulator i svampe celler). Resistensrisiko vurderes som medium til høj. Der er ingen krydsresistens mellem oxathiapiprolin og
+andre fungicider mod oomyceter.
+For at reducere risikoen for udvikling af resistens, bør Zorvec Enicade anvendes i programmer med
+andre svampemidler med en anden virkningsmekanisme. Ydermere bør Zorvec Enicade altid anvendes
+i blanding med et produkt med en anden virkningsmekanisme med god effekt mod kartoffelskimmel.
+Resistensklasse
+49
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+7-10 dage
+Opblandingsanvisninger
+Zorvec Enicade kan blandes med relevante plantebeskyttelsesmidler til kartofler. Ved blanding
+med andre midler følges midlets brugsanvisning. Det anbefales ikke at iblande mere end en
+blandingspartner. Kontakt producenten for mulige blandingspartnere.
+Tilberedning af sprøjtevæske:
+Sørg altid for, at sprøjten er korrekt rengjort samt efterset for belægninger inden tilberedning af
+sprøjtevæsken begyndes. Dette gælder især, hvis sprøjten har været anvendt til sprøjteopgaver i andre
+afgrøder.
+Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr fyldes fyldestationen halvt med vand,
+hvorefter der påfyldes den ønskede mængde produkt, som herefter suges op i sprøjtetanken samtidig
+med at rent vand tilsættes fyldestationen. Efterfølgende skylles præparatfyldeudstyret, samt evt.
+tomme dunke. Gentag proceduren til der ikke er synlige spor af Zorvec Enicade i fyldestationen.
+Direkte injektion: Der henvises til sprøjtefabrikantens vejledning.
+Rengøring
+Indvendig rengøring af sprøjteudstyr ved skift mellem/ afslutning af sprøjteopgave. Bemærk!
+Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange. Vær
+meget opmærksom på at få rengjort alle indvendige dele af sprøjten grundigt. Aktivér alle haner og
+ventiler samt hæv trykket så meget, at overtryksventilen fra det selvrensende filter udløses. Dette
+gælder under alle rengøringsprocesser.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes
+eller anvendes på det behandlede areal under kørsel uden at den maksimalt tilladte dosering for det
+pågældende middel herved overskrides.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank samt slanger og bom gennemskylles
+straks efter endt sprøjtning med vand fra skyllevandstanken. Skyllevandet kan med fordel deles, så
+indvendig vask og udsprøjtning foregår ad 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og
+tilsæt 0.5 liter All Clear1 Extra eller lignende produkt i anbefalet dosering pr. 100 liter vand. Sprøjt
+lidt af vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og
+tankspuledyse køre i mindst 15 minutter. Tøm sprøjten gennem bom og dyser over et egnet areal
+f.eks. på marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml All Clear Extra pr. 10 liter vand.
+- Skyl tanken og alle slanger grundigt i 5 minutter med rent vand. Skyllevandet sprøjtes ud gennem
+bom og dyser
+Udvendig rengøring af sprøjteudstyr
+Der henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Opbevares tørt og frostfrit.
+Midlet må kun opbevares i originalemballagen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar, Kaiso Sorbie, Lamdex, Mospilan SG, Narita, Propulse SE 250, Proxanil, Revus, Revus Top SC, Shirlan Ultra, Signum, Teppeki, Vendetta, Zignal 500 SC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Kartoffelskimmel
+0,15 lAfgrødens stadium 59-79
+Maks. 2 behandlinger pr. sæson. 7-10 dages interval mellem behandlingerne, kortest interval ved højt smittetryk. Må kun anvendes hvert 3. år.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen restriktioner i forhold til omsåning eller efterfølgende afgrøde.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+0,33 (20 min.)
+0,5
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Zorvec Enicade er et svampemiddel til bekæmpelse af kartoffelskimmel (Phytophthora infestans)
+i kartofler. Zorvec Enicade anvendes forebyggende og virker både translaminært og systemisk i
+planten. Den translaminære bevægelse sikrer ensartet beskyttelse af behandlede blade og den xylem
+systemiske bevægelse hjælper til at beskytte nytilvækst, samt blade som på behandlingstidpunktet
+endnu ikke er fuldt udviklede. Zorvec Enicade er et svampemiddel der specifikt virker mod oomyceter
+(kartoffelskimmel), og forhindrer både mycelievækst og sporeudvikling.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Førstehjælp:
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand (P302+352)
+Ved hudirritation eller udslet: Søg lægehjælp (P333+313)
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+364)
+Der henvises endvidere til produktets sikkerhedsdatablad afsnit 4.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P391
+Udslip opsamles.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Zorvec Enicade
+Sikkerhedsdatablad
+Zorvec Enicade
+Vejledning i Planteværn
+2025
+Side 370
+VP25s370.pdf.pdf--
+Side 370--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.corteva.dk/content/dam/dpagco/corteva/eu/dk/da/products/files/DF-Zorvec-Enicade-Etikete-Danska-K48070-22-03.pdf
