@@ -1,0 +1,318 @@
+Ariane FG S - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ariane FG S
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ariane FGS, Ariane FG
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+1411 København KTlf: 45 28 08 00Fax: 45 28 08 01Mail: info-dk@corteva.com','Dow AgroSciences Danmark A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Dow AgroSciences Danmark A/S
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Firmaets produktside
+Ariane FG S
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+180,00 kr/l
+&nbsp()
+Formulering
+Olie i vand emulsion
+Status
+Markedsført
+Indhold af aktivstoffer
+20 g/l
+clopyralid
+40 g/l
+fluroxypyr
+200 g/l
+MCPA
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,96 l/ha
+0,511 BI/l
+Græs og kløver
+2,91 l/ha
+0,343 BI/l
+(Vintersæd)
+1,64 l/ha
+0,611 BI/l
+(Vårsæd)
+1,54 l/ha
+0,651 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+3,91 l/ha
+0,256 B/l
+Miljøeffekt
+17,1 l/ha
+0,0586 B/l
+I alt
+2,05 l/ha
+0,488 B/l
+
+Pesticidafgift: 74 kr. pr. l
+Godkendelse
+Registreringsnummer
+64-39
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i frøgræs og græsmarker.
+Behandlingsfrist
+Se brugsanvisningen. Behandlede arealer må ikke afgræsses før 30 dage efter behandling.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Der må kun arbejdes i behandlede græsmarker i en halv time per dag.
+Sprøjteførere skal anvende kemisk bestandige handsker, beskyttelsesdragt og åndedrætsværn ved opblanding og påfyldning.
+Sprøjteførere skal sidde i en lukket førerkabine med kulfilter ved udbringning. Hvis traktor forlades for at tilse sprøjter eller afgrøde skal kemisk bestandige handsker, beskyttelsesdragt og åndedrætsværn anvendes.
+Må ikke anvendes nærmere end 5 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Må ikke anvendes nærmere end 10 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende. Samtidig skal afdriftsreducerende udstyr med minimum 50 % afdriftsreduktion anvendes ved udbringning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 5 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 10 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende. Samtidig skal afdriftsreducerende udstyr med minimum 50% afdriftsreduktion anvendes ved udbringning.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#230;s','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Ariane FG S, reg.nr. 64-39
+Gr&#230;s','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Ariane FG S, reg.nr. 64-39, under revurdering
+Anvendelse
+Resistensrisiko
+Dow AgroSciences anbefaler en stærk anti-resistens strategi, efter retningslinjerne udarbejdet af WRAG
+(Weed Resistance Action Group).
+Ariane FG S indeholder de 3 aktivstoffer fluroxypyr, clopyralid og MCPA, der alle har auxinvirkning og
+derfor tilhørende HRAC gruppe O, og risikoen for resistensudvikling er derfor lille.
+For at undgå resistensudvikling anbefaler Dow AgroSciences, at der generelt anvendes ukrudtsmidler
+med forskellige virkningsmekanismer i sædskiftet - gerne i blandinger. Det anbefales endvidere at have
+både vår- og vinterafgrøder i sædskiftet. Særligt i forbindelse med reduceret jordbehandling bør disse
+anbefalinger følges nøje. Vær opmærksom på at manglende effekt (hvis midlet ellers er anvendt
+korrekt) kan skyldes begyndende resistensudvikling.
+Resistensklasse
+O / 4
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Det er vigtigt, at sprøjteudstyret er rent ved påbegyndelse af en ny sprøjteopgave. Fyld tanken 1/2 med vand og tilsæt derefter den beregnede mængde Ariane FG S under omrøring. Fyld tanken efter med
+vand. Evt. sprede/klæbemiddel tilsættes lige før tanken er fuld. Fortsæt omrøringen indtil udsprøjtningen
+er afsluttet.
+Rengøring
+Bemærk! Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle invendige dele af sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket så meget, at overtryksventilen fra det selvrensende filter udløses. Dette gælder under alle rengøringsprocesser.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det behandlede areal.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank, slanger og bom straks efter endt sprøjtning med vand fra skyllevandstanken. Skyllevandet kan med fordel deles, så indvendig vask og udsprøjtning foregår af 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter All Clear Extra eller lignende produkt i anbefalet dosering pr. 100 liter vand. Sprøjt lidt af vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og tankspuledyse køre i mindst 15 minutter. Tøm sprøjten gennem bom og dyser over et egnet areal f.eks. på marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml All Clear Extra pr. 10 liter vand.- Skyl tanken og alle slanger grundigt i 5 minutter med rent vand. Skyllevandet sprøjtes ud gennem bom og dyser.
+Opbevaring
+Opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+CCC 750, LFS Trinexapac-ethyl, Metaxon, Moddevo, Moddus M, Moddus Start, Moxa, Primus, Primus 250 WG, Saracen M, Sonis, Tridus 250
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Frøgræs, Græs
+Agersennep, burresnerre, ferskenpileurt, fuglegræs, hanekro, hvidmelet gåsefod, hyrdetaske, kornblomst, kornvalmue, lugtløs kamille, markforglemmigej, raps, storkenæb, tidsler, tvetand, vejpileurt, vellugtende kamille, ærenpris
+2-2,5 lAfgrødens stadium 21-31
+Førsteårsmarker. Over 90 pct. effekt mod: raps, hyrdetaske, hvidmelet gåsefod, burresnerre, hanekro, storkenæb, lugtløs kamille, markforglemmigej, kornvalmue, agersennep og fuglegræs. 70-90 pct. effekt mod: kornblomst, tidsel, vellugtende kamille, ærenpris, tvetand og fersken- og vejpileurt.
+Frøgræs, Græs
+Agersennep, burresnerre, ferskenpileurt, fuglegræs, hanekro, hvidmelet gåsefod, hyrdetaske, kornblomst, kornvalmue, lugtløs kamille, markforglemmigej, raps, storkenæb, tidsler, tvetand, vejpileurt, vellugtende kamille, ærenpris
+2-3 lAfgrødens stadium 21-31
+Anden- og flerårsmarker. Over 90 pct. effekt mod: raps, hyrdetaske, hvidmelet gåsefod, burresnerre, hanekro, storkenæb, lugtløs kamille, markforglemmigej, kornvalmue, agersennep og fuglegræs. 70-90 pct. effekt mod: kornblomst, tidsel, vellugtende kamille, ærenpris, tvetand og fersken- og vejpileurt.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Omsåning:
+Ved omsåning kan der kun etableres korn, majs og græs.
+Efterfølgende afgrøde:
+Følgende afgrøder er følsomme overfor Ariane FG S:
+- kartoffel og andre arter af natskyggefamilien
+- ært, bønne, lupin og andre bælgplanter
+- gulerod og andre skærmblomstrende
+- salat og andre kurvblomstrende
+Vækstmateriale fra en afgrøde, der er behandlet med Ariane FG S, som ikke er nedbrudt, kan skade en
+efterfølgende følsom afgrøde. Derfor bør der ikke etableres følsomme afgrøder, umiddelbart efter
+vækstmateriale er nedmuldet.
+Plantemateriale:
+Plantemateriale fra Ariane FG S behandlet afgrøde må ikke anvendes i drivhuse eller til kompost.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+
+10-12
+ºC
+
+Luftfugtighed
+
+høj
+
+Jordfugtighed
+
+god
+
+Timers tørvejr
+
+2
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Ukrudt med kimblade op til 4 løvblade samt god vækst.
+Virkemåde
+Ariane FG S er et systemisk middel. Alle tre aktivstoffer
+virker auxindannende i vækstpunkterne. På følsomme
+ukrudtsarter vil man normalt se en virkning 1-2 dage
+efter behandlingen. Væksten stopper, og planterne visner
+bort i løbet af 3-4 uger.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand.
+Indånding: Flyt patienten ud i frisk luft. Opsøg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ariane FG S
+Sikkerhedsdatablad
+Ariane FG S
+Vejledning i Planteværn
+2025
+Side 340
+VP25s340.pdf.pdf--
+Side 340--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.corteva.dk/content/dam/dpagco/corteva/eu/dk/da/files/DF-Ariane%20S-Etikett-DK%20-%20Aug%202024.pdf
