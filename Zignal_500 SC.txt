@@ -1,0 +1,276 @@
+Zignal 500 SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Zignal 500 SC
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Zignal
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Firmaets produktside
+Zignal 500 SC
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+515,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+500 g/l
+fluazinam
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,400 l/ha
+2,50 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+3,34 l/ha
+0,300 B/l
+Miljøeffekt
+6,27 l/ha
+0,160 B/l
+I alt
+1,10 l/ha
+0,908 B/l
+
+Pesticidafgift: 138 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-10-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+11-35
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i kartofler.
+Behandlingsfrist
+Må ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Zignal, reg.nr. 11-35
+Afmeldt / registrering trukket
+
+Zignal, reg.nr. 11-35, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+Zignal, reg.nr. 11-35, anvendelses- og besiddelsesforbud
+Anvendelse
+Resistensrisiko
+Zignal 500 SC tilhører resistensgruppe FRAC 29. Der er ikke konstateret krydsresistens til andre svampemidler mod kartoffelskimmel. Risikoen for at kartoffelskimmelsvampen udvikler resistens overfor aktivstoffer med denne virkemekanisme, vurderes til at være lav. Når svampemidler med samme virkemåde anvendes over flere år eller flere gange i samme vækstsæson, kan der ske en udvælgelse og opformering af resistente isolater. Brug midler med forskellig virkemåde som f.eks. Revus (FRAC 40), Cymbal (FRAC 27), Propamocarb (FRAC 28) og Zorvec (FRAC 49) i programmer med Zignal 500 SC. Det mindsker risikoen for resistensudvikling. Følg anvisninger om dosering og interval mellem sprøjtningerne på de enkelte produkter. Zignal 500 SC er godkendt til maksimalt 10 sprøjtninger pr. vækstsæson.
+Resistensklasse
+29
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Blandinger:
+Zignal 500 SC kan blandes med insektmidler. Ved blanding med mangan produkter, skal Zignal 500 SC
+tilsættes først.
+Zignal 500 SC må ikke blandes med spredemidler eller olier.
+Tilberedning af sprøjtevæsken
+Sprøjtebeholderen bør være rengjort, før Zignal 500 SC fyldes i. Fyld 3/4 af den ønskede vandmængde i
+beholderen, tilsæt Zignal 500 SC og tilsæt resten af vandet. Derefter sættes returløbet eller omrøring i gang.
+Eventuel skumdannelse ved påfyldningen kan reduceres ved at mindske omrøringen.
+Da der er risiko for overfølsomhed skal der anvendes handsker, støvler og overtræksbukser for at undgå
+kontakt med huden.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares frostfrist. Opbevares utilgængeligt for børn. Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Azaka, Lamdex, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Zorvec Enicade
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Kartoffelskimmel
+0,3-0,4 lAfgrødens stadium 32-91
+Zignal 500 SC skal anvendes forebyggende og i korte perioder på maksimum 7 dage. Zignal 500
+SC bør ikke anvendes forud for perioder med højt infektionstryk eller stor plantetilvækst. Første
+behandling udføres inden udsigt til skimmelfavorabelt vejr. For at nedsætte risikoen for resistens bør
+Zignal 500 SC maksimalt benyttes 4 gange i en sprøjtestrategi. Dosis på 0,3 l/ha kan anvendes under
+forhold med lav infektionsrisiko. Max. 10 behandlinger pr. vækstår.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen restriktioner.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+½
+1
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Afgrøden skal være i god vækst og ikke hæmmet af tørke eller af tidligere sprøjtninger.
+Zignal 500 SC er regnfast, så snart sprøjtevæsken er tørret ind på bladene. Det betyder, at regn 1-2 timer
+efter ud sprøjtning ikke vil påvirke resultatet.
+Virkemåde
+Zignal 500 SC er et ikke-systemisk svampemiddel med kontaktvirkning og skal anvendes forebyggende til
+be kæmp else af kartoffelskimmel. Zignal 500 SC hindrer skimmelsporerne i at spire på kartoffelbladene og
+nedsætter sporuleringen. Zignal 500 SC har en særdeles god virkning overfor knoldskimmel.
+Første sprøjtning skal udføres når skimmelvarsel udsendes, eller inden betingelserne for skimmelangreb er
+tilstede.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Førstehjælp
+Indånding: Ved ubehag, sørg for frisk luft. Søg læge ved vedvarende ubehag.
+Indtagelse: Skyl munden grundigt og giv rigelige mængder vand eller mælk. Søg straks læge. Medbring
+brugsanvisning.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand. Søg læge, hvis der opstår
+hudirritation.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes. Medbring
+brugsanvisning.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H361d
+Mistænkt for at skade det ufødte barn.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102+P405
+Opbevares under lås og utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Zignal 500 SC
+Sikkerhedsdatablad
+Zignal 500 SC
+Vejledning i Planteværn
+2025
+Side 261 til 263
+VP25s261-263.pdf.pdf--
+Side 261 til 263--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://ag.fmc.com/dk/sites/default/files/2023-09/Zignal_lbl_dk.pdf
