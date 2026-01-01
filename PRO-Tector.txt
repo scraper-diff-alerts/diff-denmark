@@ -1,0 +1,170 @@
+PRO-Tector - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+PRO-Tector
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Distributør
+7600 StruerTlf: 40 27 16 99Fax: Mail: kontakt@vestjydsk-agro.dk','Vestjydsk Agro'); return true;" onmouseout="nd(); return true;" href="Http://vestjydsk-agro.dk" target="_new"Vestjydsk Agro
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+415,00 kr/l
+&nbsp()
+Formulering
+Suspoemulsion
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+125 g/l
+prothioconazol
+125 g/l
+fluopyram
+Parallelprodukt, identisk med Propulse SE 250
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,500 l/ha
+2,00 BI/l
+Kartofler
+0,450 l/ha
+2,22 BI/l
+Majs
+0,824 l/ha
+1,21 BI/l
+(Roer)
+0,889 l/ha
+1,13 BI/l
+Vinterraps
+0,824 l/ha
+1,21 BI/l
+Vintersæd
+0,889 l/ha
+1,13 BI/l
+Vårsæd
+0,889 l/ha
+1,13 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+4,34 l/ha
+0,230 B/l
+Miljøeffekt
+39,4 l/ha
+0,0254 B/l
+I alt
+3,91 l/ha
+0,256 B/l
+
+Pesticidafgift: 41 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-10-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+623-7
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i korn, raps, majs og kartofler.
+Behandlingsfrist
+Må i raps ikke anvendes senere end 56 dage før høst.
+Må i majs ikke anvendes senere end vækststadium BBCH 69.
+Må i korn ikke anvendes senere end vækststadium BBCH 61.
+Må i kartofler ikke anvendes senere end vækststadium BBCH 89. Må i kartofler ikke anvendes senere end 1. oktober.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Sprøjteførere skal anvende handsker ved blanding og påfyldning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær
+overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102)
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboerne og
+forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+KartoflerMajsRapsRugTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+PRO-Tector, reg.nr. 623-7, omklassifikation og udvidet godkendelse
+KartoflerMajsRapsRugTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+PRO-Tector, reg.nr. 623-7, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+PRO-Tector, reg.nr. 623-7, anvendelses- og besiddelsesforbud
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P280
+Bær beskyttelseshandsker.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+PRO-Tector
+Sikkerhedsdatablad
+PRO-Tector
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/PRO-Tector_623-7_Godkendt_Etikette_20230323.pdf
