@@ -1,0 +1,491 @@
+Ally 20 SX - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ally 20 SX
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+100 g
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Firmaets produktside
+Ally 20 SX
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+2,20 kr/g
+&nbsp()
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+200 g/kg
+metsulfuron-methyl
+(~ 193 g/kg
+metsulfuron)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+20,0 g/ha
+0,0500 BI/g
+Vintersæd
+30,0 g/ha
+0,0333 BI/g
+Vårsæd
+20,0 g/ha
+0,0500 BI/g
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 g/ha
+0,0000 B/g
+Miljøadfærd
+1.020 g/ha
+0,0010 B/g
+Miljøeffekt
+1.623 g/ha
+0,0006 B/g
+I alt
+626 g/ha
+0,0016 B/g
+
+Pesticidafgift: 0,228 kr. pr. g
+Godkendelse
+Registreringsnummer
+11-73
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtbekæmpelse i korn om foråret.
+Behandlingsfrist
+Må i korn ikke anvendes senere end vækststadium BBCH 39.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningens angivne maksimale doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder aktivstofferne iodosulfuron-methyl, tribenuron-methyl, thifensulfuron-methyl, triasulfuron eller metsulfuron-methyl (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Vinterbyg uden udl&#230;gVinterhvede uden udl&#230;gVinterrug uden udl&#230;gV&#229;rs&#230;d uden udl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Ally 20 SX, reg.nr. 11-73 - godkendelse overført fra Du Pont Danmark ApS
+Anvendelse
+Resistensrisiko
+Ally SX indeholder aktivstoffet metsulfuron-methyl, som tilhører
+virkemådeklasse: HRAC gruppe: B
+Når ukrudtsmidler med samme virkemåde anvendes på den samme mark
+flere år i træk, kan der ske en udvælgelse af evt. naturligt forekommende,
+resistente ukrudtsarter. Disse kan opformeres og blive dominerende.
+Hvis en ukrudtsart er resistent over for et sulfonylurea produkt, kan arten
+være resistent over for alle produkter i virkemåden HRAC gruppe: B. Der
+er fundet flere tilfælde af resistens i alm. fuglegræs, kornvalmue, kamille,
+et enkelt tilfælde af hanekro, hyrdetaske, vindaks, gul okseøje og italiensk
+rajgræs samt flere tilfælde af agerrævehale.
+Udvikling af resistens kan undgås ved at skifte mellem midler med forskellig
+virkemåde, men med effektiv virkning over for ukrudtsarten, eller ved at
+udsprøjte en tankblanding af midler med forskellige virkemåde.
+Anbefalinger
+1) Hvis der er konstateret resistens over for Ally SX, genbehandles
+marken hurtigst muligt med et andet, effektivt middel mod denne
+ukrudtsart. Se nedenfor.
+2) For at forebygge, at der opstår resistens i alm. fuglegræs eller andre
+almindelige ukrudtsarter, anvendes Ally SX i tankblanding efter følgende
+retningslinier:
+For nuværende anbefales det at udsprøjte Ally SX i tankblanding med
+anbefalet dosering af fluroxypyr. Vælger man at udsprøjte Ally SX
+alene, bør man anvende et produkt med anden virkningsmekanisme
+mod de pågældende ukrudtsarter i marken den følgende sæson, f.eks.
+til efterårsbehandling.
+Resistensklasse
+B / 2
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Fremstilling af sprøjtevæsken
+Begynd altid sprøjtearbejdet med en ren sprøjte. Indtørrede hinder fra en tidligere
+sprøjtning kan indeholde rester, der frigøres og giver skade i en senere afgrøde.
+Påfyldning skal ske på plads med opsamling eller i marken. Dette gælder alment
+for alle produkter.
+Fyld tanken ¾ med vand. Tilsæt det beregnede mængde Ally SX direkte i tanken
+under omrøring og først derefter en evt. blandingspartner. Fyld efter med vand.
+Lige før sprøjtetanken er helt fuld, tilsættes eventuelt sprede/klæbemiddel. Fortsæt
+omrøringen, indtil udsprøjtningen er afsluttet.
+Sprøjtevæsken skal udsprøjtes senest 24 timer efter tilberedning. Blandinger med
+andre midler udsprøjtes dog straks.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares tørt og køligt i tæt lukket emballage.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Agroxone, Basagran SG, Broadway, Cuadro NT, Entargo, Optimus Max, Trimaxx M, Zypar
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar, Boxer, DFF, Folicur Xpert EC 240, Lamdex, Metaxon, Orius Gold, Primus, Proline Xpert EC 240, Prosaro, Saracen M, Sempra SC, Stemper, Talius EC, Tombo, Topik EC, Trece 750, CarboMan 500, Mangan 180, Manganchelat 8% Mn, Mangansulfat 32, Pioner S Gødning 80
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Accurate Max, Cerone, Foxtrot, Hussar Plus OD, Nuance Max 75 WG, Primera Super
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Tokimbladet frøukrudt
+15 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 20-29
+Max. 1 behandling pr. vækstår.
+Triticale, Vinterhvede, Vinterrug
+Tokimbladet frøukrudt
+20 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 30-39
+Max. 1 behandling pr. vækstår.
+Vinterbyg
+Tokimbladet frøukrudt
+20 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 30
+Max. 1 behandling pr. vækstår. Der må ikke behandles
+i vinterbyg efter BBCH 30.
+Havre, Vårbyg, Vårhvede
+Tokimbladet frøukrudt
+10 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 12-19
+Max. 1 behandling pr. vækstår.
+Havre, Vårbyg, Vårhvede
+Tokimbladet frøukrudt
+15 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 20-30
+Max. 1 behandling pr. vækstår. Der må ikke behandles i vårsæd efter BBCH 30.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Begrænsning i anvendelse - efterfølgende afgrøde
+Efter behandling med Ally SX, kan der den følgende vækstsæson dyrkes
+vårraps, kartofler, majs, korn, ærter, hestebønner og hør.
+Hvis der er anvendt max 15 g Ally SX, kan der dyrkes roer det efterfølgende
+år.
+Hvis der er anvendt max 15 g Ally SX, kan der dyrkes vinterraps og korn
+med græs/kløverudlæg mere end to måneder efter sprøjtning.
+Hvis der er anvendt mere end 15 g Ally SX, kan der dyrkes vinterraps og
+korn med græs/kløverudlæg mere end tre måneder efter sprøjtning.
+Der kan ikke dyrkes grønsager eller nogen anden afgrøde end de ovenfor
+nævnte, hverken det år Ally SX er anvendt eller det følgende år.
+Omsåning af et areal behandlet med Ally SX
+Hvis en behandlet mark skal omsås, må der kun sås korn. Indenfor den 1.
+måned efter behandlingen må der kun sås vårhvede eller havre og der bør
+pløjes.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+2-4
+ºC
+7-25
+ºC
+
+Luftfugtighed
+40
+%
+95
+%
+
+Jordfugtighed
+lav
+høj
+
+Timers tørvejr
+1
+
+4
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Enkelte nætter med nattefrost eller regn få timer efter sprøjtningen påvirker ikke ukrudtseffekten.
+Virkemåde
+Metsulfuron optages både via bladene og gennem
+rødderne og transporteres til plantens vækstpunkter. I
+følsomme planter blokeres dannelsen af aminosyrerne
+valin, leucin og isoleucin. Det medfører, at celledelingen
+og vækst i planten stopper. I tolerante planter inaktiveres
+metsulfuron-methyl både i rødder og blade umiddelbart
+efter optagelsen. Selektiviteten over for vinterbyg er
+mindre end hos de øvrige kornarter. Metsulfuron-methyl
+bindes kun svagt i jorden, og der opnås en god jordeffekt
+selv på humusrige jorder.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agergåseurt
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Agersennep
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Agerstedmoder
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Agertidsel (frøfremspiret)
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Alm. pengeurt
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Bleg pileurt
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Burresnerre
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Ferskenpileurt
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Flerfarvet ærenpris
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Fuglegræs
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Gul okseøje
+20 g/ha
+Ally SX etiketten
+god virkning ifølge etiketten, hvis bekæmpelse på kimbladstadiet
+Gulurt
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Hanekro
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Haremad
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Hejrenæb
+20 g/ha
+Ally SX etiketten
+god virkning ifølge etiketten, hvis bekæmpelse på kimbladstadiet
+Hundepersille
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Hvidmelet gåsefod
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Hyrdetaske
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Kornvalmue
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Kærgaltetand
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Liden nælde
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Lugtløs kamille
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Lægejordrøg
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Markforglemmigej
+20 g/ha
+Ally SX etiketten
+god virkning ifølge etiketten, hvis bekæmpelse på kimbladstadiet
+Markærenpris
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Raps
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Rød tvetand
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Skivekamille
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Snerlepileurt
+20 g/ha
+Ally SX etiketten
+god virkning ifølge etiketten, hvis bekæmpelse på kimbladstadiet
+Sort natskygge
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Storkronet ærenpris
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Svinemælde
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Svinemælk (frøfremspiret)
+20 g/ha
+Ally SX etiketten
+85% effekt ifølge etiketten
+Vedbendærenpris
+20 g/ha
+Ally SX etiketten
+svag virkning ifølge etiketten
+Vejpileurt
+20 g/ha
+Ally SX etiketten
+god virkning ifølge etiketten, hvis bekæmpelse på kimbladstadiet
+Vindaks
+20 g/ha
+Ally SX etiketten
+svingende, men svag virkning ifølge etiketten
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring den forgiftede ud i frisk luft. Giv om nødvendigt ilt eller
+kunstigt åndedræt. Søg læge ved betydelig påvirkning.
+Indtagelse: Fremkald ikke opkastning uden lægelig kontrol. Giv aldrig et
+bevidstløst menneske noget gennem munden. Søg læge i alvorlige tilfælde.
+Ved ildebefindende er omgående lægebehandling nødvendig. Vis etiketten,
+hvis det er muligt.
+Hudkontakt: Fjern øjeblikkeligt forurenet tøj og sko. Vask omgående med
+sæbe og rigeligt vand. Søg læge hvis nødvendigt.
+Øjenkontakt: Skyl øjeblikkeligt med rigeligt vand, også under øjenlågene.
+Søg læge, hvis symptomerne vedvarer.
+Nødtelefon: Giftlinjen (Bispebjerg hospital) 82121212 eller 0046 8 337043.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ally 20 SX
+Sikkerhedsdatablad
+Ally 20 SX
+Vejledning i Planteværn
+2021
+Side 375 til 377
+VP21s375-377.pdf.pdf--
+Side 375 til 377--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://ag.fmc.com/dk/sites/default/files/2023-09/Ally_20_sx_lbl_dk.pdf
