@@ -1,0 +1,620 @@
+Boxer - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Boxer
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+YF 10911, Boxer EC
+Pakningsstørrelse
+20 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Boxer
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+189,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+800 g/l
+prosulfocarb
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+3,50 l/ha
+0,286 BI/l
+Kartofler
+3,50 l/ha
+0,286 BI/l
+Vintersæd
+3,50 l/ha
+0,286 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+3,66 l/ha
+0,273 B/l
+Miljøadfærd
+2,78 l/ha
+0,360 B/l
+Miljøeffekt
+6,98 l/ha
+0,143 B/l
+I alt
+1,29 l/ha
+0,776 B/l
+
+Pesticidafgift: 125 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-211
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vintersæd, kartofler og frøgræs.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 42 dage før høst.
+Frøgræshalm må ikke bruges til foder.
+Der skal være et interval på 100 dage for såning/plantning af efterfølgende afgrøder tilhørende skærmplante-familien (Apiaceae) undtagen bladselleri, gulerødder, knoldselleri, pastinak og persillerod.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må ikke tømmes i kloakafløb.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand. Undgå forurening via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Engrapgr&#230;sHybridrajgr&#230;sItaliensk rajgr&#230;sKartoflerR&#248;dsvingelVinters&#230;d','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Boxer EC, reg.nr. 1-211
+Centaurea cyanus til fr&#248;avlChrysanthemum carinatum til fr&#248;Gypsophila elegans til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse som jordmiddel mod ukrudt i Chrysantemum carinatum, Calendula officinalis, Papaver rhoeas Centaurea cyanus og Gypsophila elegans til frø.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse i engsvingel til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse i hybridrajgræs til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse i alm. rajgræs til frø
+Porrer','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer til mindre anvendelse i løg og porre
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer til mindre anvendelse i gulerødder
+Bl&#229;b&#230;rRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer til mindre anvendelse i solbær, ribs, stikkelsbær, blåbær og aronia
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse til urtechrysanthemum til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse til ukrudtsbekæmpelse i purløg til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse i italiensk rajgræs til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse i skorzonerrod til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer til mindre anvendelse til ukrudtsbekæmpelse i vinterspelt
+Rodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer til mindre anvendelse i pastinak og persillerod
+Centaurea cyanus til fr&#248;avlChrysanthemum carinatum til fr&#248;Gypsophila elegans til fr&#248;avlPapaver rhoeas til fr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211 til mindre anvendelse som bladmiddel mod ukrudt i Chrysantemum carinatum, Calendula officinalis, Papaver rhoeas Centaurea cyanus og Gypsophila elegans til frø.
+Knoldselleri','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer, reg.nr. 1-211, til mindre anvendelse mod ukrudt i jordskokker og knoldselleri
+Pyntegr&#248;nt','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer (reg.nr. 1-211) til mindre anvendelse mod ukrudt i juletræer og klippegrønt. Vejledning kan erhverves hos Danske Juletræer - træer & grønt, Blokken 15, DK-3460 Birkerød, email info@christmastree.dk.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer (reg.nr. 1-211) til mindre anvendelse i jordbær
+Centaurea cyanusChrysanthemum carinatumChrysanthemum segetumConvolvulus spp.CynoglossumGypsophila elegansIberis sempervirensIberis spp.Lupin til fr&#248;avlNigella til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer (reg.nr. 1-211) til mindre anvendelse som jordmiddel mod ukrudt i Chrysantemum carinatum, Calendula officinalis, Iberis spp., Centaurea cyanus, Convolvulus spp., Gypsophila elegans, Chrysanthemum segetum, Cynoglossum, Lupin og Nigella til frøproduktion
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boxer (reg.nr. 1-211) til mindre anvendelse til ukrudtsbekæmpelse i planteskolekulturer
+Anvendelse
+Resistensrisiko
+Ingen oplysninger.
+Resistensklasse
+N / 15
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger.
+Opblandingsanvisninger
+Tanken fyldes halvt med rent vand. Midlet tilsættes under omrøring, og der fyldes op med vand. Der bør være konstant omrøring under tilberedning og sprøjtning. Sprøjtevæsken skal udsprøjtes samme dag, den er tilberedt.
+Rengøring
+Rengøring af sprøjteudstyr
+Rengør sprøjten grundigt udvendigt og indvendigt umiddelbart
+efter brug.
+HUSK, at skyllevandet ikke må komme i kontakt med brønde, dræn
+eller kloakker. Findes der ikke en egnet vaskeplads med fast underlag,
+opsamling og afledning (til gyllebeholder) rengøres sprøjten
+bedst i marken.
+TANKSPULEDYSE MONTERET
+Husk at tømme sprøjten helt mellem hver skylning/vask, aktivér
+alle haner/ventiler, hæv trykket så meget, at overtryksventilen fra
+det selvrensende filter udløses.
+1) Sprøjten tømmes helt for sprøjtevæske i marken.
+2) Straks efter sprøjtning skylles sprøjten grundigt med rent
+vand - både indvendigt og udvendigt. Tøm tanken ved at sprøjte
+skyllevandet ud gennem bom/dyser. Skyllevandet kan sprøjtes
+ud over den afgrøde, der lige er behandlet.
+3) Fyld tanken med 10-15% af tankkapaciteten (100 - 150 l /
+1000 l tank), tilsæt 0,5 l All Clear Extra pr. 100 l vand. Sprøjt
+lidt af vaskevandet ud gennem bom/dyser, så disse sættes i blød.
+Lad omrøringen og tankspuledyse køre i mindst 15 minutter,
+inden indholdet tømmes ud gennem bom/dyser. Vaskevandet
+kan sprøjtes ud over den afgrøde, der lige er behandlet.
+HUSK: Det er altid bedre at skylle flere gange med en mindre
+mængde skyllevand, end få gange med en større mængde
+skyllevand.
+4) Dyser og sier afmonteres og renses med samme vaskeblanding.
+5) Skyl tanken grundigt i 5 min. med rent vand. Skyllevandet
+sprøjtes ud gennem bom/dyser. Ved brug af tankspuledyse og
+rentvandstank klares punkt 2) også ude i marken. Hvis man har
+tilstrækkeligt rent vand, kan punkt 3) også startes i marken og
+omrøringen fortsættes, mens man kører hjem.
+INGEN TANKSPULEDYSE MONTERET
+I stedet for at anvende 10-15% af tankkapaciteten under punkt
+3) (vaskningen), skal tanken fyldes helt.
+Opbevaring
+Frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Atlantis OD, Basagran SG, Centium 36 CS, Command CS, DFF, Fenix, Flight Xtra, Kalif 360 CS, Lamdex, Pico 750 WG, Stomp CS, Trimmer 500 WG, YaraVita Bortrac, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Ally 20 SX, Cliophar 600, Express 50 SX, Fighter 480, Foxtrot, Harmony Plus 50 SX, Legacy 500 SC, LFS Clodinafop, LFS Fenoxaprop-P + Mefenpyr, Matrigon 72, Nicanor SG, Primera Super, Ricorso, Ricorso WG, Savvy, Savvy WG, Sempra SC, Topik EC, Trimmer SG, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Mateno Duo SC 600
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Burresnerre, enårig rapgræs, tokimbladet frøukrudt, vindaks
+1,5-5 lEfterår på afgrødens stadium 00-21
+Højeste dosering ved store forekomster af agerrævehale og rajgræs. Boxer kan udsprøjtes om efteråret straks efter såning og frem til kornets tre-bladstadium (BBCH 12).
+Det optimale sprøjtetidspunkt er netop, når sprøjtesporene er synlige (BBCH 10-11).
+Hvor Boxer anvendes alene, må der påregnes en supplerende behandling mod tokimbladet ukrudt om foråret.
+Boxer bør ikke anvendes i vintersæd med udlæg pga. risiko for skade på udlægget.
+Må kun anvendes 1 gang pr. vækstsæson.
+Kartofler
+Burresnerre, enårig rapgræs, sort natskygge
+4 lAfgrødens stadium 00-11
+Boxer udsprøjtes på færdig-hyppede kartofler med fast kam inden kartoflerne spirer frem. Højeste dosering ved store forekomster af ukrudt.
+Burresnerre med indtil 2 kranse og sort natskygge med indtil 2 løvblade kan bekæmpes med Boxer.
+Sprøjtning med Boxer efter kartoflernes fremspiring kan give en forbigående skade på kartoflerne.
+Tørke kan reducere virkningen af Boxer.
+Ved 2 behandlinger sprøjtes med 2 x 2,5 liter pr. ha med 7-10 dages interval.
+Engrapgræs til frøavl, Rajgræs til frøavl, Rødsvingel til frøavl
+Burresnerre, enårig rapgræs, tokimbladet frøukrudt, vindaks
+1-1,5 lEfterår
+Boxer anvendes om efteråret i veletablerede afgrøder. Ved 2 behandlinger sprøjtes med 2 x 0,75 liter pr. ha med 14 dages interval.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger.
+Virkning på efterfølgende afgrøde
+Udvintrer vintersæd er der frit afgrødevalg efter opharvning. Efter høst af vintersæd eller kartofler er der frit afgrødevalg.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+let fugtig
+
+Andet
+Bekvem, ikke knoldet, jord giver bedst virkning af Boxer. Kornet skal sås i en dybde af mindst 3 cm og være godt dækket med jord.
+Passende jordfugtighed giver gode virkningsbetingelser, men Boxer har dog også god virkning under tørre forhold.
+Efter kraftig regn, hvor afgrøden lider af iltmangel, kan forbigående gulfarvning af bladene observeres efter anvendelse af Boxer. Skaden vil normalt være forbigående.
+Virkemåde
+Prosulfocarb optages både via bladene og gennem rødderne
+og midlet har effekt både over for spirende ukrudt
+og over for nyfremspiret ukrudt. Prosulfocarb påvirker
+plantens fedtsyresyntese og dermed dannelsen af de
+fedtstoffer, der er en væsentlig bestanddel af cellemembraner.
+Virkningen af prosulfocarb ses som en mørkfarvning
+af ukrudtets kimblade og -stængel. Selektiviteten
+skyldes at kornet’s rødder ikke kommer i kontakt med
+herbicidet.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agerkål
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Agerrævehale
+2 l/ha
+Boxer EC produktblad fra Syngenta
+60-85% effekt ifølge produktblad, mod agerrævehale anbefales 4 l pr. ha
+Agersennep
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Agerstedmoder
+2 l/ha
+Boxer EC produktblad fra Syngenta
+60-85% effekt ifølge produktblad
+Agerstedmoder
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Agersvinemælk (frøfremspiret)
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Agertidsel (frøfremspiret)
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Alm. hanespore
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Alm. pengeurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Alm. rajgræs
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Alm. svinemælk
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Bleg pileurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Burresnerre
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Burresnerre
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Enårig rapgræs
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Enårig rapgræs
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Ferskenpileurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Flyvehavre
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Forglemmigej
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Forglemmigej
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Fuglegræs
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Fuglegræs
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Grøn skærmaks
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Gråbynke (frøfremspiret)
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Gul okseøje
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Gulurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Hanekro
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Haremad
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Hundepersille
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Hvidmelet gåsefod
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Hyrdetaske
+2 l/ha
+Boxer EC produktblad fra Syngenta
+60-85% effekt ifølge produktblad
+Hyrdetaske
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Kamille
+2 l/ha
+Boxer EC produktblad fra Syngenta
+Kornblomst
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Kornvalmue
+2 l/ha
+Boxer EC produktblad fra Syngenta
+Kornvalmue
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Kruset skræppe
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Kvik
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Liden nælde
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Lugtløs kamille
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Lægejordrøg
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Markærenpris
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Rajgræs
+2 l/ha
+Boxer EC produktblad fra Syngenta
+60-85% effekt ifølge produktblad. Mod rajgræs anbefales 3 l pr. ha
+Raps
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Skivekamille
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Snerlepileurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Sort natskygge
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Storkenæb
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Storkronet ærenpris
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Tvetand
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Tvetand
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Vejpileurt
+4 l/ha
+Afgrødenyt / Plantenyt fra Landscentret | Planteavl (Ukrudt i kartofler)
+
+Vindaks
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+Ærenpris
+2 l/ha
+Boxer EC produktblad fra Syngenta
+85% effekt ifølge produktblad
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Generel utilpashed og svimmelhed.
+Førstehjælp
+Hud:
+Gennemvædet tøj fjernes straks, og huden vaskes med vand og sæbe.
+Indtagelse:
+Munden skylles omhyggeligt med vand. Personen holdes i ro og søg straks lægehjælp. Fremkald ikke opkastning.
+Indånding:
+Personen flyttes til frisk luft og der søges lægehjælp, hvis symptomerne varer ved (svimmelhed eller bevidstløshed).
+Øjne:
+Skylles omgående med vand i mindst 15 minutter. Søg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1993
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Boxer
+Sikkerhedsdatablad
+Boxer
+Vejledning i Planteværn
+2025
+Side 407 til 410
+VP25s407-410.pdf.pdf--
+Side 407 til 410--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Boxer_1-211_Etikette_20240408.pdf
