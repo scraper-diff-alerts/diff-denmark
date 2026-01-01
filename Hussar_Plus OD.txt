@@ -1,0 +1,385 @@
+Hussar Plus OD - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Hussar Plus OD
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Hussar Plus
+Pakningsstørrelse
+1 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Hussar Plus OD
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1.510,00 kr/l
+&nbsp()
+Formulering
+OD-formulering
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+mefenpyr-diethyl
+(~ 212 g/l
+mefenpyr)
+50 g/l
+iodosulfuron-methyl-Na
+(~ 46,6 g/l
+iodosulfuron)
+7,5 g/l
+mesosulfuron-methyl
+(~ 7,29 g/l
+mesosulfuron)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,128 l/ha
+7,81 BI/l
+Vintersæd
+0,176 l/ha
+5,68 BI/l
+Vårsæd
+0,0585 l/ha
+17,1 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,01 l/ha
+0,498 B/l
+Miljøadfærd
+2,09 l/ha
+0,478 B/l
+Miljøeffekt
+13,1 l/ha
+0,0762 B/l
+I alt
+0,950 l/ha
+1,05 B/l
+
+Pesticidafgift: 149 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-569
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse om foråret i vinterhvede, vinterrug, triticale, vinterbyg, vårhvede og vårbyg uden udlæg af græs.
+Behandlingsfrist
+Må i vinterbyg, vinterrug, vintertriticale og vinterhvede ikke anvendes senere end vækststadie BBCH 32.
+Må i vårbyg og vårhvede ikke anvendes senere end vækststadie BBCH 30.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+For at beskytte grundvandet må dette produkt kun anvendes 1 gang pr. vækstår (1. august - 31. juli). Der må endvidere i samme
+vækstår ikke også anvendes andre produkter, der indeholder tribenuron-methyl, iodosulfuron-methyl-natrium, metsulfuron-methyl,
+triasulfuron eller thifensulfuron-methyl (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Må ikke opbevares ved temperaturer over 35 °C.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter for doseringer op til og inklusiv 0,07 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter for doseringer over 0,07 L produkt/ha op til og inklusiv 0,14 L produkt/ha (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Engrapgr&#230;s til fr&#248;avlR&#248;dsvingel til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Hussar Plus OD (reg.nr. 18-569) til mindre anvendelse mod enårig rapgræs i engrapgræs, rødsvingel og bakkesvingel til frøavl
+Vinterbyg med udl&#230;g af engrapgr&#230;sVinterbyg med udl&#230;g af r&#248;dsvingelVinterhvede med udl&#230;g af bakkesvingelVinterhvede med udl&#230;g af engrapgr&#230;sVinterhvede med udl&#230;g af r&#248;dsvingelVinterrug med udl&#230;g af bakkesvingelVinterrug med udl&#230;g af engrapgr&#230;sVinterrug med udl&#230;g af r&#248;dsvingelVintertriticale med udl&#230;g af bakkesvingelVintertriticale med udl&#230;g af engrapgr&#230;sVintertriticale med udl&#230;g af r&#248;dsvingelV&#229;rbyg med udl&#230;g af bakkesvingelV&#229;rbyg med udl&#230;g af engrapgr&#230;sV&#229;rbyg med udl&#230;g af r&#248;dsvingelV&#229;rhvede med udl&#230;g af bakkesvingelV&#229;rhvede med udl&#230;g af engrapgr&#230;sV&#229;rhvede med udl&#230;g af r&#248;dsvingel','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Hussar Plus OD (reg.nr. 18-569) til mindre anvendelse mod vindaks, alm. rajgræs, italiensk rajgræs og enårig rapgræs i vinterhvede, vinterrug, triticale, vinterbyg, vårhvede og vårbyg med udlæg af engrapgræs, rødsvingel og bakkesvingel til frøavl
+TriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Hussar Plus OD, reg.nr. 18-569
+Triticale med udl&#230;g af gr&#230;s til fr&#248;Vinterbyg med udl&#230;g af gr&#230;s til fr&#248;Vinterhvede med udl&#230;g af gr&#230;s til fr&#248;Vinterrug med udl&#230;g af gr&#230;s til fr&#248;V&#229;rbyg med udl&#230;g af gr&#230;s til fr&#248;V&#229;rhvede med udl&#230;g af gr&#230;s til fr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Fornyet godkendelse af mindre anvendelse af Hussar Plus OD (reg. nr.18-569) mod enårig rapgræs, vindaks, italiensk og alm. rajgræs i frøgræs til frøproduktion, samt i vinterhvede, vinterrug, triticale, vinterbyg, vårbyg og vårhvede med udlæg af frøgræs til frøproduktion
+Anvendelse
+Resistensrisiko
+Hussar Plus OD indeholder aktivstoffet iodosulfuron og mesosulfuron,
+der begge tilhører stofgruppen sulfonylurea og tilhører HRAC resistensgruppe
+B, der vurderes at have en middel/høj risiko for udvikling af resistens. Blandt de arter som Hussar Plus OD er virksomt overfor, er der i Danmark fundet resistens
+hos fuglegræs, kamille, vindaks og rajgræs.
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i
+udvikling af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler
+med anden virkemekanisme enten i form af en tankblanding, eller ved at skifte middel med jævne
+mellemrum. Desuden anbefales det at anvende kulturtekniske metoder, som pløjning, sædskifte
+mm. for at dæmpe ukrudtstrykket og modvirke resistensudvikling.
+Resistensklasse
+B / 2
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Blandinger:
+For at opnå effekt på agerstedmoder og ærenpris anbefales det at Hussar Plus OD blandes med en
+egnet partner f.eks. DFF. I vårsæd kan der ved forekomst af pileurter, melde og burresnerre, blandes
+med en egnet blandingspartner evt. Starane XL. Check altid godkendelsesstatus og følg etikettens
+anvisninger for blandingspartnere.
+Hussar Plus OD kan blandes med relevante ukrudts og svampemidler samt med manganchelat eller
+mangansulfat. Ved blanding med mangansulfat bør der maksimalt anvendes 2 kg/100 ltr vand, og der
+må IKKE blandes med Mero, Renol eller andre olier. Normalt blandes højest 2 midler.
+Hussar Plus OD må der ikke blandes med midler indeholdende tribenuron-methyl, iodosulfuron,
+metsulfuron-methyl, triasulfuron eller thifensulfuron-methyl. Fremstilling af sprøjtevæsken:
+Kemikalierne tilsættes i sprøjtens fyldeudstyr samtidig med vandpåfyldning og omrøring. Ved tankblanding
+bør det først tilsatte middel være væk fra fyldeudstyret inden næste middel tilsættes.
+Foretag konstant omrøring af sprøjtevæsken under transport og udsprøjtning. Ved håndtering af
+plantebeskyttelsesmidler anvendes personligt beskyttelsesudstyr, såsom egnede handsker og briller.
+Rengøring
+Der skal anvendes spuledyser ved den indvendige vask af sprøjten. Uvasket sprøjte eller traktor, der
+er anvendt til udbringning af plantebeskyttelsesmidler, skal placeres på behandlet areal, vaskeplads
+med opsamling til gyllebeholder eller anden beholder, eller under tag. Restsprøjtevæsken skal i forbindelse
+med indvendig vask af sprøjter fortyndes mindst 50 gange og udsprøjtes på det behandlede
+areal under kørsel. Den maksimalt tilladte dosering, som er anført på etiketten af de anvendte midler,
+må ikke herved overskrides på markniveau.
+Der bør anvendes et ammoniumbaseret rengøringsmiddel f.eks. All Clear Extra.
+Da nogle afgrøder er meget følsomme overfor selv små rester Hussar Plus OD er grundig rengøring
+meget vigtig.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning
+af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. nr. 1355 af .
+Opbevaring
+Hussar Plus OD bør opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, Catch, Cleave, DFF, Entargo, Input EC 460, Lamdex, Metaxon, Pico 750 WG, Pixxaro EC, Primus, Primus XL, Proline EC 250, Propulse SE 250, Serrate, Starane 333 HL, Starane XL, Zypar, Manganchelat 8% Mn, Mangansulfat 32, Yaravita Gramitrel
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Curbatur, Folicur Xpert EC 240, LFS Clodinafop, LFS Prothioconazol, Medax Top, Mustang forte, Orius Gold, Proline Xpert EC 240, Prosaro, PRO-Tector, Saracen M, Sempra SC, Tomahawk 200 EC, Topik EC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Moddevo, Moddus Start
+Blandingspartnere, som der IKKE bør blandes med
+Ally 20 SX, Atlantis OD, Cossack OD, Cuadro NT, Express 50 SX, Express Gold 33 SX, Foxtrot, Harmony 50 SX, Harmony Plus 50 SX, Hussar OD, Moddus M, Moxa, Nicanor SG, Nuance Max 75 WG, Primera Super, Ricorso, Ricorso WG, Savvy, Savvy WG, Sonis, Terpal, Tridus 250, Trimmer 500 WG, Trimmer SG, YaraVita Bortrac
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Triticale, Vinterhvede
+Agerkål, agersennep, alm. pengeurt, alm. rajgræs, bleg pileurt, burresnerre, ferskenpileurt, fuglegræs, hanekro, hvidmelet gåsefod, hyrdetaske, ital. rajgræs, kornvalmue, lugtløs kamille, raps, snerlepileurt, vejpileurt, vindaks
+0,05-0,11 l + 0,5 l Mero EC 80Afgrødens stadium 13-22
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Ved forekomst af ærenpris og stedmoder tilsættes DFF. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra før - tjek altid etiketten før brug.
+Rug, Triticale, Vinterhvede
+Agerkål, agersennep, alm. pengeurt, alm. rajgræs, bleg pileurt, burresnerre, enårig rapgræs, ferskenpileurt, fuglegræs, hanekro, hvidmelet gåsefod, hyrdetaske, ital. rajgræs, kornvalmue, lugtløs kamille, raps, snerlepileurt, vejpileurt, vindaks
+0,05-0,14 l + 0,5 l Mero EC 80Afgrødens stadium 23-32
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Ved forekomst af ærenpris og stedmoder tilsættes DFF. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra før - tjek altid etiketten før brug.
+Vinterbyg
+Agerkål, agersennep, alm. pengeurt, fuglegræs, hanekro, hyrdetaske, lugtløs kamille, raps
+0,05 l + 0,5 l Mero EC 80Afgrødens stadium 13-32
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Delvis effekt på en række øvrige ukrudtsarter. Ved forekomst af ærenpris og stedmoder tilsættes DFF. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra før - tjek altid etiketten før brug.
+Vårbyg, Vårhvede
+Agerkål, agersennep, alm. pengeurt, alm. rajgræs, bleg pileurt, burresnerre, ferskenpileurt, fuglegræs, hanekro, hvidmelet gåsefod, hyrdetaske, ital. rajgræs, kornvalmue, lugtløs kamille, raps, snerlepileurt, vejpileurt, vindaks
+0,035-0,07 l + 0,5 l Mero EC 80Afgrødens stadium 13-30
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Ved forekomst af kornvalmue, burresnerre, hvidmelet gåsefod, snerlepileurt og vejpileurt tilsættes en egnet blandingspartner, f.eks. Starane XL. Ved forekomst af ærenpris og stedmoder tilsættes DFF. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra før - tjek altid etiketten før brug.
+Vårbyg, Vårhvede
+Alm. rajgræs, enårig rapgræs, tokimbladet frøukrudt
+0,07 l + 0,5 l Mero EC 80Afgrødens stadium 20-30
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra eller senere - tjek altid etiketten før brug.
+Rug, Triticale, Vinterhvede
+Alm. rajgræs, enårig rapgræs, tokimbladet frøukrudt, vindaks
+0,14 l + 0,5 l Mero EC 80Afgrødens stadium 20-32
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra eller senere - tjek altid etiketten før brug.
+Vinterbyg
+Agerkål, alm. pengeurt, fuglegræs, hanekro, hyrdetaske, lugtløs kamille
+0,05 l + 0,5 l Mero EC 80Afgrødens stadium 20-32
+Dosering efter ukrudtsart og -størrelse, jfr. doseringsvejledning på etiketten. Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Hussar Plus OD med etiket fra eller senere - tjek altid etiketten før brug.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Efterfølgende afgrøde:
+Da Hussar Plus OD hurtigt nedbrydes i jorden, kan der året efter anvendelse dyrkes alle
+almindelige markafgrøder. Efter en tør sommer anbefales pløjning forud for vinterraps, medens en grundig harvning er tilstrækkelig under normale forhold.
+Omsåning;
+I tilfælde af omsåning kan vårbyg eller vårhvede sås efter en grundig jordbehandling. Der
+skal gå mindst 15 dage efter behandling med Hussar Plus OD før jordbehandling.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+6-8
+ºC
+8
+ºC
+
+Timers tørvejr
+4
+
+6
+
+Nattefrostrisiko
+ingen risiko
+ingen risiko
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Ved meget kraftig dug, kan en sprøjtning forårsage afløb af
+dug/sprøjtevæske, og effekten kan i værste fald blive nedsat eller
+helt udeblive. Derfor bør der først sprøjtes, når duggen er ved at
+tørre ind.
+Virkemåde
+Midlet indeholder aktivstofferne mesosulfuron-methyl og
+iodosulfuron-methyl-Na, der begge tilhører stofgruppen sulfonylurea.
+Optagelsen sker i altovervejende grad gennem ukrudtets blade, og
+efter optagelsen transporteres aktivstofferne ind i plantens celler, hvor
+stoffet virker ved at hæmme dannelsen af de for planter så livsvigtige
+aminosyrer, isoleucin og valin. Midlet indeholder en safener,
+der betyder at afgrøden ikke påvirkes.
+Efter optagelsen standser væksten i løbet af få dage. Efter 10 - 15 dage
+ses en gulfarvning af de yngste plantedele, og ukrudtet begynder at
+falde sammen, for at visne væk i løbet af de næste 2 - 4 uger. Græsukrudt
+kan dog stå i bunden af afgrøden i lang tid som små stærkt
+mørkegrønne planter, men disse planter optager ikke næring eller generer
+afgrøden.
+Ved anvendelse af midlet er det vigtigt at ukrudtet er i aktiv
+vækst for at aktivstofferne i midlet kan optages og transporteres
+frem til ukrudtets vækstpunkter.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+(P302+P352).
+Ved hudirritation: Søg lægehjælp (P332+P313).
+Forurenet tøj tages af og vaskes, før det bruges igen (P362).
+Øjne: VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere
+minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning (P305+P351+P338).
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Ring omgående til en GIFTINFORMATION eller en læge. (P310).
+Hvis der er brug for lægehjælp, medbring da beholderen eller
+etiketten (P101).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P310
+Ring omgående til en GIFTINFORMATION eller en læge.
+P332+P313
+Ved hudirritation: Søg lægehjælp.
+P362
+Forurenet tøj tages af og vaskes, før det bruges igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Hussar Plus OD
+Sikkerhedsdatablad
+Hussar Plus OD
+Vejledning i Planteværn
+2025
+Side 319 til 320
+VP25s319-320.pdf.pdf--
+Side 319 til 320--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Hussar_Plus_OD_18-569_Godkendt_Etikette_20250513.pdf
