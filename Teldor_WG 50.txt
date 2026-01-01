@@ -1,0 +1,295 @@
+Teldor WG 50 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Teldor WG 50
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 kg
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Teldor WG 50
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+655,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+fenhexamid
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+19,4 kg/ha
+0,0516 B/kg
+Miljøeffekt
+28,9 kg/ha
+0,0346 B/kg
+I alt
+11,6 kg/ha
+0,0863 B/kg
+
+Pesticidafgift: 23 kr. pr. kg
+Godkendelse
+Registreringsnummer
+18-343
+Miljøstyrelsens godkendelse
+Må kun anvendes til svampebekæmpelse i blomme, kirsebær, jordbær, hindbær, ribs og solbær på friland og i tomat, agurk, jordbær, brombær, hindbær, ribs, solbær og prydplanter i åbne og lukkede væksthuse.
+Behandlingsfrist
+Må i kirsebær, blommer, jordbær, agurk og tomat ikke anvendes senere end 3 dage før høst. Må i hindbær, ribs, solbær og brombær ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Ved håndtering af behandlede afgrøder skal der altid anvendes arbejdstøj.
+Ved udtynding og vedligeholdelse af behandlede blommer og kirsebær skal der anvendes kemisk bestandige handsker og arbejdstøj indtil dag 13 efter sprøjtning.
+Ved arbejde i behandlede jordbær, brombær, hindbær, solbær og ribs i væksthus skal der anvendes kemisk bestandige handsker og arbejdstøj indtil dag 2 efter sprøjtning.
+Ved arbejde i behandlede prydplanter skal der anvendes kemisk bestandige handsker indtil dag 7 efter sprøjtning
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding, påfyldning og udbringning i væksthuse.
+For at beskytte bier må behandlede planter tidligst udflyttes 1 dag efter sprøjtning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Støv kan danne eksplosionsfarlige blandinger med luft. Holdes væk fra varme og andre antændelseskilder. Undgå ophvirvlning af produkt i luften og ophobning af elektrisk ladning.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Anvendelse i kirsebær, blomme, ribs, solbær og hindbær på friland: Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Anvendelse i jordbær på friland: Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Anvendelse i kirsebær, blomme, ribs, solbær og hindbær på friland: Må ikke anvendes nærmere end 5 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Anvendelse i jordbær på friland: Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Agurk i &#229;bne v&#230;ksthuseBlommerBromb&#230;r i lukket v&#230;ksthusBromb&#230;r i &#229;bne v&#230;ksthuseHindb&#230;r i lukket v&#230;ksthusHindb&#230;r i &#229;bne v&#230;ksthuseHindb&#230;r p&#229; frilandJordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; frilandKirseb&#230;rPlanteskolekulturer i lukket v&#230;ksthusPlanteskolekulturer i &#229;bne v&#230;ksthusePrydplanter i lukket v&#230;ksthusPrydplanter i &#229;bne v&#230;ksthuseRibs i lukket v&#230;ksthusRibs i &#229;bne v&#230;ksthuseRibs p&#229; frilandSolb&#230;r i lukket v&#230;ksthusSolb&#230;r i &#229;bne v&#230;ksthuseSolb&#230;r p&#229; frilandTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Zonegodkendelse af Teldor WG 50, reg.nr. 18-343
+Stikkelsb&#230;r p&#229; frilandVindruer p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af mindre anvendelse af Teldor WG 50 (reg.nr. 18-343) mod gråskimmel i stikkelsbær, blåbær og vindruer på friland
+Jordb&#230;r p&#229; tabletop p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Teldor WG 50 (reg.nr. 18-343) til mindre anvendelse mod gråskimmel i jordbær på tabletop på friland eller i tunneller på friland
+Anvendelse
+Resistensrisiko
+Aktivstoffet fenhexamid tilhører gruppen af hydroxyanilider, FRAC gruppe 17, med virkemekanismen: 3-keto-reduktaseinhibitors (KRI). Risikoen for resistensudvikling vurderes som lav til medium. Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling af resistens. For at mindske risikoen for udvikling af resistens anbefales det at blande med eller skifte mellem midler med andre virkemekanismer, som har god effekt over for de aktuelle arter. I Danmark er der fundet resistens hos gråskimmel. For at opnå bred effekt på almindeligt forekommende sygdomme anbefales det, at der blandes med et egnet godkendt middel, f.eks indeholdende aktivstof Bacillus amyloliquefaciens QST 713. Følg altid etikettens anvisninger for blandingspartnere.
+Resistensklasse
+17
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger inden tilberedning af sprøjtevæsken
+begyndes. Dette gælder især, hvis sprøjten har været anvendt til sprøjteopgaver i andre afgrøder. Ved anvendelse af præparatfyldeudstyr og faste præparater fyldes stationen halvt med vand, hvorefter der påfyldes
+den ønskede mængde præparat, som herefter suges op i sprøjtetanken, samtidig med at rent vand tilsættes
+fyldestationen. Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke/beholdere. Gentag proceduren med at åbne/lukke for bundventil til der ikke er synlige spor af Teldor WG 50 i fyldestationen. Additiv/
+penetreringsolier tilsættes til sidst, inden den endelige tankblanding er udført.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på vaskepladsen. En uvasket
+sprøjte skal placeres i den behandlede mark, på vaskepladsen eller under tag. Sprøjten skal være monteret
+med spuledyser til indvendig rengøring af tanken, og med separat vandtank med tilstrækkelig kapacitet til, at
+restsprøjtvæske kan fortyndes, og der kan foretages en grundig rengøring i marken. Restsprøjtevæske skal
+på passende vis fortyndes mindst 50 gange med vand og udsprøjtes i den behandlede mark under kørsel
+(uden at den maksimalt tilladte dosering for det pågældende middel herved overskrides). Rengøring i øvrigt
+foretages med egnede rengøringsmidler. Husk omrøring og aktivering af alle ventiler, så alle indvendige dele
+af sprøjten bliver rene. Lad vandet cirkulere i 10-15 minutter. Filtre, slanger og dyser kontrolleres for urenheder og eventuelle belægninger. Husk gennemskylning af kemikaliepåfyld og alle øvrige dele af systemet.
+Vaskevandet opsamles i egnede beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask m.v. af sprøjter til udbringning
+af plantebeskyttelsesmidler, jf. senest gældende bekendtgørelse om påfyldning og vask m.v. af sprøjter til
+udbringning af plantebeskyttelsesmidler.
+Opbevaring
+Tørt og køligt
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Jordbær i lukket væksthus, Jordbær i åbne væksthuse, Jordbær på friland
+Gråskimmel
+1,5 kgForebyggende behandling
+1-2 behandlinger med minimum 10 dages interval, 200-1200 l vand/ha. Behandlingsfrist 3 dage.
+Blommer, Kirsebær
+Grå monilia
+1,5 kgForebyggende behandling
+Må kun anvendes én gang mod grå monilla for at forebygge resistens. Der sprøjtes forebyggende mod grå monilla ved 50% blomstring. 200-1500 l vand/ha. Behandlingsfrist 3 dage.
+Blommer, Kirsebær
+Gråskimmel, gul monilia
+1,5 kgSe bemærkninger
+Må kun anvendes én gang mod hver sygdom (i alt max. 2 gange) for at forebygge resistens. Sprøjtningen foretages under frugtmodning 7-14 dage før høst. 200-1500 l vand/ha. For kirsebær er intervallet mellem behandlinger minimum 10 dage og for blommer 12-18 dage. Behandlingsfrist 3 dage.
+Brombær i lukket væksthus, Brombær i åbne væksthuse, Hindbær i lukket væksthus, Hindbær i åbne væksthuse, Hindbær på friland, Ribs i lukket væksthus, Ribs i åbne væksthuse, Ribs på friland, Solbær i lukket væksthus, Solbær i åbne væksthuse, Solbær på friland
+Gråskimmel
+1,5 kgForebyggende behandling
+1-2 behandlinger med minimum 10 dages interval. 200-1200 l vand/ha for hindbær. 500-1000 l vand/ha for brombær, solbær og ribs. Behandlingsfrist 7 dage.
+Agurk i lukket væksthus, Agurk i åbne væksthuse
+Gråskimmel
+1,5 kgForebyggende behandling
+1-3 behandlinger med minimum 10 dages interval. 500-1500 l vand/ha. Behandlingsfrist 3 dage.
+Tomater i lukket væksthus, Tomater i åbne væksthuse
+Gråskimmel
+1,5 kgForebyggende behandling
+1-3 behandlinger med minimum 10 dages interval. 1000-1500 l vand/ha. Behandlingsfrist 3 dage.
+Planteskolekulturer i lukket væksthus, Planteskolekulturer i åbne væksthuse, Prydplanter i lukket væksthus, Prydplanter i åbne væksthuse
+Gråskimmel
+1,5 kgForebyggende behandling
+Maksimalt 4 behandlinger med minimum 10 dages interval. 500-1500 l vand/ha.
+Effekt
+Effekt på nyttedyr
+Midlet er skånsomt overfor populationer af A. rhopalosiphi, T. pyri, A. bilineata og C. septempunctata. Foreneligheden med anvendelse af andre nyttedyr er ukendt.
+Virkning på efterfølgende afgrøde
+Virketid: 1 uge.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10
+ºC
+20
+ºC
+
+Luftfugtighed
+
+90
+%
+
+Timers tørvejr
+
+2
+
+Andet
+
+Virkemåde
+Teldor WG 50 er et lokal-systemisk svampemiddel med en god effekt mod gråskimmel (Botrytis cinerea), grå monilia (Monilia laxa) og gul molilia (Monilia frutigena). Teldor WG 50 skal anvendes forebyggende og indgå i sprøjteprogrammer med andre svampemidler med en anden virkemekanisme. Anvendelsen er fleksibel og Teldor WG 50 kan bruges både tidligt i sæsonen og tæt på høst. En behandling tæt på høst forbedrer opbevarings- og transportmulighederne fordi revnedannelse forebygges og lagerfastheden øges.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt råd: Den tilskadekomne placeres og
+transporteres i en stabil stilling (liggende på siden). Forurenet tøj tages
+straks af og fjernes til et sikkert sted.
+Indånding: Søg frisk luft. Hold patienten varm og i ro. Ring omgående til læge eller
+giftinformationen.
+Hudkontakt: Vaskes med rigeligt vand og sæbe, hvis tilgængeligt med
+polyethylenglykol 400 efterfulgt af vand.
+Øjenkontakt: Skyl øjeblikkeligt med rigeligt vand, også under øjenlågene i mindst 15
+minutter. Fjern evt. kontaktlinser efter de første fem minutter, og
+fortsæt derefter med at skylle øjnene. Søg læge hvis irritation opstår
+og vedvarer.
+Indtagelse: Skyl munden. Fremprovoker IKKE opkastning. Ring omgående til læge
+eller giftinformationen.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Teldor WG 50
+Sikkerhedsdatablad
+Teldor WG 50
+Vejledning i Planteværn
+2025
+Side 248 til 249
+VP25s248-249.pdf.pdf--
+Side 248 til 249--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Teldor_WG_50_18-343_Godkendt_Etikette_20250321.pdf
