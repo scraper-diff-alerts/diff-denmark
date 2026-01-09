@@ -1,0 +1,143 @@
+Diode - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Diode
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+100 g/l
+mesotrion
+Parallelprodukt, identisk med Starship Max
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Majs
+1,50 l/ha
+0,667 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,43 l/ha
+0,699 B/l
+Miljøadfærd
+24,0 l/ha
+0,0417 B/l
+Miljøeffekt
+28,2 l/ha
+0,0354 B/l
+I alt
+1,29 l/ha
+0,776 B/l
+
+Pesticidafgift: 111 kr. pr. l
+Godkendelse
+Registreringsnummer
+396-97
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af ukrudt i majs.
+Behandlingsfrist
+Må i majs ikke anvendes senere end vækststadium 19
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Diode, reg.nr. 396-97
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H361d
+Mistænkt for at skade det ufødte barn.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P260
+Indånd ikke spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+ikke klass.
+IMDG
+ikke klass.
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Diode
+Sikkerhedsdatablad
+Diode
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation. test_new_version
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Diode_396-97_Godkendt_Etikette_20240927.pdf
