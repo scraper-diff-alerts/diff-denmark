@@ -1,0 +1,283 @@
+Revus Top SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Revus Top SC
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Revus Top SC
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+518,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+difenoconazol
+250 g/l
+mandipropamid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,300 l/ha
+3,33 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,86 l/ha
+0,350 B/l
+Miljøadfærd
+3,01 l/ha
+0,332 B/l
+Miljøeffekt
+19,0 l/ha
+0,0526 B/l
+I alt
+1,36 l/ha
+0,734 B/l
+
+Pesticidafgift: 113 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-289
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i kartofler.
+Behandlingsfrist
+Må ikke anvendes senere end 3 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+SPe1 For at beskytte grundvandet må dette produkt kun anvendes hvert tredje år på samme areal.
+SPe1 For at beskytte grundvandet må der højst anvendes de i brugsanvisningen angivne maksimale doseringer
+pr. vækstår (fra såning til høst). Der må endvidere i samme vækstår ikke også anvendes andre produkter,
+der indeholder mefentrifluconazol, tebuconazol eller difenoconazol med mindre doseringerne nedsættes
+tilsvarende. Hvis der anvendes flere produkter med disse stoffer skal doseringerne beregnes forholdsmæssigt
+ud fra produkternes respektive maksimale doser i de pågældende afgrøder eller afgrødestadier
+jf. brugsanvisningerne.
+SPe3 Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte
+organismer, der lever i vand.
+SP1 Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Revus Top SC, reg.no. 1-289, omklassificeret
+Anvendelse
+Resistensrisiko
+Mandipropamid tilhører gruppen af CAA fungicider (FRAC gruppe 40), som vurderes at
+have lav til medium risiko for udvikling af resistens. Der er ikke fundet resistens overfor
+kartoffelskimmel.
+Difenoconazol er et triazol, som tilhører gruppen af DMI fungicider (FRAC gruppe 3),
+som vurderes at have medium risiko for udvikling af resistens. Der er ikke fundet resistens
+overfor kartoffelbladplet.
+For at mindske risikoen for udvikling af resistens anbefales det, at Revus Top og andre
+produkter med samme virkemekanisme (FRAC gruppe 40) ikke anvendes til mere end
+50% af behandlingerne pr. sæson
+Resistensklasse
+3 + 40
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tankblanding
+Med vore nuværende kundskaber er Revus Top fysisk blandbar med de vigtigste
+svampe-, insekt-, ukrudts- og vækstreguleringsmidler samt mikronæringsstoffer af god
+kvalitet.
+Fysisk blandbar indebærer at ingen udfældning sker. Forskellige faktorer, såsom vandkvalitet,
+temperatur, vandets hårdhed m.m., kan indvirke på blandingen. Lav derfor altid
+en prøveblanding først. Læs altid respektive præparaters etiket før brug.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar, Propulse SE 250, Zorvec Enicade
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Kartoffelbladplet, kartoffelskimmel
+0,6 lAfgrødens stadium 49-91
+Kartoffelskimmel og kartoffelbladplet vil blive bekæmpet samtidigt.
+Revus Top SC anvendes forebyggende mod Alternaria fra begyndende knoldannelse.
+Maks. 2 behandlinger med 14 dages interval. Vandmængde 150-600 l/ha. Samme mark må kun behandles hvert 3. år.
+Effekt
+Effekt på nyttedyr
+Revus Top er ufarligt overfor nyttedyr og honningbier.
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+15 min.
+15 min.
+
+Virkemåde
+Revus Top er meget aktiv overfor Oomycete bladsvampe, som skimmel i kartofler. Den
+er også meget effektiv overfor kartoffelbladplet (Alternaria).
+De to aktivstoffer i Revus Top, mandipropamid og difenoconazol, supplerer hinanden
+og giver sammen en meget god bekæmpelse af skimmel og Alternaria i kartofler.
+Mandipropamid er effektiv overfor Oomycete bladsvampe. En stor del af aktivstoffet
+absorberes af vokslaget, derved sikres en meget god regnfasthed. Mandipropamid
+modvirker spiring af sporer og modvirker mycelievækst i inkubationsperioden. Optagelse
+i bladet sikrer god translaminar aktivitet.
+Difenoconazol er aktiv mod et bredt spektrum af svampe, dog ikke mod Oomycete
+svampe. I kartofler har difenoconazol effekt mod Alternaria. Difenoconazol er et triazol
+og inhiberer ergosterolbiosyntesen, ligesom det optages af planten og forebygger
+mycelievækst.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt råd: Hav dunk, etiket eller sikkerhedsdatablad ved hånden, når Giftlinjen eller
+lægen kontaktes.
+Indånding: Før den tilskadekomne til frisk luft.
+Hvis vejrtrækningen er uregelmæssig eller ophørt, udfør da kunstigt åndedræt.
+Hold patienten varm og i ro.
+Ring omgående til læge eller giftinformationen.
+Hudkontakt: Forurenet tøj tages straks af.
+Skyl omgående med rigeligt vand.
+Søg læge, hvis hudirritationen vedvarer.
+Vask forurenet tøj før genbrug.
+Øjenkontakt: Skyl øjeblikkeligt med rigeligt vand, også under øjenlågene i mindst 15
+minutter.
+Fjern kontaktlinser.
+Omgående lægehjælp er påkrævet.
+Indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket.
+Fremprovoker IKKE opkastning.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Revus Top SC
+Sikkerhedsdatablad
+Revus Top SC
+Vejledning i Planteværn
+2025
+Side 337
+VP25s337.pdf.pdf--
+Side 337--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Revus_Top_SC_1-289_Godkendt_Etikette_20250827.pdf
