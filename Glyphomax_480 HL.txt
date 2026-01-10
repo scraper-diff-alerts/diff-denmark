@@ -1,0 +1,433 @@
+Glyphomax 480 HL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Glyphomax 480 HL
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5, 10, 15, 20, 200, 640 og 1000 l
+Registreringsindehaver
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Distributør
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Firmaets produktside
+Glyphomax 480 HL
+Anvendes indenfor
+Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+85,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+480 g/l
+glyphosat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+2,63 l/ha
+0,381 BI/l
+Vinterraps
+2,63 l/ha
+0,381 BI/l
+Vintersæd
+2,63 l/ha
+0,381 BI/l
+Vårraps
+2,63 l/ha
+0,381 BI/l
+Vårsæd
+2,63 l/ha
+0,381 BI/l
+Ærter
+2,63 l/ha
+0,381 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+12,8 l/ha
+0,0783 B/l
+Miljøeffekt
+48,0 l/ha
+0,0209 B/l
+I alt
+10,1 l/ha
+0,0992 B/l
+
+Pesticidafgift: 24 kr. pr. l
+Godkendelse
+Registreringsnummer
+756-9
+Miljøstyrelsens godkendelse
+Må kun anvendes til:
+- Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder og efter såning før fremspiring jf. brugsanvisningen.
+- Bekæmpelse af flerårigt ukrudt ved pletsprøjtning i foderafgrøderne raps, rybs, korn, ærter, bønner, hestebønner og græs.
+- Selektiv ukrudtsbekæmpelse i jordbrug ved brug af weed wiper.
+- Ukrudtsbekæmpelse på stubmarker.
+- Omlægning af brak- og græsmarker.
+- Ukrudtsbekæmpelse i skovkulturer og juletræsplantager.
+- Stødbehandling af fældede træer og buske.
+- Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er befæstede eller stærkt permeable.
+- Ukrudtsbekæmpelse mellem og under frugttræer.
+Behandlingsfrist
+Foderafgrøderne raps, rybs, korn, ærter, bønner, hestebønner og græs må ikke behandles senere end 10 dage før høst.
+Må mellem og under frugttræer kun anvendes indtil 30 dage før høst og om efteråret efter høst.
+Forbehold
+I følgende foderafgrøder: raps, rybs, korn, ærter, bønner, hestebønner og
+græs, er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved
+pletsprøjtning på mindre områder af marken.
+Det er ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat
+til nedvisning i foderafgrøder før høst i henhold til bekendtgørelse om
+bekæmpelsesmidler.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn
+og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring
+ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i
+henhold til bekendtgørelse om bekæmpelsesmidler.
+Frugter, fra et areal, der er behandlet med glyphosat må anvendes som foder
+til husdyr. Øvrige behandlede afgrøder må anvendes til foder til husdyr – dog
+ikke til fjerkræ og får.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Brugere skal anvende kemisk bestandige handsker ved blanding, påfyldning
+og udbringning med pensel.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke opbevares ved temperaturer over 40 °C.
+P102: Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter ved applikationsrater op til og inklusiv 2,1 L produkt/ha.
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 2,1 L produkt/ha op til og inklusiv 4,1 L produkt/ha.
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 4,1 L produkt/ha (Spe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+B&#248;nnerFrugtplantagerF&#248;r s&#229;ning om for&#229;retGr&#230;sHavreHesteb&#248;nnerK&#230;mpegran (Grandis)NordmannsgranRapsRugRybsR&#248;dgranSkovbrugStubStub efter fr&#248;gr&#230;sTriticaleTr&#230;kulturerUdyrkede arealerVinterbygVinterhvedeV&#229;rbygV&#229;rhvede&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Glyphomax 480 HL (PMGDMA480ATF), reg.nr. 756-9
+Alm. rapgr&#230;s til fr&#248;avlBakkesvingel til fr&#248;avlBeder til fr&#248;avlBlomster til fr&#248;Chrysanthemum til fr&#248;avlEngrapgr&#230;s til fr&#248;avlEngsvingel til fr&#248;avlGul sennep til produktion af uds&#230;dHundegr&#230;s til fr&#248;avlHvene til fr&#248;avlHvidkl&#248;ver til fr&#248;avlHvidk&#229;l til produktion af uds&#230;dHybridrajgr&#230;s til fr&#248;avlItaliensk rajgr&#230;s til fr&#248;avlKarse til fr&#248;Kinesisk k&#229;l til produktion af uds&#230;dKnoldrottehale til fr&#248;avlK&#230;llingetand til fr&#248;avlLucerne til fr&#248;avlLupin til fr&#248;avlOlier&#230;ddike til fr&#248;avlPurl&#248;g til fr&#248;avlRadis til fr&#248;avlRajsvingel til fr&#248;avlRucola til fr&#248;R&#248;dkl&#248;ver til fr&#248;avlR&#248;dsvingel til fr&#248;avlSkorzonerrod til fr&#248;avlSnegleb&#230;lg til fr&#248;avlSpinat til fr&#248;avlStrandsvingel til fr&#248;avlTimian til fr&#248;avlTimothe til fr&#248;avlWesterwoldisk rajgr&#230;s til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Glyphomax 480 HL (756-9) til mindre anvendelse mod græsukrudt i afgrøder til frøproduktion ved anvendelse af rækkesprøjtning eller pletsprøjtning på friland
+Bornm&#252;llergranB&#248;gDouglasgranEgNobilisNordmannsgranR&#248;dgran','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Glyphomax 480 HL (reg.nr. 756-9) til mindre anvendelse mod ukrudt i skovbrug, juletræer, pyntegrønt og læhegn på friland
+Anvendelse
+Resistensrisiko
+Midlet tilhører HRAC Resistensgruppe 9 (tidligere gruppe G). Albaugh UK Ltd. Anbefaler en stærk anti-resistens strategi efter retningslinjerne udarbejdet af WRAG (Weed
+Resistance Action Group). For at undgå resistensudvikling anbefaler Albaugh UK Ltd., at der generelt anvendes
+ukrudtsmidler med forskellige virkningsmekanismer i sædskiftet. Det anbefales endvidere at have både vår- og
+vinterafgrøder i sædskiftet. Særligt i forbindelse med reduceret jordbehandling bør disse anbefalinger følges
+nøje. Vær opmærksom på, at manglende effekt (hvis midlet ellers er anvendt korrekt) kan skyldes begyndende
+resistensudvikling.
+Resistensklasse
+G / 9
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Sørg altid for, at sprøjten er korrekt rengjort samt efterset for
+belægninger inden tilberedningen af sprøjtevæsken startes.
+Dette gælder især, hvis sprøjten har været anvendt til
+sprøjteopgaver i andre afgrøder.
+Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr
+fyldes stationen halvt med vand, hvorefter der påfyldes den
+ønskede mængde Glyphomax 480 HL, som herefter suges op i
+sprøjtetanken samtidig med at rent vand tilsættes i
+fyldestationen. Efterfølgende skylles præparatfyldeudstyret,
+samt evt. tomme dunke. Gentag proceduren med at åbne/lukke
+for bundventil til der ikke er synlige spor af Glyphomax 480 HL i
+fyldestationen.
+Direkte injektion: Ved skift og afslutning af sprøjteopgaver
+gennemføres en gennemskylning og rengøring af systemet.
+Vaskevandet udsprøjtes under kørsel på det behandlede areal.
+Rengøring
+Indvendig rengøring af sprøjteudstyr ved skift mellem/afslutning af sprøjteopgave
+Bemærk! Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle indvendige dele af sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket så meget,
+at overtryksventilen fra det selvrensende filter udløses. Dette gælder under alle rengøringsprocesser.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det behandlede
+areal.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank, slanger og bom straks efter endt sprøjtning med vand fra skyllevandstanken.
+Skyllevandet kan med fordel deles, så indvendig vask og udsprøjtning foregår af 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter rengøringsmiddel (eks. Nonionisk sprede/klæbemiddel 15% + Monoethanolamin 8%) eller lignende produkt i anbefalet dosering pr. 100 liter vand. Sprøjt lidt af
+vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og tankspuledyse køre i mindst 15 minutter. Tøm
+sprøjten gennem bom og dyser over et egnet areal f.eks. på marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml rengøringsmiddel pr. 10 liter vand.
+- Skyl tanken og alle slanger grundigt i 5 min. med rent vand. Skyllevandet sprøjtes ud gennem bom og dyser.
+Udvendig rengøring af sprøjteudstyr
+Der henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler, jf.
+Miljøministeriets bekendtgørelse nr. 1401 af eller senere udgave.
+Opbevaring
+Opbevares tørt og frostfrit. Må ikke opbevares ved temperaturer over 40 °C.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Centium 36 CS, Command CS, DFF, Legacy 500 SC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Udyrkede arealer
+Frøukrudt, rodukrudt
+3-4,5 lUkrudt i god vækst
+Udyrkede arealer (eksempelvis industriområder) såfremt disse ikke er befæstede eller stærkt permeable. Dog ikke på offentlige arealer i perioder, hvor der findes spiselige bær og frugter på arealet. Behandlingstidspunkt: Hele vækståret. 1-2 behandlinger pr. vækstår med mindst 21 dages interval. Maks total dosis ved 1 behandling: 4.5 liter/ha, max total dosis ved 2 behandlinger: 7,5 liter/ha.
+Korn
+Etårigt ukrudt, flerårigt ukrudt, kvik,
+1,5 lFør høst, se bemærkninger
+Behandl marken ved fuld modning. Når kernerne er vanskelige at dele med en fingernegl. Bekendtgørelse nr. 961 af 26/06/2023 §42: må ikke anvendes i afgrøder til malt, havre til gryn og brødkorn (rug, hvede,
+byg, triticale/rughvede og spelt) efter fremspiring af afgrøden. Må ikke anvendes i afgrøder til frø. Før høst må Glyphomax 480 HL kun anvendes i foderafgrøder som pletsprøjtning mod flerårigt
+ukrudt. Ved plet-sprøjtning forstås behandling med Glyphomax 480 HL på mindre områder af marken. Behandlingsfrist 10 dage. Maks 1 behandling pr. vækstår.
+Korn
+Etårigt ukrudt, flerårigt ukrudt, Kvik, 25 skud pr. kvadratmeter
+2,25 lFør høst, se bemærkninger
+Behandl marken ved fuld modning. Når kernerne er vanskelige at dele med en fingernegl. Bekendtgørelse nr. 961 af 26/06/2023 §42: må ikke anvendes i afgrøder til malt, havre til gryn og brødkorn (rug, hvede,
+byg, triticale/rughvede og spelt) efter fremspiring af afgrøden. Må ikke anvendes i afgrøder til frø. Før høst må Glyphomax 480 HL kun anvendes i foderafgrøder som pletsprøjtning mod flerårigt
+ukrudt. Ved plet-sprøjtning forstås behandling med Glyphomax 480 HL på mindre områder af marken. Behandlingsfrist 10 dage. Maks 1 behandling pr. vækstår.
+Ærter
+Kvik
+1,5-2,25 lSenest 10 dage før høst
+Når 70-75% af marken er gulgrøn til gulbrun. På dette tidspunkt kan ærterne fra de øverste bælge deles med fingrene. Vandindhold:
+Rybs, Vinterraps, Vårraps
+Etårigt ukrudt, flerårigt ukrudt, kvik
+2,25 lSenest 10 dage før høst
+Når vandindholdet er
+Hestebønner
+Etårigt ukrudt, flerårigt ukrudt, kvik
+2,25 lSenest 10 dage før høst
+Når 2/3–3/4 af bælgene har skiftet farve. Må ikke anvendes i afgrøder til frø. Før høst må Glyphomax 480 HL kun anvendes i foderafgrøder som pletsprøjtning mod flerårigt ukrudt. Ved pletsprøjtning forstås
+behandling med Glyphomax 480 HL på mindre områder af marken. Behandlingsfrist 10 dage. Maks 1 behandling pr. vækstår.
+Bønner
+Etårigt ukrudt, flerårigt ukrudt
+1,5-3 lSenest 10 dage før høst
+Når 2/3-3/4 af bælgene har skiftet farve. Må ikke anvendes i afgrøder til frø eller konsum. Før høst må Glyphomax 480 HL kun anvendes i foderafgrøder som pletsprøjtning mod flerårigt
+ukrudt. Ved pletsprøjtning forstås behandling med Glyphomax 480 HL på mindre områder af marken. Behandlingsfrist 10 dage. Maks 1 behandling pr. vækstår.
+Stub
+Etårigt ukrudt, græsukrudt, spildkorn
+1,125-1,5 lI stub efter høst
+For at sikre god genvækst, bør halmen fjernes efter høst. Ønskes effekt på kvik, bør kvikken have 3-6 blade. Højeste dosis: efterår og forår senest 5 dage før direkte såning eller plantning af efterfølgende
+afgrøde. Laveste dosis: efterår og forår senest 2 dage før direkte såning eller plantning af efterfølgende afgrøde eller 10 dage før
+jordbearbejdning. 1-2 behandlinger pr. vækstår med mindst 21 dages interval. Maks total dosis ved 1 behandling: 1,5 liter/ha, maks total dosis ved 2 behandlinger: 3,0 liter/ha.
+Stub
+Etårigt ukrudt, græsukrudt, spildkorn
+2,25-3 lI stub efter høst
+For at sikre god genvækst, bør halmen fjernes efter høst. Ønskes effekt på kvik, bør kvikken have 3-6 blade. Højeste dosis: efterår og forår senest 5 dage før direkte såning
+eller plantning af efterfølgende afgrøde. Laveste dosis: efterår og forår senest 2 dage før direkte såning eller plantning af efterfølgende afgrøde eller 10 dage før
+jordbearbejdning. 1-2 behandlinger pr. vækstår med mindst 21 dages interval. Maks total dosis ved 1 behandling: 3,0 liter/ha, maks total dosis ved 2 behandlinger: 6,0 liter/ha.
+Stub efter frøgræs
+Græsukrudt, kvik, tokimbladet ukrudt
+3-4,5 lI stub efter høst
+Behandles når græs og kvik har 3-6 blade. For at sikre god genvækst, bør halmen fjernes efter høst. Højeste dosis: efterår og forår senest 5 dage før direkte såning eller plantning af efterfølgende afgrøde.
+Laveste dosis: efterår og forår senest 2 dage før direkte såning eller plantning af efterfølgende afgrøde eller 10 dage før jordbearbejdning. Maks 1 behandling pr. vækstår.
+Græs
+Græsukrudt, kvik, nedvisning
+2,25-3 lSe bemærkninger
+Når græs og kvik har 3-6 blade. Før høst efterår og forår senest 10 dage før høst eller såning. Glyphomax 480 HL må kun anvendes i foderafgrøder som pletsprøjtning mod flerårigt ukrudt. Ved pletsprøjtning forstås behandling med Glyphomax 480 HL på mindre områder af marken. Maks 1 behandling pr. vækstår.
+Brakarealer
+Græsukrudt, kvik, tokimbladet ukrudt
+2,25-6 lSe bemærkninger
+Hele vækståret. Ønskes effekt på kvik, bør kvikken have 3-6 blade og en højde på 15-20 cm. Maks 1 behandling pr. vækstår.
+Før fremspiring af afgrøder, Før såning af afgrøder
+Græsukrudt, kvik, tokimbladet ukrudt
+2,25-3 lSe bemærkninger
+Før jordbearbejdning. For at opnå effekt på kvik, bør kvikken have 3-6 blade. Højeste dosis: senest 5 dage før såning eller plantning af efterfølgende afgrøde. Laveste dosis: senest 2 dage før såning eller plantning af
+efterfølgende afgrøde eller 24 timer før jordbearbejdning. Maks 1 behandling pr. vækstår.
+Før fremspiring af afgrøder, Før såning af afgrøder
+Delvis udvintret korn, tokimbladet frøukrudt
+0,75-1,5 lSe bemærkninger
+Omsåning af delvis udvintret korn.
+For at opnå effekt på kvik, bør kvikken have 3-6 blade. Højeste dosis: senest 5 dage før såning eller plantning af efterfølgende afgrøde. Laveste dosis: senest 2 dage før såning eller plantning af
+efterfølgende afgrøde eller 24 timer før jordbearbejdning. Maks 1 behandling pr. vækstår.
+Før fremspiring af afgrøder
+Frøukrudt
+1,125 lSe bemærkninger
+Direkte såning. Før afgrødens fremspiring, efterår og forår. Behandling før fremspiring af afgrøde er betinget af, at frøene er godt dækkede. Maks 1 behandling pr. vækstår.
+Før fremspiring af afgrøder
+Kvik
+2,25-3 lSe bemærkninger
+Direkte såning. Før afgrødens fremspiring, efterår og forår. Behandling før fremspiring af afgrøde er betinget af, at frøene er godt dækkede. Maks 1 behandling pr. vækstår.
+Kæmpegran (Grandis), Nordmannsgran, Rødgran
+Græsukrudt, tokimbladet ukrudt
+2,27 lSe bemærkninger
+Anvendes om efteråret, når strækningsvæksten er afsluttet, forårsskuddene er modne og endeknopperne er dannet. Tidligst når granerne er rodfæstet på blivestedet. Maks 1 behandling pr. vækstår.
+Skovbrug
+Græsukrudt, tokimbladet ukrudt
+1,5-6 lSe bemærkninger
+Traktormonteret eller håndholdt sprøjte. Behandling udføres normalt efter plantning på et passende tidspunkt for effekt. Hvis sprøjtning udføres efter plantning, skal skuddene beskyttes.
+Det følgende år efter plantning og årene efter det kan skuddene sprøjtes uden beskyttelse, efter at skuddene er blevet træagtige.
+Påfør når ukrudtet vokser. Kulturen og rodskud må ikke rammes. Anvend afskærmet sprøjtning for at undgå vindafdrift. 1-3 behandlinger pr. vækstår med mindst 28 dages interval. Maks total dosis ved
+1 behandling: 6,0 liter/ha, maks total dosis ved 2 behandlinger: 7,5 liter/ha, maks total dosis ved 3 behandlinger: 7,5 liter/ha.
+Frugtplantager
+Græsukrudt, tokimbladet ukrudt
+2,25-4,5 lSe bemærkninger
+Eksempelvis æbler, pærer, blommer og kirsebær. Efter høst men før museøre stadiet. Når ukrudt er i god vækst. Kulturen og rodskud må ikke rammes. Anvend afskærmet sprøjtning for at undgå vindafdrift. Behandlingsfrist 30 dage. 1-3 behandlinger pr. vækstår med mindst 28 dages interval. Maks total dosis ved 1 behandling: 4,5 liter/ha, maks total dosis ved 2 behandlinger: 6,75 liter/ha, maks total dosis ved 3 behandlinger: 7,5 liter/ha.
+Stødbehandling af fældede træer
+Genvækst fra træstubbe, rodskud
+0 lSe bemærkninger
+NB! Dosis: 15% opløsning, 1,5 liter Glyphomax 48 HL pr. 8,5 liter vand. Oktober til ultimo februar når træernes saftstrømme er nedadgående. Glyphomax 480 SL pensles eller sprøjtes på træets snitflade umiddelbart efter fældning.
+Bemærk: Mellem træer af samme art, kan der forekomme rodsammenfletninger og dermed risiko for overførsel af Glyphomax 480 SL fra et behandlet træ til et andet. Det samme gør sig gældende ved
+behandling af rodskud. Maks 1 behandling pr. vækstår.
+Selektiv ukrudtsbekæmpelse med specielt udstyr
+Græsukrudt, kvik, kæmpebjørneklo, rød hestehov, tokimbladet ukrudt
+0 lSe bemærkninger
+NB! Dosis: 0,15 liter Glyphomax 48 HL pr. 0,8 liter vand. Selektiv ukrudtsbekæmpelse i jordbrug ved hjælp af specielt udstyr på udyrkede arealer og alle afgrøder, når ukrudtet er højere end
+afgrøden. Weep-wiper og/eller pensling. Påstryg kun de planter, der ønskes bekæmpet. Andre planter, der kommer i berøring med sprøjtevæsken, kan blive skadet. Maks 1 behandling pr. vækstår.
+Uspecificeret
+Græsukrudt, tokimbladet ukrudt
+3-4,5 lSe bemærkninger
+Ryg- og håndholdt sprøjte på mindre arealer, fx under hegn, omkring buske o.l. NB! Der anvendes 0,15-0,225 l Glyphomax 480 HL pr. 10-15 l vand for 500 m². Sprøjt kun på det, der ønskes bekæmpet. Undgå vindafdrift ved behandlingen. 1-3 behandlinger pr. vækstår med mindst 28 dages interval. Maks total dosis ved 1 behandling: 4,5 liter/ha, maks total dosis ved 2 behandlinger: 7,5 liter/ha, maks total dosis ved 3 behandlinger: 7,5 liter/ha.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+0
+ºC
+15
+ºC
+
+Luftfugtighed
+
+70
+%
+100
+%
+Timers tørvejr
+4-6
+
+6
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Midlet optages gennem bladene og transporteres
+rundt i hele planten inklusiv rødder med plantens saftstrøm.
+I planten hindres dannelsen af flere vigtige aminosyrer, hvilket
+resulterer i at planten dør. Effekten ses normalt 10-14 dage efter
+behandling.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Førstehjælp:
+Ved indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder
+eller etiket.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge
+kontaktes.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand.
+Indånding: Flyt patienten ud i frisk luft. Opsøg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder dinatrium cocoamfodipropionat [List No.: 939-640-9, CAS No.: 68604-71-7]. Kan udløse allergisk reaktion
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Glyphomax 480 HL
+Sikkerhedsdatablad
+Glyphomax 480 HL
+Vejledning i Planteværn
+2025
+Side 284 til 311
+VP25s284-311.pdf.pdf--
+Side 284 til 311--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Glyphomax_ 480_HL_756-9_Godkendt_Etikette_20L_20251009.pdf
