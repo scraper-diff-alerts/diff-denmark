@@ -1,0 +1,340 @@
+Atlantis OD - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Atlantis OD
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Atlantis OD
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+405,00 kr/l
+&nbsp()
+Formulering
+OD-formulering
+Status
+Markedsført
+Indhold af aktivstoffer
+30 g/l
+mefenpyr-diethyl
+(~ 25,5 g/l
+mefenpyr)
+2 g/l
+iodosulfuron-methyl-Na
+(~ 1,86 g/l
+iodosulfuron)
+10 g/l
+mesosulfuron-methyl
+(~ 9,72 g/l
+mesosulfuron)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+0,254 l/ha
+3,94 BI/l
+Vintersæd
+0,900 l/ha
+1,11 BI/l
+Vårsæd
+0,232 l/ha
+4,31 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,47 l/ha
+0,224 B/l
+Miljøadfærd
+9,96 l/ha
+0,100 B/l
+Miljøeffekt
+103 l/ha
+0,0097 B/l
+I alt
+3,00 l/ha
+0,334 B/l
+
+Pesticidafgift: 47 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-505
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinterhvede, vinterrug og vintertriticale.
+Behandlingsfrist
+Må i vinterhvede og vintertriticale ikke anvendes senere end vækststadie BBCH 32.
+Må i vinterrug ikke anvendes senere end vækststadie BBCH 29.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding og påfyldning.
+For at beskytte grundvandet må dette produkt kun anvendes 1 gang pr. vækstår (1. august – 31. juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder tribenuron-methyl, iodosulfuron-methyl-natrium, metsulfuron-methyl, triasulfuron eller thifensulfuron-methyl (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Må ikke opbevares ved temperaturer over 30°C. Opbevares utilgængeligt for børn (P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer. Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter for doseringer op til og inklusiv 0,41 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter for doseringer over 0,41 L produkt/ha op til og inklusiv 0,59 L produkt/ha (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+VinterrugVintertriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Fornyet godkendelse af Atlantis OD, reg.nr. 18-505 fra marts 2025
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i udvikling af
+resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme
+enten i form af en tankblanding, eller ved at skifte middel med jævne mellemrum.
+Resistensklasse
+B / 2
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Blandinger:
+Atlantis OD kan normalt blandes med relevante ukrudts- og svampemidler. Atlantis OD bør ikke blandes med fenoxaprop-p-ethyl produkter på grund af risiko
+for antagonisme. Yderligere information om fysisk blandbarhed kan findes på hjemmesiden www.cropscience.bayer.dk eller kontakt din lokale Bayer konsulent.
+Tilberedning af sprøjtevæske:
+Fyld sprøjten halvt med rent vand og tilsæt den ønskede mængde Atlantis OD. Den resterende vandmængde
+samt eventuelle blandingspartnere tilsættes. Eventuel Renol penereringsolie tilsættes til sidst. Sørg for
+god omrøring før og under sprøjtningen.
+Ved omgang med sprøjtemidler bør der altid anvendes egnede værnemidler, herunder handsker og beskyttelsesbriller.
+Rengøring
+Indvendig rengøring for marksprøjter med præparatfyldeudstyr: Restsprøjtevæsken og
+skyllevandet skal udsprøjtes eller anvendes på det behandlede areal uanset fyldeudstyr
+(uden at den maksimalt tilladte dosering for det pågældende middel herved overskrides).
+Skyllevandstankens kapacitet skal være så stor, at restsprøjtevæsken kan fortyndes
+mindst 50 gange.
+1. Ved hjælp af de indvendige spuledyser vaskes sprøjtetanken straks efter endt sprøjtning med vand fra skyllevandstanken.
+Skyllevandet fordeles så indvendig vask og udsprøjtning kan foregå ad 2-3 gange for at opnå den krævede fortyndingsgrad.
+2. Skyllevandet udsprøjtes på marken under kørsel.
+Udvendig: Rengøring af marksprøjten og traktor skal ske på det behandlede areal eller
+på en vaskeplads med opsamling til gyllebeholder eller anden beholder. Rengøring på
+det behandlede areal forudsætter, at marksprøjten er monteret med udstyr hertil, samt at
+skyllevandskapaciteten er tilstrækkelig. Brug
+ikke samme sted i marken gentagne gange til
+den udvendige rengøring.
+Da nogle afgrøder er meget følsomme overfor selv små rester Atlantis OD er grundig rengøring meget vigtig. I øvrigt
+henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af
+.
+Opbevaring
+Opbevar i original beholder. Opbevares på et sted kun tilgængeligt for autoriserede personer. Opbevar beholderne tæt lukket på et tørt, køligt og velventileret sted. Beskyttes mod
+frost. Holdes væk fra direkte sollys.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, Boxer, DFF, Flight Xtra, Mateno Duo SC 600, Pixxaro EC, Primus, Serrate, Starane 333 HL, Starane XL, Stomp CS, Zypar, Mangansulfat 32, NitraMan 235, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+ATR Floclopy, Broadway, CCC 750, Medax Max, Medax Top, Mustang forte, Orius Gold, Proline Xpert EC 240, Rexade 440, Tomahawk 200 EC, Tombo, Trece 750
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Moddevo, Moddus Start
+Blandingspartnere, som der IKKE bør blandes med
+Cossack OD, Cuadro NT, Foxtrot, Harmony Plus 50 SX, Hussar OD, Hussar Plus OD, Moddus M, Moxa, Nuance Max 75 WG, Primera Super, Ricorso, Ricorso WG, Savvy WG, Sonis, Tridus 250, Trimmer 500 WG, Trimmer SG, Kobberoxychlorid 40% Cu, Magnesiumsulfat 10% Mg, Solubor DF
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Triticale, Vinterhvede
+Alm. rapgræs, enårig rapgræs, fuglegræs, kamille, rajgræs, raps, vindaks
+0,45-0,75 lEfterår på afgrødens stadium 12-14
+NB! Maksimalt 0,45 l Atlantis OD pr. ha i rug. Højeste dosering anvendes ved store ukrudtsplanter og stor ukrudtsbestand. NB! Denne anvisning gælder Atlantis OD med etiket fra før - tjek altid etiketten før brug.
+Rug, Triticale, Vinterhvede
+Alm. rapgræs, enårig rapgræs, fuglegræs, kamille, rajgræs, raps, vindaks
+0,45-0,9 lForår når ukrudtet er i vækst
+NB! Maksimalt 0,45 l Atlantis OD pr. ha i rug. Højeste dosering anvendes ved store ukrudtsplanter og stor ukrudtsbestand. Anvendes fra væksten starter og dagtemperaturen er
+nået over 5-8°C. Atlantis OD anvendes i vinterhvede og triticale senest på afgrødens stadie 32, i rug senest på afgrødens stadie 30. NB! Denne anvisning gælder Atlantis OD med etiket fra før - tjek altid etiketten før brug.
+Rug, Triticale, Vinterhvede
+Agerrævehale, alm. rapgræs, enårig rapgræs, fuglegræs, kamille, rajgræs, raps, vindaks
+0,75 lEfterår på afgrødens stadium 12-14
+NB! Maksimalt 0,45 l Atlantis OD pr. ha i rug. Atlantis bør især over for agerrævehale indgå i et program der indeholder andre virkemekanismer. NB! Denne anvisning gælder Atlantis OD med etiket fra før - tjek altid etiketten før brug.
+Rug, Triticale, Vinterhvede
+Agerrævehale, alm. rapgræs, enårig rapgræs, fuglegræs, kamille, rajgræs, raps, vindaks
+0,9 lForår når ukrudtet er i vækst
+NB! Maksimalt 0,45 l Atlantis OD pr. ha i rug. Atlantis bør især over for agerrævehale indgå i et program der indeholder andre virkemekanismer. Anvendes fra væksten starter og dagtemperaturen er
+nået over 5-8°C. Atlantis OD anvendes i vinterhvede og triticale senest på afgrødens stadie 32, i rug senest på afgrødens stadie 30. NB! Denne anvisning gælder Atlantis OD med etiket fra før - tjek altid etiketten før brug.
+Vinterhvede, Vinterrug, Vintertriticale
+Græsukrudt, tokimbladet frøukrudt
+0,41 lAfgrødens stadium 23-29
+Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Atlantis OD med etiket eller senere - tjek altid etiketten før brug.
+Vinterhvede, Vintertriticale
+Græsukrudt, tokimbladet frøukrudt
+0,59 lAfgrødens stadium 30-32
+Maks. 1 behandling pr. vækstår. NB! Denne anvisning gælder Atlantis OD med etiket eller senere - tjek altid etiketten før brug.
+Effekt
+Effekt på nyttedyr
+Ingen effekter.
+Virkning på efterfølgende afgrøde
+Efterfølgende afgrøde:
+Da Atlantis OD hurtigt nedbrydes i jorden, kan der året efter anvendelse dyrkes alle almindelige markafgrøder.
+Omsåning:
+I tilfælde af omsåning kan vårbyg eller vårhvede sås efter en grundig jordbehandling. Der skal gå mindst 15 dage efter behandling med Atlantis OD før jordbehandling.
+Efter en tør sommer anbefales pløjning forud for vinterraps, medens en grundig harvning er tilstrækkelig under normale forhold.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+8
+ºC
+
+Jordfugtighed
+ringe betydning
+ringe betydning
+
+Timers tørvejr
+4
+
+6
+
+Nattefrostrisiko
+ingen risiko
+ingen risiko
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Ved meget kraftig dug, kan en sprøjtning forårsage afløb af dug/sprøjtevæske, og effekten kan i værste fald
+blive nedsat eller helt udeblive. Derfor bør der først sprøjtes, når duggen er ved at tørre ind.
+Virkemåde
+Atlantis OD indeholder aktivstofferne mesosulfuron-methyl samt iodosulfuron, der begge tilhører stofgruppen
+sulfonylurea. Optagelsen sker i altovervejende grad gennem ukrudtets blade, og efter optagelsen
+transporteres aktivstofferne ind i plantens celler, hvor stoffet virker ved at hæmme dannelsen af de for
+planter så livsvigtige aminosyrer, isoleucin og valin. Atlantis OD indeholder en safener der betyder at afgrøden
+ikke påvirkes.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: Kommer stoffet på huden vaskes straks med store mængder vand.
+Øjne: Skyl straks med rigeligt vand i 15 minutter. Evt. kontaktlinser fjernes. Søg omgående læge.
+Indtagelse: Fremkald ikke opkastning. Søg omgående læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH066
+Gentagen kontakt kan give tør eller revnet hud.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Atlantis OD
+Sikkerhedsdatablad
+Atlantis OD
+Vejledning i Planteværn
+2025
+Side 351 til 352
+VP25s351-352.pdf.pdf--
+Side 351 til 352--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Atlantis_OD_18-505_Godkendt_Etikette_20250306.pdf
