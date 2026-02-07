@@ -1,0 +1,445 @@
+Amistar - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Amistar
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+ICI A5504
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Amistar
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+245,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+azoxystrobin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,00 l/ha
+1,00 BI/l
+Kartofler
+1,00 l/ha
+1,00 BI/l
+Roer
+1,00 l/ha
+1,00 BI/l
+Vinterraps
+1,00 l/ha
+1,00 BI/l
+Vintersæd
+1,00 l/ha
+1,00 BI/l
+Vårraps
+1,00 l/ha
+1,00 BI/l
+Vårsæd
+1,00 l/ha
+1,00 BI/l
+Ærter
+1,00 l/ha
+1,00 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+2,40 l/ha
+0,416 B/l
+Miljøeffekt
+19,4 l/ha
+0,0515 B/l
+I alt
+1,84 l/ha
+0,543 B/l
+
+Pesticidafgift: 81 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-172
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i korn, gulerødder, knoldselleri, persillerod, pastinak, raps, ærter med og uden bælg, kartofler, kålroer, majroer og græsfrø, samt i jordbær i væksthuse.
+Behandlingsfrist
+Må i hvede, rug, triticale og byg ikke anvendes senere end 35 dage før høst.
+Må i havre ikke anvendes senere end 35 dage før høst.
+Må i ærter med og uden bælg ikke anvendes senere end 14 dage før høst.
+Må i gulerødder, knoldselleri, persillerødder, pastinak, kålroer og majroer ikke anvendes senere end 14 dage før høst.
+Må i raps ikke anvendes senere end 21 dage før høst.
+Må i kartofler ikke anvendes senere end 7 dage før høst.
+Må i jordbær i væksthuse ikke anvendes senere 3 dage før høst.
+Behandlet frøgræs må ikke anvendes til foder.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Behandlet frøgræs må ikke anvendes til foder.
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Fr&#248;gr&#230;sGuler&#248;dderHavreJordb&#230;r i v&#230;ksthusKartoflerKnoldselleriK&#229;lroerMajroePastinakRapsRodpersilleRugTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Amistar, reg.nr. 1-172
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (reg.nr. 1-172) til mindre anvendelse mod svampesygdomme i hestebønner
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (reg.nr. 1-172) til mindre anvendelse mod svampesygdomme i planteskolekulturer og prydplanter på friland og i væksthus
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (1-172) til mindre anvendelse mod svampesygdomme i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (1-172) til mindre anvendelse mod meldug og jordbærsortråd i jordbær dyrket på tætte borde eller i render i åbne væksthuse
+Bladselleri p&#229; frilandBlomsterk&#229;l p&#229; frilandBundtl&#248;g p&#229; frilandFor&#229;rsl&#248;g p&#229; frilandHovedk&#229;l p&#229; frilandHvidl&#248;g p&#229; frilandL&#248;g p&#229; frilandPersille p&#229; frilandPorrer p&#229; frilandSkalottel&#248;g p&#229; frilandS&#229;l&#248;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Amistar (reg. nr. 1-172) til mindre anvendelse mod svampesygdomme i grøntsager på friland
+Anvendelse
+Resistensrisiko
+For at undgå udviklingen af resistens må dette produkt eller andre strobilurin-holdige produkter kun anvendes 2 gange pr. sæson. Da der er konstateret tilfælde af resistent meldug, skal Amistar benyttes i blandinger med meldugmidler, når der forekommer meldug på sprøjtetidspunktet.
+Resistensklasse
+11
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen, men afgrøden skal være i god vækst og ikke hæmmet af tørke eller andre sprøjtninger, når midlet anvendes.
+Opblandingsanvisninger
+Amistar omrystes kraftigt og fyldes i den 3/4 fyldte sprøjtetank under omrøring. Lad omrøringen køre under transport og ved udsprøjtning. Efterlad ikke sprøjtevæsken i sprøjten over længere perioder (f.eks. til næste dag). Efter frokostpause eller lign. foretages en grundig omrøring af sprøjtevæsken. Ved tankblanding med Corbel skal Amistar tilsættes først og fordeles grundigt i sprøjtevæsken inden tilsætning af Corbel. Ved blanding af Amistar+Corbel med ethephon-holdige vækstreguleringsmidler (Terpal og Cerone) skal vækstreguleringsmidlerne tilsættes til sidst. Kontroller altid blandingspartnerens anbefalinger vedr. tankmix.
+Rengøring
+Rengøring af sprøjte
+Rengør sprøjten grundigt udvendigt og indvendigt umiddelbart
+efter brug.
+Med tankspuledyse monteret:
+Husk at tømme sprøjten helt mellem hver skylning/vask, aktivér alle
+haner/ventiler, hæv trykket så meget, at overtryks-ventilen fra det
+selvrensende filter udløses. Findes der ikke en egnet vaskeplads med
+fast underlag, opsamling og afledning (til gyllebeholder) rengøres
+sprøjten bedst i marken.
+1) Sprøjten tømmes helt for sprøjtevæske i marken.
+2) Straks efter sprøjtning skylles sprøjten grundigt med rent
+vand - både indvendigt og udvendigt. Tøm tanken ved at
+sprøjte skyllevandet ud gennem bom/dyser. Skyllevandet kan
+sprøjtes udover den afgrøde, der lige er behandlet.
+3) Fyld tanken med 10-15% af tankkapaciteten (100 - 150 l /
+1000 l tank), tilsæt 0,5 All Clear Extra pr. 100 l vand. Sprøjt
+lidt af vaskevandet ud gennem bom/dyser, så disse sættes i
+blød. Lad omrøringen og tankspuledyse køre i mindst 15
+minutter, inden indholdet tømmes ud gennem bom/dyser.
+Vaske-vandet kan sprøjtes udover den afgrøde, der lige er
+behandlet. HUSK: Det er altid bedre at skylle flere gange
+med en mindre mængde skyllevand, end få gange med en
+større mængde skyllevand. Eksempel: Såfremt der i
+sprøjtebeholderen er en 10 l rest (sump og pumpesystem) vil
+to gange fortynding til 100 l vand give en 100 gange
+fortynding. Hvis de samme 10 l sprøjterest fortyndes ad 4
+omgange til 50 l vand opnås en fortynding på 625 gange.
+Den anvendte mængde skyllevand er den samme.
+4) Dyser og sier afmonteres og renses med samme vaskeblanding.
+5) Skyl tanken grundigt i 5 min. med rent vand. Skyllevandet
+sprøjtes ud gennem bommen/dyser.
+Ved brug af tankspuledyse og rentvandstank klares punkt 2. også
+ude i marken. Hvis man har tilstrækkeligt rent vand, kan punkt
+3) også startes i marken og omrøringen fortsættes, mens man
+kører hjem.
+HUSK at skyllevandet ikke må komme i kontakt med brønde,
+dræn eller kloakker.
+Ingen tankspuledyse monteret
+I stedet for at anvende 10 - 15% af tankkapaciteten under punkt
+3) (vaskningen), skal tanken fyldes helt.
+Opbevaring
+Opbevares frostfrit. Undgå direkte sollys.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Atlantis OD, Axiendo 2,5 WG, Balaya, Broadway, Cantus, Catch, Cleave, Cossack OD, Cuadro NT, Foxtrot, Hussar OD, Hussar Plus OD, Input EC 460, Joust, Juventus 90, Kayak, Lamdex, Metaxon, Moddus M, Moddus Start, Moxa, Mustang forte, Nexide CS, Optimus Max, Pixxaro EC, Primera Super, Primus XL, Proline EC 250, Propulse SE 250, Revus, Rexade 440, Soratel, Starane 333 HL, Starane XL, Trimaxx M, Trimmer 500 WG, Zypar, Hu-Man 15, Pioner S Gødning 80, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Ally 20 SX, Artina EC, ATR Floclopy, Curbatur, Express 50 SX, Express Gold 33 SX, Flurostar 180, Flurostar XL, Glacis, Harmony 50 SX, Harmony Plus 50 SX, Himalaya Pro, LFS Boscalid, LFS Fenoxaprop-P + Mefenpyr, LFS Metconazol, LFS Pirimicarb, LFS Prothioconazol, LFS Pyraclostrobin, LFS Trinexapac-ethyl, Mirador Forte EC, Mixin, Moddevo, Nicanor SG, Nuance Max 75 WG, Option WG, Orius Gold, Pediment, Pirimor 500 WG, Plexeo 90, Primus, Primus 250 WG, Profound, Proline Xpert EC 240, PRO-Tector, Ratio Super 50 SX, Remocco 90, Revus Top SC, Ricorso, Ricorso WG, Saracen M, Savvy, Savvy WG, Scala, Sonis, Stabilan Extra, Stemper, Tomahawk 200 EC, Tombo, Trimmer SG, Turret 90, Zorvec Enicade, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterhvede, Vårhvede
+Brunrust, gulrust
+0,4-1 lAfgrødens stadium 31-69
+Positiv sideeffekt mod Hvedebladplet og hvedebrunplet. Maks. 0,4 l/ha i BBCH 31-33, 1,0 l/ha i BBCH 37-69. Maks. dosis pr. sæson: 1,0 l/ha. Maks. to behandlinger pr. sæson og mindst 14 dages interval. Behandlingsfrist 35 dage.
+Vinterbyg, Vårbyg
+Bygbladplet, bygrust
+0,4-1 lAfgrødens stadium 30-69
+Positiv sideeffekt mod skoldplet. Maks. 0,4 l/ha i BBCH 30-35, 0,8 l/ha i BBCH 37-45, 1,0 l/ha i BBCH 45-69. Maks. dosis pr. sæson: 1,0 l/ha. Maks. to behandlinger pr. sæson og mindst 14 dages interval. Behandlingsfrist 35 dage.
+Rug, Triticale
+Brunrust, gulrust
+0,4-1 lAfgrødens stadium 30-69
+Positiv sideeffekt mod Skoldplet, hvedebladplet og hvedebrunplet. Maks. 0,4 l/ha i BBCH 30-35, 0,8 l/ha i BBCH 37-45, 1,0 l/ha i BBCH 45-69. Maks. dosis pr. sæson: 1,0 l/ha. Maks. to behandlinger pr. sæson og mindst 14 dages interval. Behandlingsfrist 35 dage.
+Havre
+Havrebladplet, kronrust
+0,4-1 lAfgrødens stadium 30-69
+Maks. 0,4 l/ha i BBCH 30-35, 0,8 l/ha i BBCH 37-45, 1,0 l/ha i BBCH 45-69. Maks. dosis pr. sæson: 1,0 l/ha. Behandlingsfrist 35 dage.
+Frøgræs
+Rust
+0,5 lAfgrødens stadium 30-69
+Moderat effekt mod arter af Puccinia spp. I frøgræs skoldplet i hundegræs, bladplet i rajgræs og svingel. Max. 0,5 l/ha i BBCH 30-69. Maks. dosis pr. sæson: 0,5 l/ha.
+Raps
+Knoldbægersvamp, skulpesvamp
+0,5-1 lAfgrødens stadium 60-69
+0,5-1,0 l/ha i BBCH 60-69. Maks. to behandlinger pr. sæson og mindst 14 dages interval. Maks. 1,0 l pr. sæson. Behandlingsfrist 21 dage.
+Kålroer, Majroe
+Skulpesvamp
+0,8 lAfgrødens stadium 40-49
+0,8 l/ha i BBCH 40-49. Maks. 1 behandling pr. sæson. Behandlingsfrist 14 dage.
+Kartofler
+Kartoffelbladplet
+0,5-1 lAfgrødens stadium 51-85
+Maks. 0,5 l/ha i BBCH 51-85. Maks. to behandlinger og anden behandling efter afgrødestadie 59. Mindst 7 dages interval. Maks. 1,0 l pr. sæson. Behandlingsfrist 7 dage.
+Gulerødder, Knoldselleri, Pastinak, Rodpersille
+Meldug
+0,8 lAfgrødens stadium 40-49
+Moderat til fuld effekt mod bladplet og gulerodbladplet. Maks. 0,8 l/ha i BBCH 40-49. Maks. 1 behandling. Behandlingsfrist 14 dage.
+Ærter
+Meldug
+0,6 lAfgrødens stadium 51-69
+Moderat til fuld effekt mod meldug. Lav til moderat effekt mod Ærtesyge, ærteskimmel og ærterust. Maks. 0,6 l/ha i BBCH 51-69. Maks. 1 behandling. Behandlingsfrist 14 dage.
+Jordbær i væksthus
+Jordbærsortråd, meldug
+1 lUspecificeret
+Maks. 2 behandlinger pr. sæson med 14-28 dages interval. Behandlingsfrist 3 dage.
+Effekt
+Effekt på nyttedyr
+Midlet er ikke skadeligt for en lang række nyttedyr, herunder rovmider, rovbiller, svirrefluer, snyltehvepse, edderkopper og guldøje.
+Virkning på efterfølgende afgrøde
+Der må sås/plantes efterfølgende afgrøder og rotationsafgrøder efter et rotationsinterval på 30 dage.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+8-10
+ºC
+
+Timers tørvejr
+1-2
+
+2
+
+Virkemåde
+Azoxystrobin virker systemisk i planten og har desuden en bladgennemtrængende
+(translaminar) effekt. Midlet har primært en forebyggende effekt, men også en antisporulerende
+effekt på visse svampesygdomme. Amistar bekæmper svampesygdomme
+mest effektivt inden svampen etablerer sig på planten, derfor skal midlet udbringes så
+snart de første sygdomstegn kan ses eller ved risiko for forestående angreb. Afgrøden vil
+være beskyttet mod svampeangreb i 2-4 uger afhængig af vækststadie, væksthastighed,
+sygdomsangreb og dosering. Amistar er yderst skånsom overfor afgrøden, hvilket sammen
+med god sygdomsbekæmpelse, god langtidseffekt og vedligeholdelse af planternes grønne
+bladareal, giver høje udbytter af god kvalitet.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Aksfusarium
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+Brunrust
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+Bygbladplet
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+Mod bygbladplet kan også forventes tilfælde af nedsat effekt med Amistar/Mirador. En resistens, som for tiden kun forventes at berøre de øvrige strobiluriner i begrænset omfang.
+Bygmeldug
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+På grund af resistensudvikling hos svampe mod strobiluriner er effekten mod hvedemeldug, Septoria, hvedebladplet og bygmeldug samt Ramularia meget begrænset.
+Bygrust
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+Gulrust
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+Hvedebladplet
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+På grund af resistensudvikling hos svampe mod strobiluriner er effekten mod hvedemeldug, Septoria, hvedebladplet og bygmeldug samt Ramularia meget begrænset.
+Hvedemeldug
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+På grund af resistensudvikling hos svampe mod strobiluriner er effekten mod hvedemeldug, Septoria, hvedebladplet og bygmeldug samt Ramularia meget begrænset.
+Knækkefodsyge
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+Ramularia
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+På grund af resistensudvikling hos svampe mod strobiluriner er effekten mod hvedemeldug, Septoria, hvedebladplet og bygmeldug samt Ramularia meget begrænset.
+Septoria
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+På grund af resistensudvikling hos svampe mod strobiluriner er effekten mod hvedemeldug, Septoria, hvedebladplet og bygmeldug samt Ramularia meget begrænset.
+Skoldplet
+1 l/ha
+Dyrkningsvejledning - svampemidler i korn
+
+1) ()
+Ikke aktuel eller ikke godkendt
+, ()
+Meget svag effekt
+, ()
+Svag effekt (under 40%)
+, ()
+Svag-nogen effekt (ca. 40%)
+, ()
+Nogen effekt (40-50%)
+, ()
+Nogen-middel effekt (ca. 50%)
+, ()
+Middel til god effekt (51-70%)
+, ()
+Middegod-god effekt (ca. 70%)
+, ()
+Meget god effekt (71-90)
+, ()
+Meget god effekt (ca. 90%)
+, ()
+Specialmiddel (91-100%)
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger.
+Førstehjælp
+Inhalation: Bring patienten ud i frisk luft, hold vedkommende varm og i hvile. Søg læge som en sikkerhedsforanstaltning. Berøring med huden: Fjern straks forurenet tøj og vask umiddelbart herefter huden med rigeligt vand, efterfulgt af sæbe og vand. Forurenet tøj bør vaskes, før det anvendes igen. Kontakt med øjnene: Skyl straks med øjenskyller eller rent vand i mindst 10 minutter med adskilte øjenlåg. Søg straks lægehjælp. Indtagelse: Skyl munden med vand. Fremkald IKKE opkastning. Søg omgående læge og vis etiketten.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H332
+Farlig ved indånding.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Amistar
+Sikkerhedsdatablad
+Amistar
+Vejledning i Planteværn
+2025
+Side 152 til 155
+VP25s152-155.pdf.pdf--
+Side 152 til 155--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Amistar_1-172_Etikette_20221017.pdf
