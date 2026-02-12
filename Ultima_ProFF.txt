@@ -1,0 +1,136 @@
+Ultima ProFF - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ultima ProFF
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-31860 EmmerthalTlf: Fax: Mail: ','Neudorff GmbH KG'); return true;" onmouseout="nd(); return true;" href="Http://www.neudorff.de" target="_new"Neudorff GmbH KG
+Distributør
+5250 Odense SVTlf: 70 22 70 67Fax: 70 22 70 68Mail: info@ecostyle.dk','ECOstyle A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.ecostyle.dk" target="_new"ECOstyle A/S
+Anvendes indenfor
+Industriel anvendelse, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+104,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+30 g/l
+maleinhydrazid
+186,7 g/l
+pelargonsyre
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+65,8 l/ha
+0,0152 B/l
+Miljøeffekt
+56,9 l/ha
+0,0176 B/l
+I alt
+9,28 l/ha
+0,108 B/l
+
+Pesticidafgift: 20 kr. pr. l
+Godkendelse
+Registreringsnummer
+364-35
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af ukrudt og mos på parkeringsarealer, veje, indkørsler, fortove, havegange, terrasser, udyrkede arealer og på arealer med vedagtige kulturer
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Der skal anvendes afskærmet sprøjtning.
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding, påfyldning og udbringning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+FortoveHavegangeIndk&#248;rslerParkeringsarealerTerrasserUdyrkede arealerVeje','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Ultima ProFF, reg.nr. 364-35
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær øjenbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke farligt gods
+RID_ADR
+Ikke farligt gods
+IMDG
+Ikke farligt gods
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ultima ProFF
+Sikkerhedsdatablad
+Ultima ProFF
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.landbrugsinfo.dk/-/media/landbrugsinfo/public/7/9/3/etiket_ultima_proff.pdf
