@@ -1,0 +1,181 @@
+Alar SG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Alar SG
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-4818CP BredaTlf: Fax: Mail: ','UPL Holdings Coöperatief U.A.'); return true;" onmouseout="nd(); return true;"UPL Holdings Coöperatief U.A.
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+850 g/kg
+daminozid
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,29 kg/ha
+0,233 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+4,29 kg/ha
+0,233 B/kg
+
+Pesticidafgift: 50 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1046-16
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering af potteplanter og krysantemum til afskæring i lukkede væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Sprøjtefører må højst behandle 0,1 ha per dag.
+Brugsanvisningens doseringsangivelser må ikke
+overskrides.
+Ved håndtering af behandlede afgrøder på
+prydplanter i væksthuse skal der anvendes
+arbejdstøj. Kemisk bestandige handsker og angivne
+re-entry intervaller eller nedsatte arbejdstider i
+afgrøden skal overholdes jf. nedenstående:
+Ved vanding og inspektion af behandlede planter:
+- Dag 0-1: arbejde i afgrøden må finde sted 8 timer
+dagligt iført kemisk bestandige handsker
+- Dag 2 og frem: arbejde må finde sted i afgrøden 8
+timer dagligt uden yderligere restriktioner.
+Generelt arbejde i potteplanter
+- Dag 0-4: arbejde i afgrøden må kun finde sted 2
+timer dagligt iført kemisk bestandige handsker
+- Dag 5: arbejde i afgrøden må finde sted 8 timer
+dagligt uden yderligere restriktioner
+Generelt arbejde i krysantemum ud over høst
+-Dag 0-5: arbejde i afgrøden må kun finde sted 2
+timer dagligt iført kemisk bestandige handsker
+- Dag 6 og frem: arbejde i afgrøden må finde sted 8
+timer dagligt uden yderligere restriktioner
+Ved høst af krysantemum
+- Dag 0-6: arbejde må ikke finde sted i afgrøden
+- Dag 7-8: arbejde i afgrøden må kun finde sted 2
+timer dagligt iført kemisk bestandige handsker
+- Dag 9-11: arbejde i afgrøden må finde sted 8 timer
+dagligt iført kemisk bestandige handsker
+- Dag 12 og frem: arbejde i afgrøden må finde sted 8
+timer dagligt uden yderligere restriktioner.
+Efter sprøjtning skal væksthuset være afspærret
+mindst 16 timer.
+Sprøjteførere skal anvende kemisk bestandige
+handsker, visir og åndedrætsværn (FP2, P2 eller
+lign.) ved blanding og påfyldning.
+Sprøjteførere skal anvende kemisk bestandige
+handsker og en todelt beskyttelsesdragt som er
+kemikaliebestandig og vandtæt ved håndholdt
+udbringning.
+Planter skal
+dyrkes på tætte
+planteborde med
+afløb til opsamling
+af vand eller på tæt belægning med opsamling af
+pesticidholdigt vand, herunder kondensvand.
+Undgå forurening af vandmiljøet med produktet
+eller med beholdere, der har indeholdt produktet
+(SP1).
+Må ikke tømmes i kloakafløb.
+Hvis midlet anvendes i planteskolekulturer der
+bærer spiselig frugt, skal frugter fjernes før salg.
+Opbevares under lås og utilgængeligt for børn
+(P405+P102).
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Potteplanter i v&#230;ksthusUdplantningsplanter i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Alar SG, reg.nr. 1046-16
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Alar SG
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://bmd.mst.dk/External/Entry/DownloadExternal/7be4ca43-3fd6-472f-80d1-2f1c8cbef847
