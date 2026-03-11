@@ -1,0 +1,159 @@
+Vitrol GB Pro - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Vitrol GB Pro
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+61-619 PoznanTlf: +48 61 826 25 12Fax: +48 61 820 08 41Mail: biuro@bros.pl','BROS spólka z ograniczona odpowiedzialnoscia'); return true;" onmouseout="nd(); return true;" href="Http://www.bros.pl" target="_new"BROS spólka z ograniczona odpowiedzialnoscia
+Distributør
+61-619 PoznanTlf: +48 61 826 25 12Fax: +48 61 820 08 41Mail: biuro@bros.pl','BROS spólka z ograniczona odpowiedzialnoscia'); return true;" onmouseout="nd(); return true;" href="Http://www.bros.pl" target="_new"BROS spólka z ograniczona odpowiedzialnoscia
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt, men kræver ingen gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Sneglekorn
+Status
+Markedsført
+Indhold af aktivstoffer
+24,2 g/kg
+jern(III)fosfat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+10,2 kg/ha
+0,0978 BI/kg
+Areal udenfor vækstsæsonen
+10,2 kg/ha
+0,0978 BI/kg
+Græs og kløver
+10,2 kg/ha
+0,0978 BI/kg
+Grøntsager
+10,2 kg/ha
+0,0978 BI/kg
+Kartofler
+10,2 kg/ha
+0,0978 BI/kg
+Majs
+10,2 kg/ha
+0,0978 BI/kg
+Roer
+10,2 kg/ha
+0,0978 BI/kg
+Vinterraps
+10,2 kg/ha
+0,0978 BI/kg
+Vintersæd
+10,2 kg/ha
+0,0978 BI/kg
+Vårraps
+10,2 kg/ha
+0,0978 BI/kg
+Vårsæd
+10,2 kg/ha
+0,0978 BI/kg
+Ærter
+10,2 kg/ha
+0,0978 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+202 kg/ha
+0,0049 B/kg
+I alt
+202 kg/ha
+0,0049 B/kg
+
+Pesticidafgift: 2 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1037-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af snegle i spiselige og ikke-spiselige afgrøder i åbne og lukkede væksthuse, samt på friland.
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Spiselige afgr&#248;der','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Vitrol GB Pro, reg.nr. 1037-1
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ingen oplysninger
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.middeldatabasen.dk
