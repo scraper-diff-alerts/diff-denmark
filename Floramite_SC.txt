@@ -1,0 +1,230 @@
+Floramite SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Floramite SC
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+0,25 l
+Registreringsindehaver
+NL-4818CP BredaTlf: Fax: Mail: ','UPL Holdings Coöperatief U.A.'); return true;" onmouseout="nd(); return true;"UPL Holdings Coöperatief U.A.
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Firmaets produktside
+Floramite SC
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+4.950,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+240 g/l
+bifenazate
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+40,1 l/ha
+0,0249 B/l
+Miljøeffekt
+35,4 l/ha
+0,0283 B/l
+I alt
+1,99 l/ha
+0,502 B/l
+
+Pesticidafgift: 76 kr. pr. l
+Godkendelse
+Registreringsnummer
+1046-17
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af spindemider i prydplanter i lukkede væksthuse.
+Behandlingsfrist
+Ingen
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje (SP1). Opbevares utilgængeligt for børn (P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Floramite SC (1046-17) til mindre anvendelse til bekæmpelse af spindemider i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse. Se vejledning på etiketten.
+Godkendt
+
+Floramite SC, reg.nr. 1046-17
+Anvendelse
+Resistensrisiko
+Bifenazat tilhører en gruppe med ikke-afklaret virkemekanisme (IRAC gruppe UN). For at formindske risikoen for at der udvikles resistens over for Floramite, anbefales følgende brug: - Antallet af behandlinger pr. kultur eller år må ikke overstige 2. - Benyt et eller helst to andre produkter med forskellig virkemekanisme før næste behandling med Floramite. - Kontrollér kulturen jævnligt og behandl med Floramite så snart angreb konstateres. Vent ikke til angrebet udvikler sig. - Følg brugsanvisningens anvisning vedrørende dosering og vandmængde. - Benyt mulighederne for integreret produktion, da Floramite kan bruges sammen med biologisk kontrol af spindemider. Integrerede metoder anbefales, da de kan begrænse behovet for spindemidemidler.
+Resistensklasse
+20D
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+7 dage
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske: Fyld tanken med den halve vandmængde. Start omrøring. Tilsæt Floramite og derefter den resterende vandmængde. Brug vand med pH mellem 5 og 7. Lad ikke opblandet sprøjtevæske stå natten over eller i længere perioder. I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af . Blandinger: Floramite kan generelt blandes med andre produkter. Det anbefales dog at lave et forsøg i lille skala for at kontrollere blandbarhed og sikkerhed for kulturen før større arealer behandles.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares køligt, men frostfrit. Midlet må kun opbevares i originalemballagen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Prydplanter i lukket væksthus
+Spindemider
+0,4-0,6 lSe bemærkninger
+NB! Dosering 0,04 pct. i sprøjtevæsken (40 ml pr. 100 l vand), dosis baseret på 1000 liter vand pr. ha. Der anvendes normalt 1000-1500 l vand pr. ha. Vandmængde under 1000 l bør undgås. Der behandles når de første spindemider konstateres. I kulturer med tæt løv, hvor det er vanskeligt at ramme spindemiderne, skal behandlingen gentages efter 7 dage. Vandmængden afhænger af kulturens højde og tæthed, da alt løv skal dækkes af sprøjtevæske.
+Effekt
+Effekt på nyttedyr
+Floramite er uskadelig for bier og humlebier samt relativt uvirksom mod nytteinsekter.
+Derfor er produktet anvendeligt i integreret produktion (IP).
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Floramite er et selektivt spindemidemiddel til brug i prydplanter. Ved korrekt brug har Floramite hurtig virkning som kontaktmiddel og derudover en langtidsvirkning. Floramite har generelt god virkning mod spindemider, men virkningen er bedst dokumenteret for væksthusspindemiden (Tetranychus urticae). Floramite bekæmper alle mobile stadier, men der er desuden også en rimelig virkning på æg. Ramte mider bliver hyperaktive efter få timer og tager ikke føde til sig. De dør efter 3-4 dage.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Søg lægehjælp ved ubehag (P314). Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101). INDÅNDING: Frisk luft. Kontakt læge ved fortsat ildebefindende. ØJNENE: Skyl straks med rigeligt vand og fortsæt i flere minutter. Kontakt læge. INDTAGELSE: Fremkald ikke opkastning. Drik rigeligt vand og kontakt straks læge. VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352). Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313). Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III, Transporteres efter reglerne for begrænset mængde.
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Floramite SC
+Sikkerhedsdatablad
+Floramite SC
+Vejledning i Planteværn
+2026
+Side 198
+VP26s198.pdf.pdf--
+Side 198--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Floramite_SC_1046-17_Godkendt_Etikette_20250320.pdf
