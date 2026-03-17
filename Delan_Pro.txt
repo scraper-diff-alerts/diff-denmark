@@ -1,0 +1,287 @@
+Delan Pro - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Delan Pro
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Delan Pro
+Anvendes indenfor
+Frugtavl
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+125 g/l
+dithianon
+561 g/l
+kaliumphosphonat
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,91 l/ha
+0,524 B/l
+Miljøadfærd
+79,2 l/ha
+0,0126 B/l
+Miljøeffekt
+14,1 l/ha
+0,0707 B/l
+I alt
+1,65 l/ha
+0,607 B/l
+
+Pesticidafgift: 99 kr. pr. l
+Godkendelse
+Registreringsnummer
+19-223
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i æbler og pærer.
+Behandlingsfrist
+Må ikke anvendes senere end 35 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Delan Pro, reg.nr. 19-223
+Anvendelse
+Resistensrisiko
+For mange fungicider er der risiko for forekomst af biotyper, der er modstandsdygtige (resistente)
+overfor de anvendte aktivstoffer. Delan Pro indeholder Dithianon og Kalium phosphanat.
+Dithianon tilhører gruppen af quinoner (FRAC gruppe M9), der vurderes at have lav risiko for
+udvikling af resistens.
+Kalium phosphonate tilhører gruppen af phosphonater (FRAC gruppe 33), der vurderes at have
+lav risiko for udvikling af resistens.
+Da Delan Pro påvirker svampesygdommene på flere måder, er der ikke fundet resistente
+svamperacer i Danmark.
+Risikoen for resistens hos fungicider i øvrigt kan nedsættes ved sprøjtning tidligt i
+infektionsforløbet.
+Resistensklasse
+M + 33
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+8 dage.
+Opblandingsanvisninger
+Delan Pro kan blandes med Scala, Signum og Candit. Blanding med Kumulus er mulig, men
+bør ikke udbringes i solskin.
+Delan Pro må ikke blandes med olieholdige eller alkaliske produkter
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i plantagen eller på
+vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark, på vaskepladsen
+eller under tag. Sprøjten skal være monteret med spuledyser til indvendig rengøring af tanken
+og sprøjten skal være monteret med separat vandtank med tilstrækkelig kapacitet således
+at restsprøjtevæske kan fortyndes og der kan foretages en grundig rengøring i marken.
+Restsprøjtevæske skal på passende vis fortyndes 50 gange med vand og udsprøjtes i den
+behandlede mark (uden at den maksimalt tilladte dosering for det pågældende middel herved
+overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt. etiketten på det sidst
+anvendte middel for specifikke anvisninger) samtidig med at filtre, slanger og dyser kontrolleres
+for urenheder og eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og
+udbringes iht. Gældende regler.
+I øvrigt henvises til Miljøministeriets vejleding om påfyldning og vask af sprøjter til udbringning
+af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1752 af .
+Opbevaring
+Delan Pro bør opbevares frostfrit i uåbnet original emballage beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Candit, Scala, Signum
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Kumulus S
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Pærer, Æbler
+Pæreskurv, æbleskurv
+2,5 lAfgrødens stadium 53-81
+Max. 6 behandlinger pr. sæson. Sprøjtefrist 35 dage.
+Effekt
+Effekt på nyttedyr
+Delan Pro er skånsom overfor
+honningbier, regnorme, rovmider og bladsnyltehvepse.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+
+Timers tørvejr
+1
+
+2
+
+Andet
+Delan Pro er regnfast efter indtørring af sprøjtevæsken.
+Virkemåde
+Der er 2 aktive stoffer i Delan Pro: Dithianon og Kalium phosphonat.
+Dithianon er et bredt virkende kontaktmiddel, der virker ved at påvirke enzymer i flere forskellige
+cellefunktioner, hvorved svampecellernes ånding hæmmes.
+Kalium phosphonat er systemisk virkende. Virkemåden er ukendt. Delan Pro har god effekt på skurv i æbler, pærer og kirsebær. Delan Pro har kurativ effekt op til
+48 timer efter sporespredende regn, og kan derved anvendes efter et skurv varsel. Delan Pro
+har effekt mod skurv ved lave temperaturer (fra 5 °C).
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle
+kontaktlinser, hvis dette kan gøres let. Fortsæt skylning (P305+P351+P338).
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+Ved vedvarende øjenirritation: Søg lægehjælp (P337+P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Delan Pro
+Sikkerhedsdatablad
+Delan Pro
+Vejledning i Planteværn
+2026
+Side 338
+VP26s338.pdf.pdf--
+Side 338--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Delan_Pro_19-223_Etikette_20221017.pdf
