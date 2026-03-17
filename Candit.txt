@@ -1,0 +1,298 @@
+Candit - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Candit
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+BAS 490 02F, Candit WG
+Pakningsstørrelse
+0,5 kg
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Candit
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+2.150,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+kresoxim-methyl
+(~ 478 g/kg
+kresoxim)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Vintersæd)
+0,250 kg/ha
+4,00 BI/kg
+(Vårsæd)
+0,250 kg/ha
+4,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,29 kg/ha
+0,233 B/kg
+Miljøadfærd
+1,28 kg/ha
+0,784 B/kg
+Miljøeffekt
+13,1 kg/ha
+0,0765 B/kg
+I alt
+0,914 kg/ha
+1,09 B/kg
+
+Pesticidafgift: 164 kr. pr. kg
+Godkendelse
+Registreringsnummer
+19-92
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i æble, pære, solbær, ribs, stikkelsbær, blåbær og tranebær, jordbær i væksthus og på friland, roser i væksthus og på friland samt krysantemum i væksthus.
+Behandlingsfrist
+Må i æbler og pærer ikke anvendes senere end 28 dage før høst.
+Må i jordbær (friland og væksthus) ikke anvendes senere end 7 dage før høst.
+Må i ribs, solbær, stikkelsbær, blåbær og tranebær ikke anvendes senere end 14 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+For at beskytte grundvandet må dette produkt i jordbær og roser på friland kun anvendes i selve rækkerne (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Ved håndtering af krysantemum dyrket i væksthuse skal der anvendes kemisk bestandige handsker.
+Efter tågesprøjtning skal væksthuset være afspærret mindst 16 timer.
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i æbler og pærer ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i solbær, ribs, stikkelsbær, blåbær og tranebær ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i jordbær og roser ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Chrysanthemum i v&#230;ksthusJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandP&#230;rerRibsRoser i v&#230;ksthusRoser p&#229; frilandSolb&#230;rStikkelsb&#230;rTraneb&#230;r&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Candit, reg.nr. 19-92
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Candit (19-92) til mindre anvendelse mod svampesygdomme i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Candit (reg.nr. 19-92) til mindre anvendelse mod svampesygdomme i prydplanter og planteskolekulturer på friland
+Jordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; tabletop p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Candit (19-92) til mindre anvendelse mod meldug i jordbær dyrket i render i åbne væksthuse samt på tabletop på friland eller i tunneller på friland.
+Anvendelse
+Resistensrisiko
+For mange fungicider er der risiko for forekomst af biotyper, der er modstandsdygtige
+(resistente) overfor de anvendte aktivstoffer.
+Kresoxim-methyl tilhører gruppen af strobiluriner også benævnt QoI fungicider (FRAC gruppe
+11). Fungicider tilhørende denne gruppe er vurderet til at have høj risiko for opbygning af
+resistens. I Danmark er der konstateret resistens hos Skurv (Venturia ineaqualis).
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling
+af resistens. For at mindske risikoen bør produktet ikke anvendes oftere end de i vejledningen
+angivne antal gange per sæson.
+For at mindske risikoen for udvikling af resistens anbefales det at blande med eller skifte
+mellem midler med andre virkemekanismer, som har god effekt over for de aktuelle
+sygdomme.
+Risikoen for resistens overfor fungicider kan nedsættes ved sprøjtning tidligt i vækstforløbet/
+infektionsforløbet.
+Resistensklasse
+11
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+I væksthus bør Candit ikke blandes med andre sprøjtemidler, sprede- klæbemidler,
+gødningsstoffer eller lignende. I frugt- og bæravl kan Candit blandes med Scala, Delan WG,
+Delan Pro, Signum og Fastac 50.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Candit bør ikke opbevares ved temperaturer lavere end -10º i uåbnet original emballage
+beskyttet mod direkte sollys og andre varme kilder og ikke over 40 ºC.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Delan Pro, Kumulus S, Regalis Plus, Scala, Signum, YaraVita Bortrac, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+LFS Pyraclostrobin+Boscalid
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Pærer, Æbler
+Meldug
+0,2 kgAfgrødens stadium 53-81
+Max. 1 behandling. Senest 28 dage før høst. Udbringning med tågesprøjte eller med sprøjte med lodret bom.
+Blåbær, Ribs, Solbær, Stikkelsbær, Tranebær
+Meldug, stikkelsbærdræber
+0,16 kgAfgrødens stadium 51-85
+Max. 1 behandling. Senest 14 dage før høst. Udbringning med tågesprøjte eller tunnelsprøjte.
+Jordbær på friland
+Meldug
+0,2 kgAfgrødens stadium 11-89
+Max. 2 behandlinger pr. vækstsæson. Minimum 7 dage mellem behandlinger. Senest 7 dage før høst. Må kun udsprøjtes i selve rækkerne som båndsprøjtning.
+Roser på friland
+Meldug, rosenstråleplet
+0,06 kgAfgrødens stadium 11-89
+NB! Dosering 0,03 pct. i sprøjtevæsken. Max. 3 behandlinger i vækstperioden, minimum 7 dage mellem behandlinger. Må kun udsprøjtes i selve rækkerne. Manuel udbringning med rygsprøjte eller tilsvarende udstyr.
+Jordbær i væksthus
+Meldug
+0,2 kgAfgrødens stadium 11-89
+Max. 2 behandlinger pr. vækstsæson. Minimum 7 dage mellem behandlinger. Senest 7 dage før høst. Manuel udbringning med rygsprøjte eller tilsvarende udstyr eller med automatisk væksthus sprøjtesystem.
+Roser i væksthus
+Meldug, rosenstråleplet
+0 kgAfgrødens stadium 11-89
+NB! Dosering 0,03 pct. i sprøjtevæsken. Max. 3 behandlinger i vækstperioden, minimum 7 dage mellem behandlinger. Manuel udbringning med rygsprøjte eller tilsvarende udstyr eller med automatisk væksthus sprøjtesystem.
+Chrysanthemum i væksthus
+Hvid krysantemumrust
+0 kgAfgrødens stadium 11-89
+NB! Dosering 0,03-0,10 pct. i sprøjtevæsken. Max. 3 behandlinger i vækstperioden, minimum 7 dage mellem behandlinger. Manuel udbringning med rygsprøjte eller tilsvarende udstyr eller med automatisk væksthus sprøjtesystem.
+Effekt
+Effekt på nyttedyr
+Candit er forenelig med biologisk bekæmpelse, og Candit er skånsomt over for populationer af Typhlodromus pyri, Aphidius rhopalosiphi, Trichogramma cacoeciae, Poecilus cupreus og
+Coccinella septempunctata. Foreneligheden med anvendelsen af andre nyttedyr er ukendt, derfor anbefales det at foretage en prøvebehandling inden egentlig udsættelse.
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+½
+1
+
+Andet
+Candit bør kun anvendes på planter i god vækst og uden symptomer på stress forårsaget af tørke, varme, næringsmangel eller lignende.
+Virkemåde
+Aktivstoffet i Candit Kresoxim-methyl tilhører gruppen af strobiluriner, som virker ved at blokere for elektrontransporten i mitokondrierne hvorved svampens ånding og energiopbygning påvirkes. Ved forebyggende behandlinger forhindres infektion på det tidligst mulige tidspunkt; når svampesporerne spirer i bladet. Ved behandling efter infektion hæmmes svampens videre udbredelse i bladet.
+Kresoxim-methyl omfordeles efter udsprøjtningen løbende på planten (overfladesystemisk), således at også plantedele, der ikke direkte rammes af sprøjtevæsken beskyttes effektivt mod svampeangreb.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9.12 c
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Candit
+Sikkerhedsdatablad
+Candit
+Vejledning i Planteværn
+2026
+Side 339 til 340
+VP26s339-340.pdf.pdf--
+Side 339 til 340--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Candit_19-92_Etikette_20221017.pdf
