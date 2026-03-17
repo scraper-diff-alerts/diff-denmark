@@ -1,0 +1,299 @@
+Express Gold 33 SX - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Express Gold 33 SX
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+100 og 10x100 g
+Registreringsindehaver
+7673 HarboøreTlf: 96 90 96 90Fax: 96 90 96 91Mail: info@cheminova.dk','FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)'); return true;" onmouseout="nd(); return true;" href="Http://www.fmcagro.dk" target="_new"FMC Agricultural Solutions A/S (tidligere: Cheminova A/S)
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Firmaets produktside
+Express Gold 33 SX
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+2,75 kr/g
+&nbsp()
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+222,2 g/kg
+tribenuron-methyl
+(~ 214 g/kg
+tribenuron)
+111,1 g/kg
+metsulfuron-methyl
+(~ 107 g/kg
+metsulfuron)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+17,4 g/ha
+0,0574 BI/g
+Vintersæd
+20,8 g/ha
+0,0481 BI/g
+Vårsæd
+17,4 g/ha
+0,0574 BI/g
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4.292 g/ha
+0,0002 B/g
+Miljøadfærd
+902 g/ha
+0,0011 B/g
+Miljøeffekt
+2.366 g/ha
+0,0004 B/g
+I alt
+567 g/ha
+0,0018 B/g
+
+Pesticidafgift: 0,254 kr. pr. g
+Godkendelse
+Registreringsnummer
+11-66
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i korn.
+Behandlingsfrist
+Må i havre og vinterbyg ikke anvendes senere end vækststadie 30.
+Må i hvede, rug, triticale og vårbyg ikke anvendes senere end vækststadie 39.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningens angivne maksimale doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også anvendes andre produkter, der indeholder aktivstofferne iodosulfuron-methyl, tribenuron-methyl, thifensulfuron-methyl, triasulfuron eller metsulfuron-methyl (SPe1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Triticale uden udl&#230;gVinterbyg uden udl&#230;gVinterhvede uden udl&#230;gVinterrug uden udl&#230;gV&#229;rbyg uden udl&#230;gV&#229;rhvede uden udl&#230;gV&#229;rrug uden udl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Express Gold 33 SX, reg.nr. 11-66 - godkendelse overført fra Du Pont Danmark ApS
+Triticale uden udl&#230;gVinterbyg uden udl&#230;gVinterhvede uden udl&#230;gVinterrug uden udl&#230;gV&#229;rbyg uden udl&#230;gV&#229;rhvede uden udl&#230;gV&#229;rrug uden udl&#230;g','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Express Gold 33 SX, reg.nr. 11-66, under revurdering
+Anvendelse
+Resistensrisiko
+Express Gold 33 SX indeholder aktivstofferne metsulfuron-methyl og tribenuron-methyl, som begge tilhører virkemådeklasse: HRAC gruppe: B. Når ukrudtsmidler med samme virkemåde anvendes på den samme mark flere år i træk, kan der ske en udvælgelse af evt. naturligt forekommende, resistente ukrudtsarter. Disse kan opformeres og blive dominerende. Hvis en ukrudtsart er resistent over for et sulfonylurea produkt fra HRAC gruppe: B, er der krydsresistens overfor andre midler i samme virkemåde. Der er fundet flere tilfælde af resistens over for sulfonylureamidlerne på ukrudtsarterne alm. fuglegræs, kornvalmue, lugtløs kamille og enkelte tilfælde af hyrdetaske, hanekro og gul okseøje, samt flere tilfælde af agerrævehale. Udvikling af resistens kan undgås ved at skifte mellem midler med forskellig virkemåde, men med samme effekt over for ukrudtsarten, eller ved at udsprøjte en tankblanding af disse to midler. Anbefalinger: 1) Hvis der er konstateret resistens over for Express Gold 33 SX, genbehandles marken hurtigst muligt med et andet, effektivt middel mod denne ukrudtsart. 2) For at forebygge at der opstår resistens, anbefales det at udsprøjte Express Gold 33 SX i tank mix med anbefalet dosering af fluroxypyr-holdige produkter (f.eks. Starane 333 HL eller Starane XL) eller Pixxaro EC, Zypar eller Mustang forte. Valg af middel og dosering tilpasses efter ukrudt, afgrødevalg og sprøjteforhold.
+Resistensklasse
+B / 2
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Husk altid også at læse etiketten for de produkter der blandes med, det gælder især for evt. tilsætning af olie eller sprede/klæbemiddel og mulige restriktioner i anvendelsen. Express Gold 33 SX kan generelt blandes med relevante ukrudts- og svampe- og insektmidler i korn. Der bør maksimalt blandes 2 produkter. Express Gold 33 SX kan endvidere blandes med flydende manganprodukter.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Ingen oplysninger
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Entargo, Zypar
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar, CCC 750, DFF, Moddus M, Primus, Proline EC 250, Sempra SC, Starane XL, Talius EC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Express 50 SX, Hussar Plus OD, Nuance Max 75 WG, Trimmer SG
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterhvede uden udlæg, Vinterrug uden udlæg, Vintertriticale uden udlæg
+Tokimbladet frøukrudt
+18 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 23-39
+Behandling foretages bedst i det tidlige forår, når afgrøden er i god aktiv vækst. Max. 1 behandling pr. vækstår.
+Vinterbyg uden udlæg
+Tokimbladet frøukrudt
+18 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 23-30
+Behandling foretages bedst i det tidlige forår, når afgrøden er i god aktiv vækst. Ingen behandling efter BBCH 30 i vinterbyg. Max. 1 behandling pr. vækstår.
+Havre uden udlæg, Vårbyg uden udlæg, Vårhvede uden udlæg, Vårrug uden udlæg
+Tokimbladet frøukrudt
+13,5 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 11-19
+Max. 1 behandling pr. vækstår.
+Vårbyg uden udlæg, Vårhvede uden udlæg, Vårrug uden udlæg
+Tokimbladet frøukrudt
+18 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 20-39
+Max. 1 behandling pr. vækstår.
+Havre uden udlæg
+Tokimbladet frøukrudt
+18 g + 0,15 l Sprede-klæbemiddelAfgrødens stadium 20-30
+Ingen behandling efter BBCH 30 i havre. Max. 1 behandling pr. vækstår.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Begrænsning i anvendelse - efterfølgende afgrøde. Efter behandling med Express Gold 33 SX, kan der efter 2 måneder sås korn med eller uden græs/kløverudlæg samt vinterraps*. Det følgende forår kan der dyrkes vårraps, kartofler*, majs, korn, roer*, ærter, hestebønner og hør. *) På jord med 50% sand og pH8, kan der opstå gulfarvning af sukkerroer, raps og kartofler. Der kan ikke dyrkes grønsager, frugt, bær samt prydplanter eller nogen anden afgrøde end de ovenfor nævnte, hverken det år Express Gold 33 SX er anvendt eller det følgende år. Hvis Express Gold 33 SX, er anvendt i blandning med et andet produkt læs altid blandningspartnerens etikette samt kontakt din firma-repræsentant for råd. Omsåning af et areal behandlet med Express Gold 33 SX: Hvis en behandlet mark skal omsås, må der kun sås korn. Inden for den 1. måned efter behandlingen må der kun sås vårhvede eller havre, og der bør pløjes. Til ukrudtsbekæmpelse i det omsåede korn må der ikke anvendes et sulfonylurea produkt der indeholder tribenuron-methyl, iodosulfuron, metsulfuron-methyl eller thifensulfuron-methyl.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+2-4
+ºC
+7-25
+ºC
+
+Luftfugtighed
+40
+%
+95
+%
+
+Jordfugtighed
+lav
+høj
+
+Timers tørvejr
+1
+
+4
+
+Andet
+Express Gold 33 SX kan anvendes på alle jordtyper. Under særlige forhold (frost, store temperaturudsving mellem dag/nat temperatur i forbindelse med sprøjtning) kan afgrøden i visse tilfælde få en vis lysfarvning. Lysfarvningen er dog midlertidig og forsvinder under normale forhold. Desuden kan der opstå mindre stråforkortning. Dette er normalt og påvirker ikke udbyttet. Vårsæd kan være mere følsom end vintersæd.
+Virkemåde
+Tribenuron-methyl og metsulfuron-methyl er systemiske og optages hovedsageligt
+gennem bladene og transporteres til vækstpunkterne
+hvor det hæmmer dannelsen af aminosyrerne valin og
+isoleucin. Det medfører at celledelingen i vækstpunkterne
+stopper. I tolerante planter inaktiveres aktivstofferne umiddelbart efter optagelsen.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+ndånding: Bring personen ud i frisk luft. Giv om nødvendigt ilt eller kunstigt
+åndedræt. Søg læge ved betydelig påvirkning.
+Indtagelse: Fremkald ikke opkastning uden lægelig kontrol. Giv aldrig et bevidstløst
+menneske noget gennem munden. Søg læge i alvorlige tilfælde. Ved ildebefindende
+er omgående lægebehandling nødvendig. Vis etiketten, hvis det er muligt.
+Hudkontakt: Fjern øjeblikkeligt forurenet tøj og sko. Vask omgående med sæbe og
+rigeligt vand. Søg læge hvis nødvendigt.
+Øjenkontakt: Skyl øjeblikkeligt med rigeligt vand, også under øjenlågene. Søg læge,
+hvis symptomerne vedvarer.
+Nødtelefon: Giftlinjen (Bisperbjerg Hospital) 82121212
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder tribenuron-methyl. Kan udløse en allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke pulver.
+P260
+Indånd ikke spray.
+P314
+Søg lægehjælp ved ubehag.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077 (forbehold for limited quantity)
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Express Gold 33 SX
+Sikkerhedsdatablad
+Express Gold 33 SX
+Vejledning i Planteværn
+2026
+Side 471 til 472
+VP26s471-472.pdf.pdf--
+Side 471 til 472--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://ag.fmc.com/dk/sites/default/files/2023-09/Express_gold_33_sx_lbl_dk.pdf
