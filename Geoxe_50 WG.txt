@@ -1,0 +1,272 @@
+Geoxe 50 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Geoxe 50 WG
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 og 5 kg
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1.832,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+fludioxonil
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Ærter)
+1,00 kg/ha
+1,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+15,2 kg/ha
+0,0660 B/kg
+Miljøadfærd
+1,33 kg/ha
+0,755 B/kg
+Miljøeffekt
+13,2 kg/ha
+0,0755 B/kg
+I alt
+1,12 kg/ha
+0,896 B/kg
+
+Pesticidafgift: 136 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1-227
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i jordbær på friland og hovedsalat- og pluksalat og andre salatplanter (herunder Brassicacea) i væksthus.
+Behandlingsfrist
+Må i jordbær ikke anvendes senere end 3 dage før høst.
+Må i hovedsalat- og pluksalat og andre salatplanter (herunder Brassicacea) ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må kun anvendes til bekæmpelse af svampesygdomme i jordbær på friland og hovedsalat- og pluksalat og andre salatplanter (herunder Brassicacea) i væksthus.
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Må i jordbær kun anvendes i båndsprøjtning.
+Ved anvendelse i væksthus skal sprøjteførere anvende handsker og beskyttelsesdragt ved blanding, påfyldning og udbringning.
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bredbladet endivie i v&#230;ksthusHavekarse i v&#230;ksthusHavesalat i v&#230;ksthusHovedsalat i v&#230;ksthusJordb&#230;rLangskulpet vinterkarse i v&#230;ksthusPluksalat i v&#230;ksthusR&#248;d sennep i v&#230;ksthusSalatsennep i v&#230;ksthusV&#229;rsalat i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Geoxe 50 WG, reg.nr. 1-227, udvidet godkendelse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse til mindre anvendelse af Geoxe 50 WG (1-227) mod fusarium i prydplanter i væksthus
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Geoxe 50 WG (reg.nr. 1-227) til mindre anvendelse mod Fusarium i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Geoxe 50 WG (reg.nr. 1-227) til mindre anvendelse mod gråskimmel og knoldbægersvamp i salat i åbne væksthuse
+Anvendelse
+Resistensrisiko
+Geoxe 50 WG tilhører gruppen af phenylpyrroles (FRAC gruppe 12), som
+vurderes at have en medium risiko for udvikling af resistens. Der er ingen
+kryds resistens til andre fungicid grupper.
+Gentagne behandlinger med midler med samme virkemekanisme øger
+risikoen for udvikling af resistens.
+For at mindske risikoen for udvikling af resistens anbefales det at blande
+med eller skifte mellem midler med andre virkemekanismer, som har god
+effekt over for de aktuelle arter.
+Risikoen for resistens hos fungicider kan nedsættes ved sprøjtning tidligt i
+infektionsforløbet.
+Resistensklasse
+12
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblanding:
+Med vore nuværende kundskaber er Geoxe fysisk blandbar med de vigtigste svampe-,
+insekt-, ukrudts- og vækstreguleringsmidler samt mikronæringsstoffer af god kvalitet.
+Fysisk blandbar indebærer at ingen udfældning sker. Forskellige faktorer såsom vandkvalitet,
+temperatur, vandets hårdhed mm kan indvirke på blandingen. Lav derfor altid en
+prøveblanding først. Læs altid respektive præparaters etiket før brug.
+Rengøring
+Rengør sprøjten grundigt udvendigt og indvendigt umiddelbart efter brug.
+HUSK, at skyllevandet ikke må komme i kontakt med brønde, dræn eller
+kloakker.
+Vaskevandet opsamles i egnede beholdere og udbringes iht. gældende
+regler.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og
+vask af sprøjter til udbringning af bekæmpelsesmidler, jf. Miljøministeriets
+bekendtgørelse nr. 1752 af .
+Opbevaring
+Frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Jordbær på friland
+Gråskimmel
+0,5 kgAfgrødens stadium 61-89
+Max. 1 behandling som båndsprøjtning. Behandlingsfrist 3 dage.
+Blade og skud af Brassica spp., Bredbladet endivie i væksthus, Havekarse i væksthus, Havesalat i væksthus, Langskulpet vinterkarse i væksthus, Rød sennep i væksthus, Salatsennep i væksthus, Vårsalat i væksthus
+Gråskimmel, Sclerotinia spp.
+0,5 kgAfgrødens stadium 11-49
+Max. 2 behandlinger med 10 dages interval. Behandlingsfrist 7 dage.
+Effekt
+Effekt på nyttedyr
+Midlet er skånsomt overfor populationer af Typlodromus pyri, Aphidius rhopalosiphi og Chrysoperla carnea. Foreneligheden med anvendelse af andre nyttedyr er ukendt.
+Virkning på efterfølgende afgrøde
+Ingen restriktioner mht. efterfølgende afgrøder.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+Da der er tale om et kontaktmiddel er det afgørende, at der anvendes en
+teknik, hvor der opnås god dækning af planten.
+Virkemåde
+Fludioxonil er ikke systemisk og virker ved at hæmme spiringen af svampesporer
+og mycelievækst på planteoverfladen. Der sker nogen optagelse
+af stoffet i kutikula.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+P101 Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P302+P352 VED KONTAKT MED HUDEN: Vask med rigeligt vand.
+P333+P313 Ved hudirritation eller udslet: Søg lægehjælp.
+P362+P364 Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+Nødtelefon: Alarm 112, Giftlinjen (Bispebjerg Hospital) 82 12 12 12
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Geoxe 50 WG
+Sikkerhedsdatablad
+Geoxe 50 WG
+Vejledning i Planteværn
+2026
+Side 282 til 285
+VP26s282-285.pdf.pdf--
+Side 282 til 285--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Geoxe_50_WG_1-227_Etikette_20221017.pdf
