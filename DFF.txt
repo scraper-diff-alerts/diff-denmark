@@ -1,0 +1,320 @@
+DFF - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+DFF
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+0,8; 1 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+DFF
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+450,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+500 g/l
+diflufenican
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,150 l/ha
+6,67 BI/l
+Majs
+0,0750 l/ha
+13,3 BI/l
+Vintersæd
+0,200 l/ha
+5,00 BI/l
+Vårsæd
+0,150 l/ha
+6,67 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,956 l/ha
+1,05 B/l
+Miljøeffekt
+3,94 l/ha
+0,254 B/l
+I alt
+0,770 l/ha
+1,30 B/l
+
+Pesticidafgift: 192 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-12-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+18-416
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinter- og vårhvede, vinter- og vårbyg, vinterrug og triticale.
+Behandlingsfrist
+Må ikke anvendes senere end afgrødens vækststadium 28.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af DFF til ukrudtsbekæmpelse i vinterspelt
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse i purløg til frøproduktion
+PastinakRodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse i gulerod, pastinak og persillerod. Registreringsindehaver: Niels Ege Nielsen, Limfjords
+Priklebede p&#229; planteskoler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse i priklebede med planteskolekulturer
+VinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+DFF, reg.nr. 18-416
+Bl&#229;b&#230;rHybenRibsSolb&#230;rStikkelsb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse mod ukrudt i solbær, ribs, stikkelsbær, blåbær, aronia og hyben
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse til bekæmpelse af ukrudt i timian til frøproduktion i etableringsfasen
+Alm. rapgr&#230;s til fr&#248;avlEngrapgr&#230;s til fr&#248;avlEngsvingel til fr&#248;avlHundegr&#230;s til fr&#248;avlHybridrajgr&#230;s til fr&#248;avlItaliensk rajgr&#230;s til fr&#248;avlRajsvingel til fr&#248;avlR&#248;dsvingel til fr&#248;avlStivbladet svingel (bakkesvingel) til fr&#248;avlStrandsvingel til fr&#248;avlTimothe til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF, reg.nr. 18-416, til mindre anvendelse i frøgræs
+Kirseb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF (18-416) til mindre anvendelse mod ukrudt i kirsebær og blomme
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF til mindre anvendelse mod ukrudt i elefantgræs
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF (18-416) til mindre anvendelse mod ukrudt i pære og æble
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF (18-416) til mindre anvendelse mod ærenpris i fodermajs
+Kl&#248;ver til fr&#248;K&#248;rvel til fr&#248;Lucerne til fr&#248;avlLupin til fr&#248;avlPurl&#248;g til fr&#248;avlSkorzonerrod til fr&#248;avlTimian til fr&#248;avl&#198;rter til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF (18-416) til mindre anvendelse mod græsukrudt i kløver, lucerne, dild, kørvel, purløg, skorzonerrod, timian, ærter og lupin til produktion af frø på friland
+Juletr&#230;erL&#230;hegnPyntegr&#248;ntSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af DFF (reg.nr. 18-416) til mindre anvendelse mod en- og tomkimbladet ukrudt i skovbrug, juletræer, pyntegrønt og læhegn samt energiafgrøder på friland
+VinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+DFF, reg.nr. 18-416, godkendelse trukket af Miljøstyrelsen
+På forbudsliste
+
+DFF, reg.nr. 18-416, anvendelses- og besiddelsesforbud
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme enten i form af en tankblanding, eller ved at skifte middel med jævne mellemrum.
+Resistensklasse
+F1 / 12
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger.
+Opblandingsanvisninger
+Fyld tanken halvt op med rent vand. Tilsæt DFF (hvid væske) og Oxitril (mørk væske) og fyld op med den resterende vandmængde. Sørg for god omrøring før og under sprøjtningen.
+Rengøring
+Det anbefales at gennemskylle sprøjten med rent vand lige efter sprøjtningens afslutning for at undgå at sprøjtevæsken tørrer ind, og herefter rengøre sprøjten som normalt, med vand og rengøringsmiddel. Der anvendes et ammoniumsbaseret rengøringsmiddel f.eks. All Clear Extra.
+Opbevaring
+Frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Atlantis OD, Boxer, Broadway, Catch, Cleave, Cossack OD, Foxtrot, Hussar OD, Hussar Plus OD, Joust, Mateno Duo SC 600, Pixxaro EC, Primera Super, Primus, Primus XL, Proline EC 250, Rexade 440, Serrate, Soratel, Starane XL, Zypar, Mangansulfat 32, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Adimax, Ally 20 SX, ATR Floclopy, Boxer 800 EC, CCC 750, Curbatur, Express 50 SX, Express Gold 33 SX, Fidox EC, Flight Xtra, Flurostar XL, Glacis, Glyphomax 480 HL, Harmony 50 SX, Harmony Plus 50 SX, LFS Clodinafop, LFS Fenoxaprop-P + Mefenpyr, LFS Prosulfocarb, LFS Prothioconazol, Mixin, Mustang forte, Nicanor SG, Nuance Max 75 WG, Primus 250 WG, Profound, Proline Xpert EC 240, Ricorso, Ricorso WG, Roxy EC, Saracen M, Savvy, Savvy WG, Starane 333 HL, Stomp CS, Tombo, Topik EC, Trimmer 500 WG, Trimmer SG
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Enårig rapgræs, tokimbladet frøukrudt
+0,06-0,12 lEfterår på ukrudtets stadium 00-12 (maks. 2 løvblade)
+Maks. 1 behandling pr. vækstår. Må ikke anvendes senere end vækststadium 28.
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Enårig rapgræs, tokimbladet frøukrudt
+0,12-0,24 lEfterår på ukrudtets stadium 13-14 (3-4 løvblade)
+Maks. 1 behandling pr. vækstår. Må ikke anvendes senere end vækststadium 28.
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Tokimbladet frøukrudt
+0,12-0,24 lForår på ukrudtets stadium 13-14 (3-4 løvblade)
+Forårsbehandling. Maks. 1 behandling pr. vækstår. Må ikke anvendes senere end vækststadium 28.
+Vårbyg, Vårhvede
+Tokimbladet frøukrudt
+0,06-0,15 lForår på ukrudtets stadium 00-12 (maks. 2 løvblade)
+Maks. 1 behandling pr. vækstår. Må ikke anvendes senere end vækststadium 28.
+Vårbyg, Vårhvede
+Tokimbladet frøukrudt
+0,15 lForår på ukrudtets stadium 13-14 (3-4 løvblade)
+Maks. 1 behandling pr. vækstår. Må ikke anvendes senere end vækststadium 28.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger.
+Virkning på efterfølgende afgrøde
+Ved eventuel omsåning om foråret af en afgrøde, der er behandlet med DFF om efteråret, kan alle afgrøder sås efter pløjning. Korn kan sås efter en grundig harvning. Ved såning af vinterraps efter en afgrøde der er behandlet med DFF om foråret, anbefales det at pløje inden såning.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+høj
+
+Virkemåde
+Diflufenican optages af ukrudtets blade og virker ligeledes
+som kontaktmiddel. Ved udsprøjtning danner diflufenican
+en film på jordoverfladen, hvorfra det optages ved
+fremspiring af nyt ukrudt. Herved opnås en effekt på
+endnu ikke fremspiret ukrudt. Kan give hvide pletter på
+afgrøden ved sen sprøjtning.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger.
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+(P302+P352).
+Ved hudirritation: Søge lægehjælp (P332+P313).
+Forurenet tøj tages af og vaskes, før det bruges igen (P362).
+Øjne: VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i fl ere
+minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning (P305+P351+P338).
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Ring omgående til en GIFTINFORMATION eller en læge. (P310).
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten
+(P101).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P310
+Ring omgående til en GIFTINFORMATION eller en læge.
+P332+P313
+Ved hudirritation: Søg lægehjælp.
+P362
+Forurenet tøj tages af og vaskes, før det bruges igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+DFF
+Sikkerhedsdatablad
+DFF
+Vejledning i Planteværn
+2026
+Side 249 til 253
+VP26s249-253.pdf.pdf--
+Side 249 til 253--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/dff-etiket-dk.pdf
