@@ -1,0 +1,387 @@
+Betanal - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Betanal
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+10 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Betanal
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+89,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+160 g/l
+phenmedipham
+Parallelprodukt, identisk med Herbasan
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+4,50 l/ha
+0,222 BI/l
+Roer
+4,50 l/ha
+0,222 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+18,2 l/ha
+0,0549 B/l
+Miljøeffekt
+20,7 l/ha
+0,0483 B/l
+I alt
+9,69 l/ha
+0,103 B/l
+
+Pesticidafgift: 18 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-528
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i jordbær, rødbeder og bederoer.
+Behandlingsfrist
+Må i jordbær ikke anvendes senere end 35 dage før høst.
+Må i rødbeder ikke anvendes senere end 60 dage før høst.
+Må i bederoer ikke anvendes senere end 90 dage før høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra gårdspladser og veje.
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Jordb&#230;rR&#248;dbeder','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Betanal, reg.nr. 18-528
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i spinat til frøavl
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i beder til frøavl
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i urtechrysanthemum til frøavl
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i Calendula til frøavl
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i skorzonerrod til frøavl
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Betanal til ukrudtsbekæmpelse i så- og priklebede eller i frit udplantede kulturer i planteskoleplanter
+Calendula officinalis til fr&#248;Centaurea cyanus til fr&#248;avlChrysanthemum carinatum til fr&#248;Chrysanthemum segetumConvolvulus tricolor til fr&#248;Iberis sempervirens til fr&#248;Malva til fr&#248;avlNigella til fr&#248;avlPapaver rhoeas til fr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Betanal (reg.nr. 18-528) til mindre anvendelse mod bredbladet ukrudt i blomster til frøavl
+KnoldselleriPastinakRodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Betanal (reg.nr. 18-528) til mindre anvendelse i gulerødder, persillerod, pastinak og knoldselleri
+Jordb&#230;rR&#248;dbeder','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Betanal, reg.nr. 18-528, under revurdering
+Anvendelse
+Resistensrisiko
+Gentagen anvendelse af samme middel eller midler med samme virkemekanisme kan resultere i dannelse af resistens. For at undgå dette, anbefales det med jævne mellemrum at anvende midler med anden virkemekanisme enten i form af en tankblanding, eller ved
+at skifte middel med jævne mellemrum. Sælger påtager sig intet ansvar for tab eller skade som følge af fejlagtig anvendelse. Det
+gælder også ved anvendelse under unormale kulturbetingelser. Ligeledes kan sælger ikke drages til ansvar for manglende effekt ved en evt. resistensdannelse.
+Resistensklasse
+C1 / 5
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger.
+Opblandingsanvisninger
+Betanal kan udsprøjtes i enhver ønskelig
+vandmængde. Der anbefales følgende blandingsprocedure.
+Fyld tanken halvt med vand.
+Hvis Goltix indgår i blandingen, tilsættes det
+først under omrøring og opløses (dispergeres)
+fuldstændigt. Ryst dunken med Betanal
+omhyggeligt og tilsæt herefter produktet. Hvis
+der indgår olie, tilsættes det til sidst.
+Medvirkende til en problemfri udsprøjtning er bl.a.:
+1) at man undlader at anvende stærkt kalkholdigt, jernholdigt eller snavset vand.
+2) at man ikke blander mere sprøjtevæske,
+end der kan udsprøjtes på et par timer.
+Rengøring
+Det anbefales at gennemskylle sprøjten med rent vand lige efter sprøjtningens afslutning for at undgå at sprøjtevæsken tørrer ind, og herefter rengøre sprøjten som normalt, med vand og rengøringsmiddel. Der anvendes et ammoniumsbaseret rengøringsmiddel f.eks. All Clear Extra.
+Opbevaring
+Herbasan skal opbevares køligt, men frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Conviso One, Goliath, Goltix 70 WG, Goltix Gold, Lamdex, LFS Foramsulfuron Thiencarbazone, Nortron SC
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Agil 100 EC, ECP Metafol 700 SE, Ethosat, Goltix SC 700, Metafol 700 SE, Oblix SC, Skater Gold, Target 700 SE, UPL Metafol, Manganchelat 8% Mn
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Jordbær
+Tokimbladet ukrudt
+2 l + 0,5 l Olie1. sprøjtning
+Betanal kan benyttes i sidste halvdel af april eller efter bærplukning. Der anvendes 2 behandlinger med 2,0 ltr. Betanal pr. ha, eller en behandling med 3 l/ha. Ukrudtsbekæmpelse kan ligeledes foretages efter bærplukning, hvor der sprøjtes med til til 3,0 ltr. Betanal pr ha. Der bør kun sprøjtes på veletablerede planter. Behandlingen bør kun finde sted i perioder med temperaturer over 10-12 °C uden risiko for nattefrost. I "nye jordbærsorter" bør maksimalt anvendes 2,0 ltr. Betanal pr. ha. Det anbefales at prøvebehandle et mindre areal, før midlet tages i brug i nye sorter.
+2 l + 0,5 l Olie2. sprøjtning
+Bederoer, Rødbeder
+Tokimbladet ukrudt
+1,5-2 l + 0,5 l Olie1. sprøjtning på ukrudtets kimbladsstadium
+Sprøjtningen i bederoer gennemføres som et sprøjteprogram bestående af flere sprøjtninger. For at opnå bred effekt på almindeligt forekommende ukrudtsarter anbefales det, at der blandes med egnet godkendt middel. Følg altid etikettens anvisninger for blandingspartnere. Tilsætning af olie kan øge/sikre virkningen af ukrudtsmidlerne. Doseringen afhænger under normale forhold af temperaturen. Maks. 6 liter Betanal pr. vækstsæson, maks. 4 behandlinger pr. vækstsæson.
+1,5-2 l + 0,5 l Olie2. sprøjtning 6-8 dage senere1,5-2 l + 0,5 l Olie3. sprøjtning 7-14 dage senere
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+2-5
+ºC
+15-20
+ºC
+
+Luftfugtighed
+
+høj
+
+Timers tørvejr
+2
+
+6
+
+Nattefrostrisiko
+
+ingen risiko
+
+Andet
+Bedste resultat opnås ved sprøjtning på saftspændte planter under
+gunstige vækstbetingelser. Normalt bør der sprøjtes om morgenen
+eller først på dagen. Ved overgang til varmt solrigt vejr vil en behandling virke meget kraftigt på såvel roer som
+ukrudt pga. tyndt vokslag på planterne. Vent
+så fald med sprøjtning til sidst på dagen.
+Der bør ikke sprøjtes, hvis temperaturen kommer
+i nærheden af eller under frysepunktet.
+Virkemåde
+Phenmedipham er et kontaktmiddel, der kun optages
+via bladene. Phenmedipham blokerer for fotosyntesen i
+følsomme planter. I tolerante af grøder sker der en inaktivering
+af phenmedipham.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agersennep
+3 x 1,2 l/ha
+
+Agerstedmoder
+3 x 1,2 l/ha
+
+Burresnerre
+3 x 1,2 l/ha
+
+Enårig rapgræs
+3 x 1,2 l/ha
+
+Ferskenpileurt
+3 x 1,2 l/ha
+
+Fliget brøndsel
+3 x 1,2 l/ha
+
+Forglemmigej
+3 x 1,2 l/ha
+
+Fuglegræs
+3 x 1,2 l/ha
+
+Gul okseøje
+3 x 1,2 l/ha
+
+Hanekro
+3 x 1,2 l/ha
+
+Hejrenæb
+3 x 1,2 l/ha
+
+Hundepersille
+3 x 1,2 l/ha
+
+Hvidmelet gåsefod
+3 x 1,2 l/ha
+
+Hyrdetaske
+3 x 1,2 l/ha
+
+Kamille
+3 x 1,2 l/ha
+
+Liden nælde
+3 x 1,2 l/ha
+
+Lægejordrøg
+3 x 1,2 l/ha
+
+Raps
+3 x 1,2 l/ha
+
+Rød tvetand
+3 x 1,2 l/ha
+
+Snerlepileurt
+3 x 1,2 l/ha
+
+Sort natskygge
+3 x 1,2 l/ha
+
+Storkenæb
+3 x 1,2 l/ha
+
+Vejpileurt
+3 x 1,2 l/ha
+
+Ærenpris
+3 x 1,2 l/ha
+
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger.
+Førstehjælp
+Generelt: Fjern straks alt forurenet tøj. Indånding: Bring personen i frisk luft. Kontakt læge. Hud: Forurenet hud vaskes straks med rigeligt vand og sæbe. Øjne: Skyl straks med rigeligt vand i 15 minutter. Eventuelle kontaktlinser fjernes. Søg i alle tilfælde læge. Indtagelse: Skyl straks munden med vand. Fremkald ikke opkastning. Søg læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Betanal
+Sikkerhedsdatablad
+Betanal
+Vejledning i Planteværn
+2026
+Side 399 til 401
+VP26s399-401.pdf.pdf--
+Side 399 til 401--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/~/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/betanal%2010%20ltr%20brugsanv%20dk.pdf
