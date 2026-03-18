@@ -1,0 +1,462 @@
+Kerb 400 SC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Kerb 400 SC
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Kerb Flo 400
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+1411 København KTlf: 45 28 08 00Fax: 45 28 08 01Mail: info-dk@corteva.com','Dow AgroSciences Danmark A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Dow AgroSciences Danmark A/S
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Firmaets produktside
+Kerb 400 SC
+Anvendes indenfor
+Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+291,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+400 g/l
+propyzamid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,25 l/ha
+0,800 BI/l
+(Areal udenfor vækstsæsonen)
+5,00 l/ha
+0,200 BI/l
+Græs og kløver
+1,25 l/ha
+0,800 BI/l
+Vinterraps
+1,25 l/ha
+0,800 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,86 l/ha
+0,350 B/l
+Miljøadfærd
+5,00 l/ha
+0,200 B/l
+Miljøeffekt
+32,9 l/ha
+0,0304 B/l
+I alt
+1,72 l/ha
+0,580 B/l
+
+Pesticidafgift: 90 kr. pr. l
+Godkendelse
+Registreringsnummer
+64-72
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vinterraps, lucerne til frø, rødkløver til frø, alsikekløver til frø, hvidkløver til frø, humlebælg til frø, kællingetand til frø, skorzonerrod til frø, frugtbuske, skove og beplantninger og til planteskolekulturer.
+Behandlingsfrist
+Må i vinterraps, solbær, hindbær, stikkelsbær og ribs ikke anvendes senere end 120 dage før høst.
+Såning af korn må ikke finde sted før 7 måneder efter behandling og såning/plantning af bladgrøntsager og rodgrøntsager må ikke finde sted før 6 måneder efter behandling med Kerb 400 SC.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Ved behandling i frugtbuske, skove og beplantninger og til planteskolekulturer må der maksimalt behandles 2,5 ha pr. dag.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må i vinterraps, solbær, hindbær, stikkelsbær og ribs ikke anvendes senere end 120 dage før høst.
+Såning af korn må ikke finde sted før 7 måneder efter behandling og såning/plantning af bladgrøntsager og rodgrøntsager må ikke finde sted før 6 måneder efter behandling med Kerb 400 SC.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Off-label godkendelse af Kerb 400 SC til ukrudtsbekæmpelse i jordbær
+BeplantningerHindb&#230;rHumlesnegleb&#230;lg til fr&#248;avlHvidkl&#248;ver til fr&#248;avlK&#230;llingetand til fr&#248;avlLucerne til fr&#248;avlPlanteskolekulturerRibsR&#248;dkl&#248;ver til fr&#248;avlSkorzonerrod til fr&#248;avlSkovSolb&#230;rStikkelsb&#230;rVinterraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Udvidet godkendelse af Kerb 400 SC, reg.nr. 64-72
+Hundegr&#230;sStrandsvingel','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kerb 400 SC, reg.nr. 64-72, til mindre anvendelse mod græsukrudt i alm. rajgræs, strandsvingel og hundegræs til frøproduktion udlagt i dæksæd
+Bladbede til fr&#248;avlFler&#229;rige blomster til fr&#248;avlK&#248;rvel til fr&#248;K&#229;lafgr&#248;der til fr&#248;avlMajroe til fr&#248;avlPersille til fr&#248;avlPurl&#248;g til fr&#248;avlTimian til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kerb 400 SC (64-72) til mindre anvendelse mod ukrudt i kørvel, persille, bladbeder, bederoer, timian, kålafgrøder, flerårige blomster, majroe og purløg til frøproduktion på friland.
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Kerb 400 SC (reg.nr. 64-72) til mindre anvendelse mod græsukrudt i afgrøder til frøproduktion udbragt mellem rækker med afskærmet sprøjteudstyr
+BeplantningerHindb&#230;rHumlesnegleb&#230;lg til fr&#248;avlHvidkl&#248;ver til fr&#248;avlK&#230;llingetand til fr&#248;avlLucerne til fr&#248;avlPlanteskolekulturerRibsR&#248;dkl&#248;ver til fr&#248;avlSkorzonerrod til fr&#248;avlSkovSolb&#230;rStikkelsb&#230;rVinterraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Kerb 400 SC, reg.nr. 64-72, under revurdering
+Anvendelse
+Resistensrisiko
+Kerb 400 SC indeholder aktivstoffet propyzamid, som tilhører HRAC virkningsklasse K1, og som vurderes at have en lav risiko for udvikling af resistens.
+Dow AgroSciences anbefaler en stærk anti-resistens strategi. For at undgå
+resistensudvikling anbefaler Dow AgroSciences, at der generelt anvendes
+ukrudtsmidler med forskellige virkningsmekanismer i sædskiftet. Det anbefales
+endvidere at have både vår- og vinterafgrøder i sædskiftet. Særligt i forbindelse
+med reduceret jordbehandling bør disse anbefalinger følges nøje. Vær opmærksom
+på at manglende effekt (hvis midlet ellers er anvendt korrekt) kan skyldes
+begyndende resistensudvikling.
+Resistensklasse
+K1 / 3
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Ved anvendelse af præparatfyldeudstyr og flydende produkter påfyldes den ønskede mængde produkt, som herefter suges op i sprøjtetanken. Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke/ beholdere. Gentag proceduren med at åbne/lukke for bundventil til der ikke er synlige spor af Kerb 400 SC i fyldestationen.
+Rengøring
+Bemærk! Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle invendige dele af sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket så meget, at overtryksventilen fra det selvrensende filter udløses. Dette gælder under alle rengøringsprocesser.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det behandlede areal.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank, slanger og bom straks efter endt sprøjtning med vand fra skyllevandstanken. Skyllevandet kan med fordel deles, så indvendig vask og udsprøjtning foregår af 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter All Clear Extra eller lignende produkt i anbefalet dosering pr. 100 liter vand. Sprøjt lidt af vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og tankspuledyse køre i mindst 15 minutter. Tøm sprøjten gennem bom og dyser over et egnet areal f.eks. på marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml All Clear Extra pr. 10 liter vand.- Skyl tanken og alle slanger grundigt i 5 minutter med rent vand. Skyllevandet sprøjtes ud gennem bom og dyser.
+Opbevaring
+Kerb 400 SC bør opbevares tillukket og ved en temperatur over +5º C.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Belkar, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Magnesiumsulfat 10% Mg, Mangansulfat 32, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1-1,25 lNovember-december
+Minimum vækststadie BBCH 15. Frøfremspirende græsukrudt og
+fuglegræs, samt til hæmning af visse
+andre tokimbladede ukrudtsarter.
+1,0 l/ha anbefales til bekæmpelse
+af enårig rapgræs samt spildkorn af
+hvede eller byg under gode forhold.
+Ved bekæmpelse af øvrige arter
+anbefales 1,25 l/ha.
+Skorzonerrod til frøavl
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1-1,25 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter.
+Humlesneglebælg til frøavl, Kællingetand til frøavl, Lucerne til frøavl
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter.
+Alsikekløver til frøavl, Hvidkløver til frøavl, Rødkløver til frøavl
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1 lNovember-december
+NB! Kløver uden græsudlæg. Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter.
+Hindbær, Ribs, Solbær, Stikkelsbær
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter. Bemærk! Bærkulturer må kun behandles i afgrøderækken samt at buske og træer skal være rodfæstede på voksestedet inden behandling med Kerb 400 SC. Dette vil normalt være tilfældet ca. 3 måneder efter udplantning. Rodfæstede træer og buske tåler oversprøjtning med Kerb 400 SC.
+Beplantninger, Læhegn, Skov
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter. Bemærk! Buske og træer skal være rodfæstede på voksestedet inden behandling med Kerb 400 SC. Dette vil normalt være tilfældet ca. 3 måneder efter udplantning. Rodfæstede træer og buske tåler oversprøjtning med Kerb 400 SC.
+Planteskolekulturer
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+0,875 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter i 1. års priklebede af løv- og nåletræer.
+Planteskolekulturer
+Agerrævehale, enårig rapgræs, flyvehavre, fuglegræs, rajgræs, rapgræs, vindaks, væselhale
+1 lNovember-december
+Effektiv bekæmpelse af frøfremspirende græsukrudt og fuglegræs, samt til hæmning af visse andre tokimbladede ukrudtsarter i 2. års priklebede af løv- og nåletræer.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Omsåning:
+Efter grundig pløjning kan der etableres vårraps, ærter, majs og kartofler.
+Efterfølgende afgrøde:
+Forud for etablering af vintersæd skal der pløjes på lettere jordtyper (JB 1-4).
+Kraftig stubbearbejdning er tilstrækkeligt på tungere jordtyper (JB 5-10).
+Efter anvendelse af Kerb 400 SC bør nyplantning af træer og buske først ske det
+følgende efterår.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+
+lav jordtemp.
+10-12
+ºC
+Jordfugtighed
+
+god
+
+Andet
+Udsprøjtning på frossen jord er mulig, men udsprøjtning på snedække bør undgås af hensyn til risikoen for overfladeafstrømning. Virkningen af Kerb 400 SC er utilstrækkelig på jorde med et humusindhold over 5%.
+Virkemåde
+Propyzamid er et jordmiddel som efter optagelse gennem rødderne blokerer for celledelingen i følsomme planter. Det bevirker at både rod- og skudvækst stopper.
+Virkningen ses ofte først i det tidlige forår når væksten starter.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agerrævehale
+0,625 l/ha
+Dow AgroSciences
+
+Agerrævehale
+1,25 l/ha
+Dow AgroSciences
+
+Alm. spergel
+1,25 l/ha
+
+Burresnerre
+1,25 l/ha
+
+Byg spildkorn
+0,625 l/ha
+Landsforsøgene 1992-94
+
+Enårig rapgræs
+0,625 l/ha
+Landsforsøgene 1992-94
+
+Enårig rapgræs
+1,25 l/ha
+Landsforsøgene 1992-94
+
+Forglemmigej
+1,25 l/ha
+Landsforsøgene 1992-94
+
+Fuglegræs
+0,625 l/ha
+Landsforsøgene 1992-94
+
+Fuglegræs
+1,25 l/ha
+Landsforsøgene 1992-94
+
+Hejre
+0,625 l/ha
+
+Hejre
+1,25 l/ha
+Dow AgroSciences
+
+Hejrenæb
+1,25 l/ha
+
+Hvede spildkorn
+0,625 l/ha
+Dow AgroSciences
+
+Hvidmelet gåsefod
+1,25 l/ha
+
+Hyrdetaske
+1,25 l/ha
+
+Kamille
+1,25 l/ha
+
+Kvik
+1,25 l/ha
+
+Liden nælde
+1,25 l/ha
+
+Lægejordrøg
+1,25 l/ha
+Dow AgroSciences
+
+Pileurt
+1,25 l/ha
+
+Rajgræs
+0,625 l/ha
+Dow AgroSciences
+
+Rajgræs
+1,25 l/ha
+Dow AgroSciences
+
+Rug spildkorn
+0,625 l/ha
+Dow AgroSciences
+
+Rug spildkorn
+1,25 l/ha
+Dow AgroSciences
+
+Sort natskygge
+1,25 l/ha
+
+Stedmoder
+1,25 l/ha
+Landsforsøgene 1992-94
+
+Tvetand
+1,25 l/ha
+Landsforsøgene 1992-94
+
+Vindaks
+0,625 l/ha
+Dow AgroSciences
+
+Vindaks
+1,25 l/ha
+Dow AgroSciences
+
+Ærenpris
+0,625 l/ha
+Landsforsøgene 1992-94
+
+Ærenpris
+1,25 l/ha
+Landsforsøgene 1992-94
+
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand.
+Indånding: Flyt patienten ud i frisk luft. Opsøg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Kerb 400 SC
+Sikkerhedsdatablad
+Kerb 400 SC
+Vejledning i Planteværn
+2026
+Side 421 til 420
+VP26s421.pdf.pdf--
+Side 421 til 420--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.corteva.dk/content/dam/dpagco/corteva/eu/dk/da/products/labels/DF-Kerb%20400SC-Etikette-Dansk-Nov%202024.pdf
