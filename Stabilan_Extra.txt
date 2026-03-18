@@ -1,0 +1,336 @@
+Stabilan Extra - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Stabilan Extra
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+10 l
+Registreringsindehaver
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Distributør
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Firmaets produktside
+Stabilan Extra
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+115,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+750 g/l
+chlormequat-chlorid
+(~ 582 g/l
+chlormequat)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+2,45 l/ha
+0,408 BI/l
+Vintersæd
+1,23 l/ha
+0,815 BI/l
+Vårsæd
+1,23 l/ha
+0,815 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+8,03 l/ha
+0,125 B/l
+Miljøadfærd
+10,9 l/ha
+0,0915 B/l
+Miljøeffekt
+3,98 l/ha
+0,251 B/l
+I alt
+2,14 l/ha
+0,467 B/l
+
+Pesticidafgift: 81 kr. pr. l
+Godkendelse
+Registreringsnummer
+347-16
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterhvede, vårhvede, vinterrug, triticale, havre og frøgræs .
+Behandlingsfrist
+Må i rug og hvede ikke anvendes senere end vækststadie BBCH 32.
+Må i havre, triticale og frøgræs ikke anvendes senere end vækststadie BBCH 31.
+Halm fra frøgræs må ikke bruges til foder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Halmen fra frøgræs må ikke bruges til foder.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;rter','Forbudt til'); return true;" onmouseout="nd(); return true;"
+På forbudsliste
+
+Stabilan Extra - forbud mod anvendelse i pærer pga. manglende MRL-værdi
+HavreTriticaleVinterhvedeVinterrugV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Stabilan Extra, reg.nr. 347-16
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+Ingen oplysninger
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tilberedning af sprøjtevæsken
+Efter trekvart fyldning af sprøjten med den nødvendige væskemængde startes
+returløbet og Stabilan Extra tilsættes.
+Stabilan Extra kan blandes med en række midler.
+Dog skal brugsanvisningen for blandingspartneren altid følges nøje. Stabilan
+Extra kan blandes med mikronæringsstoffer, svampemidler og ukrudtsmidler.
+Det frarådes, at blande mere end én blandings partner sammen med Stabilan
+Extra.
+Dosering af Stabilan Extra bør reduceres med 20%, når det udsprøjtes i
+blanding med svampe- og ukrudtsmidler.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktoren rengøres enten i marken
+eller på vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark,
+på vaskepladsen eller under tag. Sprøjten skal være monteret med spuledyser
+til indvendig rengøring af tanken, og sprøjten skal være monteret med separat
+vandtank med tillstrækkelig kapacitet således, at restsprøjtevæske kan
+fortyndes, og der kan foretages en grundig rengøring i marken.
+Restsprøjtevæske skal på passende vis fortyndes 50 gange med vand og
+udsprøjtes i den behandlede mark (uden at den maksimalt tilladte dosering for
+det pågældende middel herved overskrides). Rengøring i øvrigt foretages med
+egnede rengøringsmidler som f.eks. All Clear Extra. Samtidig med at filtre,
+slanger og dyser kontrolleres for urenheder og eventuelle belægninger.
+Vaskevandet opsamles i egnede beholdere og udbringes iht. Gældende regler.
+I øvrigt henvises till Miljøstyrelsens vejledning angående påfyldning og vask af
+sprøjter til udbringning af bekæmpelsemidler, jf. Miljøministeriets
+bekendtgørelsen nr. 1598 af .
+Tankspuledyse: Er en sådan monteret, lettes rengøringen meget, da der spares
+både tid og vand. Rengør sprøjten ved at fylde 100-150 liter vand i en 1000
+liters tank (10-15 %), og så lade tankspuledysen arbejde i den angivne tid.
+Tankspuledysen anvendes også ved skylninger med rent vand, eftersom den
+sikrer, at tanken skylles overalt indvendigt.
+Opbevaring
+Stabilan Extra bør opbevares frostfrit i uåbnet og ubeskadiget
+originalemballage beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Accurate Max, Cuadro NT, Juventus 90, Kaiso Sorbie, Metaxon, Nuance Max 75 WG, Saracen M, Tomahawk 200 EC, Trimaxx M, U46 M
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterhvede
+Lejesæd
+0,4-0,5 lAfgrødens stadium 25-30
+Korte sorter. En behandling.
+Vinterhvede
+Lejesæd
+0,9 lAfgrødens stadium 25-30
+Mellemlange sorter. En behandling.
+Vinterhvede
+Lejesæd
+0,9-1,2 lAfgrødens stadium 25-30
+Lange sorter. En behandling.
+Vinterhvede
+Lejesæd
+0,9-1 lAfgrødens stadium 25-30
+Delt behandling.
+0,3 lAfgrødens stadium 30-32
+Vårhvede
+Lejesæd
+0,5-0,9 lAfgrødens stadium 25-30
+
+Triticale
+Lejesæd
+1 lAfgrødens stadium 30-31
+
+Rug
+Lejesæd
+0,75-1,5 lAfgrødens stadium 30-32
+En behandling.
+Rug
+Lejesæd
+0,75-0,9 lAfgrødens stadium 25-30
+Delt behandling. Der følges op med et andet godkendt vækstreguleringsmiddel ca. 7-14 dage efter sprøjtningen med Stabilan Extra.
+Havre
+Lejesæd
+1,5 lAfgrødens stadium 30-31
+
+Frøgræs
+Lejesæd
+2 lAfgrødens stadium 30-31
+En behandling.
+Frøgræs
+Lejesæd
+1 lAfgrødens stadium 30
+Delt behandling.
+1 l2. sprøjtning 7-14 dage senere
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+
+15-20
+ºC
+
+Luftfugtighed
+
+høj
+
+Timers tørvejr
+2
+
+3
+
+4
+
+Virkemåde
+Stabilan Extra er et effektivt vækstreguleringsmiddel, der forbedrer stråstyrken
+hos triticale, vinterrug, vinterhvede, vårhvede og havre.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket. Kommer stoffet i øjnene, skylles grundigt med vand, og læge kontaktes. Kommer stoffet på huden, vaskes straks med store mængder vand og sæbe.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H290
+Kan ætse metaller.
+H302
+Farlig ved indtagelse.
+H312
+Farlig ved hudkontakt.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352+P312
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand. Ring til en GIFTINFORMATION eller en læge i tilfælde af ubehag.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+1760
+RID_ADR
+8, III
+IMDG
+8, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Stabilan Extra
+Sikkerhedsdatablad
+Stabilan Extra
+Vejledning i Planteværn
+2026
+Side 203 til 205
+VP26s203-205.pdf.pdf--
+Side 203 til 205--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Stabilan_Extra_347-16_Etikette_20181002.pdf
