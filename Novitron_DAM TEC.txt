@@ -1,0 +1,295 @@
+Novitron DAM TEC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Novitron DAM TEC
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Novitron DAMTec, Novitron
+Pakningsstørrelse
+5 og 12 kg
+Registreringsindehaver
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Distributør
+B-1420 Braine l’AlleudTlf: Fax: Mail: ','FMC Europe NV, Agrochemical Products Group'); return true;" onmouseout="nd(); return true;" href="Http://www.fmc.com" target="_new"FMC Europe NV, Agrochemical Products Group
+Firmaets produktside
+Novitron DAM TEC
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+463,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+aclonifen
+30 g/kg
+clomazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+1,50 kg/ha
+0,667 BI/kg
+(Vinterraps)
+1,50 kg/ha
+0,667 BI/kg
+Ærter
+1,33 kg/ha
+0,750 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+4,29 kg/ha
+0,233 B/kg
+Miljøadfærd
+0,860 kg/ha
+1,16 B/kg
+Miljøeffekt
+5,38 kg/ha
+0,186 B/kg
+I alt
+0,632 kg/ha
+1,58 B/kg
+
+Pesticidafgift: 233 kr. pr. kg
+Godkendelse
+Registreringsnummer
+421-7
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i kartofler, bønner og ærter.
+Behandlingsfrist
+Må ikke anvendes senere end før
+fremspiring. For at beskytte grundvandet må dette produkt
+maksimalt anvendes hvert tredje år. Der må
+endvidere i samme periode ikke også anvendes
+andre produkter, der indeholder clomazon.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke
+overskrides.
+Undgå forurening af vandmiljøet med produktet
+eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 20 meter fra
+vandmiljøet (vandløb, søer m.v.) for at beskytte
+organismer, der lever i vand.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Kartofler&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Novitron DAM TEC, reg.nr. 421-7
+Anvendelse
+Resistensrisiko
+Aclonifen tilhører gruppen diphenylether-herbicider (HRAC klasse
+F3: Inhibering af carotenoid-biosyntesen (ukendt virkningssted)) og clomazon
+tilhører gruppen isoxazolidon-herbicider (HRAC klasse F4: Inhibering af DOXP
+synthase) som begge vurderes at have en lav risiko for udvikling af resistens ved
+den godkendte anvendelse af Novitron.
+Resistensklasse
+S / 32 + F4 / 13
+Virkning
+Midlet har både kontakt- og systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Ingen oplysninger
+Rengøring
+Restsprøjtevæske skal fortyndes minimum
+50 gange og udsprøjtes på den behandlede afgrøde. Det er vigtigt at rengøre
+sprøjteudstyret grundigt efter brug. Husk vask med rengøringsmiddel ud- og
+indvendigt og flere gange skylning af alle indvendige dele. For yderligere
+regler vedr. fyldning, tømning og rengøring af sprøjteudstyret henvises til
+Bekendtgørelse nr. 906 af .
+Opbevaring
+Novitron skal opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Proman SC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Frøukrudt
+2,4 kgFør kartoflernes fremspiring (se bemærkninger)
+Når kartoflerne er færdighyppede, og kammen har sat sig - senest
+5 dage før fremspiring. Max. 1 behandling.
+Grønne ærter, Hestebønner, Ærter til modenhed
+Frøukrudt
+2,4 kgEfter såning men før fremspiring
+Udbringes senest 2
+dage efter såning - dog ikke, hvis der er udsigt til kraftig regn i de nærmest
+følgende dage efter udbringningen.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Efter anvendelse af Novitron må der ikke sås/
+plantes kortvarige efterfølgende afgrøder i samme vækstsæson.
+Efter grundig pløjning kan der sås vintersæd og vinterraps om efteråret.
+Om foråret kan der efter pløjning eller tilsvarende dyb bearbejdning dyrkes
+vårsæd, raps, hør, kartofler, ærter, bønner, bederoer, udlæg af raps og kløver,
+kål, gulerødder og løg.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Jordfugtighed
+
+god
+
+Såbedskvalitet
+
+god
+
+Andet
+Udbringes bedst på fugtig, men ikke våd jord.
+Såbeddet/overfladen skal være bekvemt og fri for store jordknolde.
+Virkemåde
+Novitron DAM TEC er et ukrudtsmiddel mod fortrinsvis tokimbladet ukrudt
+og anvendes før kulturens fremspiring. Det består af to aktivstoffer med
+hver sin virkemekanisme. De aktive stoffer, aclonifen og clomazon, optages
+i spiringsfasen via kimstængel og rodnet. Herved påvirkes dannelsen af bl.a.
+klorofyl, og fotosyntesen i følsomme planter blokeres. Ukrudtsplanterne dør i
+spiringsfasen eller umiddelbart efter fremspiringen. Påvirkede ukrudtsplanter
+affarves eller bliver kraftigt afblegede.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+VED eksponering eller mistanke om eksponering: Søg
+lægehjælp (P308+P313).
+VED INDTAGELSE: Rens munden med vand.
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe
+og vand. Forurenet tøj tages af og vaskes, før det
+bruges igen.
+VED INDÅNDING: Flyt personen til et sted med frisk
+luft.
+VED KONTAKT MED ØJNENE: Skyl grundigt med
+vand. Fjern eventuelle kontaktlinser, hvis dette kan
+gøres let.
+Hvis der er brug for lægehjælp, medbring da
+beholderen eller etiketten (P101).
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P280
+Bær beskyttelseshandsker.
+P280
+Bær beskyttelsestøj.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Novitron DAM TEC
+Sikkerhedsdatablad
+Novitron DAM TEC
+Vejledning i Planteværn
+2026
+Side 163
+VP26s163.pdf.pdf--
+Side 163--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://ag.fmc.com/dk/sites/default/files/2023-09/Novitron_dam_tec_lbl_dk.pdf
