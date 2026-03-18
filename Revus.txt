@@ -1,0 +1,286 @@
+Revus - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Revus
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Revus 250 SC
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Revus
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+355,00 kr/l
+&nbsp()
+Formulering
+Suspensionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+mandipropamid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,600 l/ha
+1,67 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+20,5 l/ha
+0,0488 B/l
+Miljøeffekt
+48,2 l/ha
+0,0208 B/l
+I alt
+14,4 l/ha
+0,0695 B/l
+
+Pesticidafgift: 15 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-195
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i kartofler og salat på friland samt tomater i væksthus.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 3 dage før høst.
+Må i salat på friland ikke anvendes senere end 7 dage før høst.
+Må i tomater i væksthuse ikke anvendes senere end 3 dage før høst
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke tømmes i kloakafløb.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Rucola','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (1-195) til mindre anvendelse mod svampesygdomme i Rucola og andre Brassica-arter til babyleaf
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (1-195) til mindre anvendelse mod falsk meldug i havefrø til frøproduktion
+Broccoli p&#229; frilandSpinat p&#229; frilandS&#248;lvbede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (reg.nr. 1-195) til mindre anvendelse mod svampesygdomme i broccoli, spinat og bladbede/sølvbede på friland
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (reg.nr. 1-195) til mindre anvendelse mod bladskimmel i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Salat p&#229; frilandTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Revus, reg.nr. 1-195, ny etiketteversion
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (reg.nr. 1-195) til mindre anvendelse mod kartoffelskimmel i tomat i åbne væksthuse
+Planteskolekulturer p&#229; frilandPrydplanter i v&#230;ksthusPrydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Revus (1-195) til mindre anvendelse mod svampesygdomme i prydplanter og planteskolekulturer på friland og i lukket væksthus
+Anvendelse
+Resistensrisiko
+Mandipropamid tilhører gruppen af CAA fungicider (FRAC gruppe 40), som vurderes at
+have lav til medium risiko for udvikling af resistens. Der er ikke fundet resistens overfor
+kartoffelskimmel.
+Det anbefales at bruge Revus, eller svampemidler med samme virkemåde, maximalt
+1/3-1/2 af alle svampebehandlinger. Behandling kan ske med alternering med produkter
+med anden virkemåde i blokke eller i en samlet blok.
+Resistensklasse
+40
+Afstand mellem behandlinger
+Der skal være minimum 7 dage mellem hver behandling
+Opblandingsanvisninger
+Ingen oplysninger
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på
+vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark på vaske­
+pladsen eller under tag. Sprøjten skal være monteret med spuledyser til indvendig
+rengøring af tanken, og sprøjten skal være monteret med separat vandtank med til­
+strækkelig kapacitet således, at restsprøjtvæske kan fortyndes, og der kan foretages
+en grundig rengøring i marken. Restsprøjtevæske skal på passende vis fortyndes 50
+gange med vand og udsprøjtes i den behandlede mark (uden at den maksimalt tilladte
+dosering for det pågældende middel herved overskrides). Rengøring i øvrigt foretages
+med egnede rengøringsmidler (se evt. etiketten for det sidst anvendte middel for spe­
+cifikke anvisninger). Samtidig med at filtre, slanger og dyser kontrolleres for urenheder
+og eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og udbringes
+iht. gældende regler.
+Opbevaring
+Produktet skal opbevares frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, Lamdex, Mospilan 20 SG, Mospilan SG, Narita, Propulse SE 250, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Agil 100 EC, Cymbal WG, Focus Ultra, Option WG, Zetrola, Zorvec Enicade
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Kartoffelskimmel
+0,6 lAfgrødens stadium 20-91
+Revus må anvendes med op til 0,6 l/ha pr gang, og med maksimalt 6 behandlinger pr sæson.
+Revus kan med fordel anvendes tidligt mod både jord- og bladskimmel, samt i kartoflernes tilvækstfase, da Revus fordeler sig effektivt og beskytter de voksende blade. Der anbefales behandling hver 7. dag i perioder med risiko for udvikling af kartoffelskimmel. Revus er regnfast efter 1 time. Revus har en kort sprøjtefrist på 3 dage før optagning.
+Salat på friland
+Salatskimmel
+0,6 lAfgrødens stadium 15-49
+Revus anbefales til forebyggende behandling mod salatskimmel. Første behandling udføres når risikoen for angreb er høj eller ved varsling. Der anvendes 0,6 l/ha med 7 dages interval. Max. 2 behandlinger pr. sæson.
+Tomater i væksthus
+Kartoffelskimmel
+0,6 lForebyggende behandling
+Max. 4 sprøjtninger med 7 dages interval.
+Effekt
+Effekt på nyttedyr
+Revus er ufarlig for nytteinsekter og honningbier.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+0,5
+
+1
+
+Andet
+Anvendes bedst forebyggende,- beskytter nytilvækst.
+Regnfast så snart produktet er tørret ind på bladet.
+Sprøjtning udføres lige før højrisikoperioder for skimmel.
+Virkemåde
+En stor del af Revus bliver optaget i vokslaget på plantens overflade, hvilket sikrer en
+god regnfasthed så snart sprøjtevæsken er tørret på bladene. Revus er forebyggende
+og er meget aktiv på spirende svampesporer. Aktivstoffet optages i plantevævet, hvilket
+sikrer en god translaminar effekt. Revus hæmmer mycelia vækst under inkubations­
+tiden.
+Aktivstoffet mandipropamid inhiberer cellulose syntesen i Oomycete svampe.
+Revus er meget aktiv på svampegruppen Oomycetes, hvortil hører bl.a. kartoffelskim­
+mel i kartofler (Phythophtora infestans)og salatskimmel (Bremia lactucae).
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på
+vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark på vaske­
+pladsen eller under tag. Sprøjten skal være monteret med spuledyser til indvendig
+rengøring af tanken, og sprøjten skal være monteret med separat vandtank med til­
+strækkelig kapacitet således, at restsprøjtvæske kan fortyndes, og der kan foretages
+en grundig rengøring i marken. Restsprøjtevæske skal på passende vis fortyndes 50
+gange med vand og udsprøjtes i den behandlede mark (uden at den maksimalt tilladte
+dosering for det pågældende middel herved overskrides). Rengøring i øvrigt foretages
+med egnede rengøringsmidler (se evt. etiketten for det sidst anvendte middel for spe­
+cifikke anvisninger). Samtidig med at filtre, slanger og dyser kontrolleres for urenheder
+og eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og udbringes
+iht. gældende regler.
+Bortskaffelse af emballage
+Tom emballage og rester kan bortskaffes sammen med dagrenovationen.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Klasse 9, gruppe III
+IMDG
+Klasse 9, gruppe III
+IATA
+Klasse 9, gruppe III
+Yderligere oplysninger
+Etikette oplysninger
+Revus
+Sikkerhedsdatablad
+Revus
+Vejledning i Planteværn
+2026
+Side 349 til 350
+VP26s349-350.pdf.pdf--
+Side 349 til 350--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Revus_1-195_Godkendt_Etikette_20250710.pdf
