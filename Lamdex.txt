@@ -1,0 +1,512 @@
+Lamdex - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Lamdex
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 kg
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Firmaets produktside
+Lamdex
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+550,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+25 g/kg
+lambda-cyhalothrin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,300 kg/ha
+3,33 BI/kg
+Græs og kløver
+0,600 kg/ha
+1,67 BI/kg
+Grøntsager
+0,600 kg/ha
+1,67 BI/kg
+Kartofler
+0,300 kg/ha
+3,33 BI/kg
+Majs
+0,600 kg/ha
+1,67 BI/kg
+Roer
+0,250 kg/ha
+4,00 BI/kg
+Vinterraps
+0,300 kg/ha
+3,33 BI/kg
+Vintersæd
+0,300 kg/ha
+3,33 BI/kg
+Vårraps
+0,300 kg/ha
+3,33 BI/kg
+Vårsæd
+0,300 kg/ha
+3,33 BI/kg
+Ærter
+0,250 kg/ha
+4,00 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,03 kg/ha
+0,199 B/kg
+Miljøadfærd
+35,0 kg/ha
+0,0286 B/kg
+Miljøeffekt
+0,367 kg/ha
+2,73 B/kg
+I alt
+0,339 kg/ha
+2,95 B/kg
+
+Pesticidafgift: 415 kr. pr. kg
+Godkendelse
+Registreringsnummer
+396-77
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af insekter i raps, sennep, rybs, korn, græs, fodermajs, sukker- og foderroer, rødbeder, ærter til modenhed, kartofler,
+kål (broccoli, blomkål, rosenkål, savoy-, rød- og hvidkål), gulerødder, pastinak, persillerod, knoldselleri, bønner med bælg, ærter med og uden bælg,
+hestebønner, løg, porrer, forårsløg, æbler, pærer, kirsebær, blommer, solbær, ribs, stikkelsbær, hindbær, brombær og jordbær.
+Behandlingsfrist
+Må i fodermajs ikke anvendes senere end 60 dage før høst.
+Må i raps, sennep, rybs og korn ikke anvendes senere end 30 dage før høst.
+Må i hindbær, brombær, porrer, løg og forårsløg ikke anvendes senere end 28 dage før høst.
+Må i æbler, pærer, kirsebær, blommer, jordbær, solbær, ribs, stikkelsbær, gulerødder, pastinak, persillerod, knoldselleri, kartofler, ærter til modenhed, hestebønner, græs, sukker- og foderroer og rødbeder ikke anvendes senere end 14 dage før høst.
+Må i bønner med bælg og ærter med bælg ikke anvendes senere end 7 dage før høst.
+Må i broccoli, blomkål, rosenkål, savoy-, rød- og hvidkål og ærter uden bælg ikke anvendes senere end 3 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Farligt for bier - for at beskytte bier og andre bestøvende insekter må dette produkt ikke anvendes i blomstrende afgrøder i biernes flyvetid fra
+kl. 03 til kl. 21.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand
+(SP1).
+Opbevares utilgængeligt for børn (P102)
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i markafgrøder ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Må i frugtbuske ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb og søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Må i frugttræer ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb og søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+BlommerBroccoliBromb&#230;rBygByg/&#230;rt hels&#230;dB&#248;nnerFor&#229;rsl&#248;gGr&#230;sGr&#248;nne &#230;rterGuler&#248;dderHavreHesteb&#248;nnerHindb&#230;rHvedeHvidk&#229;lHvidl&#248;gJordb&#230;rKartoflerKirseb&#230;rKl&#248;vergr&#230;sKnoldselleriL&#248;gMajsPastinakPorrerP&#230;rerRibsRodpersilleRoerRosenk&#229;lRugRybsR&#248;dbederR&#248;dk&#229;lSavoyk&#229;lSennepSkalottel&#248;gSolb&#230;rStikkelsb&#230;rTriticaleVinterrapsV&#229;rraps&#198;bler&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Godkendelse af Lamdex, reg.nr. 396-77
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod bladlus og larver af målere og viklere i hyben
+R&#248;dkl&#248;ver til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod kløversnudebiller og kløvergnavere i rød - og hvidkløver til frø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod skadedyr i havefrø til frøproduktion
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod skulpesnudebiller i olieræddike til efterafgrøde om efteråret
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod lus og agerugler i fodermajs
+PastinakRodpersille','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod gulerodsfluen i gulerødder, pastinak og persillerod
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod kålsommerfugle, kålbladhvepse og kålugler i olieræddike til efterafgrøde om efteråret
+Lucerne','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod bladrandbiller og fritfluer i udlæg af kløvergræs og lucerne efter høst af dæksæd på friland
+Markfr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod skadedyr i markfrø til frøproduktion
+V&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod bygfluer og aksløberlarver i vårhvede, vårbyg og vintersæd
+RadiserRucolaSalatSpinat','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Lamdex (396-77) til mindre anvendelse mod bladtæger, ådselbiller og gåsebiller i salat og rucola; bedefluer, kålblad-hvepse og ådselbiller i baby leaf og spinat; og salatbladlus i babyleaf samt jordlopper, kålbladhvepse og gåsebiller i radiser på friland
+BlommerBroccoliBromb&#230;rBygByg/&#230;rt hels&#230;dB&#248;nnerFor&#229;rsl&#248;gGr&#230;sGr&#248;nne &#230;rterGuler&#248;dderHavreHesteb&#248;nnerHindb&#230;rHvedeHvidk&#229;lHvidl&#248;gJordb&#230;rKartoflerKirseb&#230;rKl&#248;vergr&#230;sKnoldselleriL&#248;gMajsPastinakPorrerP&#230;rerRibsRodpersilleRoerRosenk&#229;lRugRybsR&#248;dbederR&#248;dk&#229;lSavoyk&#229;lSennepSkalottel&#248;gSolb&#230;rStikkelsb&#230;rTriticaleVinterrapsV&#229;rraps&#198;bler&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Lamdex, reg. nr. 396-77, under revurdering
+Anvendelse
+Resistensrisiko
+Lamdex (lambda-cyhalothrin) høre til IRAC virkemådegruppe 3A.
+Der er flere rapporter om resistens mod pyretroider, og glimmerbøsser
+har udviklet resistens i de fleste lande i Europa. Hvis der er fundet
+resistens bør der skiftes til et andet middel med anden virkemekanisme,
+og der bør ikke anvendes pyretroider mere end tre gange i en sæson.
+Der er mange grunde til dårlig effekt, så som dårlig timing og dårligt
+sprøjteudstyr eller uhensigtsmæssig brug af sprøjten.
+Resistensklasse
+3A
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Lamdex afmåles med doseringslåget. Vær opmærksom på, at doseringslåget skal være trukket helt ud, så hele skalaen er synlig for korrekt dosering. Lamdex tilsættes den halvt fyldte sprøjtetank under omrøring.
+Rengøring
+Se etiketten.
+Opbevaring
+Frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Adimax, Agil 100 EC, Agroxone, Amistar, Architect, Azaka, Balaya, Banjo 500 SC, Basagran SG, Belkar, Betanal, Betanal Classic, Boxer, Broadway, Catch, Cerone, Cossack OD, Cuadro NT, Entargo, Fighter 480, Flurostar 180, Foxtrot, Goltix SC 700, Herbasan, Hussar OD, Hussar Plus OD, Input EC 460, Kayak, Kontakt 320 SC, Korvetto, Kunshi, Mateno Duo SC 600, Metaxon, Moddus M, Moddus Start, Moxa, Nexide CS, Nortron SC, Optimus Max, Primera Super, Proline EC 250, Propulse SE 250, Revus, Rexade 440, Starane 333 HL, Topik EC, Trimaxx M, Zignal 500 SC
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ally 20 SX, Betasana 160 SE, Caryx, Express 50 SX, Fidox EC, Focus Ultra, Harmony 50 SX, Harmony Plus 50 SX, Himalaya Pro, Moddevo, Nicanor SG, Nuance Max 75 WG, Option WG, Pediment, Pirimor 500 WG, Pixxaro EC, Roxy EC, Sonis, Stomp CS, Tomahawk 200 EC, Tombo, Trimmer SG, Vamos, Zetrola, Zorvec Enicade, Zypar, Magnesiumsulfat 10% Mg, Mangansulfat 32, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Raps, Rybs, Sennep
+Jordlopper, rapsjordloppe, trips
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-13 og 52-75. Max. 3 behandlinger pr. år.
+Raps, Rybs, Sennep
+Glimmerbøsser
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-13 og 52-75. Tidlige angreb. Blomstrende raps sprøjtes uden for biernes flyvetid (fra kl. 21-03). Max. 3 behandlinger pr. år. Der er på mange lokaliteter konstateret nedsat eller manglende virkning af pyretroider mod glimmerbøsser pga. resistens. Her vil virkningen af Lamdex og andre pyretroider være utilstrækkelig og der bør anvendes et middel med anden virkningsmekanisme.
+Raps, Rybs, Sennep
+Kålmøl, skulpesnudebille
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-13 og 52-75. Ved begyndende blomstring. Blomstrende raps sprøjtes uden for biernes flyvetid (fra kl. 21-03). Max. 3 behandlinger pr. år. Der er på mange lokaliteter konstateret nedsat eller manglende virkning af pyretroider mod glimmerbøsser pga. resistens. Her vil virkningen af Lamdex og andre pyretroider være utilstrækkelig og der bør anvendes et middel med anden virkningsmekanisme.
+Raps, Rybs, Sennep
+Skulpegalmyg
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-13 og 52-75. Ved varsling. Blomstrende raps sprøjtes uden for biernes flyvetid (fra kl. 21-03). Max. 3 behandlinger pr. år.
+Korn
+Fritfluer
+0,4 kgAfgrødens stadium 09-12 eller 35-69
+Fritfluer bekæmpese i kornets 1-2 bladstadium. Max. 3 behandlinger pr. år.
+Korn
+Hvedegalmyg, sadelgalmyg
+0,3 kgAfgrødens stadium 09-12 eller 37-65
+Omkring skridning (vækststadie BBCH 37-65). Max. 3 behandlinger pr. år.
+Korn
+Bladlus
+0,2 kgAfgrødens stadium 09-12 eller 37-65
+Max. 3 behandlinger pr. år.
+Korn
+Kornbladbillens larve, trips
+0,2 kgAfgrødens stadium 09-12 eller 37-65
+Max. 3 behandlinger pr. år.
+Græs
+Fritfluer
+0,4 kgAfgrødens stadium 10-12
+Max. 1 behandling pr. år.
+Majs
+Fritfluer
+0,4 kgAfgrødens stadium 10-12
+Max. 1 behandling pr. år.
+Roer
+Bedefluens larve, jordlopper, trips
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16 og 34-39. Sørg for god dækning af planterne. Max. 3 behandlinger pr. år.
+Roer
+Bedelus, ferskenbladlus
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16. Tidlige angreb indtil roerne har 6 blade. Sørg for god dækning af planterne. Max. 3 behandlinger pr. år.
+Roer
+Bladtæger, uglelarver, ådselbillens larve
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16 og 34-39. Sørg for god dækning af planterne. Max. 3 behandlinger pr. år.
+Hestebønner, Ærter
+Bladrandbiller, kåltrips
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-12 og 35-71. Max. 3 behandlinger pr. år.
+Hestebønner, Ærter
+Bedebladlus, ærtebladlus, ærtetrips, ærtevikler
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-12 og 35-71. Blomstrende ærter sprøjtes uden for biernes flyvetid (kl. 21-03). Max. 3 behandlinger pr. år.
+Kartofler
+Bladlus, coloradobiller, tæger
+0,3 kgAfgrødens stadium 55-79
+Ved begyndende angreb. Max. 2 behandlinger pr. år.
+Kartofler
+Knoporme
+0,4 kgAfgrødens stadium 55-79
+Ved begyndende angreb. Max. 2 behandlinger pr. år.
+Kartofler
+Cikader
+0,5 kgAfgrødens stadium 55-79
+Ved begyndende angreb. Max. 2 behandlinger pr. år.
+Blomkål, Broccoli, Hvidkål, Rosenkål, Rødkål, Savoykål
+Jordlopper, kåltrips, rapsjordloppe
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-19 og 41-49. Ved angreb. Max. 3 behandlinger pr. år.
+Blomkål, Broccoli, Hvidkål, Rosenkål, Rødkål, Savoykål
+Kålhveps, kålsommerfuglelarver
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-19 og 41-49. Ved angreb. Max. 3 behandlinger pr. år.
+Blomkål, Broccoli, Hvidkål, Rosenkål, Rødkål, Savoykål
+Bladribbesnudebille, krusesygegalmyg, uglelarver
+0,4 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-19 og 41-49. Ved angreb. Max. 3 behandlinger pr. år.
+Gulerødder, Knoldselleri, Pastinak, Rodpersille
+Bladlus, gulerodsbladloppe, knoporme
+0,4 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 13-19 og 35-43. Ved angreb. Max. 2 behandlinger pr. år.
+Forårsløg, Løg, Porrer
+Trips
+0,2 kgAfgrødens stadium 12-47
+Max. 2 behandlinger pr. år.
+Forårsløg, Løg, Porrer
+Knoporme
+0,4 kgAfgrødens stadium 12-47
+Max. 2 behandlinger pr. år.
+Bønner
+Kåltrips, stribet bladrandbille
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-12 og 35-69. Ved angreb. Max. 3 behandlinger pr. år.
+Bønner
+Bladlus
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-12 og 35-69. Ved angreb. Max. 3 behandlinger pr. år.
+Grønne ærter
+Bladrandbiller, kåltrips
+0,2 kgAfgrødens stadium 20-48
+Ved angreb. Max. 3 behandlinger pr. år.
+Grønne ærter
+Viklere, ærtebladlus, ærtetrips
+0,3 kgAfgrødens stadium 20-48
+Ved angreb. Max. 3 behandlinger pr. år.
+Rødbeder
+Bedefluens larve, jordlopper, trips
+0,2 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16 og 34-39. Max. 3 behandlinger pr. år.
+Rødbeder
+Bedebladlus, ferskenbladlus
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16. Tidlige angreb indtil roerne har 6 blade. Sørg for god dækning af planterne. Max. 3 behandlinger pr. år.
+Rødbeder
+Bladtæger, uglelarver, ådselbillens larve
+0,3 kgVed konstateret angreb, efter varsling, eller når skadetærskel er nået
+Vækststadie BBCH 09-16 og 34-39. Max. 3 behandlinger pr. år.
+Pærer, Æbler
+Frostmåler, knopvikler, æblebladlopper, æblebladlus, æblebladvikler, æblesnudebille, æblevikler
+0,4 kgAfgrødens stadium 51-69
+Max. 2 behandlinger pr. år.
+Blommer, Kirsebær
+Blommebladhveps, blommevikler, kirsebærmøl, kirsebærsnudebiller, larver af målere
+0,4 kgAfgrødens stadium 51-69
+Max. 2 behandlinger pr. år.
+Ribs, Solbær, Stikkelsbær
+Bladlus, galmyg
+0,3 kgAfgrødens stadium 51-69
+Max. 2 behandlinger pr. år.
+Ribs, Solbær, Stikkelsbær
+Larver af målere, viklere
+0,4 kgAfgrødens stadium 51-69
+Max. 2 behandlinger pr. år.
+Brombær, Hindbær
+Bladlus, galmyg, hindbærbille, hindbærsnudebille
+0,3 kgAfgrødens stadium 51-69
+Max. 2 behandlinger pr. år.
+Jordbær
+Bladlus, hindbærsnudebille
+0,3 kgAfgrødens stadium 33-59
+Max. 2 behandlinger pr. år.
+Jordbær
+Larver af målere, viklere
+0,4 kgAfgrødens stadium 33-59
+Max. 2 behandlinger pr. år.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen restriktioner.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10
+ºC
+10-20
+ºC
+25
+ºC
+Timers tørvejr
+1
+
+1-2
+
+2
+
+Andet
+Lamdex er regnfast når sprøjtevæsken er tørret ind på planten.
+Virkemåde
+Lamdex er et bredtvirkende kontaktmiddel mod insekter.
+Lamdex virker effektivt ved direkte kontakt mellem aktivstof
+og insekt. Ligeledes bekæmpes insekter der suger eller gnaver
+af behandlet plantemateriale. Endelig har Lamdex en vis
+afvisende (repellerende) virkning mod nyankomne insekter.
+Eventuelt overlevende skadedyr vil normalt være uden
+betydning pga. nedsat ædelyst. Langtidsvirkning opnås på
+plantemateriale, som er dækket med sprøjtevæske. Insekter der
+sidder skjult, f.eks. bladlus ved stråbasis i korn, er vanskelige at bekæmpe, da
+det sprøjteteknisk er svært at dække de nedre dele af kornplanten.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Kommer midlet i øjnene skylles straks grundigt med vand og læge kontaktes. Kommer midlet på huden vaskes straks med store mængder vand.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H332
+Farlig ved indånding.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Lamdex
+Sikkerhedsdatablad
+Lamdex
+Vejledning i Planteværn
+2026
+Side 341 til 346
+VP26s341-346.pdf.pdf--
+Side 341 til 346--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Lamdex_396-77_Etikette_20221010.pdf
