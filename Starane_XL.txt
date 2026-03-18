@@ -1,0 +1,447 @@
+Starane XL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Starane XL
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+GF184
+Pakningsstørrelse
+5, 15 og 20 l
+Registreringsindehaver
+1411 København KTlf: 45 28 08 00Fax: 45 28 08 01Mail: info-dk@corteva.com','Dow AgroSciences Danmark A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Dow AgroSciences Danmark A/S
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Firmaets produktside
+Starane XL
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+185,00 kr/l
+&nbsp()
+Formulering
+Suspoemulsion
+Status
+Markedsført
+Indhold af aktivstoffer
+2,5 g/l
+florasulam
+100 g/l
+fluroxypyr
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,973 l/ha
+1,03 BI/l
+Græs og kløver
+1,64 l/ha
+0,611 BI/l
+(Majs)
+1,15 l/ha
+0,870 BI/l
+Vintersæd
+0,837 l/ha
+1,19 BI/l
+Vårsæd
+0,773 l/ha
+1,29 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,36 l/ha
+0,423 B/l
+Miljøadfærd
+7,15 l/ha
+0,140 B/l
+Miljøeffekt
+112 l/ha
+0,0089 B/l
+I alt
+1,75 l/ha
+0,572 B/l
+
+Pesticidafgift: 83 kr. pr. l
+Godkendelse
+Registreringsnummer
+64-68
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i korn med og uden udlæg af græs samt frøgræs og græs.
+Behandlingsfrist
+Må i hvede, byg, rug og triticale ikke anvendes senere end vækststadie BBCH 45.
+Må i havre ikke anvendes senere end vækststadie BBCH 39.
+Behandlet græs kan anvendes til afgræsning og slet med en behandlingsfrist på 7 dage.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har
+indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket (P403+P233).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Gr&#230;sHavreVinters&#230;dV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Starane XL, reg.nr. 64-68
+Gr&#230;sHavreVinters&#230;dV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Starane XL, reg.nr. 64-68, under revurdering
+Anvendelse
+Resistensrisiko
+Midlet indeholder fluroxypyr (HRAC klasse 0) og florasulam (HRAC klasse B). Dow AgroSciences anbefaler en stærk anti-resistens strategi. Dow AgroSciences
+anbefaler, at der kun anvendes et ALS produkt pr. afgrøde til bekæmpelse af ukrudt.
+For at undgå resistensudvikling anbefaler Dow AgroSciences, at der generelt
+anvendes ukrudtsmidler med forskellige virkningsmekanismer i sædskiftet. Det
+anbefales endvidere at have både vår- og vinterafgrøder i sædskiftet. Særligt i
+forbindelse med reduceret jordbehandling bør disse anbefalinger følges nøje. Vær
+opmærksom på at manglende effekt (hvis midlet ellers er anvendt korrekt) kan
+skyldes begyndende resistensudvikling.
+Resistensklasse
+B / 2 + O / 4
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Starane XL er meget fleksibel som blandingspartner og kan blandes med de fleste herbicider, fungicider og vækstregulatorer. Ved anvendelse af præparatfyldeudstyr og flydende produkter påfyldes den ønskede mængde produkt, som herefter suges op i sprøjtetanken. Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke/ beholdere. Gentag proceduren med at åbne/lukke for bundventil til der ikke er synlige spor af Starane XL i fyldestationen.
+Rengøring
+Bemærk! Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle invendige dele af sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket så meget, at overtryksventilen fra det selvrensende filter udløses. Dette gælder under alle rengøringsprocesser.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det behandlede areal.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank, slanger og bom straks efter endt sprøjtning med vand fra skyllevandstanken. Skyllevandet kan med fordel deles, så indvendig vask og udsprøjtning foregår af 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter All Clear Extra eller lignende produkt i anbefalet dosering pr. 100 liter vand. Sprøjt lidt af vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og tankspuledyse køre i mindst 15 minutter. Tøm sprøjten gennem bom og dyser over et egnet areal f.eks. På marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml All Clear Extra pr. 10 liter vand.- Skyl tanken og alle slanger grundigt i 5 minutter med rent vand. Skyllevandet sprøjtes ud gennem bom og dyser.
+Opbevaring
+Tørt og frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, Atlantis OD, Catch, CCC 750, Cuadro NT, DFF, Hussar OD, Hussar Plus OD, Input EC 460, Joust, Kayak, Metaxon, Moddus M, Moddus Start, Primus, Proline EC 250, Propulse SE 250, Ricorso, Ricorso WG, Soratel, Trimmer 500 WG, CarboMan 500, Manganchelat 8% Mn, Mangansulfat 32, Mantrac 500, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Curbatur, Express 50 SX, Express Gold 33 SX, Folicur Xpert EC 240, Glacis, Harmony Plus 50 SX, LFS Prothioconazol, Medax Max, Medax Top, Moddevo, Nuance Max 75 WG, Optimus Max, Orius Gold, Profound, Proline Xpert EC 240, Prosaro, PRO-Tector, Ratio Super 50 SX, Savvy WG, Sempra SC, Stemper, Tomahawk 200 EC, Tombo, Trimaxx M, Trimmer SG
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Cerone, Foxtrot, Primera Super, Terpal, Topik EC
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Tokimbladet ukrudt
+0,8 lAfgrødens stadium 23-29
+Maksimalt én behandling pr. vækstsæson.
+Triticale, Vinterbyg, Vinterhvede, Vinterrug
+Tokimbladet ukrudt
+1,2 lAfgrødens stadium 30-45
+Maksimalt én behandling pr. vækstsæson.
+Havre, Vårbyg, Vårhvede
+Tokimbladet ukrudt
+0,36 lAfgrødens stadium 13-19
+Maksimalt én behandling pr. vækstsæson.
+Havre, Vårbyg, Vårhvede
+Tokimbladet ukrudt
+0,8 lAfgrødens stadium 20-29
+Maksimalt én behandling pr. vækstsæson.
+Vårbyg, Vårhvede
+Tokimbladet ukrudt
+1 lAfgrødens stadium 30-45
+Maksimalt én behandling pr. vækstsæson.
+Havre
+Tokimbladet ukrudt
+1 lAfgrødens stadium 30-39
+Maksimalt én behandling pr. vækstsæson.
+Frøgræs, Græs
+Tokimbladet ukrudt
+1,5 lAfgrødens stadium 20-39
+1. års marker. Starane XL må ikke anvendes, hvor der er udlagt blandinger indeholdende kløver, lucerne eller andre bælgplanter. Maksimalt én behandling pr. vækstsæson.
+Frøgræs, Græs
+Tokimbladet ukrudt
+1,5-1,8 lAfgrødens stadium 20-39
+2. og flereårs marker. Starane XL må ikke anvendes, hvor der er udlagt blandinger indeholdende kløver, lucerne eller andre bælgplanter. Maksimalt én behandling pr. vækstsæson.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Omsåning:
+Ved omsåning kan der etableres korn, majs eller græs.
+Efterfølgende afgrøde:
+Der er ingen restriktioner for efterfølgende afgrødevalg.
+Plantemateriale:
+Halm fra Starane XL-behandlet afgrøder må ikke anvendes i drivhuse eller til
+kompost.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+15
+ºC
+
+Jordfugtighed
+
+god
+
+Timers tørvejr
+
+1
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Blandingsprodukt der er sammensat af aktivstofferne fluroxypyr og florasulam. Fluroxypyr har auxinvirkning og fremkalder en ukontrolleret kraftig vækst i følsomme
+planter. Florasulam er beslægtet med sulfonylureamidlerne og er som disse en ALS hæmmer. Det medfører, at følsomme planter ikke kan producere vigtige aminosyrer.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agersennep
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Agerstedmoder
+1 l/ha
+Starane XL etiketten
+Agersvinemælk
+1 l/ha
+Starane XL etiketten
+70-90% bekæmpelse ved bekæmpelse på kimbladstadiet ifølge etiketten
+Agertidsel
+1 l/ha
+Starane XL etiketten
+70-90% bekæmpelse ved bekæmpelse på kimbladstadiet ifølge etiketten
+Brandbæger
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ved bekæmpelse på kimbladstadiet ifølge etiketten
+Burresnerre
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Ferskenpileurt
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Fuglegræs
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Hanekro
+1 l/ha
+Starane XL etiketten
+70-90% bekæmpelse ifølge etiketten
+Haremad
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Hvidmelet gåsefod
+1 l/ha
+Starane XL etiketten
+Hyrdetaske
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Kamille
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Kiddike
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Kornblomst
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Kornvalmue
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Markforglemmigej
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Mælkebøtte
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ved bekæmpelse på kimbladstadiet ifølge etiketten
+Raps
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Snerlepileurt
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Sort natskygge
+1 l/ha
+Starane XL etiketten
+90% bekæmpelse ifølge etiketten
+Ærenpris
+1 l/ha
+Starane XL etiketten
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at
+vejrtrækningen lettes. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag
+(P304+P340+P312).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern
+eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning
+(P305+P351+P338).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+Ved vedvarende øjenirritation: Søg lægehjælp (P337+P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Der henvises endvidere til produktets sikkerhedsdatablad afsnit 4.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H335
+Kan forårsage irritation af luftvejene.
+H336
+Kan forårsage sløvhed eller svimmelhed.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Starane XL
+Sikkerhedsdatablad
+Starane XL
+Vejledning i Planteværn
+2026
+Side 294 til 297
+VP26s294-297.pdf.pdf--
+Side 294 til 297--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.corteva.dk/content/dam/dpagco/corteva/eu/dk/da/products/labels/DF-Starane-XL-Etikette-Dansk-Jan%202025.pdf
