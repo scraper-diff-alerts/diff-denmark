@@ -1,0 +1,307 @@
+Metaxon - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Metaxon
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+10 l
+Registreringsindehaver
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Distributør
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Firmaets produktside
+Metaxon
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+245,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+750 g/l
+MCPA
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+2,67 l/ha
+0,375 BI/l
+Græs og kløver
+2,70 l/ha
+0,370 BI/l
+Kartofler
+2,00 l/ha
+0,500 BI/l
+Vintersæd
+2,00 l/ha
+0,500 BI/l
+Vårsæd
+2,00 l/ha
+0,500 BI/l
+(Ærter)
+0,177 l/ha
+5,64 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,51 l/ha
+0,399 B/l
+Miljøadfærd
+2,31 l/ha
+0,434 B/l
+Miljøeffekt
+5,01 l/ha
+0,200 B/l
+I alt
+0,969 l/ha
+1,03 B/l
+
+Pesticidafgift: 160 kr. pr. l
+Godkendelse
+Registreringsnummer
+347-5
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i korn.
+Behandlingsfrist
+Må kun anvendes én gang om året. Må ikke anvendes senere end BBCH 39.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Må kun anvendes én gang om året.
+Undgå at forurene vandmiljøet med produktet eller med beholdere, der har indeholdt
+produktet. Rens ikke sprøjteudstyr nær overfladevand/ Undgå forurening via dræn fra
+gårdspladser og veje.
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse mod agerpadderok på banelegemer
+Godkendt
+
+Metaxon, reg.nr. 347-5
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse til bortsprøjtning af hvidkløver til frø før høst
+Nordmannsgran til juletr&#230;er og pyntegr&#248;ntPyntegr&#248;nt','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse i nordmannsgran juletræer og pyntegrønt
+BlommerBl&#229;b&#230;rHybenKirseb&#230;rPlanteskolekulturerP&#230;rerRibsSolb&#230;rStikkelsb&#230;r&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse i planteskolekulturer, træfrugt (æble, pære, kirsebær og blomme) og buskfrugt (solbær, ribs, stikkelsbær, blåbær, aronia og hyben)
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse i kartofler
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse mod hvidkløver i engrapgræs i august måned
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Metaxon (347-5) til mindre anvendelse til bekæmpelse af agerpadderok på sporarealer
+Anvendelse
+Resistensrisiko
+Ingen kendskab til resistente ukrudtsarter.
+Resistensklasse
+O / 4
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger.
+Opblandingsanvisninger
+Tanken fyldes 3/4 med rent vand. Midlet tilsættes under omrøring, og der fyldes op med vand. Der bør være konstant omrøring under tilberedning og sprøjtning. Sprøjtevæsken skal udsprøjtes samme dag, den er tilberedt.
+Rengøring
+1. Umiddelbart efter afsluttet behandling skal tanken skylles grundigt med rent vand. Skyllevandet bør sprøjtes ud på den netop
+behandlede mark. Husk også at rengøre den udvendige side af sprøjten.
+2. Under rengøringen aktiveres alle ventiler/haner, så alle slanger bliver rengjorte. Endvidere skal sprøjten tømmes helt mellem hver
+skylning.
+3. Fyld sprøjten med vand og tilsæt 0,3 liter 3-dobbelt salmiakspiritus pr. 100 liter vand (evt. alm. salmiakspiritus - 1 liter pr. 100
+liter vand eller All Clear Extra - 0,5 liter pr. 100 liter vand). Skyl slanger og bom, fyld igen tanken med vand og lad den stå i mindst
+15 minutter under cirkulation. Tøm tanken gennem bommen/dysen over afgrøde/mark eller biobed og skyl tanken/bommen med
+rent vand.
+4. Dyser og sier rengøres separat med samme middel og koncentration, som anvendt til sprøjten.
+5. Gentag trin 2.
+6. Skyl tanken/sprøjten grundigt i 5 minutter samtidig med, at skyllevandet sprøjtes ud gennem bommen/dysen.
+Tankspuledyse:
+Er en sådan monteret, lettes rengøringen meget, da der spares både tid og vand. I stedet for at anvende en fuld
+tank, som beskrevet ovenover i trin 2, er det i stedet nok at fylde 100-150 liter vand i en 1000 liters tank (10-15 %), og så lade tankspuledysen
+arbejde i den angivne tid. Tankspuledysen anvendes også ved skylninger med rent vand, eftersom den sikrer, at tanken
+skylles overalt indvendigt.
+Opbevaring
+Bør opbevares frostfrit i uåbnet og ubeskadiget originalemballage beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Accurate Max, Amistar, Balaya, Catch, Cleave, Cossack OD, Entargo, Hussar OD, Hussar Plus OD, Input EC 460, Joust, Juventus 90, Kaiso Sorbie, Kayak, Lamdex, LFS Azoxystrobin, Nuance Max 75 WG, Primus XL, Proline EC 250, Propulse SE 250, Saracen M, Soratel, Stabilan Extra, Starane 333 HL, Starane XL, Tomahawk 200 EC, Trimaxx M, Zypar, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ally 20 SX, Ampect, Ariane FG S, ATR Azoxystrobin, Azaka, Broadway, CCC 750, Curbatur, Flurostar 180, Flurostar XL, Glacis, Globaztar 250 SC, Harmony 50 SX, Himalaya Pro, LFS Prothioconazol, LFS Trinexapac-ethyl, Medax Max, Medax Top, Mirador, Mirador 250 SC, Mixin, Moddevo, Moddus M, Moddus Start, Moxa, Mustang forte, Nicanor SG, Optimus Max, Pixxaro EC, Profound, Proline Xpert EC 240, PRO-Tector, Ricorso, Ricorso WG, Savvy, Savvy WG, Sonis, Stemper, Stomp CS, Zaftra AZT 250 SC, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Adimax, Cerone, Foxtrot, LFS Fenoxaprop-P + Mefenpyr, Primera Super, Serrate, Terpal, YaraVita KombiPhos
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Korn
+Agerkål, agerpadderok, agersennep, agersvinemælk, agertidsel, alm. pengeurt, hvidmelet gåsefod, hyrdetaske, kiddike, kornblomst, kornvalmue, svinemælde
+1 lAfgrødens stadium 20-39
+Må kun anvendes én gang om året. Metaxon må ikke anvendes senere end 1 august.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger.
+Virkning på efterfølgende afgrøde
+Ingen restriktioner for efterfølgende afgrøder.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+12
+ºC
+20
+ºC
+25
+ºC
+Luftfugtighed
+60
+%
+70-90
+%
+
+Timers tørvejr
+2-3
+
+4-6
+
+Virkemåde
+MCPA optages primært gennem bladene og transporteres rundt i hele planten herunder også ud i udløberne på flerårige ukrudtsarter som agertidsel og agerpadderokke. MCPA har auxinvirkning og forårsager ukontrolleret vækst i følsomme planter. Der kan ske rodoptagelse af MCPA og midlet har en vis persistens i jord. Det betyder, at der i en periode efter behandling af et areal ikke kan sås følsomme afgrøder som eksempelvis roer og raps.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger.
+Førstehjælp
+Hud: Fjern forurenede klædningsstykker. Vask huden grundigt med rigeligt vand og sæbe. Indtagelse: Skyl straks munden og drik rigeligt vand. Søg læge. Indånding: Ro, frisk luft. Søg læge. Øjenkontakt: Skyl med rindende vand i mindst 15 minutter med adskilte øjenlåg. Søg øjenlæge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H318
+Forårsager alvorlig øjenskade.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+ikke klassificeret
+IMDG
+ikke klassificeret
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Metaxon
+Sikkerhedsdatablad
+Metaxon
+Vejledning i Planteværn
+2026
+Side 352 til 353
+VP26s352-353.pdf.pdf--
+Side 352 til 353--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Metaxon_347-5_Godkendt_Etikette_20211015.pdf
