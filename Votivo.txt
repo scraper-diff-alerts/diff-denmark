@@ -1,0 +1,146 @@
+Votivo - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Votivo
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Anvendes indenfor
+Industriel anvendelse
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende bejdse
+Status
+Udgået
+Indhold af aktivstoffer
+17000000000 CFU/l
+Bacillus firmus I-1582
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+0,0000 l/ha
+0,0000 B/l
+Miljøeffekt
+0,0000 l/ha
+0,0000 B/l
+I alt
+0,0000 l/ha
+0,0000 B/l
+
+Pesticidafgift: 0 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-04-2026, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+19-239
+Miljøstyrelsens godkendelse
+Må kun anvendes til bejdsning af sukkerroefrø og foderroefrø i lukkede industrielle anlæg.
+Behandlingsfrist
+Ingen (industriel anvendelse)
+Forbehold
+Må kun anvendes til bejdsning af sukkerroefrø og foderroefrø i lukkede industrielle anlæg.
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i
+brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt
+produktet. (SP1).
+Må ikke tømmes i kloakafløb.
+De bejdsede frø skal umiddelbart efter bejdsningen emballeres i en beholder/emballage
+og plomberes.
+De bejdsede frø er bejdset med Votivo som indeholder Bacillus firmus I-1582.
+De bejdsede frø er farlige og må ikke anvendes til menneskeføde eller foder.
+Ved håndtering af de bejdsede frø bær beskyttelseshandsker.
+Beholderen/emballagen må ikke anvendes til brødkorn, andre levnedsmidler og
+foderstoffer.
+Ovenstående indrammede angivelse skal være tydeligt anført på en etikette eller
+bindemærke, der straks skal fastgøres på beholderen/emballagen på en sådan måde, at
+etiketten eller bindemærket normalt vil blive siddende indtil indholdet er brugt.
+Opbevares utilgængeligt for børn (P102)
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen (industriel anvendelse)
+Afstand til §3-områder
+Ingen (industriel anvendelse)
+Afstand til veje, beboelse mv.
+Ingen (industriel anvendelse)
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bejdsning af sukkerroefr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Votivo, reg.nr. 19-239
+Bejdsning af sukkerroefr&#248;','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Votivo, reg.nr. 19-239, godkendelse udløbet pga. manglende fornyet godkendelse af aktivistoffet Bacillus firmus I-1582 i EU
+På forbudsliste
+
+Votivo, reg.nr. 19-239, forbud mod opbevaring og anvendelse pga. manglende fornyelse af aktivstoffet Bacillus firmus I-1582 i EU
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder 1,2-benzisothiazol-3(2H)-one (CAS No. 2634-33-5) og blanding af 5-chloro-2-methyl-4-isothiazolin-3-one og 2-methyl-2H-4-isothiazolin-3-one (3:1) (CAS No. 55965-84-9. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Votivo
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Votivo_19-239_Godkendt_Etikette_20200616.pdf
