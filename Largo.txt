@@ -1,0 +1,136 @@
+Largo - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Largo
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NL-1411 DD NaardenTlf: +31 (0) 35 69 55 888Fax: Mail: info@chrysal.com','Chrysal International BV'); return true;" onmouseout="nd(); return true;" href="Http://www.chrysal.com" target="_new"Chrysal International BV
+Distributør
+NL-1411 DD NaardenTlf: +31 (0) 35 69 55 888Fax: Mail: info@chrysal.com','Chrysal International BV'); return true;" onmouseout="nd(); return true;" href="Http://www.chrysal.com" target="_new"Chrysal International BV
+Anvendes indenfor
+Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+400 g/kg
+gibberellinsyre A3
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 g/ha
+0,0000 B/g
+Miljøadfærd
+73.959 g/ha
+0,0000 B/g
+Miljøeffekt
+23.003 g/ha
+0,0000 B/g
+I alt
+17.546 g/ha
+0,0001 B/g
+
+Pesticidafgift: 0,016 kr. pr. g
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-10-2027, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+905-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering af pelargonier dyrket i potter i åbne og lukkede væksthuse.
+Behandlingsfrist
+Ingen
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Undgå udledning til miljøet (P273).
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Ved anvendelse i prydplanter dyrket i potter på jorden uden recirkulering: For at beskytte grundvandet skal potterne stå helt tæt (pottetæt kultur) eller kulturen skal dække arealet fuldstændigt (dækkende kultur).
+Ved anvendelse i planter dyrket i potter på jorden uden recirkulering: For at beskytte grundvandet må der på samme areal højst anvendes de i brugsanvisningen angivne maksimale doseringer og maksimale antal behandlinger i alt pr. areal pr. år. Der må endvidere i samme år ikke også anvendes andre produkter, der indeholder gibberellinsyre på samme areal.
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Pelargonium i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Largo (C31772), reg.nr. 905-3
+Afsk&#229;rne blomster af AsterAfsk&#229;rne blomster af AstrantiaAfsk&#229;rne blomster af BrassicaAfsk&#229;rne blomster af CarthamusAfsk&#229;rne blomster af CelosiaAfsk&#229;rne blomster af CrocosmiaAfsk&#229;rne blomster af CurcumaAfsk&#229;rne blomster af EryngiumAfsk&#229;rne blomster af EuphorbiaAfsk&#229;rne blomster af GypsophilaAfsk&#229;rne blomster af HelleborusAfsk&#229;rne blomster af LiliumCyclamen i lukket v&#230;ksthusCyclamen i &#229;bne v&#230;ksthuseHelleborus i lukket v&#230;ksthusHelleborus i &#229;bne v&#230;ksthuseKrysantemum i lukket v&#230;ksthusKrysantemum i &#229;bne v&#230;ksthusePelargonium-stiklinger i lukket v&#230;ksthusPelargonium-stiklinger i &#229;bne v&#230;ksthusePrydk&#229;l i lukket v&#230;ksthusPrydk&#229;l i &#229;bne v&#230;ksthuseSpathiphyllum i lukket v&#230;ksthusSpathiphyllum i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Largo, reg.nr. 905-3, til mindre anvendelse til vækstregulering i pelargonier i åbne og lukkede væksthuse, samt vækstregulering i pelargonier til afskæring og alpeviol, pyntekål, julerose, fredslilje, krysantemum dyrket i potter, samt forlænget holdbarhed af afskårne blomster i åbne væksthuse og lukkede væksthuse. Se brugsanvisning på etiketten.
+Pelargonium i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+Largo (C31772), reg.nr. 905-3, afmeldt
+På forbudsliste
+
+Largo, reg.nr. 905-3, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P273
+Undgå udledning til miljøet.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Largo
+Sikkerhedsdatablad
+Largo
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Largo_905-3_Godkendt_Etikette_20231009.pdf
