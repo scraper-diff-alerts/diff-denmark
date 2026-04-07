@@ -1,0 +1,338 @@
+Caryx - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Caryx
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Carax
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Caryx
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+405,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+30 g/l
+metconazol
+210 g/l
+mepiquat-chlorid
+(~ 160 g/l
+mepiquat)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Vinterraps
+1,46 l/ha
+0,683 BI/l
+(Vintersæd)
+1,97 l/ha
+0,508 BI/l
+(Vårsæd)
+1,46 l/ha
+0,683 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,75 l/ha
+0,573 B/l
+Miljøadfærd
+13,3 l/ha
+0,0753 B/l
+Miljøeffekt
+24,9 l/ha
+0,0402 B/l
+I alt
+1,45 l/ha
+0,689 B/l
+
+Pesticidafgift: 102 kr. pr. l
+Godkendelse
+Registreringsnummer
+19-207
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterraps.
+Behandlingsfrist
+Må ikke anvendes senere end vækststadium 59.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Caryx, reg.nr. 19-207
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Caryx (19-207) til mindre anvendelse til vækstregulering af prydplanter i væksthus og på friland
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Caryx (reg.nr. 19-207) til mindre anvendelse til vækstregulering af prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Under revurdering
+
+Caryx, reg.nr. 19-207, under revurdering
+Anvendelse
+Resistensrisiko
+For mange fungicider er der risiko for forekomst af biotyper, der er modstandsdygtige
+(resistente) overfor de anvendte aktivstoffer. Metconazol (den ene del af Caryx) tilhører gruppen af DMI fungicider (FRAC
+gruppe 3). Risikoen for opbygning af resistens hos Leptospahaeria maculens ved brug af SBI
+fungicider som Metconazol er betragtet som værende lav til middel ved gentagen brug under kraftige infektionsforhold. Der er ikke fundet resistens i Danmark.
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling af
+resistens. For at mindske risikoen bør produktet maksimalt anvendes 2 gange per sæson.
+For at mindske risikoen for udvikling af resistens anbefales det at blande med eller skifte mellem
+midler med andre virkemekanismer, som har god effekt over for de aktuelle arter.
+Risikoen for resistens hos fungicider kan nedsættes ved sprøjtning tidligt i vækstforløbet/
+infektionsforløbet.
+Resistensklasse
+3
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Caryx kan blandes med andre plantebeskyttelsesmidler. For eventuelle blandingsmuligheder
+bør lokal vejledning eller rådgivning følges. Tilberedning af sprøjtevæske:
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger inden tilberedning af
+sprøjtevæsken begyndes. Dette gælder især, hvis sprøjten har været anvendt til sprøjteopgaver
+i andre afgrøder.
+Præparatfyldeudstyr
+Ved anvendelse af præparatfyldeudstyr påfyldes den ønskede mængde præparat, som
+herefter suges op i sprøjtetanken.
+Efterfølgende skylles præparatfyldeudstyret, samt tomme dunke/beholdere. Gentag proceduren
+med at åbne/lukke for bundventil til der ikke er synlige spor af Caryx i fyldestationen.
+Generelt bør der være konstant omrøring under udbringning og kørsel og sprøjtevæsken
+udsprøjtes straks efter tilberedningen.
+Direkte injektion
+Ved anvendelse af direkte injektionsudstyr, ledes det ufortyndede præparat automatisk ind
+i de slanger, som fører fra sprøjtetank til dyserne. Ved skift og afslutning af sprøjteopgaver
+gennemføres en gennemskylning ogrengøring af systemet. Vaskevandet udsprøjtes under
+kørsel på det behandlede areal.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på vaskepladsen.
+En uvasket sprøjte skal placeres i den behandlede mark, på vaskepladsen eller under tag.
+Sprøjten skal være monteret med spuledyser til indvendig rengøring af tanken og sprøjten skal
+være monteret med separat vandtank med tilstrækkelig kapacitet således at restsprøjtevæske
+kan fortyndes og der kan foretages en grundig rengøring i marken. Restsprøjtevæske skal på
+passende vis fortyndes 50 gange med vand og udsprøjtes i den behandlede mark (uden at den
+maksimalt tilladte dosering for det pågældende middel herved overskrides). anvendte middel for specifikke anvisninger) samtidig med at filtre, slanger og dyser kontrolleres
+for urenheder og eventuelle belægninger. Vaskevandet omsamles i egnede beholdere og
+udbringes iht. gældende regler.
+I øvrigt henvises til Miljøministeriets vejleding om påfyldning og vask af sprøjter til udbringning
+af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 906 af .
+Opbevaring
+Caryx bør ikke opbevares ved temperaturer lavere end -5°C i uåbnet original emballage beskyttet
+mod direkte sollys og andre varme kilder og ikke over 40 °C. Ved korrekt opbevaring er produktet
+holdbart i minimum 2 år fra produktionsdatoen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Cantus, Focus Ultra, Korvetto, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Agil 100 EC, Kaiso Sorbie, Lamdex, Nexide CS, Zetrola, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Belkar
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Vækstregulering
+0,7-1,4 lEfterår på afgrødens stadium 13-20
+Behandling efterår.
+Vinterraps
+Lejesæd, vækstregulering
+0,7-1,4 lAfgrødens stadium 21-59
+Behandling forår. Ikke senere end
+vækststadium 59.
+Vinterraps
+Lejesæd, vækstregulering
+0,7 l + 0,7 lSe bemærkninger
+Delt behandling efterår og forår. Vækststadium 13-20 maksimalt 0,7 l/ha. + vækststadium 21-59 maksimalt 0,7 l/ha. Ikke senere end vækststadium 59.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Der er ingen restriktioner for efterfølgende afgrøder i et normalt sædskifte og tilfælde af
+omsåning kan der sås korn eller majs. Ved overholdelse af godt landmandskab er der ikke
+risiko for skader på naboafgrøder.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+0,5 (30 min.)
+1
+
+Andet
+Caryx bør ikke anvendes i afgrøder der er stressede som følge af tørke, skadedyrsangreb,
+svækkede af vinter, ol. Kraftig nedbør umiddelbart efter behandling kan nedsætte effekten,
+men generelt er Caryx regnfast efter indtørring på bladene.
+Der er ikke konstateret planteskade som følge af Caryx behandling, men rapsen vil ofte blive
+mere mørkegrøn efter behandling med Caryx. Dette er ikke planteskade, men kan forklares
+med at planten bliver mere kompakt og tæt.
+Virkemåde
+Aktivstofferne i Caryx Mepiquat-chlorid og Metconazol supplerer hinanden ved at have forskellige
+virkemåder. Begge aktivstoffer blokerer gibberellin biosyntesen, men på forskellige steder.
+Gibberellin biosyntesen kontrollerer længdevæksten.
+Begge aktivstoffer optages primært gennem bladene og både Mepiquat-chlorid såvel som
+Metconazol fordeles systemisk ud mod blad- og skudspidser.
+Caryx har vækstregulerende effekt på alle raps typer. Caryx har desuden, qua indholdet af
+Metconazol, sideeffekt på Phoma (Leptosphaeria maculens) om efteråret.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring etiketten. VED KONTAKT MED ØJNENE:Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette let kan gøres. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller læge. I TILFÆLDE AF INDTAGELSE: Ring til en GIFTINFORMATION eller læge I TILFÆLDE AF UBEHAG. VED INDÅNDING:Flyt personen til et sted med frisk luft og sørg for, at vejrtrækningen lettes. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag. VED KONTAKT MED HUDEN: Vask med rigeligt vand. Ved hudirritation eller udslæt:Søg lægehjælp. Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H332
+Farlig ved indånding.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask forurenede hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P310
+Ring omgående til en GIFTINFORMATION eller en læge.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Caryx
+Sikkerhedsdatablad
+Caryx
+Vejledning i Planteværn
+2026
+Side 359 til 360
+VP26s359-360.pdf.pdf--
+Side 359 til 360--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Caryx_19-207_Godkendt_Etikette_20230508.pdf
