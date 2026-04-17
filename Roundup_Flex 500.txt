@@ -1,0 +1,435 @@
+Roundup Flex 500 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Roundup Flex 500
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+15 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Roundup Flex 500
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+97,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/l
+glyphosat
+Parallelprodukt, identisk med Roundup Dynamic
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+2,52 l/ha
+0,397 BI/l
+Vinterraps
+2,52 l/ha
+0,397 BI/l
+Vintersæd
+2,52 l/ha
+0,397 BI/l
+Vårraps
+2,52 l/ha
+0,397 BI/l
+Vårsæd
+2,52 l/ha
+0,397 BI/l
+Ærter
+2,52 l/ha
+0,397 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+12,3 l/ha
+0,0816 B/l
+Miljøeffekt
+46,0 l/ha
+0,0217 B/l
+I alt
+9,68 l/ha
+0,103 B/l
+
+Pesticidafgift: 25 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-687
+Miljøstyrelsens godkendelse
+Må kun anvendes til: - Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder og efter såning før fremspiring jf. brugsanvisningen. - Bekæmpelse af flerårigt ukrudt i raps, korn, lupin, ærter, bønner, hestebønner, hør og græs, ved pletsprøjtning på mindre områder af marken. - Selektiv ukrudtsbekæmpelse i jordbrug ved brug af weed wiper. - Ukrudtsbekæmpelse på stubmarker. - Omlægning af brak- og græsmarker. - Ukrudtsbekæmpelse i skovkulturer samt juletræsplantager. - Stødbehandling af fældede træer og buske. - Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er befæstede eller stærkt permeable. - Ukrudtsbekæmpelse mellem og under frugttræer og bærbuske.
+Behandlingsfrist
+Raps, korn, lupin, ærter, bønner, hestebønner, hør, græs og sennep må ikke behandles senere end 10 dage før høst. Må mellem og under frugttræer og bærbuske kun anvendes indtil 30 dage før høst og om efteråret efter høst.
+Forbehold
+I følgende foderafgrøder: raps, korn, lupin, ærter, bønner, hestebønner, hør og græs, er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken. Det er ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat til nedvisning i foderafgrøder før høst i henhold til bekendtgørelse om bekæmpelsesmidler. I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler. Frugter og bær, fra et areal, der er behandlet med glyphosat må anvendes som foder til husdyr. Øvrige behandlede afgrøder må anvendes til foder til husdyr - dog ikke fjerkræ og får. Brugsanvisningens doseringsangivelser må ikke overskrides. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1). Opbevares utilgængeligt for børn (P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter ved applikationsrater op til og inklusiv 1,99 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 1,99 L produkt/ha op til og inklusiv 3,92 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 3,92 L produkt/ha (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+B&#248;nnerF&#248;r fremspiring af afgr&#248;derF&#248;r s&#229;ning af afgr&#248;derGlyphosat-fallbackGr&#230;sHesteb&#248;nnerH&#248;rKornK&#230;mpegran (Grandis)LupinerNordmannsgranRapsR&#248;dgranSelektiv ukrudtsbek&#230;mpelse med specielt udstyrSennepSkovbrugStubSt&#248;dbehandling af f&#230;ldede tr&#230;erUdyrkede arealerUnder b&#230;rbuskeUnder frugttr&#230;er&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Roundup Flex 500, reg. nr. 18-687
+Juletr&#230;erL&#230;hegnPlanteskolekulturerPyntegr&#248;ntSkovbrug','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Roundup Flex 500 (18-687) til mindre anvendelse mod ukrudt i skovbrug, juletræer, pyntegrønt og læhegn, samt energiafgrøder og planteskolekulturer på friland
+Alm. rapgr&#230;s til fr&#248;avlBakkesvingel til fr&#248;avlBeder til fr&#248;avlBlodkl&#248;ver til fr&#248;avlBlomster til fr&#248;Chrysanthemum til fr&#248;avlEngrapgr&#230;s til fr&#248;avlEngsvingel til fr&#248;avlGul sennep til produktion af uds&#230;dHundegr&#230;s til fr&#248;avlHvene til fr&#248;avlHvidkl&#248;ver til fr&#248;avlHvidk&#229;l til produktion af uds&#230;dHybridrajgr&#230;s til fr&#248;avlItaliensk rajgr&#230;s til fr&#248;avlKarse til fr&#248;Kinesisk k&#229;l til produktion af uds&#230;dKnoldrottehale til fr&#248;avlK&#230;llingetand til fr&#248;avlLucerne til fr&#248;avlLupin til fr&#248;avlOlier&#230;ddike til fr&#248;avlPurl&#248;g til fr&#248;avlRadis til fr&#248;avlRajsvingel til fr&#248;avlRucola til fr&#248;R&#248;dkl&#248;ver til fr&#248;avlR&#248;dsvingel til fr&#248;avlSkorzonerrod til fr&#248;avlSnegleb&#230;lg til fr&#248;avlSpinat til fr&#248;avlStrandsvingel til fr&#248;avlTimian til fr&#248;avlTimothe til fr&#248;avlWesterwoldisk rajgr&#230;s til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Roundup Flex 500 (reg.nr. 18-687) til mindre anvendelse mod græsukrudt i afgrøder til frøproduktion ved anvendelse af rækkesprøjtning eller pletsprøjtning på friland
+Anvendelse
+Resistensrisiko
+Produktet tilhører resistensklasse 9 (EPSP synthase-hæmmer). Gentagen anvendelse af samme præparat eller præparat med samme virkningsmekanisme kan føre til
+udvikling af resistens. For at undgå dette anbefales det regelmæssigt at anvende et præparat med en
+anden virkningsmekanisme, enten i form af en tankblanding eller ved at skifte præparat med jævne mellemrum.
+Derudover anbefales det at anvende dyrkningsteknikker, såsom pløjning, afgrøderotation m.m. for
+at modvirke udviklingen af resistens.
+Resistensklasse
+G / 9
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblandinger:
+For at opnå bred effekt på almindeligt forekommende ukrudt kan der evt. blandes med et egnet godkendt
+middel. Følg altid etikettens anvisninger for blandingspartnere. Ved blandbarhed med andre produkter
+testes der ikke for eventuelle afgrødeskade, nedsat effekt eller andre påvirkninger af afgrøden. Kontakt din
+lokale konsulent hvis du har spørgsmål.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Roundup Flex 500 må kun opbevares i den originale emballage.
+Produktet bør opbevares frostfrit i uåbnet original emballage beskyttet mod direkte sollys og andre varmekilder.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Afgrøder før såning eller efter såning før fremspiring
+Flerårigt ukrudt, frøukrudt
+0,72-2,88 lSe bemærkninger
+Før såning: Klargøring af så- eller plantebede om foråret
+eller efteråret. Behandling kan ske, så snart der er god
+vækst i ukrudtet. Ved direkte såning fjernes halm og andet
+plantemateriale
+før behandling. Behandling umiddelbart efter
+direkte såning kræver, at frøet er godt tildækket, så det ikke
+beskadiges.
+Efter såning men før fremspiring: Lav et godt såbed, og sørg
+for, at frøene er godt dækket med jord. Ingen blade eller planter
+må have brudt jordoverfladen ved behandlingen. Behandling
+med Roundup Flex 500 bør ikke udføres senere end 2 dage
+efter såning. Maks. én behandling pr. vækstår.
+Kartofler før fremspiring
+Flerårigt ukrudt, frøukrudt
+0,72-2,88 lSe bemærkninger
+Efter lægning af kartofler men før fremspiring:
+Roundup Flex 500 skal udbringes mindst 5 dage før de første
+spirer bryder igennem jorden. Når kartoffelspirerne begynder at
+løfte jordskorpen, er det for sent at anvende Roundup Flex 500
+da spirerne kan tage skade. Vær opmærksom på, om der er
+dybe revner i jorden eller hvis jorden er meget knoldet, så kan
+en behandling være risikabel, idet spirerne kan rammes flere
+centimeter nede i jorden. Roundup Flex 500 bør ikke anvendes
+i læggekartofler.
+Afgrøder til udsæd må ikke behandles.. Maks. én behandling pr. vækstår.
+Stub
+Flerårigt ukrudt, frøukrudt
+0,72-4,32 lSe bemærkninger
+Ukrudtsbekæmpelse bør altid udføres i stubmarker efter høst,
+når ukrudtet er i god vækst. Halmen skal fjernes umiddelbart
+efter høst, så kvik og andet ukrudt er i god tilvækst. Hvis
+halmen snittes efter høst, skal den snittes og spredes godt på
+marken, så halmen ikke dækker ukrudtet. En stub-behandling
+kan udføres indtil sent på året, så længe vejrforholdene tillader
+det. Enkelte frostnætter med temperaturer ned til -3 °C før
+behandling påvirker ikke effekten. Maks. én behandling pr. vækstår.
+Sennep
+Flerårigt ukrudt, frøukrudt
+1,44-2,16 lSe bemærkninger
+Afgrøden behandles, når vandindholdet i frøene er mindre end
+30 % (fra plantestadie 87-89). Behandlingstidspunktet skal
+være 2-4 dage før normal skårlægning.
+Afgrøder til udsæd må ikke behandles. Maks. én behandling pr. vækstår.
+Bønner, Græs, Hestebønner, Hør, Korn, Lupiner, Raps, Ærter
+Flerårigt ukrudt, frøukrudt
+1,44-2,16 lSe bemærkninger
+Pletsprøjtning mod flerårigt ukrudt efter fremspiring og før
+høst i raps, korn, lupin, ærter, bønner, hestebønner, hør og
+græs til foder. Ved pletsprøjtning forstås behandling med Roundup Flex
+500 på mindre områder af marken. Maks. én behandling pr. vækstår.
+Brakarealer
+Flerårigt ukrudt, frøukrudt
+1,08-4,32 lSe bemærkninger
+Brakjord må ikke jordbearbejdes før behandling.
+Ved bekæmpelse af kvik og andet ukrudt på brakjord må
+jorden ikke være dækket af afgrøderester eller visne stubrester.
+Enhver kalkning og gødningsspredning skal ske efter
+behandlingen. Maks. én behandling pr. vækstår.
+Græs
+Flerårigt ukrudt, frøukrudt
+0,72-4,32 lSe bemærkninger
+Omlægning af græsarealer (nedvisning) finder normalt sted
+i juni-oktober efter den sidste slåning eller græsning. Den
+bedste effekt opnås på 10-20 cm højt græs i aktiv vækst.
+Hvis der er mange rådnende planterester, f.eks. tæt grønsvær
+eller meget kvik, i jordlaget de hvor nysåede græsfrø spirer,
+kan de føre til nedsat vækst. I sådanne tilfælde bør man vente
+så længe som muligt, inden man sår græsset. Alternativt kan
+man behandle med Roundup Flex 500 om efteråret og så
+græsset om foråret. Maks. én behandling pr. vækstår.
+Mellem eller under bærbuske, Mellem eller under frugttræer
+Flerårigt ukrudt, frøukrudt
+1,08-4,32 lSe bemærkninger
+Frugttræer
+(æble, pære,
+blomme, kirsebær,
+mispel,
+hassel, kastanje,
+valnød) og
+bærbuske
+(solbær, ribs,
+stikkelsbær og
+blåbær). Bedst effekt opnås når ukrudtet er i aktiv vækst. Frugttræer
+og bærbuske skal være rodfæstede. De angivne doseringer er
+beregnet på sprøjtning af hele arealet. Behandlingen gentages,
+hvis der er genvækst af ukrudtet 28 dage efter den foregående
+behandling. I rækken under afgrøderne bør der ikke behandles
+med Roundup Flex 500 fra sidst i juni. Når saftstrømmen vender
+sidst i juni vil der være risiko for skader på træerne eller
+buskene, hvis bladene rammes. Anvend afskærmet sprøjtning
+eller rygsprøjte. Pas på vinddrift.
+Bemærk: Planter som danner udløbere (f.eks. jordbær) eller
+rodskud (f.eks. hindbær, blommer, prydtræer eller buske)
+tilhører en særlig risikogruppe, fordi glyphosat kan transporteres
+fra udløberne eller rodskuddene til forældreplanterne.
+Med sådanne planter kan sprøjtning imellem rækkerne kun
+foretages, når udløbere eller rodskud i mellem rækkerne er
+afskåret fra moderplanterne.
+Behandlingsfrist 30 dage før høst. 1-3 behandlinger pr. vælstår. Ved 2 behandlinger må den samlede produktmængde ikke overskride 6,48 liter/ha. Ved tre behandlinger er den maksimale dosis pr. behandling 4,00 liter/ha, og den samlede produktmængde må ikke overskride 7,20 liter/ha.
+Selektiv ukrudtsbekæmpelse med specielt udstyr
+Flerårigt ukrudt, frøukrudt
+2,88 lSe bemærkninger
+Behandling med Weed-Wiper kan udføres på ukrudt, som er
+20 cm højere end afgrøden. Det er vigtigt, at Weed-Wiperen
+ikke kommer i kontakt med afgrøden. Der behandles med en 30 % opløsning af Roundup Flex 500. Maks. én behandling pr. vækstår.
+Skovbrug
+Flerårigt ukrudt, frøukrudt
+1,08-4,32 lSe bemærkninger
+Skovbrug, skovplanteskole, klargøring af areal inden såning,
+prikling eller plantning (incl. før planting, mellem rækker, plet
+behandling og planteskole)
+Inden såning, prikling eller plantning behandles arealet
+med Roundup Flex 500. Ukrudtet bør være veludviklet og i
+aktiv vækt på behandlingstidspunket. Flerårigt ukrudt og kvik
+behandles med den højeste dosering.
+Afskærmet sprøjtning anvendes i ukrudtets vækstperiode
+med udstyr, der skærmer sprøjtevæsken af, så det dyrkede træ
+ikke rammes på blade, bær eller bark. Pas på vinddrift.
+Behandlingen gentages, hvis der er genvækst af ukrudtet 28
+dage efter den forrige behandling. De dyrkede træsorter skal
+være rodfæstede.
+Bemærk, at der kan være risiko for rodsammenfletninger, især
+i løvtræer (asp og poppel) og dermed mulighed for overførsel
+af glyphosat fra et behandlet træ til nabotræet. 1-3 behandlinger pr. vælstår. Ved 2 og 3 behandlinger må den samlede produktmængde ikke overskride 7,20 liter/ha.
+Juletræer
+Flerårigt ukrudt, frøukrudt
+1,08-2,18 lSe bemærkninger
+Behandlingen kan udføres på rødgran (Picea abies), nordmannsgran
+(Abies nordmanniana) og kæmpegran (Abies
+grandis). Der er ikke afprøvninger af andre træarter. Ukrudt
+bekæmpes i juletræer over toppen på små træer om efteråret,
+når træernes årsskud er afmodnede (forveddede), og endeknopperne
+er dannede. Behandlingen foretages tidligst, når
+juletræerne er groet godt fast på det permanente voksested,
+og ukrudtet er i aktiv vækst. Maks. én behandling pr. vækstår.
+Stødbehandling af fældede træer
+Genvækst fra træstubbe
+0,72 lSe bemærkninger
+Nyfældede træer og buske behandles straks efter fældning
+med Roundup Flex 500 som sikring mod genvækst og
+rodskud. Roundup Flex 500 påføres med pensel i en 14 %
+opløsning. Behandlingen foretages på selve snitfladen, men
+dog især på de vedagtige dele nærmest barken. Behandlingen
+foretages, når træernes saftstrøm er nedadgående. Behandling
+i træernes saftstigningsperiode har ringere effekt.
+Bemærk, at der kan være risiko for rodsammenfletning og
+dermed mulighed for overførsel af glyphosat fra et behandlet
+træ til et tilstødende træ. Maks. én behandling pr. vækstår.
+Udyrkede arealer, der ikke er befæstede eller stærkt permeable
+Flerårigt ukrudt, frøukrudt
+1,08-4,32 lSe bemærkninger
+Roundup Flex 500 kan anvendes på utilplantede arealer i hele
+vækstsæsonen. Ukrudtet bør være veludviklet og i aktiv vækst
+på behandlingstidspunktet. Pas på vinddrift. Brug af rygsprøjte
+kan være nyttig, når mindre områder skal holdes rene for
+ukrudt. Behandlingen gentages tidligst 28 dage efter forrige
+behandling, hvis der er genvækst af ukrudtet. 1-3 behandlinger pr. vælstår. Ved 2 og 3 behandlinger må den samlede produktmængde ikke overskride 7,20 liter/ha, og ved 3 behandlinger er maks. dosis pr. behandling 2,88 liter/ha.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+0
+ºC
+15-20
+ºC
+30
+ºC
+Luftfugtighed
+
+høj
+
+Timers tørvejr
+1
+
+2-4
+
+Nattefrostrisiko
+
+ingen
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Roundup Flex 500 er regnfast efter 1 time.
+Virkemåde
+Glyphosat er et systemisk middel, der alene optages gennem bladene. Virker ved at blokere dannelsen af visse aminosyrer, så væksten går i stå. Transporteres i sivævet til alle vækstpunkter - også i planternes rødder og udløbere. Behandlede planter gulfarves og nedvisner efter en periode afhængig af vejrforholdene.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Øjenkontakt:
+Skyl omgående med store mængder vand. Kontaktlinser fjernes, hvis det kan gøres nemt.
+Hudkontakt:
+Fjern forurenet tøj, armbåndsur og smykker. Vask angrebet hud med store mængder vand. Vask tøj før genbrug.
+Indånding:
+Anbring i frisk luft.
+Indtagelse:
+Opkastning må ikke fremtvinges. Kontakt omgående læge og vis denne beholder eller etiket.
+Råd tll læger:
+Behandles symptomatisk. Undersøg for pulmonal dysfunktion. Mål blodtrykket.
+Ingen diagnostiske symptomer på systemisk forgiftning med dette produkt.
+Hold patienten under observation, indtil tilstanden er tilfredsstillende og stabil.
+Antldot:
+Behandling med atropin og oximer er uegnet
+Gilftlinjen Ring: +45 8212 1212
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Roundup Flex 500
+Sikkerhedsdatablad
+Roundup Flex 500
+Vejledning i Planteværn
+2026
+Side 305 til 325
+VP26s305-325.pdf.pdf--
+Side 305 til 325--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/-/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/roundup-flex-500-etiket-dk.pdf
