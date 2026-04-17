@@ -1,0 +1,162 @@
+Glyphosat 720 - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Glyphosat 720
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+1503 København VTlf: 33 68 30 00Fax: 33 68 87 87Mail: info@dlg.dk','Dansk Landbrugs Grovvareselskab (DLG)'); return true;" onmouseout="nd(); return true;" href="Http://www.dlg.dk" target="_new"Dansk Landbrugs Grovvareselskab (DLG)
+Distributør
+1503 København VTlf: 33 68 30 00Fax: 33 68 87 87Mail: info@dlg.dk','Dansk Landbrugs Grovvareselskab (DLG)'); return true;" onmouseout="nd(); return true;" href="Http://www.dlg.dk" target="_new"Dansk Landbrugs Grovvareselskab (DLG)
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+720 g/kg
+glyphosat
+Parallelprodukt, identisk med Roundup PowerMax XXL
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+1,75 kg/ha
+0,571 BI/kg
+Vinterraps
+1,75 kg/ha
+0,571 BI/kg
+Vintersæd
+1,75 kg/ha
+0,571 BI/kg
+Vårraps
+1,75 kg/ha
+0,571 BI/kg
+Vårsæd
+1,75 kg/ha
+0,571 BI/kg
+Ærter
+1,75 kg/ha
+0,571 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+8,51 kg/ha
+0,117 B/kg
+Miljøeffekt
+32,0 kg/ha
+0,0313 B/kg
+I alt
+6,72 kg/ha
+0,149 B/kg
+
+Pesticidafgift: 36 kr. pr. kg
+Godkendelse
+Registreringsnummer
+54-15
+Miljøstyrelsens godkendelse
+Må kun anvendes til:
+- Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder og efter såning før fremspiring jf. brugsanvisningen.
+- Bekæmpelse af flerårigt ukrudt i raps, korn, lupin, ærter, bønner, hestebønner, hør og græs, ved pletsprøjtning på mindre områder af marken.
+- Ukrudtsbekæmpelse samt nedvisning i sennepsfrø.
+- Selektiv ukrudtsbekæmpelse i jordbrug ved brug af weed wiper.
+- Ukrudtsbekæmpelse på stubmarker.
+- Omlægning af brak- og græsmarker.
+- Ukrudtsbekæmpelse i skovkulturer samt juletræsplantager.
+- Stødbehandling af fældede træer og buske.
+- Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er befæstede eller stærkt permeable.
+- Ukrudtsbekæmpelse mellem og under frugttræer og bærbuske.
+Behandlingsfrist
+Raps, korn, lupin, ærter, bønner, hestebønner, hør, græs og sennep må ikke behandles senere end 10 dage før høst.
+Må mellem og under frugttræer og bærbuske kun anvendes indtil 30 dage før høst og om efteråret efter høst.
+Forbehold
+I følgende foderafgrøder: raps, korn, lupin, ærter, bønner, hestebønner, hør og græs, er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken.
+Det er ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat til nedvisning i foderafgrøder før høst i henhold til bekendtgørelse om bekæmpelsesmidler.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Frugter og bær fra et areal, der er behandlet med glyphosat, må anvendes som foder til husdyr.
+Øvrige behandlede afgrøder må anvendes til foder til husdyr – dog ikke fjerkræ og får.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter ved applikationsrater op til og inklusiv 1,38 L produkt/ha.
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 1,38 L produkt/ha op til og inklusiv 2,72 L produkt/ha.
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 2,72 L produkt/ha.
+(SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+B&#248;nnerGlyphosat-fallbackGr&#230;sHampHesteb&#248;nnerHesteb&#248;nner f&#248;r fremspiringH&#248;rJuletr&#230;erKartoflerKartofler f&#248;r fremspiringKornK&#230;mpegran (Grandis)LupinerMajs f&#248;r fremspiringMellem eller under b&#230;rbuskeMellem eller under frugtbuskeMellem eller under frugttr&#230;erNordmannsgranPlanteskolekulturerRapsRoerR&#248;dgranSennepSkovkulturerStubSt&#248;dbehandling af f&#230;ldede tr&#230;erSukkerroer f&#248;r fremspiringS&#229;ede afgr&#248;der f&#248;r fremspiringUdyrkede arealer&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Glyphosat 720, reg.nr. 54-15
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Glyphosat 720
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Glyphosat_720_54-15_Godkendt_Etikette_20250327.pdf
