@@ -1,0 +1,325 @@
+Roundup Ultra XL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Roundup Ultra XL
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+20 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Roundup Ultra XL
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Udgået
+Indhold af aktivstoffer
+360 g/l
+glyphosat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+3,50 l/ha
+0,286 BI/l
+Vinterraps
+3,50 l/ha
+0,286 BI/l
+Vintersæd
+3,50 l/ha
+0,286 BI/l
+Vårraps
+3,50 l/ha
+0,286 BI/l
+Vårsæd
+3,50 l/ha
+0,286 BI/l
+Ærter
+3,50 l/ha
+0,286 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+17,0 l/ha
+0,0587 B/l
+Miljøeffekt
+63,9 l/ha
+0,0156 B/l
+I alt
+4,03 l/ha
+0,248 B/l
+
+Pesticidafgift: 42 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-678
+Miljøstyrelsens godkendelse
+Må kun anvendes til:
+Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder, og efter såning men før fremspiring jf. brugsanvisningen.
+Ukrudtsbekæmpelse mellem og under frugttræer og bærbuske
+indtil 30 dage før høst og om efteråret efter høst.
+Ukrudtsbekæmpelse på stubmarker.
+Omlægning af brak- og græsmarker.
+Ukrudtsbekæmpelse i skovkulturer.
+Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er
+befæstede eller stærkt permeable.
+Ukrudtsbekæmpelse samt nedvisning i sennepsfrø. Må ikke
+behandles senere end 10 dage før høst.
+I følgende foderafgrøder: raps, korn, lupin, ærter, bønner,
+hestebønner, hør og græs er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken. Må ikke
+behandles senere end 10 dage før høst.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og
+brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at
+anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Behandlingsfrist
+Se godkendelsestekst.
+Forbehold
+I følgende foderafgrøder: raps, korn, lupin, ærter, bønner, hestebønner, hør og græs er det efter fremspiring kun tilladt at bekæmpe flerårigt ukrudt ved pletsprøjtning på mindre områder af marken. Må ikke behandles senere end 10 dage før høst. I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler. Behandlede afgrøder må bruges til fodring af husdyr bortset fra fjerkræ og får. Behandlede bær og frugter må bruges til fodring af alle husdyr. Brugsanvisningens doseringsangivelser må ikke overskrides. Sprøjteførere skal anvende kemisk bestandige handsker ved blanding og påfyldning. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1). Må ikke opbevares ved temperaturer over 30°C. Opbevares under lås og utilgængeligt for børn (P405+P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3)
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter
+for doseringer op til og inklusiv 2,77 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter for doseringer over 2,77 L produkt/ha op til og inklusiv 5,44 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde
+planter for doseringer over 5,44 L produkt/ha.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+BrakarealerB&#248;nnerF&#248;r s&#229;ning af afgr&#248;derGlyphosat-fallbackGr&#230;sHesteb&#248;nnerH&#248;rIkke spiselige planteskolekulturerIkke spiselige skovkulturerKornLupinerMellem eller under b&#230;rbuskeMellem eller under frugtbuskeMellem eller under frugttr&#230;erRapsSennepSkovStubStub efter fr&#248;gr&#230;sS&#229;ede afgr&#248;der f&#248;r fremspiringUdyrkede arealerUkrudtsbek&#230;mpelse efter s&#229;ning og f&#248;r fremspiring&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Roundup Ultra XL (MON 79376), reg.nr. 18-678
+Bornm&#252;llergranB&#248;gDouglasgranEgJuletr&#230;erL&#230;hegnNobilisNordmannsgranPyntegr&#248;ntR&#248;dgran','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Roundup Ultra XL (18-678) til mindre anvendelse mod ukrudt i skovbrug, juletræer, pyntegrønt og læhegn på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Roundup Ultra XL (18-678) til mindre anvendelse mod ukrudt i rabarber på friland
+Anvendelse
+Resistensrisiko
+Aktivstoffet glyphosat tilhører HRAC gruppe 9 (EPSP-syntesehæmmere).
+Gentagen anvendelse af samme præparat eller præparat med samme virkningsmekanisme kan
+føre til udvikling af resistens. For at undgå dette anbefales det regelmæssigt at anvende et
+præparat med en anden virkningsmekanisme, enten i form af en tankblanding eller ved at skifte
+præparat med jævne mellemrum. Derudover anbefales det at anvende dyrkningsteknikker, såsom pløjning, afgrøderotation m.m. for at modvirke udviklingen af resistens.
+Resistensklasse
+G / 9
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tankblandinger:
+For at opnå bred effekt på almindeligt forekommende ukrudt kan der evt. blandes med et egnet
+godkendt middel. Følg altid etikettens anvisninger for blandingspartnere. Ved blandbarhed med
+andre produkter testes der ikke for eventuelle afgrødeskade, nedsat effekt eller andre påvirkninger af afgrøden.
+Tilberedning af sprøjtevæske:
+Roundup Ultra XL blandes med 100-200 l vand/ha.
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger inden tilberedning af
+sprøjtevæsken begyndes. Dette gælder især, hvis sprøjten har været anvendt til sprøjteopgaver
+i andre afgrøder. Konstant omrøring under og efter opblanding af produktet. Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr og flydende præparater påfyldes den ønskede
+mængde præparat, som herefter suges op i sprøjtetanken. Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke. Gentag proceduren med at åbne/lukke for bundventil til der
+ikke er synlige spor af Roundup Ultra XL i fyldestationen. Direkte injektion: Ved anvendelse af
+direkte injektionsudstyr, ledes det ufortyndede præparat automatisk ind i de slanger, som fører
+fra sprøjtens tank til dyserne. Ved skift og afslutning af sprøjteopgaver gennemføres en gennemskylning og rengøring af systemet. Vaskevandet udsprøjtes under kørsel på det behandlede
+areal.
+Rengøring
+Indvendig rengøring for marksprøjter med præparatfyldeudstyr:
+Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det behandlede areal
+uanset fyldeudstyr. Skyllevandstankens kapacitet skal være så stor, at restsprøjtevæsken kan
+fortyndes mindst 50 gange. 1. Ved hjælp af de indvendige spuledyser vaskes sprøjtetanken straks efter endt sprøjtning med
+vand fra skyllevandstanken. Skyllevandet fordeles så indvendig vask og udsprøjtning kan foregå
+ad 2-3 gange for at opnå den krævede fortyndingsgrad.
+2. Skyllevandet udsprøjtes på marken under kørsel.
+For rengøring ved anvendelse af direkte injektion henvises til afsnittet for Direkte injektion.
+Udvendig rengøring af marksprøjten og traktor skal ske på det behandlede areal eller på en
+vaskeplads med opsamling til gyllebeholder eller anden beholder. Rengøring på det behandlede
+areal forudsætter, at marksprøjten er monteret med udstyr hertil, samt at skyllevandskapaciteten
+er tilstrækkelig. Brug ikke samme sted i marken gentagne gange til den udvendige rengøring.
+I øvrigt henvises til Miljøstyrelsens vejledning angående påfyldning og vask m.v. af sprøjter
+til udbringning af plantebeskyttelsesmidler, jf. senest gældende bekendtgørelse om påfyldning og vask m.v. af sprøjter til udbringning af plantebeskyttelsesmidler.
+Opbevaring
+Ingen oplysninger
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+0
+ºC
+15
+ºC
+
+Luftfugtighed
+
+70
+%
+100
+%
+Timers tørvejr
+4
+
+6
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Roundup Ultra XL er et ikke-selektivt, systemisk herbicid, der optages gennem bladene og fordeles
+rundt i planten med saftstrømmen. Efter ca. 10 dage kan effekten normalt ses på planten. Produktet
+virker ved at blokere for dannelsen af aromatiske aminosyrer i planten. Roundup Ultra XL, der ender på
+jorden, bliver straks bundet til jorden og inaktiveret, hvorfor nyt ukrudt ikke forhindres i at fremspire.
+Nedbrydningen sker hovedsageligt mikrobielt.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302 + P352).
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for at vejrtrækningen lettes.
+Ring til GIFTLINJEN eller en læge i tilfælde af ubehag (P304 + P340 + P312).
+Ved vedvarende øjenirritation: Søg lægehjælp (P337 + P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362 + P364).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle
+kontaktlinser, hvis dette kan gøres let. Fortsæt skylning (P305 + P351 + P338).
+Giftlinjen Ring: +45 82 12 12 12
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H315
+Forårsager hudirritation.
+H319
+Forårsager alvorlig øjenirritation.
+H335
+Kan forårsage irritation af luftvejene.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340+P312
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen. Ring til en GIFTINFORMATION eller læge i tilfælde af ubehag.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Roundup Ultra XL
+Sikkerhedsdatablad
+Ingen oplysninger
+Vejledning i Planteværn
+Ingen oplysninger
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Roundup_Ultra_XL_18-678_Godkendt_Etikette_20231211.pdf
