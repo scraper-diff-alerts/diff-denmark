@@ -1,0 +1,281 @@
+Boom Efekt - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Boom Efekt
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1, 5, 20, 200, 640 og 1000 l
+Registreringsindehaver
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Distributør
+SI-2327 RaceTlf: +386 2 60 90 211Fax: Mail: ','Albaugh TKI d.o.o.'); return true;" onmouseout="nd(); return true;" href="Http://www.albaugh.eu" target="_new"Albaugh TKI d.o.o.
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+360 g/l
+glyphosat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Areal udenfor vækstsæsonen
+3,50 l/ha
+0,286 BI/l
+(Vinterraps)
+3,50 l/ha
+0,286 BI/l
+(Vintersæd)
+3,50 l/ha
+0,286 BI/l
+Vårraps
+3,50 l/ha
+0,286 BI/l
+(Vårsæd)
+3,50 l/ha
+0,286 BI/l
+(Ærter)
+3,50 l/ha
+0,286 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+17,0 l/ha
+0,0587 B/l
+Miljøeffekt
+63,9 l/ha
+0,0156 B/l
+I alt
+13,4 l/ha
+0,0744 B/l
+
+Pesticidafgift: 18 kr. pr. l
+Godkendelse
+Registreringsnummer
+756-6
+Miljøstyrelsens godkendelse
+Må kun anvendes til:
+Ukrudtsbekæmpelse før såning, herunder nedvisning af efterafgrøder, og efter såning men før fremspiring jf. brugsanvisningen.
+Ukrudtsbekæmpelse mellem og under frugttræer og bærbuske indtil 30 dage før høst og om efteråret efter høst.
+Ukrudtsbekæmpelse på stubmarker.
+Omlægning af brak- og græsmarker.
+Ukrudtsbekæmpelse i skovkulturer.
+Ukrudtsbekæmpelse på udyrkede arealer såfremt disse ikke er befæstede eller stærkt permeable.
+Nedvisning i sennepsfrø. Må ikke behandles senere end 10 dage før høst.
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Frugter og bær fra et areal, der er behandlet med glyphosat, må anvendes som foder til husdyr.
+Afgrøder behandlet med glyphosat må ikke anvendes som foder til fjerkræ og får, da det vurderes, at restindhold i animalske produkter vil overskride grænseværdien.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Behandlingsfrist
+Se godkendelsestekst.
+Forbehold
+I følgende konsumafgrøder: konsumærter, kornsorter til malt, havre til gryn og brødkorn (rug, hvede, byg, triticale og spelt), er det efter fremspiring ikke tilladt at anvende plantebeskyttelsesmidler indeholdende glyphosat i henhold til bekendtgørelse om bekæmpelsesmidler.
+Frugter og bær fra et areal, der er behandlet med glyphosat, må anvendes som foder til husdyr.
+Afgrøder behandlet med glyphosat må ikke anvendes som foder til fjerkræ og får, da det vurderes, at restindhold i animalske produkter vil overskride grænseværdien.
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter ved applikationsrater op til og inklusiv 2,77 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 2,77 L produkt/ha op til og inklusiv 5,44 L produkt/ha (SPe3).
+Må ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte vilde planter ved applikationsrater over 5,44 L produkt/ha (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+F&#248;r fremspiring af afgr&#248;derF&#248;r s&#229;ning af afgr&#248;derGlyphosat-fallbackGr&#230;sMellem eller under b&#230;rbuskeMellem eller under frugttr&#230;erSennepSkovStubStub efter fr&#248;gr&#230;sUdyrkede arealer','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Boom Efekt (PMG360BEFTKI), reg.nr. 756-6
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Boom Efekt (756-6) til mindre anvendelse mod ukrudt i rabarber på friland
+Anvendelse
+Resistensrisiko
+Boom efekt indeholder aktivstoffet Glyphosat, som tilhører HRAC gruppe 9/G. Risikoen for udvikling af resistens vurderes som værende lav.
+Albaugh TK d.o.o. anbefaler en stærk anti-resistens strategi efter retningslinjerne udarbejdet af HRAC (Herbicide Resistance Action
+Committee). For at undgå resistensudvikling anbefaler Albaugh TKI d.o.o., at der generelt anvendes ukrudtsmidler med forskellige
+virkningsmekanismer i sædskiftet. Det anbefales endvidere at have både vår- og vinterafgrøder i sædskiftet. Særligt i forbindelse
+med reduceret jordbehandling bør disse anbefalinger følges nøje. Vær opmærksom på, at manglende effekt (hvis midlet ellers er
+anvendt korrekt) kan skyldes begyndende resistensudvikling.
+Resistensklasse
+G / 9
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Se brugsanvisningen.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Sørg altid for, at sprøjten er rengjort samt efterset for belægninger inden tilberedningen af sprøjtevæsken startes.
+Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr fyldes stationen halvt med vand, hvorefter der påfyldes den ønskede
+mængde produkt, som herefter suges op i sprøjtetanken samtidig med at rent vand tilsættes fyldestationen. Efter fyldning skylles
+præparatfyldeudstyret, samt evt. tomme dunke for at fjerne pesticidrester. Gentag proceduren med at åbne/lukke for bundventil til
+der ikke er synlige spor af Boom efekt i fyldestationen.
+Direkte injektion: Der henvises til sprøjtefabrikantens anbefalinger
+Rengøring
+Indvendig rengøring af sprøjteudstyr ved skift mellem/afslutning af sprøjteopgave:
+Bemærk! Skyllevandstankens kapacitet skal være så restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle indvendige dele af sprøjten grundigt. Aktivér alle haner og ventiler samt hæv trykket
+så meget, at overtryksventilen fra det selvrensende filter udløses. Dette gælder under alle rengørings-processer.
+- Husk at tømme sprøjten helt inden rengøring. Restsprøjtevæsken og skyllevandet skal udsprøjtes eller anvendes på det
+behandlede areal.
+- Ved hjælp af de indvendige spuledyser vaskes sprøjtetank, slanger og bom straks efter endt sprøjtning med vand fra
+skyllevandstanken. Skyllevandet kan med fordel deles, så indvendig vask og udsprøjtning foregår af 2-3 gange.
+- Fyld vand i tanken - 10-15% af tankkapaciteten (100-150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter rengøringsmiddel (eks.
+None-ionisk sprede/klæbemiddel 15% + Monoethanolamin 8%) eller lignende produkt i anbefalet dosering pr. 100 liter vand.
+Sprøjt lidt af vaskevandet ud gennem slanger, bom og dyser, så disse sættes i blød. Lad omrøring og tankspuledyse køre i mindst
+15 minutter. Tøm sprøjten gennem bom og dyser over et egnet areal f.eks. på marken under kørsel.
+- Dyser, filtre og sier afmonteres og renses i vand tilsat 50 ml rengøringsmiddel pr. 10 liter vand.
+- Skyl tanken og alle slanger grundigt i 5 min. med rent vand. Skyllevandet sprøjtes ud gennem bom og dyser.
+Udvendig rengøring af sprøjteudstyr:
+Der henvises til Miljøstyrelsens vejledning angående påfyldning og vask af sprøjter til udbringning af bekæmpelsesmidler, jf.
+Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Opbevares tørt og frost frit.
+Midlet må kun opbevares i originalemballagen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+0
+ºC
+15
+ºC
+
+Luftfugtighed
+
+70
+%
+100
+%
+Timers tørvejr
+4
+
+6
+
+Generelle vækstbetingelser
+
+gode
+
+Virkemåde
+Boom efekt virker ved at hindre dannelsen af flere vigtige aminosyrer, hvilket slår planten ihjel. Boom efekt indeholder 360 g/l
+glyphosat i form af 486 g/l glyphosat-isopropylaminsalt. Boom efekt optages gennem bladene og fordeler sig med plantens
+saftstrøm ud i hele planten inklusiv rodsystemet. Efter ca. 10 dage vil denne transport normalt være tilendebragt og jorden kan
+bearbejdes og tilplantes. Effekten vil normalt kunne ses efter 10-14 dage.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes.
+Hudkontakt: Kommer stoffet på huden, fjern kontamineret tøj og vask straks med store mængder vand.
+Indånding: Flyt patienten ud i frisk luft. Opsøg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Boom Efekt
+Sikkerhedsdatablad
+Ingen oplysninger
+Vejledning i Planteværn
+Ingen oplysninger
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://bmd.mst.dk/External/Entry/DownloadExternal/5b5d0f0c-20b2-4ad7-8d42-b05237294088
