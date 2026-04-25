@@ -1,0 +1,291 @@
+Switch 62,5 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Switch 62,5 WG
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 kg
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Switch 62,5 WG
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1.450,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+375 g/kg
+cyprodinil
+250 g/kg
+fludioxonil
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,00 kg/ha
+1,00 BI/kg
+Ærter
+1,00 kg/ha
+1,00 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+15,2 kg/ha
+0,0660 B/kg
+Miljøadfærd
+1,73 kg/ha
+0,577 B/kg
+Miljøeffekt
+7,79 kg/ha
+0,128 B/kg
+I alt
+1,30 kg/ha
+0,771 B/kg
+
+Pesticidafgift: 121 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1-201
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i ærter med og uden bælg, i prydplanter i lukkede væksthuse samt i jordbær på friland og i lukkede væksthuse.
+Behandlingsfrist
+Må i ærter med og uden bælg ikke anvendes senere end 14 dage før høst.
+Må i jordbær på friland ikke anvendes senere end 10 dage før høst.
+Må i jordbær i lukkede væksthuse ikke anvendes senere end 7 dage før høst.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. (Rens ikke sprøjteudstyr nær overfladevand) (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse til mindre anvendelse af Switch 62,5 WG til bekæmpelse af gråskimmel på frilandsvinstokke/-druer til brug for vinproduktion
+Bl&#229;b&#230;rBromb&#230;rHindb&#230;rKirseb&#230;rP&#230;rerRibsSolb&#230;rStikkelsb&#230;r&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG, reg.nr. 1-201, til mindre anvendelse mod svampesygdomme i æble, pære, kirsebær, blomme, solbær, ribs, stikkelsbær, blåbær, hindbær og brombær.
+Aubergine i v&#230;ksthusCourgetter i v&#230;ksthusKrydderurter i v&#230;ksthusPeber i v&#230;ksthusSalat i v&#230;ksthusTomater i v&#230;ksthus','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG, reg.nr. 1-201, til mindre anvendelse mod svampesygdomme i agurk, courgetter, tomat, peber, aubergine, salat og krydderurter i væksthus
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod sneskimmelsvamp på golfgreens. Vejledning fås hos Dansk Golf Union, Idrættens Hus, Brøndby Stadion 20, 2605 Brøndby
+Lupiner','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod svampesygdomme i bønner og lupiner til modenhed
+Bladk&#229;lBlomsterk&#229;lBrassica-arter p&#229; frilandBrassica-arter til babyleaf p&#229; frilandB&#248;nnerGuler&#248;dderHovedk&#229;lHovedsalatHvidl&#248;gKepal&#248;gKnoldselleriKrydderurterLupinerPastinakPeberrodRodpersilleR&#248;dbederSalatSkalottel&#248;gSkorzonerrod','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod svampesygdomme i frilandsgrønsager
+Planteskolekulturer p&#229; frilandPrydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod svampeangreb ved produktion af havefrø samt planteskolekulturer/prydplanter på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod svampesygdomme i prydplanter i åbne væksthuse
+Aubergine i &#229;bne v&#230;ksthuseCourgetter i &#229;bne v&#230;ksthuseKrydderurter i &#229;bne v&#230;ksthusePeberfrugt i &#229;bne v&#230;ksthuseSalat i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod svampesygdomme i agurk, courgette, tomat, peberfrugt, aubergine, salat og krydderurter i åbne væksthuse
+Jordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; tabletop p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Switch 62,5 WG (1-201) til mindre anvendelse mod gråskimmel og jordbær sortråd i jordbær dyrket i render i åbne væksthuse samt på tabletop på friland eller i tunneller på friland
+Jordb&#230;r p&#229; frilandPrydplanter i lukket v&#230;ksthus&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Switch 62,5 WG, reg.nr. 1-201, omklassificering af produkt
+Anvendelse
+Resistensrisiko
+De to aktivstoffer fludioxonil og cyprodinil er fra kemikalieklasser med forskellig virkning, og der er ingen risiko for krydsresistens. Switch er altså udviklet med henblik på at minimere risikoen for resistensdannelse. For at undgå udvikling af mindre følsomme stammer af svampesygdommen bør Switch alligevel anvendes i et program med forskellige midler med forskellig virkemekanisme og som har tilstrækkelig effekt mod sygdommen.
+Resistensklasse
+9 + 12
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Med vore nuværende kundskaber er Switch fysisk blandbar med de vigtigste svampe- og insektmidler. Fysisk blandbar indebærer at ingen udfældning sker. Forskellige faktorer såsom vandkvalitet, temperatur, vandets hårdhed mm kan indvirke på blandingen. Lavderfor altid en prøveblanding først. Læs altid respektive præparaters etiket før brug.
+Rengøring
+Fyld tanken halvt med vand, start omrøringen og tilsæt den nødvendige mængde Switch til tanken. Omrør blandingen omhyggeligt før brug og fortsæt omrøring under sprøjtning. Rengøring af sprøjteudstyr: Rengør sprøjten grundigt udvendigt og indvendigt umiddelbart efter brug. HUSK, at skyllevandet ikke må komme i kontakt med brønde, dræn eller kloakker. Findes der ikke en egnet vaskeplads med fast underlag, opsamling og afledning (til gyllebeholder) rengøres sprøjten bedst i marken. TANKSPULEDYSE MONTERET: Husk at tømme sprøjten helt mellem hver skylning/vask, aktivér alle haner/ventiler, hæv trykket så meget, at over-tryksventilen fra det selvrensende filter udløses. 1) Sprøjten tømmes helt for sprøjtevæske i marken. 2) Straks efter sprøjtning skylles sprøjten grundigt med rent vand - både indvendigt og udvendigt. Tøm tanken ved at sprøjte skyllevandet ud gennem bom/dyser. Skyllevandet kan sprøjtes ud over den afgrøde, der lige er behandlet. 3) Fyld tanken med 10-15% af tankkapaciteten (100-150 l / 1000 l tank), tilsæt 0,5 l All Clear Extra pr. 100 l vand. Sprøjt lidt af vaskevandet ud gennem bom/dyser, så disse sættes i blød. Lad omrøringen og tankspuledyse køre i mindst 15 minutter, inden indholdet tømmes ud gennem bom/dyser. Vaskevandet kan sprøjtes ud over den afgrøde, der lige er behandlet.HUSK: Det er altid bedre at skylle flere gange med en mindre mængde skyllevand, end få gange med en større mængde skyllevand. 4) Dyser og sier afmonteres og renses med samme vaskeblanding. 5) Skyl tanken grundigt i 5 min. med rent vand. Skyllevandet sprøjtes ud gennem bom/dyser. Ved brug af tankspuledyse og rentvandstank klares punkt 2) også ude i marken. Hvis man har tilstrækkeligt rent vand, kan punkt 3) også startes i marken og omrøringen fortsættes, mens man kører hjem. INGEN TANKSPULEDYSE MONTERET: I stedet for at anvende 10-15% af tankkapaciteten under punkt 3) (vaskningen), skal tanken fyldes helt.Spild og rengøring: Ved spild på jord fjernes kraftigt forurenede jordlag. Ved spild på gulv blandes med sand, jord eller andet ikke reaktivt adsorberende materiale. Indendørs forurenet område rengøres grundigt med sæbe og vand. Udslip til afløb forhindres. Opsamlet forurenet materiale opbevares i lukkede beholdere. Opsamlet materiale er farligt afffald, som bortskaffes gennem den kommunale affaldsordning for farligt affald.
+Opbevaring
+Opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Ærter med bælg, Ærter uden bælg
+Gråskimmel, storknoldet knoldbægersvamp, ærtesyge
+1 kgBegyndende blomstring
+Behandling sker ved begyndende sygdomsangreb ved begyndende blomstring. Max. en sprøjtning senest 14 dage før plukning eller høst. Hvor kulturen skal anvendes til konsum kontakt kontrakt-holder før Switch anvendes. Anvend 200-400 liter vand pr. ha. Ærter kan behandles uden risiko for skader. Man bør dog ikke behandle stressede planter.
+Jordbær på friland
+Gråskimmel, jordbærsortråd
+1 kgBegyndende blomstring
+Jordbær på friland og i plasttunnel. Anvendes ved begyndende blomstring og maks. en gang pr. sæson og senest 10 dage før plukning. Anvendes kun i båndsprøjtning med jordbærbom, og doseringen tilpasse den anvendte båndbredde. Anvend 500-1500 liter vand pr. ha. Jordbær kan behandles uden risiko for skader. Man bør dog ikke behandle stressede planter.
+Jordbær i væksthus
+Gråskimmel, jordbærsortråd
+1 kgBegyndende blomstring
+Anvendes ved begyndende blomstring og med maks. to sprøjtninger, heraf kun en før høst og senest 7 dage før plukning. Anvend 500-1500 liter vand pr. ha. Jordbær kan behandles uden risiko for skader. Man bør dog ikke behandle stressede planter.
+Prydplanter
+Gråskimmel
+1 kgBegyndende blomstring
+Behandling foretages ved begyndende sygdomsangreb. Switch® er anvendt på mange kulturer uden skade på kulturen. Men da der findes et utal af arter og varieteter, forskellige vækst forhold osv, bør man altid teste Switch® på en lille antal af planter før hele kulturen behandles. Anvend 500-1200 liter vand pr. ha. Max. 1 gang pr. sæson. Både prydplanter med- og uden blomst kan principielt behandles uden risiko, men blomstrende planter er mere følsomme. Switch® kan anvendes uden risiko i nellike, chrysanthemum, cyclamen*, birkefigen, Gerbera, brudeslør, Hortensia, Primula acaulis, roser og stedmoder. Der er fundet skader på Anemone, Begonia* Kalanchoë* og Lisianthus ved flere behandlinger med Switch®. Bemærk at man kun må sprøjte en gang pr. sæson i Danmark. * I den mørke del af året er der øget risiko for skade på specielt blomstrende planter. Der er set sprøjteskader i Begonia, Cyclamen, Kalanchoë og Saintpaulia. Der er stor risiko for skader hvis Switch® anvendes i Exacum affine, Impatiens, Pelargonium (Geranium) og Saintpaulia ionantha. Man bør derfor ikke anvende Switch® i disse kulturer eller anvende produktet med yderste forsigtighed, hvis man vil tage risikoen.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+
+15-20
+ºC
+
+Timers tørvejr
+
+4
+
+Virkemåde
+Switch 62,5 WG indeholder de to aktivstoffer cyprodinil og fludioxonil, der begge bør anvendes forebyggende eller i det meget tidlige udviklingsstadie af sygdommen. Cyprodinil er et bredspektret systemisk svampemiddel, der virker på svampens biokemiske mekanismer. Den hæmmer myceliets indtrængning i planten og forstyrrer mycelievæksten i planten. Cyprodinil har lipofile egenskaber, som gør, at den optages i vokslaget og kutikula. Stoffet diffunderer ind i xylemet og bevæger sig med vandstrømmen op og ud i hele planten. Fludioxonil er ikke systemisk og virker ved at hæmme spiringen af svampesporer og mycelievækst på planteoverfladen. Der sker nogen optagelse af stoffet i kutikula.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Generelt: Hav dunk, etiket eller dette sikkerhedsdatablad ved hånden når Giftlinjen, eller lægen kontaktes. Indånding: Bring patienten ud i frisk luft, hold vedkommende varm og i hvile. Giv kunstigt åndedræt, hvis vejrtrækningen bliver uregelmæssig eller ophører. Søg straks lægehjælp som en forholdsregel. Hudkontakt: Fjern straks forurenet tøj, og vask umiddelbrat herefter huden med rigeligt vand, efterfulgt af sæbe og vand. Dette er vigtigt for at minimere kontakten med huden. Søg lægehjælp, hvis irritation varer ved. Forurenet tøj bør vaskes, før det anvendes igen. Øjenkontakt: Skyl straks med øjenskyller eller rent vand i mindst 15 minutter med adskilte øjenlåg. Fjern kontaktlinser. Søg straks lægehjælp. Indtagelse: Søg omgående læge og vis etiketten eller dette sikkerhedsdatablad. Fremkald ikke opkastning. Modgift: Der kendes ingen specifik modgift. Giv symptomatisk behandling. Ved forgiftningstilfælde: Alarm 112. Ellers kontakt læge. Yderligere oplysninger ved henvendelse til Giftlinjen (Bispebjerg Hospital), tlf. 8212 1212.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af pulver/spray
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Switch 62,5 WG
+Sikkerhedsdatablad
+Switch 62,5 WG
+Vejledning i Planteværn
+2026
+Side 238 til 240
+VP26s238-240.pdf.pdf--
+Side 238 til 240--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Switch_62,5_WG_1-201_Godkendt_Etikette_20250310.pdf
