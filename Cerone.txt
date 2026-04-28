@@ -1,0 +1,369 @@
+Cerone - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Cerone
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer A/S
+Distributør
+2800 LyngbyTlf: 45 23 50 00Fax: 45 23 52 50Mail: &ltfornavn.efternavn&gt@bayer.com','Bayer CropScience'); return true;" onmouseout="nd(); return true;" href="Http://www.cropscience.bayer.dk/" target="_new"Bayer CropScience
+Firmaets produktside
+Cerone
+Anvendes indenfor
+Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+270,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+480 g/l
+ethephon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+2,00 l/ha
+0,500 BI/l
+(Vinterraps)
+0,750 l/ha
+1,33 BI/l
+Vintersæd
+1,00 l/ha
+1,00 BI/l
+Vårsæd
+0,500 l/ha
+2,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,36 l/ha
+0,425 B/l
+Miljøadfærd
+15,5 l/ha
+0,0643 B/l
+Miljøeffekt
+15,1 l/ha
+0,0662 B/l
+I alt
+1,80 l/ha
+0,555 B/l
+
+Pesticidafgift: 88 kr. pr. l
+Godkendelse
+Registreringsnummer
+18-414
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering af vårbyg, vinterbyg, vinterhvede, vårhvede, triticale og vinterrug samt til modning af tomater.
+Behandlingsfrist
+Må i vårbyg, vinterbyg, vinterhvede, vårhvede, triticale
+og vinterrug ikke anvendes senere end vækststadie
+49.
+Må i tomater ikke anvendes senere end 7 dage før
+høst.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke
+overskrides.
+Undgå forurening af vandmiljøet med produktet eller
+med beholdere, der har indeholdt produktet. Rens
+ikke sprøjteudstyr nær overfladevand/Undgå forurening
+via dræn fra gårdspladser og veje.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med
+fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Cerone, reg.nr. 18-414
+Prydplanter p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Cerone til mindre anvendelse i prydplanter i væksthus og på friland
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Cerone (reg.nr. 18-414) til mindre anvendelse til frugtudtynding i æble, samt frugtudtynding og blomsterknopdannelse i pære
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Cerone (18-414) til vækstregulering af prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+TriticaleVinterbygVinterhvedeVinterrugV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Cerone, reg.nr. 18-414, under revurdering
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+Ingen oplysninger
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Blandinger
+Til anvendelse i korn kan Cerone blandes med relevante
+svampe- og insektmidler. Bland dog ikke med Acanto®
+Prima.
+Blanding kan desuden foretages med chelaterede mikronæringsstoffer,
+urea- og CCC midler.
+Cerone kan ikke blandes med hormonmidler, andre
+ukrudtsmidler eller mikronæringsstoffer på saltform.
+Bland ikke med andre midler ved behandling af tomater.
+Tilberedning af sprøjtevæsken
+Påfyldning af plantebeskyttelsesmidler må kun ske på
+plads med opsamling af vaskevand eller på det areal der
+skal behandles.
+Gældende regler for håndtering af plantebeskyttelsesmidler
+skal følges.
+Anvend en rengjort sprøjte.
+Kemikalierne tilsættes i sprøjtens fyldeudstyr samtidig
+med vandpåfyldning og omrøring. Ved tankblanding bør
+det først tilsatte middel være væk fra fyldeudstyret inden
+næste middel tilsættes. Foretag konstant omrøring af
+sprøjtevæsken under transport og udsprøjtning.
+Ved håndtering af plantebeskyttelsesmidler anvendes
+personligt beskyttelsesudstyr, såsom egnede handsker
+og briller.
+Rengøring
+Der skal anvendes spuledyser ved den indvendige vask
+af sprøjten.
+Uvasket sprøjte eller traktor, der er anvendt til udbringning
+af plantebeskyttelsesmidler, skal placeres på behandlet
+areal, vaskeplads med opsamling til gyllebeholder
+eller anden beholder, eller under tag.
+Restsprøjtevæsken skal i forbindelse med indvendig
+vask af sprøjter fortyndes mindst 50 gange og udsprøjtes
+på det behandlede areal under kørsel. Den maksimalt tilladte
+dosering, som er anført på etiketten af de anvendte
+midler, må ikke herved overskrides på markniveau.
+Der bør anvendes et ammoniumbaseret rengøringsmiddel
+f.eks. All Clear Extra.
+I øvrigt henvises til Miljøstyrelsens vejledning angående
+påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse
+nr. 268 af .
+Opbevaring
+Opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+CCC 750, Input EC 460, Joust, Lamdex, Moddus M, Moddus Start, Moxa, Proline EC 250, Propulse SE 250, Soratel, YaraVita Bortrac, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Curbatur, Folicur Xpert EC 240, Glacis, LFS Prothioconazol, LFS Trinexapac-ethyl, Moddevo, Primus, Primus 250 WG, Profi Prothio 250 EC, Profound, Proline Xpert EC 240, PRO-Tector, Saracen M, Sonis, Talius EC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Balaya, Himalaya Pro
+Blandingspartnere, som der IKKE bør blandes med
+Accurate Max, Ally 20 SX, Catch, Cleave, Cossack OD, Flurostar XL, Metaxon, Mixin, Mustang forte, Nicanor SG, Pixxaro EC, Primus XL, Ricorso, Ricorso WG, Savvy, Savvy WG, Starane 333 HL, Starane XL, Tomahawk 200 EC, Zypar, Mangansulfat 32
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vårbyg
+Lejesæd, strå- og aksknækning
+0,2-0,5 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Vinterbyg
+Lejesæd, strå- og aksknækning
+0,5-1 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Vårhvede
+Lejesæd, strå- og aksknækning
+0,15-0,5 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Vinterhvede
+Lejesæd, strå- og aksknækning
+0,15-1 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Vinterrug
+Lejesæd, strå- og aksknækning
+0,25-1 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Vintertriticale
+Lejesæd, strå- og aksknækning
+0,25-1 lAfgrødens stadium 33-49
+Maks. 1 behandling pr. sæson.
+Tomater
+Vækstregulering
+1 lSe bemærkninger
+Der behandles 7-10 dage før høst. Maks. 1 behandling pr. sæson. Behandling af tomater bevirker, at den naturlige farvedannelse øges væsentligt.
+Samtidig fremskyndes plukningstidspunktet, modningen bliver mere ensartet,
+og der dannes løsningslag, hvilket gør tomaterne nemmere at plukke.
+Effekt
+Effekt på nyttedyr
+Det er ikke oplyst, om midlet er foreneligt med biologisk
+bekæmpelse.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10
+ºC
+12-15
+ºC
+24
+ºC
+Luftfugtighed
+
+80-90 pct.
+
+Timers tørvejr
+2-3
+
+4
+
+Andet
+Cerone bør ikke udsprøjtes i en periode med udsigt til
+nattefrost. Vækstregulering bør kun udføres på en sund
+og veletableret afgrøde i god vækst, uden stress som
+følge af nedbørsunderskud eller angreb af svampesygdomme
+og skadedyr. Vær især opmærksom på vandbalancen.
+Cerone bør ikke udsprøjtes tidligere end én uge
+efter en herbicidbehandling.
+Virkemåde
+Ethephon er et vækstreguleringsmiddel der optages gennem
+bladene. I planten omdannes ethephon til ethylen, der
+er et naturligt forekommende plantehormon. Ethylen hæmmer
+transporten af auxin i planten. Dette medfører nedsat
+strækningsvækst pga. reduktion af celledelingshastigheden,
+samt en kraftigere stængeltykkelse. Ethephon behandling
+stimuler udviklingen af lavere rangerende sideskud.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Indånding: Bring personen i frisk luft.
+Hud: Kommer stoffet på huden, vaskes straks
+med store mængder vand.
+Øjne: Kommer stoffet i øjnene, skylles straks
+grundigt med vand og læge kontaktes.
+Indtagelse: Fremkald ikke opkastning. Søg læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H318
+Forårsager alvorlig øjenskade.
+H332
+Farlig ved indånding.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P310
+Ring omgående til en GIFTINFORMATION eller en læge.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3265
+RID_ADR
+8.40 (c)
+IMDG
+8, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Cerone
+Sikkerhedsdatablad
+Cerone
+Vejledning i Planteværn
+2026
+Side 256 til 257
+VP26s256-257.pdf.pdf--
+Side 256 til 257--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.cropscience.bayer.dk/~/media/bayer%20cropscience/scandinavia/denmark/filer/produkter/etiketter-dk/cerone%205%20ltr%20spec%20dk.pdf
