@@ -1,0 +1,379 @@
+Moddus Start - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Moddus Start
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Moddus Start
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+290,00 kr/l
+&nbsp()
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+trinexapac-ethyl
+(~ 222 g/l
+trinexapac)
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,400 l/ha
+2,50 BI/l
+Vintersæd
+0,500 l/ha
+2,00 BI/l
+Vårsæd
+0,400 l/ha
+2,50 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,91 l/ha
+0,524 B/l
+Miljøadfærd
+45,1 l/ha
+0,0222 B/l
+Miljøeffekt
+49,2 l/ha
+0,0203 B/l
+I alt
+1,77 l/ha
+0,566 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+1-223
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering af vinter- og vårhvede, vinter- og vårbyg, rug, triticale, havre og frøgræs.
+Behandlingsfrist
+Må i hvede, triticale og byg ikke anvendes senere end
+vækststadie BBCH 49. Må i rug ikke anvendes senere end
+vækststadie BBCH 33.
+Må i havre ikke anvendes senere end vækststadie BBCH 32.
+Må i frøgræs ikke anvendes senere end vækststadie BBCH 49.
+Behandlede afgrøder, undtagen frøgræs, må bruges til
+foder. Behandlet frøgræs må ikke anvendes til foder.
+Der sættes ikke restriktioner på såning eller plantning af
+efterfølgende afgrøder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Behandlede afgrøder, undtagen frøgræs, må bruges til
+foder. Behandlet frøgræs må ikke anvendes til foder.
+Der sættes ikke restriktioner på såning eller plantning af
+efterfølgende afgrøder.
+SP1 Undgå forurening af vandmiljøet med produktet
+eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer
+og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+De angivne doseringer af trinexapac må ikke overskrides. Hvis der i samme vækstsæson anvendes andre produkter indeholdende trinexapac, skal doseringerne omregnes forholdsmæssigt ud fra produkternes respektive maksimale doser (N) i den pågældende afgrøde.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Moddus Start (reg.nr. 1-223) til mindre anvendelse til vækstregulering af hestebønner til modenhed
+HavreRugTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Moddus Start, reg.nr. 1-223, udvidet doseringsinterval i vinterhvede og frøgræs
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+Ingen oplysninger
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Minimum 7 dages interval mellem to behandlinger.
+Opblandingsanvisninger
+Bland aldrig Moddus Start med mere end ét produkt. Med Syngentas nuværende kundskaber kan de fleste produkter anvendes i en tankblanding med Moddus Start under forudsætning af at brugstidspunktet for begge produkter er sammenfaldende. Uanset hvilken blandingspartner der anvendes er det vigtigt, at begge etiketteforskrifter omkring sprøjtefrister m.m. overholdes. Syngenta står inde for blandinger med Serrate, Atlantis, Broadway, Cossack og Hussar i stadie 25-29 i hvede, såfremt afgrøden er i god vækst og ikke er stresset.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller
+på vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark, på
+vaskepladsen eller under tag. Sprøjten skal være monteret med spuledyser til
+indvendig rengøring af tanken, og sprøjten skal være monteret med separat vand-tank med tilstrækkelig kapacitet således, at restsprøjtvæske kan fortyndes, og der
+kan foretages en grundig rengøring i marken. Restsprøjtevæske skal på passende
+vis fortyndes 50 gange med vand og udsprøjtes i den behandlede mark (uden at
+den maksimalt tilladte dosering for det pågældende middel herved overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt. etiketten for
+det sidst anvendte middel for specifikke anvisninger). Samtidig med at filtre, slan-ger og dyser kontrolleres for urenheder og eventuelle belægninger. Vaskevandet
+opsamles i egnede beholdere og udbringes iht. gældende regler.
+Læs i øvrigt Bek. nr. 1598 af 18.12.2014: Bekendtgørelse om påfyldning og vask m.v.
+af sprøjter til udbringning af plantebeskyttelsesmidler.
+Opbevaring
+Frostfrit
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Amistar, CCC 750, Cerone, Cleave, Input EC 460, Juventus 90, Lamdex, Pixxaro EC, Primus, Proline EC 250, Propulse SE 250, Starane XL, Zypar
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, Ariane FG S, Metaxon, Mustang forte, Orius Gold, Primus XL, Proline Xpert EC 240, PRO-Tector, Starane 333 HL, Talius EC, Tomahawk 200 EC, Topik EC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Atlantis OD, Broadway, Cossack OD, Hussar OD, Hussar Plus OD, Rexade 440, Serrate
+Blandingspartnere, som der IKKE bør blandes med
+Foxtrot, Primera Super, Tombo, Mangansulfat 32
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vårhvede
+Vækstregulering
+0,3 lAfgrødens stadium 25-49
+Enkeltbehandling. Vandmængde: 100-200 l/ha.
+Vårhvede
+Vækstregulering
+0,15 lAfgrødens stadium 25-49
+Splitbehandling. Maksimum 2 behandlinger med minimum 7 dages interval. Vandmængde: 100-200 l/ha.
+0,15 l2. sprøjtning
+Vinterhvede
+Vækstregulering
+0,6 lAfgrødens stadium 25-49
+Enkeltbehandling. Vandmængde: 100-200 l/ha.
+Vinterhvede
+Vækstregulering
+0,3 lAfgrødens stadium 25-49
+Splitbehandling. Maksimum 2 behandlinger med minimum 7 dages interval. Vandmængde: 100-200 l/ha.
+0,3 l2. sprøjtning
+Vinterbyg, Vårbyg
+Vækstregulering
+0,6 lAfgrødens stadium 25-49
+Enkeltbehandling. Vandmængde: 100-200 l/ha.
+Vinterbyg, Vårbyg
+Vækstregulering
+0,3 lAfgrødens stadium 25-49
+Splitbehandling. Maksimum 2 behandlinger med minimum
+7 dages interval.
+Vandmængde: 100-200 l/ha.
+0,3 l2. sprøjtning
+Rug
+Vækstregulering
+0,5 lAfgrødens stadium 25-33
+Enkeltbehandling. Vandmængde: 100-200 l/ha. Ved behov for vækstregulering efter stadie 30, anbefales Moddus M frem til stadie 39.
+Rug
+Vækstregulering
+0,25 lAfgrødens stadium 25-33
+Splitbehandling. Maksimum 2 behandlinger med minimum
+7 dages interval.
+Vandmængde: 100-200 l/ha.
+0,25 l2. sprøjtning
+Triticale
+Vækstregulering
+0,5 lAfgrødens stadium 25-49
+Enkeltbehandling. Vandmængde: 100-200 l/ha.
+Triticale
+Vækstregulering
+0,25 lAfgrødens stadium 25-49
+Splitbehandling. Maksimum 2 behandlinger med minimum
+7 dages interval.
+Vandmængde: 100-200 l/ha.
+0,25 l2. sprøjtning
+Havre
+Vækstregulering
+0,3-0,4 lAfgrødens stadium 25-32
+Enkeltbehandling. Vandmængde: 100-200 l/ha.
+Havre
+Vækstregulering
+0,2 lAfgrødens stadium 25-32
+Splitbehandling. Maksimum 2 behandlinger med minimum
+7 dages interval.
+Vandmængde: 100-200 l/ha.
+0,2 l2. sprøjtning
+Frøgræs
+Vækstregulering
+1,2 lAfgrødens stadium 30-49
+Enkeltbehandling. Vandmængde: 100-200 l/ha. Halm fra behandlet frøgræs må ikke anvendes til foder.
+Frøgræs
+Vækstregulering
+0,8 lAfgrødens stadium 30-49
+Splitbehandling. Maksimum 2 behandlinger med minimum 7 dages interval.
+Vandmængde: 100-200 l/ha. Vækstreguleringen foretages fra
+beg. strækningsvækst ca. 25. april, når 1. knæ er synligt.
+Der anvendes 0,8 l/ha under de fleste forhold fra slutningen af
+april og ca. 3 uger frem.
+Maksimum total dosering er 1,6 l/ha per sæson. Behandlet frøgræs må ikke anvendes til foder.
+0,8 l2. sprøjtning
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+1
+
+2
+
+Lysintensitet
+
+høj
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Moddus Start anvendes bedst om formiddagen når temperaturen er stigende.
+Moddus Start optages og kan anvendes så snart der er aktiv vækst i afgrøden
+Aktiviteten af Moddus Start stiger med stigende lysintensitet. Afgrøden der behandles med Moddus Start skal være i god vækst og må ikke være påvirket af tørke eller anden stress (ex havrerødsot), hverken ved eller umiddelbart efter behandlingen med Moddus Start, da det i enkelte tilfælde kan give skader på afgrøden. Blanding med produkter der er formuleret med kraftige sprede-klæbemidler og andre stoffer der fremmer optagelsen, kan øge risikoen for skade. Ved blanding med triazoler kan man reducere doseringen med ca. 20 %. Der skal dog atid blandes med en dosering på minimum 0,15 l/ha.
+Virkemåde
+Moddus Start er et vækstreguleringsmiddel til anvendelse i alle kornarter, både
+vinter og vårsæd samt frøgræs. Moddus Start modvirker lejesæd samtidig med
+at der opnås en mere ensartet modning. Midlet optages gennem bladene og
+transporteres systemisk til de voksende skud, hvor aktivstoffet hæmmer stråets
+strækningsvækst. Det resulterer i et kortere og stærkere strå
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Moddus Start
+Sikkerhedsdatablad
+Moddus Start
+Vejledning i Planteværn
+2026
+Side 477 til 484
+VP26s477-484.pdf.pdf--
+Side 477 til 484--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Moddus_Start_1-223_Godkendt_Etikette_20240527.pdf
