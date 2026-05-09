@@ -1,0 +1,138 @@
+Pomoxon Extra (disp. nordmannsgran 2026) - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Pomoxon Extra (disp. nordmannsgran 2026)
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+168 69 BrommaTlf: Fax: Mail: ','Nufarm Nordics AB'); return true;" onmouseout="nd(); return true;"Nufarm Nordics AB
+Distributør
+168 69 BrommaTlf: Fax: Mail: ','Nufarm Nordics AB'); return true;" onmouseout="nd(); return true;"Nufarm Nordics AB
+Anvendes indenfor
+Landbrug, Skovbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+29 g/l
+alpha-naphthyl-eddikesyre
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+13,3 l/ha
+0,0750 B/l
+Miljøadfærd
+30,0 l/ha
+0,0333 B/l
+Miljøeffekt
+629 l/ha
+0,0016 B/l
+I alt
+9,10 l/ha
+0,110 B/l
+
+Pesticidafgift: 16 kr. pr. l
+Godkendelse Salg og anvendelse af midlet er forbudt i Danmark, men Miljøstyrelsen har meddelt dispensation for en begrænset periode til nedennævnte afgrøder.
+Registreringsnummer
+1067-10
+Miljøstyrelsens godkendelse
+Dispensation 2026: Må kun anvendes til vækstregulering af nordmannsgran. Anvendelse og opbevaring sker alene efter dispensation fra godkendelsesordningen for
+plantebeskyttelsesmidler. Dispensation til anvendelse gælder i perioden: 8. maj til . Tilladelse til opbevaring bortfalder den .
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+Brugsanvisningens angivelser må ikke overskrides.
+Brugere skal anvende arbejdstøj (langærmet overdel og bukser) ved blanding,
+påfyldning og udbringning samt kemisk bestandige handsker ved blanding og påfyldning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Dispensation
+
+Dispensation til anvendelse af Pomoxon Extra (reg.nr. 1067-10) som vækstreguleringsmiddel i nordmannsgran til juletræer i 2026
+På forbudsliste
+
+Pomoxon Extra, reg.nr. 1067-10, forbud mod anvendelse og opbevaring efter udløb af dispensation
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær øjenbeskyttelse.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Pomoxon Extra (disp. nordmannsgran 2026)
+Sikkerhedsdatablad
+Pomoxon Extra (disp. nordmannsgran 2026)
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://bmd.mst.dk/External/Entry/DownloadExternal/c3aff05d-a9e8-4ccb-b358-da83b616c2c7
