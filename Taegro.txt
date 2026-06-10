@@ -1,0 +1,142 @@
+Taegro - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Taegro
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+2880 BagsværdTlf: +45 44 46 00 00Fax: Mail: ','Novozymes A/S'); return true;" onmouseout="nd(); return true;"Novozymes A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+130 g/kg
+Bacillus amyloliquefaciens FZB24
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+0,0000 kg/ha
+0,0000 B/kg
+
+Pesticidafgift: 0 kr. pr. kg
+Godkendelse
+Registreringsnummer
+875-2
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af visse svampesygdomme
+i vindruer på friland, samt agurk, courgette, melon, salat, tomat, aubergine, chili, peber og jordbær i åbne og lukkede væksthuse. Samt til mindre anvendelse i visse afgrøder i
+åbne og lukkede væksthuse samt i tunnel og på friland jf. brugsanvisningen.
+Behandlingsfrist
+Se brugsanvisningen.
+Forbehold
+EUH401 Brugsanvisningen skal følges for ikke at bringe
+menneskers sundhed og miljøet i fare.
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+SP1 Undgå forurening af vandmiljøet med produktet eller
+med beholdere, der har indeholdt produktet. Rens ikke
+sprøjteudstyr nær overfladevand.
+P102 Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav
+Afstand til §3-områder
+Ingen afstandskrav
+Afstand til veje, beboelse mv.
+Ingen afstandskrav
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+BabyleafBladgr&#248;ntsager i v&#230;ksthusBladk&#229;lBlomster til fr&#248;Blomsterk&#229;lBl&#229;b&#230;rBrassica-arter p&#229; frilandBromb&#230;rB&#248;nnerCikorieFor&#229;rsl&#248;gGolfbanerGr&#230;skarGr&#248;ng&#248;dningsafgr&#248;derGr&#248;nne &#230;rterGr&#248;nne &#230;rter uden b&#230;lg (dybfrost og konserves)Guler&#248;dderHampHesteb&#248;nnerHindb&#230;rHovedk&#229;lHvidl&#248;gH&#248;rJordb&#230;r i tunnelJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandJordskokKnoldselleriK&#229;lrabiLucerneLupinerL&#248;gMajroePeberrodPlanteskolekulturer i v&#230;ksthusPlanteskolekulturer p&#229; frilandPorrerPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandQuinoaRadiserRibsR&#248;dbederSalatSelleriSkalottel&#248;gSkorzonerrodSolb&#230;rSorghumSquash (zucchini)Stikkelsb&#230;rUrter i v&#230;ksthusUrter p&#229; friland&#198;rter til modenhed','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Taegro, reg.nr. 875-2, til mindre anvendelse mod svampesygdomme i en række kulturer i åbne og lukkede væksthuse samt i tunnel og på friland. Se brugsanvisningen på Taegro-etiketten.
+Aubergine i lukket v&#230;ksthusChili i v&#230;ksthusCourgetter i lukket v&#230;ksthusJordb&#230;r i lukket v&#230;ksthusMelon i lukket v&#230;ksthusPeber i lukket v&#230;ksthusSalat i lukket v&#230;ksthusTomater i lukket v&#230;ksthusVindruer','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Omklassificering af Taegro, reg.nr. 875-2
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af pulver.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke farligt gods
+RID_ADR
+Ikke farligt gods
+IMDG
+Ikke farligt gods
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Taegro
+Sikkerhedsdatablad
+Taegro
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Taegro_875-2_Godkendt_Etikette_20250523.pdf
