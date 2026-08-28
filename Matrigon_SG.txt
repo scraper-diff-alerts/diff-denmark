@@ -1,0 +1,332 @@
+Matrigon SG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Matrigon SG
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 og 3 kg
+Registreringsindehaver
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Distributør
+1411 København KTlf: +45 45 28 08 00Fax: Mail: info-dk@corteva.com','Corteva Agriscience'); return true;" onmouseout="nd(); return true;" href="Http://www.corteva.dk" target="_new"Corteva Agriscience
+Anvendes indenfor
+Frilandsgartneri, Golfbaner, idrætsanlæg mv., Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+720 g/kg
+clopyralid
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,208 kg/ha
+4,80 BI/kg
+(Græs og kløver)
+0,208 kg/ha
+4,80 BI/kg
+(Majs)
+0,208 kg/ha
+4,80 BI/kg
+Roer
+0,208 kg/ha
+4,80 BI/kg
+Vinterraps
+0,167 kg/ha
+6,00 BI/kg
+(Vintersæd)
+0,139 kg/ha
+7,20 BI/kg
+Vårraps
+0,139 kg/ha
+7,20 BI/kg
+(Vårsæd)
+0,139 kg/ha
+7,20 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+30,3 kg/ha
+0,0330 B/kg
+Miljøadfærd
+0,789 kg/ha
+1,27 B/kg
+Miljøeffekt
+14,4 kg/ha
+0,0693 B/kg
+I alt
+0,730 kg/ha
+1,37 B/kg
+
+Pesticidafgift: 207 kr. pr. kg
+Godkendelse
+Registreringsnummer
+64-142
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i bederoer, vinterraps, hovedkål, rosenkål og blomkål.
+Behandlingsfrist
+Må i hovedkål, rosenkål, blomkål og rødbeder ikke anvendes senere end 42 dage før høst.
+Der skal være et interval på 30 dage for såning/plantning af efterfølgende afgrøder undtagen kål, bladgrøntsager og oliefrø.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må dette produkt eller andre produkter, der indeholder clopyralid kun anvendes hvert 4. år på samme areal (SPe1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 1 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Bederoer til fr&#248;avlGolfbanerGul sennep til produktion af uds&#230;dJordb&#230;r p&#229; frilandKorsblomstrede havefr&#248;afgr&#248;derL&#248;gOlier&#230;ddike til fr&#248;avlPrydplanter p&#229; frilandPurl&#248;g til fr&#248;avlRadis til fr&#248;avlTimian til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Matrigon SG, reg.nr. 64-142, til mindre anvendelse mod ukrudt i løg, prydplanter og afgrøder til frøproduktion (radise, purløg, timian, beder, olieræddike gul sennep og korsblomstret havefrø), på golfbaner, samt jordbær på friland jf. brugsanvisningen, som kan findes på etiketten
+FodersukkerroerHovedk&#229;lRosenk&#229;lR&#248;dbederSukkerroerVinterraps','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Matrigon SG, reg.nr. 64-142
+Anvendelse
+Resistensrisiko
+Matrigon SG indeholder aktivstoffet clopyralid, der har auxinvirkning og derfor tilhører gruppe 4 / O, hvor risikoen for resistensudvikling anses for lav.
+Corteva Agriscience anbefaler en stærk anti-resistens strategi. For at undgå resistensudvikling
+anbefaler Corteva Agriscience, at der generelt anvendes ukrudtsmidler med forskellige
+virkningsmekanismer i sædskiftet. Det anbefales endvidere at have både vår- og vinterafgrøder
+i sædskiftet. Særligt i forbindelse med reduceret jordbehandling bør disse anbefalinger følges
+nøje. Vær opmærksom på at manglende effekt (hvis midlet ellers er anvendt korrekt) kan
+skyldes begyndende resistensudvikling.
+Resistensklasse
+O / 4
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ikke relevant - må maksimalt anvendes 1 gang hvert 4. år.
+Opblandingsanvisninger
+Tankblandinger:
+Blanding med mikronæringsstoffer, som fx Solubor,
+frarådes af hensyn til risiko for udfældning af disse. Præparatfyldeudstyr: Ved anvendelse af præparatfyldeudstyr tilsættes den
+ønskede mængde Matrigon SG ved at hælde granulatet kontrolleret og direkte i åbningen på bundventilen. Undgå at granulatet afsættes på de indvendige overflader ved at lade skyllesystemet køre under påfyldning. Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke. Gentag proceduren med at åbne/lukke for bundventil til der ikke er synlige spor af Matrigon SG i fyldestationen.
+Rengøring
+Indvendig rengøring af sprøjteudstyr ved skift mellem/
+afslutning af sprøjteopgave
+Bemærk! Skyllevandstankens kapacitet skal være så
+restsprøjtevæsken kan fortyndes mindst 50 gange.
+Vær meget opmærksom på at få rengjort alle indvendige
+dele af sprøjten grundigt. Aktivér alle haner og ventiler
+samt hæv trykket så meget, at overtryksventilen fra
+det selvrensende filter udløses. Dette gælder under alle
+rengøringsprocesser.– Husk at tømme sprøjten helt inden rengøring.
+Restsprøjtevæsken og skyllevandet skal udsprøjtes
+eller anvendes på det behandlede areal uden at den
+maksimalt tilladte dosering herved overskrides.– Ved hjælp af de indvendige spuledyser vaskes
+sprøjtetank, slanger og bom straks efter endt
+sprøjtning med vand fra skyllevandstanken.
+Skyllevandet kan med fordel deles, så indvendig vask
+og udsprøjtning foregår af 2-3 gange.– Fyld vand i tanken - 10-15% af tankkapaciteten (100
+150 liter vand i en 1.000 liter tank) og tilsæt 0,5 liter
+All Clear1 Extra eller lignende produkt i anbefalet
+dosering pr. 100 liter vand. Sprøjt lidt af vaskevandet
+ud gennem slanger, bom og dyser, så disse sættes i
+blød. Lad omrøring og tankspuledyse køre i mindst
+15 minutter. Tøm sprøjten gennem bom og dyser over
+et egnet areal f.eks. på marken under kørsel.– Dyser, filtre og sier afmonteres og renses i vand tilsat
+50 ml All Clear Extra pr. 10 liter vand.– Skyl tanken og alle slanger grundigt i 5 minutter med
+rent vand. Skyllevandet sprøjtes ud gennem bom og
+dyser
+Udvendig rengøring af sprøjteudstyr
+Der henvises til Miljøstyrelsens vejledning angående
+påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse
+nr. 1401 af .
+Opbevaring
+Tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Agil 100 EC, Betanal Classic, Boxer, Flurostar Forte, Focus Ultra, Goltix SC 700, Nortron SC
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Magnesiumsulfat 10% Mg, Mangansulfat 32, Solubor DF
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Kamille, kurvblomstret ukrudt
+0,11 kg + 0,5 l OlieAfgrødens stadium 30-50
+Tilsætning af olie anbefales.. Maks. 1 behandling pr. vækstår. Må maksimalt anvendes hvert 4. år på samme areal.
+Fodersukkerroer, Rødbeder, Sukkerroer
+Kamille, kurvblomstret ukrudt
+0,028 kg + 0,5 l OlieAfgrødens stadium 12-19
+Kun som rækkebehandling/båndsprøjtning i 12,5 cm bånd med 50 cm rækkeafstand (dosis i båndet 112 g pr. ha). Tilsætning af olie anbefales. Maks. 1 behandling pr. vækstår. Må maksimalt anvendes hvert 4. år på samme areal.
+Blomkål
+Kamille, kurvblomstret ukrudt
+0,028 kg + 0,5 l OlieAfgrødens stadium 12-42
+Kun som rækkebehandling/båndsprøjtning i 12,5 cm bånd med 50 cm rækkeafstand (dosis i båndet 112 g pr. ha). Tilsætning af olie anbefales. Maks. 1 behandling pr. vækstår. Må maksimalt anvendes hvert 4. år på samme areal.
+Rosenkål
+Kamille, kurvblomstret ukrudt
+0,028 kg + 0,5 l OlieAfgrødens stadium 12-19
+Behandling april til maj. Kun som rækkebehandling/båndsprøjtning i 12,5 cm bånd med 50 cm rækkeafstand (dosis i båndet 112 g pr. ha). Tilsætning af olie anbefales. Maks. 1 behandling pr. vækstår. Må maksimalt anvendes hvert 4. år på samme areal.
+Hovedkål
+Kamille, kurvblomstret ukrudt
+0,028 kg + 0,5 l OlieAfgrødens stadium 12-43
+Behandling april til maj. Kun som rækkebehandling/båndsprøjtning i 12,5 cm bånd med 50 cm rækkeafstand (dosis i båndet 112 g pr. ha). Tilsætning af olie anbefales. Maks. 1 behandling pr. vækstår. Må maksimalt anvendes hvert 4. år på samme areal.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Omsåning:
+Ved omsåning kan der etableres korn, majs, raps og græs.
+Efterfølgende afgrøde:
+Følgende afgrøder er følsomme overfor Matrigon SG: – kartoffel og andre arter af natskygge-familien – ært, bønne, lupin, kløver og andre bælgplanter – gulerod og andre skærmblomstrede arter – salat, solsikke og andre kurvblomstrede arter
+Plantemateriale fra en afgrøde, der er behandlet med Matrigon SG, som ikke
+er nedbrudt, kan skade en efterfølgende følsom afgrøde. Derfor bør der ikke
+etableres følsomme afgrøder indenfor 30 dage efter plantemateriale er
+nedmuldet. Husdyrgødning fra dyr, der er blevet fodret med afgrøder, der er
+behandlet med Matrigon SG, kan ligeledes skade følsomme afgrøder.
+Plantemateriale eller husdyrgødning, som indeholder rester fra Matrigon SG,
+må ikke anvendes i drivhuse, i kompost, eller som gødning i følsomme
+afgrøder.
+Plantemateriale eller husdyrgødning, som indeholder rester fra Matrigon SG, må ikke anvendes til biogas.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+
+15
+ºC
+
+Luftfugtighed
+
+høj
+
+Jordfugtighed
+
+god
+
+Timers tørvejr
+
+6
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Den bedste effekt af Matrigon SG opnås, når ukrudtet er i god vækst. Undgå at sprøjte når afgrøden er stresset på grund af kulde, tørke, vandlidende jord, angrebet af skadedyr, næringsstofmangel og meget høje dagtemperaturer.
+Virkemåde
+Clopyralid er et systemisk herbicid, der primært optages via bladene. Det transporteres i sivævet rundt i hele planten, dvs. også ned i rodsystemet på flerårige
+ukrudtsarter. Clopyralid har auxinvirkning, og fremkalder en ukontrolleret kraftig vækst i følsomme arter. Følsomme arter findes specielt inden for de kurvblomstrede
+såsom kamille, gul okseøje og agertidsel. I tolerante afgrøder sker der en inaktivering af clopyralid.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ved indtagelse: Ved indtagelse, kontakt omgående læge og vis denne beholder eller etiket.
+Øjenkontakt: Kommer stoffet i øjnene, skylles straks grundigt med vand og læge kontaktes.
+Hudkontakt: Kommer stoffet på huden vaskes straks med store mængder vand.
+Indånding: Flyt patienten ud i frisk luft. Opsøg lægehjælp.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH066
+Gentagen kontakt kan give tør eller revnet hud.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+EUH450
+Kan forårsage langvarig og diffus forurening af vandressourcer
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+ikke farligt gods
+RID_ADR
+ikke farligt gods
+IMDG
+ikke farligt gods
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Matrigon SG
+Sikkerhedsdatablad
+Matrigon SG
+Vejledning i Planteværn
+Ingen oplysninger
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: Matrigon_SG_64-142_Godkendt_Etikette_20260703.pdf
