@@ -1,0 +1,308 @@
+Spruzit Neu - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Spruzit Neu
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+10 l
+Registreringsindehaver
+D-31860 EmmerthalTlf: Fax: Mail: ','Neudorff GmbH KG'); return true;" onmouseout="nd(); return true;" href="Http://www.neudorff.de" target="_new"Neudorff GmbH KG
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Firmaets produktside
+Spruzit Neu
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+189,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+4,59 g/l
+pyrethrin I og II
+825 g/l
+rapsolie
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+21,3 l/ha
+0,0469 B/l
+Miljøeffekt
+15,5 l/ha
+0,0644 B/l
+I alt
+8,99 l/ha
+0,111 B/l
+
+Pesticidafgift: 33 kr. pr. l
+Godkendelse
+Registreringsnummer
+364-67
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af visse skadevoldere i æbler, pærer, kirsebær, blommer, solbær, stikkelsbær, ribs, blåbær, gulerod, rødbede, knoldselleri, persillerod, pastinak, skorzonerrod, peberrod, spinat, portulak og cikorie på friland, samt i prydplanter, salat, persille og krydderurter i væksthus og på friland, samt tomat og aubergine i væksthus.
+Behandlingsfrist
+Må i æbler, pærer, kirsebær, blommer, bær, gulerod, rødbede, knoldselleri, persillerod, pastinak, skorzonerrod, peberrod, spinat, portulak, cikorie og salat på friland, samt tomat og aubergine i væksthus, ikke anvendes senere end 3 dage før høst.
+Må i persille og krydderurter ikke anvendes senere end 7 dage før høst.
+Må i salat i væksthus ikke anvendes senere end 7 dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Farligt for bier - for at beskytte bier og andre bestøvende insekter må dette produkt ikke anvendes i blomstrende afgrøder.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer
+Afstand til vandløb
+Må i æbler, pærer, kirsebær og blommer ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Må i prydplanter ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i salat, spinat, portulak, persille og urter, gulerødder, rødbeder, knoldselleri, persillerødder, pastinak, skorzonerrødder, peberrod og cikorie ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i bærbuske ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+BlommerBl&#229;b&#230;rCikorieGuler&#248;dder p&#229; frilandKirseb&#230;rKnoldselleriKrydderurter i v&#230;ksthusKrydderurter p&#229; frilandPastinakPeberrodPersillePersille i v&#230;ksthusPersille p&#229; frilandPortulakPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandP&#230;rerRibsRodpersilleR&#248;dbederSalat i v&#230;ksthusSalat p&#229; frilandSkorzonerrodSolb&#230;rSpinat p&#229; frilandStikkelsb&#230;rTomater i v&#230;ksthus&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Spruzit Neu, reg.nr. 364-67
+Pyntegr&#248;nt','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (364-67) til mindre anvendelse mod ædelgranlus, stammelus, spindemider og sommerfuglelarver (undtagen borende og minerende arter) i juletræer og klippegrønt. Vejledning fås hos Danske Juletræer - træer & grønt, Blokken 15, DK-3460 Birkerød, email info@christmastree.dk.
+Persille p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod skadedyr i baby leaf og persille på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod bladlus, aspargesbille og aspargesflue i asparges på friland
+Krydderurter i &#229;bne v&#230;ksthuseSalat i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod insekter og mider i aubergine, tomat, salat og krydderurter i åbne væksthuse
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod bladlus, mellus, trips, spindemider, uldlus, skjoldlus, bladbiller og sommerfuglelarver i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Agurk i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod insekter i agurk dyrket i åbne og lukkede væksthuse
+Blomsterk&#229;lHesteb&#248;nnerHovedk&#229;lHvidkl&#248;ver til fr&#248;avlL&#248;gPorrerR&#248;dkl&#248;ver til fr&#248;avl','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Spruzit Neu (reg.nr. 364-67) til mindre anvendelse mod insekter i økologisk produktion af hovedkål, bladkål, blomsterkål, porre og løg, konventionel produktion af bladkål samt økologisk produktion af rød- og hvidkløver til frø og hestebønner til foder på friland
+BlommerBl&#229;b&#230;rCikorieGuler&#248;dder p&#229; frilandKirseb&#230;rKnoldselleriKrydderurter i v&#230;ksthusKrydderurter p&#229; frilandPastinakPeberrodPersillePersille i v&#230;ksthusPersille p&#229; frilandPortulakPrydplanter i v&#230;ksthusPrydplanter p&#229; frilandP&#230;rerRibsRodpersilleR&#248;dbederSalat i v&#230;ksthusSalat p&#229; frilandSkorzonerrodSolb&#230;rSpinat p&#229; frilandStikkelsb&#230;rTomater i v&#230;ksthus&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Spruzit Neu, reg.nr. 364-67, under revurdering
+Anvendelse
+Resistensrisiko
+Spruzit Neu indeholder de to aktivstoffer pyrethrin I +II og tilhører gruppen pyrethroider
+- IRAC gruppe 3 A. I mange europæiske lande herunder Danmark er der
+observeret nedsat eller manglende effekt af pyrethroider mod glimmerbøsser som
+følge af resistens. Gentagne behandlinger med samme virkemekanisme øger risikoen
+for udvikling af resistens. For at mindske risikoen for udvikling af resistens bør
+der bl.a.: Skiftes mellem midler med andre virkemekanismer. Sikres at sprøjtningen
+udføres under optimale klimatiske forhold, og at den rigtige sprøjteteknik anvendes.
+Resistensklasse
+3A
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Spruzit Neu bør ikke blandes med andre produkter. Færdig sprøjtevæske skal anvendes
+inden for samme dag.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares frostfrit og mørkt.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Aubergine i væksthus, Tomater i væksthus
+Bladlus, mellus, trips, væksthusspindemide
+6-12 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+1. Afgrødehøjde: 50 cm 125 cm: 12 l/ha, 1800-2400 l vand.
+Max. 2 behandlinger med 5-7 dages interval. Behandlingsfrist 3 dage.
+Cikorie, Gulerødder, Knoldselleri, Pastinak, Peberrod, Portulak, Rodpersille, Rødbeder, Salat på friland, Skorzonerrod, Spinat
+Bladlus, sommerfuglelarver
+6 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+Friland. NB! Skadevoldere: Bladlus undtagen
+salatbladlus
+(Nasonovia ribisnigri),
+sommerfuglelarver
+undtagen borende og
+minerende arter. Vandmængde: 800-1200 l/ha.
+Max. 2 behandlinger med 5-7 dages interval. Behandlingsfrist 3 dage.
+Krydderurter i væksthus, Krydderurter på friland, Persille i væksthus, Persille på friland, Salat i væksthus
+Bladlus, sommerfuglelarver
+6 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+NB! Skadevoldere: Bladlus undtagen
+salatbladlus
+(Nasonovia ribisnigri),
+sommerfuglelarver
+undtagen borende og
+minerende arter. Vandmængde: 800-1200 l/ha.
+Max. 2 behandlinger med 5-7 dages interval. Behandlingsfrist 7 dage.
+Pærer, Æbler
+Grøn æblebladlus, æblesnudebille
+5-20 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+NB! Dosering: 5,0 l/ha pr. meter kronhøjde.
+Vandmængde: 500 l/ha pr. meter kronhøjde.
+Max. 4 behandlinger med 7 dages mellemrum. Behandlingsfrist 3 dage.
+Blommer, Kirsebær
+Bladlus
+3,5-14 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+NB! Dosering: 3,5 l/ha pr. meter kronhøjde.
+Vandmængde: 500 l/ha pr. meter kronhøjde.
+Max. 4 behandlinger med 7 dages mellemrum. Behandlingsfrist 3 dage.
+Blåbær, Ribs, Solbær, Stikkelsbær
+Bladlus
+10 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+Vandmængde: 1000 l/ha.
+Max. 2 behandlinger med 7 dages interval. Behandlingsfrist 3 dage.
+Prydplanter i væksthus, Prydplanter på friland
+Bladbiller, bladlus, mellus, skjoldlus, sommerfuglelarver, trips, uldlus, væksthusspindemide
+6-12 lVed forventet klækning af æg og/eller konstateret allerførste angreb af skadevolder, eller ved overskridelse af officielle skadetærskler
+1. Afgrødehøjde: 50 cm 125 cm: 12 l/ha, 1800-2400 l vand.
+Max. 2 behandlinger med 5-7 dages interval. Behandlingsfrist 3 dage.
+Effekt
+Effekt på nyttedyr
+Det er ikke oplyst om midlet er foreneligt med biologisk bekæmpelse.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+5
+ºC
+10-15
+ºC
+20
+ºC
+Andet
+Sprøjt aldrig i direkte sollys eller ved temperaturer under 5°C eller over 20°C.
+Virkemåde
+Spruzit Neu er et lysnedbrydeligt pyretrumprodukt udvundet af Chysanthemum, der
+virker som kontaktgift over for specielt gnavende og sugende insekter. Midlet påvirker
+insekternes nervesystem og øjeblikkeligt standses indtagelse af føde samt evnen
+til at formere sig. Skadevolderne dør i løbet af få timer.
+Sikkerhed
+Fareklasse
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Førstehjælp: Kommer midlet i øjnene skylles grundigt med vand og læge kontaktes.
+Kommer midlet på huden vaskes straks med store mængder vand.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Spruzit Neu
+Sikkerhedsdatablad
+Spruzit Neu
+Vejledning i Planteværn
+2026
+Side 441 til 443
+VP26s441-443.pdf.pdf--
+Side 441 til 443--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/spruzit-neu-label-dk.pdf
