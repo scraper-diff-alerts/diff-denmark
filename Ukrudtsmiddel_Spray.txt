@@ -1,0 +1,133 @@
+Ukrudtsmiddel Spray - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Ukrudtsmiddel Spray
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+A-5071 Wals – SiezenheimTlf: Fax: Mail: ','Evergreen Garden Care Österreich GmbH'); return true;" onmouseout="nd(); return true;"Evergreen Garden Care Österreich GmbH
+Distributør
+A-5071 Wals – SiezenheimTlf: Fax: Mail: ','Evergreen Garden Care Österreich GmbH'); return true;" onmouseout="nd(); return true;"Evergreen Garden Care Österreich GmbH
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Olie i vand emulsion
+Status
+Ikke længere markedsført
+Indhold af aktivstoffer
+43,1 g/l
+pelargonsyre
+Parallelprodukt, identisk med Roundup Speed
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+294 l/ha
+0,0034 B/l
+Miljøeffekt
+275 l/ha
+0,0036 B/l
+I alt
+142 l/ha
+0,0070 B/l
+
+Pesticidafgift: 2 kr. pr. l
+Godkendelse Firmaet har afmeldt produktet. Evt. restlager må lovligt anvendes indtil 01-07-2027, hvorefter der er opbevarings- og anvendelsesforbud. Nedenfor er angivet den sidst gældende godkendelse for at fastholde midlets historie.
+Registreringsnummer
+724-30
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse på havegange, indkørsler m.m. samt under prydtræer og mellem prydplanter.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1). Opbevares utilgængeligt for børn (P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Ukrudtsmiddel Spray, reg.nr. 724-30
+Afmeldt / registrering trukket
+
+Ukrudtsmiddel Spray, reg.nr. 724-30, afmeldt
+På forbudsliste
+
+Ukrudtsmiddel Spray, reg.nr. 724-30, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder methylchloroisothiazolinon og methylisothiazolinon (C(M)IT/MIT (3:1)). Kan udløse allergisk reaktion
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Ukrudtsmiddel Spray
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Ukrudtsmiddel_Spray_724-30_Godkendt_Etikette_1L_20230516.pdf
