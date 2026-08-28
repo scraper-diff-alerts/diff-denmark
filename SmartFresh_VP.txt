@@ -1,0 +1,128 @@
+SmartFresh VP - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+SmartFresh VP
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+F-75017 ParisTlf: +33 674 416 895Fax: Mail: ','AgroFresh Holding France S.A.S.'); return true;" onmouseout="nd(); return true;" href="Http://www.agrofresh.com" target="_new"AgroFresh Holding France S.A.S.
+Distributør
+F-75017 ParisTlf: +33 674 416 895Fax: Mail: ','AgroFresh Holding France S.A.S.'); return true;" onmouseout="nd(); return true;" href="Http://www.agrofresh.com" target="_new"AgroFresh Holding France S.A.S.
+Anvendes indenfor
+Frugtavl
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Pulver
+Status
+Markedsført
+Indhold af aktivstoffer
+33 g/kg
+1-methylcyclopropen
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+0,0000 kg/ha
+0,0000 B/kg
+I alt
+0,0000 kg/ha
+0,0000 B/kg
+
+Pesticidafgift: 1 kr. pr. kg
+Godkendelse
+Registreringsnummer
+833-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til holdbarhedsbehandling af æbler og pærer i lukkede oplagringsrum.
+Behandlingsfrist
+Må ikke bruges senere end 7 dage efter plukning.
+Forbehold
+Brugsanvisningens angivelser skal overholdes
+Personale må først gå ind på lageret efter endt behandling, når friskluftsventilation har kørt svarende til 13 luftskifter.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering (P501):
+Tom emballage og rester kan bortskaffes med dagrenovationen.
+Emballagen må ikke genbruges
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav til vandmiljø (indendørs anvendelse).
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Smartfresh VP, reg.nr. 833-1, fornyet godkendelse
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P102
+Opbevares utilgængeligt for børn.
+P273
+Undgå udledning til miljøet.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+SmartFresh VP
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Smartfresh_VP_833-1_Godkendt_Etikette_20260316.pdf
