@@ -1,0 +1,249 @@
+Sluxx HP - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Sluxx HP
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+20 kg
+Registreringsindehaver
+D-31860 EmmerthalTlf: Fax: Mail: ','Neudorff GmbH KG'); return true;" onmouseout="nd(); return true;" href="Http://www.neudorff.de" target="_new"Neudorff GmbH KG
+Distributør
+5250 Odense SVTlf: 70 22 70 67Fax: 70 22 70 68Mail: info@ecostyle.dk','ECOstyle A/S'); return true;" onmouseout="nd(); return true;" href="Http://ecostyle-professionel.dk" target="_new"ECOstyle A/S
+Firmaets produktside
+Sluxx HP
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt, men kræver ingen gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+38,00 kr/kg
+&nbsp()
+Formulering
+Sneglekorn
+Status
+Markedsført
+Indhold af aktivstoffer
+24,2 g/kg
+jern(III)fosfat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+10,2 kg/ha
+0,0978 BI/kg
+Areal udenfor vækstsæsonen
+10,2 kg/ha
+0,0978 BI/kg
+Græs og kløver
+10,2 kg/ha
+0,0978 BI/kg
+Grøntsager
+10,2 kg/ha
+0,0978 BI/kg
+Kartofler
+10,2 kg/ha
+0,0978 BI/kg
+Majs
+10,2 kg/ha
+0,0978 BI/kg
+Roer
+10,2 kg/ha
+0,0978 BI/kg
+Vinterraps
+10,2 kg/ha
+0,0978 BI/kg
+Vintersæd
+10,2 kg/ha
+0,0978 BI/kg
+Vårraps
+10,2 kg/ha
+0,0978 BI/kg
+Vårsæd
+10,2 kg/ha
+0,0978 BI/kg
+Ærter
+10,2 kg/ha
+0,0978 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+23,9 kg/ha
+0,0418 B/kg
+I alt
+23,9 kg/ha
+0,0418 B/kg
+
+Pesticidafgift: 7 kr. pr. kg
+Godkendelse
+Registreringsnummer
+364-59
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af agersnegle og skovsnegle i spiselige og ikke spiselige afgrøder i landbrug, havebrug og væksthuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Ved anvendelse i væksthus må der ikke forekomme udledning af vand fra produktionen til miljøet eller til kloak. Plantemateriale og dyrkningsmedie til bortskaffelse skal opbevares tildækket og på tæt belægning.
+Må ikke tømmes i kloakafløb.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Spiselige afgr&#248;der','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Sluxx HP, reg.nr. 364-59
+Spiselige afgr&#248;der i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Sluxx HP (364-59) til mindre anvendelse mod snegle i spiselige og ikke spiselige afgrøder i åbne væksthuse
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+Ingen oplysninger
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Ingen oplysninger
+Rengøring
+Ingen oplysninger
+Opbevaring
+Ingen oplysninger
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Havebrugskulturer, Landbrug
+Agersnegle, skovsnegl
+7 kgSe bemærkninger
+Før jordbehandling og såning. Indledende behandling kun ved meget stor forekomst af snegle på arealet og ved første sneglefund på arealet.
+Havebrugskulturer, Landbrug
+Agersnegle, skovsnegl
+7 kgSe bemærkninger
+Umiddelbart efter såning/udplantning. Dette vil give den bedste effekt, da sneglene ikke vil have andre fødeemner end granulaterne. Gentag behandlingen indtil alle snegle er bekæmpet.
+Havebrugskulturer, Landbrug
+Agersnegle, skovsnegl
+7 kgSe bemærkninger
+Ved konstateret angreb i afgrøden. Behandl arealet og ved omsåning behandl også disse omsåede arealer.
+Effekt
+Effekt på nyttedyr
+Midlet er skånsomt overfor populationer af Typhlodromus pyri, Poecilus cupreus og Aleochara bilineata. Midlet er moderat skadeligt for Aphidius rhopalosiphi. Foreneligheden med anvendelse af andre nyttedyr er ukendt.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+Det bedste behandlingstidspunkt er i de tidlige aftentimer, når sneglene forlader deres skjul for at søge føde. Midlet udstrøs jævnt mellem planterne. Granulaterne tåler nedbør i op til 6 uger.
+Virkemåde
+Sluxx HP-granulaterne tiltrækker sneglene, som æder granulatet og øjeblikkeligt ophører med at indtage føde. De vil gå i skjul og dø efter kort tid. Normalt vil der ikke findes døde snegle på arealet. Effekten ses bedst ved, at angrebet på afgrøden ophører.
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Ingen oplysninger
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Tom emballage og rester kan bortskaffes sammen med dagrenovationen.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Sluxx HP
+Sikkerhedsdatablad
+Sluxx HP
+Vejledning i Planteværn
+2026
+Side 271 til 272
+VP26s271-272.pdf.pdf--
+Side 271 til 272--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Sluxx_HP_364-59_Godkendt_Etikette_20180710.pdf
