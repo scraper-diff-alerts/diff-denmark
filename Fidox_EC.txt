@@ -1,0 +1,161 @@
+Fidox EC - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Fidox EC
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-3803 Sint TruidenTlf: +32 11 78 57 17Fax: +32 11 68 15 65Mail: globachem@globachem.com','Globachem NV'); return true;" onmouseout="nd(); return true;" href="Http://www.globachem.com" target="_new"Globachem NV
+Distributør
+B-3803 Sint TruidenTlf: +32 11 78 57 17Fax: +32 11 68 15 65Mail: globachem@globachem.com','Globachem NV'); return true;" onmouseout="nd(); return true;" href="Http://www.globachem.com" target="_new"Globachem NV
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+180,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+800 g/l
+prosulfocarb
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+3,50 l/ha
+0,286 BI/l
+Kartofler
+3,50 l/ha
+0,286 BI/l
+Vintersæd
+3,50 l/ha
+0,286 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+2,78 l/ha
+0,360 B/l
+Miljøeffekt
+6,98 l/ha
+0,143 B/l
+I alt
+1,48 l/ha
+0,677 B/l
+
+Pesticidafgift: 111 kr. pr. l
+Godkendelse
+Registreringsnummer
+613-3
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vintersæd, kartofler og frøgræs.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 42 dage før høst. Frøgræshalm må ikke bruges til foder.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides.
+Der skal være et interval på 100 dage for såning/plantning af efterfølgende afgrøder tilhørende skærmplante-familien (Apiaceae) undtagen bladselleri, gulerødder, knoldselleri, pastinak og persillerod.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand.
+Opbevares utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand.
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+KartoflerVinters&#230;d','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Fidox EC, reg.nr. 613-3
+Knoldselleri','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Fidox EC til mindre anvendelse mod ukrudt i jordskokker og knoldselleri
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P363
+Tilsmudset tøj skal vaskes, før det kan anvendes igen.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+Klasse 9, II(c)
+IMDG
+3082, klasse 9, pakkegruppe II
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Fidox EC
+Sikkerhedsdatablad
+Fidox EC
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/fidox-ec-label-dk.pdf
