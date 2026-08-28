@@ -1,0 +1,128 @@
+Armicarb Garden - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Armicarb Garden
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Distributør
+BH24 1 HY Ringwood, HampshireTlf: +44 1425 688002Fax: +44 1425 489576Mail: info@agronaturalis.com','Agronaturalis Ltd.'); return true;" onmouseout="nd(); return true;" href="Http://www.agronaturalis.com" target="_new"Agronaturalis Ltd.
+Anvendes indenfor
+Frilandsgartneri, Frugtavl, Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt pulver
+Status
+Markedsført
+Indhold af aktivstoffer
+850 g/kg
+kaliumhydrogencarbonat
+Parallelprodukt, identisk med Armicarb
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+59,1 kg/ha
+0,0169 B/kg
+I alt
+59,1 kg/ha
+0,0169 B/kg
+
+Pesticidafgift: 20 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1008-8
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af skurv i æbler på friland.
+Behandlingsfrist
+Må i spiselige afgrøder ikke anvendes senere end 1 dag før høst.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens angivelser skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr
+nær overfladevand (SP1).
+Skal opbevares tørt og ved eller under stuetemperatur.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Armicarb Garden, reg.nr. 1008-8, til mindre anvendelse mod sodplet i æbler på friland, svampebekæmpelse på friland og i drivhus, samt mod meldug på/ i fx jordbær, bærbuske, roser, bælgfrugter, græskar, meloner, hovedkål, rosenkål, blomkål, broccoli, kålrabi, rodfrugter, kartofler, blomster, prydplanter og prydbuske på friland og i drivhus, samt vindruer på friland jf. brugsanvisningen
+Godkendt
+
+Armicarb Garden (ANL-F001), reg.nr. 1008-8
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Armicarb Garden
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Armicarb_Garden_1008-8_Godkendt_Etikette_20260316.pdf
