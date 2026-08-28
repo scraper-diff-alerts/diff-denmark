@@ -1,0 +1,158 @@
+Longitude - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Longitude
+Bejdsemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+3521 AZ UtrechtTlf: Fax: Mail: ','Certis Belchim B.V.'); return true;" onmouseout="nd(); return true;"Certis Belchim B.V.
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Industriel anvendelse, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Flydende middel
+Status
+Markedsført
+Indhold af aktivstoffer
+125 g/l
+silthiofam
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+3,34 l/ha
+0,299 B/l
+Miljøadfærd
+4,03 l/ha
+0,248 B/l
+Miljøeffekt
+25,7 l/ha
+0,0389 B/l
+I alt
+1,71 l/ha
+0,586 B/l
+
+Pesticidafgift: 85 kr. pr. l
+Godkendelse
+Registreringsnummer
+631-6
+Miljøstyrelsens godkendelse
+Må kun anvendes til bejdsning af hvede mod goldfodsyge (Gaeumannomyces graminis var. tritici) i lukkede industrielle anlæg.
+Bejdsede korn er udelukkende til eksport.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Brugere skal anvende kemisk bestandige handsker ved blanding, påfyldning, kalibrering, posning og rengøring.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Må ikke tømmes i kloakafløb.
+De bejdsede korn skal umiddelbart efter bejdsningen emballeres i en beholder/emballage og plomberes.
+Disse korn er bejdset mod goldfodsyge (Gaeumannomyces graminis var. tritici) med Longitude som indeholder silthiofam.
+Kornene er bejdset med 20-25 g silthiofam/100.000 korn (units). De bejdsede korn er udelukkende til eksport og må ikke sås i Danmark. I Sverige må de
+bejdsede korn kun sås om foråret. De bejdsede korn er farlige og må ikke anvendes til menneskeføde eller foder.
+Ved håndtering af det bejdsede korn bær beskyttelseshandsker. Beholderen/emballagen må ikke anvendes til brødkorn, andre levnedsmidler og
+foderstoffer. De bejdsede korn må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+For at beskytte fugle og vilde pattedyr skal alle spildte korn fjernes (SPe6). Der må højst sås 200 kg bejdsede korn pr. ha.Ovenstående indrammede angivelse skal være
+tydeligt anført på en etikette eller bindemærke, der straks skal fastgøres på beholderen/emballagen på en sådan måde, at etiketten eller bindemærket normalt vil blive siddende indtil indholdet er brugt.
+Teksten skal oversættes til modtagerlandets sprog.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav til vandmiljø (industriel anvendelse).
+Afstand til §3-områder
+Ingen afstandskrav (industriel anvendelse).
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Longitude, reg.nr. 631-6 - fornyet godkendelse
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H412
+Skadelig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P260
+Indånd ikke spray.
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Longitude
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Longitude_631-6_Godkendt_Etikette_20260223.pdf
