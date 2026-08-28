@@ -1,0 +1,326 @@
+Evolya - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Evolya
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+1 og 5 kg
+Registreringsindehaver
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Distributør
+2300 København STlf: 32 87 11 00Fax: 32 87 11 99Mail: &ltfornavn.efternavn&gt@syngenta.com','Syngenta Nordics A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.syngenta.dk" target="_new"Syngenta Nordics A/S
+Firmaets produktside
+Evolya
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1.065,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+mesotrion
+Parallelprodukt, identisk med Tocalis
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Majs
+0,300 kg/ha
+3,33 BI/kg
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,15 kg/ha
+0,466 B/kg
+Miljøadfærd
+4,80 kg/ha
+0,209 B/kg
+Miljøeffekt
+5,65 kg/ha
+0,177 B/kg
+I alt
+1,17 kg/ha
+0,852 B/kg
+
+Pesticidafgift: 130 kr. pr. kg
+Godkendelse
+Registreringsnummer
+1-229
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i fodermajs.
+Behandlingsfrist
+Må ikke anvendes senere end vækststadium BBCH 19.
+Forbehold
+Brugsanvisningens angivelser skal overholdes..
+Ved arbejde i behandlede afgrøder skal der anvendes arbejdstøj (langærmet overdel og bukser).
+Sprøjteførere skal anvende arbejdstøj (langærmet overdel og bukser) ved blanding, påfyldning og udbringning.
+SP1 Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet.
+Rens ikke sprøjteudstyr nær overfladevand.
+P405+P102 Opbevares under lås og utilgængeligt for børn.
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 10 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Evolya (1-229) til mindre anvendelse mod ukrudt i sukkermajs
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Evolya (1-229) til mindre anvendelse mod ukrudt i planteskolekulturer på friland
+Godkendt
+
+Evolya, reg.nr. 1-229, omklassificeret
+Anvendelse
+Resistensrisiko
+Evolya tilhører gruppen 4-HPPD (HRAC gruppe F2), som vurderes at have lav risiko for udvikling af
+resistens. For nærværende findes der ingen andre produkter på markedet som har samme virkningsmekanisme,
+og man kender ikke til krydsresistens i ukrudt som er resistent over for andre ukrudtsmidler.
+Majs i sædskiftet er derfor med til at forebygge opbygningen af resistens.
+Resistensklasse
+F2 / 27
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tankblanding:
+Evolya skal altid blandes med et additiv (non-ionic eller oliebaseret).
+Ved anvendelse af Evolya i tankblandinger, tilsættes Evolya først. Lad omrøringen køre under den fortsatte
+opfyldning med vand. Blandingen udsprøjtes straks.
+Evolya kan under normale omstændigheder tankblandes med Harmony SX, MaisTer, Tomahawk
+180 EC og Fighter 480. Tankblanding med produkter, som indeholder bentazon f.eks. Fighter® 480,
+kan give risiko for skade på majsen. Risiko for evt. skade af tankblandinger er størst når vejret er koldt
+og majsafgrøden er stresset.
+Tilberedning af sprøjtevæske:
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger inden tilberedning af sprøjtevæsken
+begyndes. Dette gælder især, hvis sprøjten har været anvendt til sprøjteopgaver i andre afgrøder.
+Sprøjtebeholderen fyldes halvt med vand og omrøring startes.
+Præparatfyldeudstyr:
+Ved anvendelse af præparatfyldeudstyr og faste præparater fyldes stationen halvt med vand, hvorefter
+der påfyldes den ønskede mængde præparat, som herefter suges op i sprøjtetanken, samtidig med at
+rent vand tilsættes fyldestationen.
+Efterfølgende skylles præparatfyldeudstyret, samt evt. tomme dunke/beholdere. Gentag proceduren
+med at åbne/lukke for bundventil til der ikke er synlige spor af Evolya i fyldestationen.
+Additiv/penetreringsolier tilsættes til sidst, inden den endelige tankblanding er udført.
+Direkte injektion:
+Ved anvendelse af direkte injektionsudstyr, ledes det ufortyndede præparat automatisk ind i de slanger,
+som fører fra sprøjtens tank til dyserne. Ved skift og afslutning af sprøjteopgaver gennemføres en gennemskylning
+og rengøring af systemet. Vaskevandet udsprøjtes under kørsel på det behandlede areal.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Catch, Fighter 480, MaisTer
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Mangansulfat 32
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Majs
+Agersennep, alm. hanespore, alm. pengeurt, alm. spergel, amarant, bleg pileurt, burresnerre, ferskenpileurt, fuglegræs, hanekro, hjertebladet gåsefod, hundepersille, hvidmelet gåsefod, hyrdetaske, kamille, kortstråle, læge-katost, mangefrøet gåsefod, raps, rød tvetand, snerlepileurt, sort natskygge, spildkartofler, stedmoder, svinemælde, vejpileurt, vellugtende kamille, vikke, ærenpris
+0,15 kg1. sprøjtning, ukrudt max. 2 løvblade
+Evolya anvendes i majsens vækststadium 12-19. Der skal tilsættes et non-ionisk
+eller olie baseret additiv, f.eks.
+Adigor.
+Vandmængde: 80-400 l/ha.
+Splitbehandling:
+2 x 0,15 kg/ha udsprøjtes med
+8-10 dages interval.
+1. behandling foretages, når
+ukrudtet har max. 1-2 løvblade.
+2. behandling foretages efter
+fremspiring af nyt ukrudt, og dette
+har max. 1-2 løvblade. Typisk 10-
+12 dage efter 1. behandling.
+Med splitbehandling opnås den
+mest sikre virkning, og den bør
+altid foretrækkes, når forholdene
+betinger det.
+Til bekæmpelse af tidsel og
+gråbynke anbefales at behandle
+med 3 x 0,1 kg/ha.
+0,15 kg2. sprøjtning 7-10 dage senere, når næste hold ukrudt er spiret frem
+Majs
+Agersennep, alm. hanespore, alm. pengeurt, alm. spergel, amarant, bleg pileurt, burresnerre, ferskenpileurt, fuglegræs, hanekro, hjertebladet gåsefod, hundepersille, hvidmelet gåsefod, hyrdetaske, kamille, kortstråle, læge-katost, mangefrøet gåsefod, raps, rød tvetand, snerlepileurt, sort natskygge, spildkartofler, stedmoder, svinemælde, vejpileurt, vellugtende kamille, vikke, ærenpris
+0,3 kgAfgrødens stadium 12-19
+Evolya anvendes i majsens vækststadium 12-19. Der skal tilsættes et non-ionisk
+eller olie baseret additiv, f.eks.
+Adigor.
+Vandmængde: 80-400 l/ha.
+Enkeltbehandling:
+1 x 0,3 kg/ha når ukrudtet har max. 3-4 løvblade.
+Enkeltbehandling kan anvendes, hvis ugunstige vejrforhold
+har medført, at tidspunktet for splitbehandling
+er overskredet.
+Såfremt koldt vejr medfører vækststandsning og
+gulfarvning af majsen, bør sprøjtningen udsættes til
+majsen igen begynder at få grøn farve.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Efter anvendelse af Evolya anbefales, at der det efterfølgende år ikke sås/plantes følsomme afgrøder/kulturer, som roer, spinat, ærter, hestebønner og andre bælgplanter, samt salat, kål og andre grønsager. Før såning af vårraps bør jorden pløjes. Lettere jordbearbejdning som harvning er tilstrækkelig før såning af korn og græsser. Ved omsåning kan der kun sås majs. Der må tidligst sås efterfølgende afgrøder 4 måneder efter sprøjtning.
+Afprøvningsforsøg
+Ingen link til landsforsøg med dette middel.
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+0,5
+
+1-2
+
+2
+
+Lysintensitet
+
+høj
+
+Generelle vækstbetingelser
+
+gode
+
+Andet
+Effekten af Evolya er uafhængig af temperaturen. Synlige symptomer på, at midlet har virket, ses hurtigere,
+når ukrudtet er i god vækst. Flest mulige solskinstimer øger også effekten, hvorfor morgensprøjtninger
+på ikke dugvåde planter er at foretrække.
+Såfremt koldt vejr eller stor temperaturforskel mellem nat og dag, dårlig jordstruktur eller andre forhold
+medfører vækststandsning og gulfarvning af majsen, bør sprøjtningen udsættes til majsen igen fortsætter
+væksten og begynder at få grøn farve.
+Virkemåde
+Mesotrion er et kombineret jord- og bladherbicid, som anvendes til ukrudtsbekæmpelse i fodermajs. Mesotrion optages primært gennem bladene men også i stor udstrækning via rødderne. Det betyder at der også sker en bekæmpelse af ukrudt der fremspirer efter sprøjtningen. Mesotrion er et systemisk middel, der virker ved at forhindre dannelsen af klorofyl. Følsomme planter afbleges og dør hurtigt efter behandlingen. Virkningen ses efter en lille uges tid med efterfølgende visning, startende fra vækstpunktet. Væksten ophører umiddelbart efter kontakt med aktivstoffet. Den bedste og hurtigste virkning opnås, når de klimatiske forhold betinger god vækst af ukrudtet.
+Sikkerhed
+Fareklasse
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder formaldehyd. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H361d
+Mistænkt for at skade det ufødte barn.
+H373
+Kan forårsage organskader ved længerevarende eller gentagen eksponering.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P260
+Indånd ikke støv
+P273
+Undgå udledning til miljøet.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P391
+Udslip opsamles.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3077
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+9, III
+Yderligere oplysninger
+Etikette oplysninger
+Evolya
+Sikkerhedsdatablad
+Evolya
+Vejledning i Planteværn
+2026
+Side 367 til 369
+VP26s367-369.pdf.pdf--
+Side 367 til 369--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Evolya_1-229_Etikette_20221017.pdf
