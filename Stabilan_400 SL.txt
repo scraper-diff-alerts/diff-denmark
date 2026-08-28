@@ -1,0 +1,158 @@
+Stabilan 400 SL - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Stabilan 400 SL
+Vækstreguleringsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Distributør
+D-50670 KölnTlf: Fax: Mail: ','Nufarm Deutschland GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.nufarm.com" target="_new"Nufarm Deutschland GmbH
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+400 g/l
+chlormequat-chlorid
+(~ 310 g/l
+chlormequat
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+4,60 l/ha
+0,217 BI/l
+Vintersæd
+2,30 l/ha
+0,435 BI/l
+Vårsæd
+2,30 l/ha
+0,435 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+8,03 l/ha
+0,125 B/l
+Miljøadfærd
+19,4 l/ha
+0,0517 B/l
+Miljøeffekt
+7,41 l/ha
+0,135 B/l
+I alt
+3,21 l/ha
+0,311 B/l
+
+Pesticidafgift: 52 kr. pr. l
+Godkendelse
+Registreringsnummer
+347-50
+Miljøstyrelsens godkendelse
+Må kun anvendes til vækstregulering i vinterhvede, vårhvede, rug, triticale, havre og spelt.
+Behandlingsfrist
+Se brugsanvisningen
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+Sprøjteførere skal anvende kemisk bestandige handsker ved blanding og påfyldning.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Skal opbevares køligt, ved eller under stuetemperatur.
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+RugSpeltTriticaleVinterhvedeV&#229;rhvede','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Zonegodkendelse af Stabilan 400 SL (CA2832) reg.nr. 347-50
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H290
+Kan ætse metaller.
+H302
+Farlig ved indtagelse.
+H312
+Farlig ved hudkontakt.
+H411
+Giftig for vandlevende organismer, med langvarige virkninger.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352+P312
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand. Ring til en GIFTINFORMATION eller en læge i tilfælde af ubehag.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Stabilan 400 SL
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Stabilan_400_SL_347-50_Godkendt_Etikette_20260428.pdf
