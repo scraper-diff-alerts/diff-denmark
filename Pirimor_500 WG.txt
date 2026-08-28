@@ -1,0 +1,535 @@
+Pirimor 500 WG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Pirimor 500 WG
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Pirimor 500 WG, reg.nr. 396-78
+Pakningsstørrelse
+1, 3 og 5 kg
+Registreringsindehaver
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Distributør
+8620 KjellerupTlf: +45 86 88 60 17 / 20 18 60 17Fax: +45 86 88 60 17Mail: niels.jakobsen@adama.com','Adama Northern Europe B.V.'); return true;" onmouseout="nd(); return true;" href="Http://www.adama.com/danmark/da" target="_new"Adama Northern Europe B.V.
+Firmaets produktside
+Pirimor 500 WG
+Anvendes indenfor
+Frilandsgartneri, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+1.050,00 kr/kg
+&nbsp()
+Formulering
+Vanddispergerbart granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+500 g/kg
+pirimicarb
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+0,500 kg/ha
+2,00 BI/kg
+Grøntsager
+0,500 kg/ha
+2,00 BI/kg
+(Kartofler)
+0,300 kg/ha
+3,33 BI/kg
+Roer
+0,300 kg/ha
+3,33 BI/kg
+Vintersæd
+0,250 kg/ha
+4,00 BI/kg
+Vårsæd
+0,250 kg/ha
+4,00 BI/kg
+Ærter
+0,250 kg/ha
+4,00 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,77 kg/ha
+0,565 B/kg
+Miljøadfærd
+1,88 kg/ha
+0,533 B/kg
+Miljøeffekt
+0,502 kg/ha
+1,99 B/kg
+I alt
+0,324 kg/ha
+3,09 B/kg
+
+Pesticidafgift: 443 kr. pr. kg
+Godkendelse
+Registreringsnummer
+396-78
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af bladlus i visse afgrøder i landbrug,
+gartneri og frugtavl.
+Behandlingsfrist
+Udendørs:
+Må i vinter- og vårhvede, vinter- og vårbyg, rug, triticale og havre
+ikke anvendes senere end 30 dage før høst.
+Må i raps, sennep og blommer ikke anvendes senere end 14 dage
+før høst.
+Må i æbler, pærer, kirsebær, gulerødder, persillerod, pastinak,
+peberrod, salat og rucola, krydderurter, sukker- og foderroer, kål og majroer, rødbeder og spinat ikke anvendes senere end 7 dage
+før høst.
+Må i jordbær, ribs, stikkelsbær, solbær, blåbær, hyldebær,
+brombær, hindbær, ærter og bønner med og uden bælg,
+hestebønner og tørrede ærter, grønkål, kinakål, blomkål,
+broccoli, rød- og hvidkål, savojkål og rosenkål ikke anvendes
+senere end 3 dage før høst.
+I væksthus:
+Må i salat, rucola og krydderurter ikke anvendes senere end 7
+dage før høst.
+Må i jordbær, auberginer, pepino, tomat, peberfrugt, melon,
+agurk, drueagurk, squash, courgetter ikke anvendes senere end 3
+dage før høst.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med
+beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær
+overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og
+foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i markafgrøder (SPe3).
+Må ikke anvendes nærmere end 30 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i bærbuske (SPe3).
+Må ikke anvendes nærmere end 50 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand ved anvendelse i frugttræer (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i v&#230;ksthusBladgr&#248;ntBlomk&#229;lBlommerBl&#229;b&#230;rBredbladet endivieBroccoliBromb&#230;rByg/&#230;rt hels&#230;dB&#248;nnerB&#248;nner med b&#230;lgB&#248;nner uden b&#230;lgCourgetter i v&#230;ksthusDild i v&#230;ksthusDild p&#229; frilandDrueagurk i v&#230;ksthusFodersukkerroerGr&#248;nk&#229;lGuler&#248;dderHavreHesteb&#248;nnerHindb&#230;rHvidk&#229;lHyldeb&#230;rJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandKarse i v&#230;ksthusKarse p&#229; frilandKinak&#229;lKirseb&#230;rKrydderurter i v&#230;ksthusKrydderurter p&#229; frilandK&#248;rvel i v&#230;ksthusK&#248;rvel p&#229; frilandK&#229;lroerMajroeMelon i v&#230;ksthusPastinakPeber i v&#230;ksthusPeberrodPepino i v&#230;ksthusPersille i v&#230;ksthusPersille p&#229; frilandPurl&#248;g i v&#230;ksthusPurl&#248;g p&#229; frilandP&#230;rerRapsRibsRodpersilleRosenk&#229;lRucola i v&#230;ksthusRucola p&#229; frilandRugR&#248;dbederR&#248;dk&#229;lSalat i v&#230;ksthusSalat p&#229; frilandSavoyk&#229;lSennepSolb&#230;rSpinatStikkelsb&#230;rSukkerroerTomater i v&#230;ksthusTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvedeV&#229;rsalat p&#229; friland&#198;bler&#198;rter&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Pirimor 500 WG, reg.nr. 396-78
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (396-78) til mindre anvendelse mod insekter i havefrø til frøproduktion på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (396-78) til mindre anvendelse mod insekter i hvidkløver til frøproduktion på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (396-78) til mindre anvendelse mod bladlus i hyben
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (396-78) til mindre anvendelse mod bladlus i sukkermajs
+Aubergine i &#229;bne v&#230;ksthuseCourgetter i &#229;bne v&#230;ksthuseDrueagurk i &#229;bne v&#230;ksthuseKrydderurter i &#229;bne v&#230;ksthuseMelon i &#229;bne v&#230;ksthusePeberfrugt i &#229;bne v&#230;ksthusePepino i &#229;bne v&#230;ksthuseRucola i &#229;bne v&#230;ksthuseSalat i &#229;bne v&#230;ksthuseTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (reg.nr. 396-78) til mindre anvendelse mod bladlus i agurk, drueagurk, courgette, melon, peberfrugt, tomat, aubergine, pepino, salat, rucola og krydderurter i åbne væksthuse
+Jordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; tabletop p&#229; friland','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Pirimor 500 WG (reg.nr. 396-78) til mindre anvendelse til insektbekæmpelse i jordbær dyrket i render i åbne væksthuse samt på tabletop på friland eller i tunneller
+på friland.
+Aubergine i v&#230;ksthusBladgr&#248;ntBlomk&#229;lBlommerBl&#229;b&#230;rBredbladet endivieBroccoliBromb&#230;rByg/&#230;rt hels&#230;dB&#248;nnerB&#248;nner med b&#230;lgB&#248;nner uden b&#230;lgCourgetter i v&#230;ksthusDild i v&#230;ksthusDild p&#229; frilandDrueagurk i v&#230;ksthusFodersukkerroerGr&#248;nk&#229;lGuler&#248;dderHavreHesteb&#248;nnerHindb&#230;rHvidk&#229;lHyldeb&#230;rJordb&#230;r i v&#230;ksthusJordb&#230;r p&#229; frilandKarse i v&#230;ksthusKarse p&#229; frilandKinak&#229;lKirseb&#230;rKrydderurter i v&#230;ksthusKrydderurter p&#229; frilandK&#248;rvel i v&#230;ksthusK&#248;rvel p&#229; frilandK&#229;lroerMajroeMelon i v&#230;ksthusPastinakPeber i v&#230;ksthusPeberrodPepino i v&#230;ksthusPersille i v&#230;ksthusPersille p&#229; frilandPurl&#248;g i v&#230;ksthusPurl&#248;g p&#229; frilandP&#230;rerRapsRibsRodpersilleRosenk&#229;lRucola i v&#230;ksthusRucola p&#229; frilandRugR&#248;dbederR&#248;dk&#229;lSalat i v&#230;ksthusSalat p&#229; frilandSavoyk&#229;lSennepSolb&#230;rSpinatStikkelsb&#230;rSukkerroerTomater i v&#230;ksthusTriticaleVinterbygVinterhvedeV&#229;rbygV&#229;rhvedeV&#229;rsalat p&#229; friland&#198;bler&#198;rter&#198;rter med b&#230;lg&#198;rter uden b&#230;lg','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Under revurdering
+
+Pirimor 500 WG, reg.nr. 396-78, under revurdering
+Anvendelse
+Resistensrisiko
+Pirimor 500 WG (pirimicarb) hører til IRAC virkemådegruppe 1A. som
+vurderes at have en lav risiko for udvikling af resistens. I flere lande i
+Europa er der fundet resistens hos ferskenbladlus og agurkbladlus.
+For at undgå udvikling af resistens, vær opmærksom på følgende:
+- Følg skadetærsklen
+- Sprøjtning bør udføres under optimale betingelser
+- For gentagen behandling, brug et produkt med en anden
+virkningsmekanisme
+- Brug den bedste sprøjteteknologi.
+Resistensklasse
+1A
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger.
+Opblandingsanvisninger
+Fyld tanken ca. halvt med vand, start omrøring og tilsæt midlet under fortsat opfyldning. Ved blanding med et andet middel skal dette påfyldes først. Midlet tilsættes under konstant omrøring. Sprøjt umiddelbart efter tilberedning.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjte og traktor rengøres enten i
+marken eller på vaskepladsen. En uvasket sprøjte skal placeres i den
+behandlede mark, på vaskepladsen eller under tag.
+Sprøjten skal være monteret med spuledyser til indvendig rengøring
+af tanken og sprøjten skal være monteret med separat vandtank med
+tilstrækkelig kapacitet således, at restsprøjtevæske kan fortyndes og
+at der kan foretages en grundig rengøring i marken. Restsprøjtevæske
+skal på passende vis fortyndes 50 gange med vand og udsprøjtes i den
+behandlede mark (uden at den maksimalt tilladte dosering for det
+pågældende middel herved overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt.
+etiketten på det sidst anvendte middel for specifikke anvisninger)
+samtidig med at filtre, slanger og dyser kontrolleres for urenheder og
+eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og
+udbringes iht. gældende regler.
+Opbevaring
+Tåler frost og opbevares tørt.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Agroxone, Basagran SG, Entargo, Rexade 440, UPL Metafol
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Amistar, Betasana 160 SE, ECP Metafol 700 SE, Flurostar Forte, Harmony 50 SX, Lamdex, Metafol 700 SE, Proline Xpert EC 240, SweDane Betasana 160 SE, Tombo, Magnesiumsulfat 10% Mg, Mangansulfat 32, Solubor DF
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Rug, Triticale, Vinterhvede, Vårhvede
+Bladlus
+0,2 kgAfgrødens stadium 31-75
+Pirimor 500 WG er også effektiv mod bladlus i bunden af afgrøden. Ved angreb af kornbladbiller tilsættes et pyrethroid. Max. 1 sprøjtning. Vandmængde: 200-400 L/ha.
+Havre, Vinterbyg, Vårbyg
+Bladlus
+0,25 kgAfgrødens stadium 31-75
+Pirimor 500 WG er også effektiv mod bladlus i bunden af afgrøden. Ved angreb af
+kornbladbiller tilsættes et
+pyrethroid.
+Max. 1 sprøjtning.
+Vandmængde: 200-400 L/ha.
+Raps, Sennep
+Bladlus
+0,3 kgAfgrødens stadium 31-75
+Tilsæt sprede-klæbemiddel
+ved angreb af kålbladlus,
+pga. kålbladlusens kraftige
+vokslag.
+Max. 1 behandling.
+Vandmængde: 200-600 L/ha.
+Fodersukkerroer, Sukkerroer
+Bedebladlus, ferskenbladlus
+0,28 kgAfgrødens stadium 13-45
+Ferskenbladlus:
+Sprøjt når blot en enkelt
+ferskenbladlus kan
+findes eller ved varsling.
+Vær opmærksom på
+ferskenbladlus fra midten
+af maj.
+Bedebladlus:
+Sprøjt når ca. 10 pct. af
+planterne er angrebet.
+I roer er god sprøjteteknik,
+samt lunt og stille vejr vigtigt
+for et godt resultat.
+Reducer ikke doseringen
+i roer!
+Max. 1 sprøjtning pr. sæson.
+Vandmængde: 200-600 L/ha.
+Bønner, Hestebønner, Ærter
+Bedebladlus, ærtebladlus
+0,25 kgAfgrødens stadium 30-88
+Pirimor 500 WG må
+udsprøjtes over blomstrende
+afgrøde.
+Max. 1 sprøjtning pr. sæson.
+Vandmængde: 200-600 L/ha.
+Gulerødder, Pastinak, Peberrod, Rodpersille
+Bladlus
+0,3 kgAfgrødens stadium 20-49
+Max. 1 behandling.
+Vandmængde: 200-400 L/ha.
+Blomkål, Broccoli, Grønkål, Hvidkål, Kinakål, Rosenkål, Rødkål, Savoykål
+Bladlus, kålbladlus
+0,3 kgAfgrødens stadium 20-48
+Tilsæt sprede/klæbemiddel
+ved angreb af kålbladlus,
+pga. kålbladlusens kraftige
+vokslag.
+Max. 1 sprøjtning pr. sæson.
+Vandmængde: 200-600 L/ha,
+grønkål og kinakål:
+200-400 L/ha.
+Kålroer, Majroe, Rødbeder
+Bladlus
+0,3 kgAfgrødens stadium 20-45
+Max. 1 sprøjtning pr. sæson.
+Vandmængde: 200-600 L/ha.
+Tilsæt sprede-klæbemiddel
+ved angreb af kålbladlus,
+pga. kålbladlusens kraflige
+vokslag.
+Dild, Karse, Krydderurter, Kørvel, Persille, Purløg
+Bladlus
+0,3 kgAfgrødens stadium 13-48
+Max. 1 sprøjtning pr. sæson.
+Vandmængde: 200-400 L/ha.
+Karse, Rucola, Salat, Spinat
+Bladlus
+0,3 kgAfgrødens stadium 20-48
+Max. 1 behandling.
+Vandmængde: 200-400 L/ha.
+Blåbær, Brombær, Hindbær, Hyldebær, Ribs, Solbær, Stikkelsbær
+Bladlus
+0,3 kgAfgrødens stadium 55-81
+Max. 1 behandling pr. sæson.
+Vandmængde:
+200-1000 L/ha.
+Observer temperaturforhold
+ved behandling for at opnå
+maksimal dampvirkning.
+Jordbær på friland
+Bladlus
+0,3 kgSe bemærkninger
+Afgrødens vækststadie BBCH 10-81 og 91-97. Max. 1 behandling pr. sæson.
+Vandmængde: 200-1000 L/ha.
+Blommer, Kirsebær, Pærer, Æbler
+Bladlus, blodlus
+0,2 kgAfgrødens stadium 15-73
+Max. 1 behandling.
+Vandmængde:
+400-1500 L/ha.
+Agurk i væksthus, Aubergine i væksthus, Courgetter i væksthus, Drueagurk i væksthus, Melon i væksthus, Peber i væksthus, Pepino i væksthus, Tomater i væksthus
+Bladlus
+0,75 kgAfgrødens stadium 13-48
+NB! 0,05 % koncentration, max. 750 g/ha
+Pirimor 500 WG
+kan udbringes med
+såvel tryksprøjte som
+tågeaggregater.
+Pirimor 500 WG er
+forenelig med biologisk
+insektbekæmpelse.
+Max. 2 sprøjtninger på
+afgrøden med 10-12 dages
+interval.
+Vandmængde:
+600-1500 L/ha.
+Karse i væksthus, Rucola i væksthus, Salat i væksthus
+Bladlus
+0,3 kgAfgrødens stadium 13-48
+Max. 2 behandlinger med
+10-12 dages interval.
+Vandmængde:
+400-1000 L/ha.
+Dild i væksthus, Krydderurter i væksthus, Kørvel i væksthus, Persille i væksthus, Purløg i væksthus
+Bladlus
+0,3 kgAfgrødens stadium 13-48
+Max. 2 behandlinger med 10-12 dages interval.
+Vandmængde: 400-1000 l/ha.
+Jordbær i væksthus
+Bladlus
+0,3 kgSe bemærkninger
+Afgrødens vækststadie BBCH 10-81 og 91-97.
+Max. 2 behandlinger med 10-12 dages interval.
+Vandmængde: 400-1000 l/ha.
+Effekt
+Effekt på nyttedyr
+Pirimor 500 WG er skånsomt over for bier og rovinsekter som: mariehøns, løbebiller, rovbiller, guldøjer, snyltehvepse og edderkopper.
+Virkning på efterfølgende afgrøde
+Ingen oplysninger.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+10-12
+ºC
+15
+ºC
+25-27
+ºC
+Timers tørvejr
+1
+
+2
+
+Andet
+Stille vejr efter sprøjtning fremmer dampvirkningen.
+Virkemåde
+Pirimor 500 WG angriber bladlusens nervesystem, og bladlusen
+dør hurtigt. Pirimor 500 WG rammer bladlusene på flere måder:
+Direkte kontakt: Bekæmper bladlus, der bliver ramt af
+sprøjtevæsken.
+Dampvirkning: Bekæmper bladlus, der sidder skjult
+f.eks. mellem blade eller i bunden af afgrøden.
+Gennemtrængningseffekt: Bekæmper bladlus, der
+suger på undersiden af blade.
+Endelig vil bladlusenes naturlige fjender, som skånes
+af Pirimor 500 WG, medvirke til at reducere størrelsen af et
+eventuelt nyt bladlusangreb. (Se arter under miljøafsnit.)
+Pirimor 500 WG bekæmper de bladlusarter, der normalt
+angriber landbrugs- og gartneriafgrøder, men har
+nedsat effekt mod: Multi-resistente ferskenbladlus
+(Myzus persicae), agurkbladlus (Aphis gossypii),
+nasturiebladlus (Aphis nasturtii) og tørstetræbladlus
+(Aphis frangulae). De med fed skrift fremhævede
+arter vil kunne
+Sikkerhed
+Fareklasse
+GHS06
+Giftig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Generelt:
+Første forgiftningssymptomer: Tåreflod, smerter i øjnene, klemmen for brystet, sved, kvalme, opkastning, krampeagtige smerter i maven, diarré og mathed.
+Hud:
+Irriterer huden. Virkstoffet kan give overfølsomhed ved kontakt med huden.
+Indånding:
+Indånding af sprøjtetågen kan forårsage irritation af slimhinder og lunger samt give hovedpine.
+Øjne:
+Er svagt øjeirriterende.
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller
+etiketten (P101) • I TILFÆLDE AF INDTAGELSE: Ring omgående til en
+GIFTINFORMATION eller en læge. Skyl munden (P301+P310+P330) •
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352) •
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at
+vejrtrækningen lettes. (P304+P340). Ring til GIFTLINJEN/læge i tilfælde
+af ubehag (P312) • VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand
+i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let.
+Fortsæt skylning (P305+P351+P338) • VED eksponering eller mistanke om
+eksponering: Søg lægehjælp (P308+P313) • Søg lægehjælp ved ubehag
+(P314) • Ved hudirritation eller udslet: Søg lægehjælp (P333+P313) • Ved
+vedvarende øjenirritation: Søg lægehjælp (P337+P313) • Alt tilsmudset tøj
+tages af og vaskes inden genanvendelse (P362+P364) • Nødtelefon: Alarm
+112, Giftlinjen (Bispebjerg Hospital) 82 12 12 12.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H301
+Giftig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+H332
+Farlig ved indånding.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P260
+Indånd ikke spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P301+P310+P330
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Skyl munden.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P304+P340
+VED INDÅNDING: Flyt personen til et sted med frisk luft og sørg for, at vedkommende hviler i en stilling, som letter vejrtrækningen.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P312
+I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P314
+Søg lægehjælp ved ubehag.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+2757
+RID_ADR
+6.1, III
+IMDG
+6.1, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Pirimor 500 WG
+Sikkerhedsdatablad
+Pirimor 500 WG
+Vejledning i Planteværn
+2026
+Side 405 til 408
+VP26s405-408.pdf.pdf--
+Side 405 til 408--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Pirimor_500_WG_396-78_Godkendt_Etikette_20191120.pdf
