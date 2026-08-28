@@ -1,0 +1,582 @@
+Stomp CS - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Stomp CS
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+10 l
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Stomp CS
+Anvendes indenfor
+Frilandsgartneri, Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+380,00 kr/l
+&nbsp()
+Formulering
+Kapselsuspension
+Status
+Markedsført
+Indhold af aktivstoffer
+455 g/l
+pendimethalin
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+3,52 l/ha
+0,284 BI/l
+Grøntsager
+4,40 l/ha
+0,228 BI/l
+Kartofler
+2,20 l/ha
+0,455 BI/l
+Majs
+3,52 l/ha
+0,284 BI/l
+Vinterraps
+1,76 l/ha
+0,569 BI/l
+Vintersæd
+3,52 l/ha
+0,284 BI/l
+Vårsæd
+1,76 l/ha
+0,569 BI/l
+Ærter
+1,32 l/ha
+0,758 BI/l
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+2,23 l/ha
+0,449 B/l
+Miljøadfærd
+1,13 l/ha
+0,886 B/l
+Miljøeffekt
+7,48 l/ha
+0,134 B/l
+I alt
+0,681 l/ha
+1,47 B/l
+
+Pesticidafgift: 215 kr. pr. l
+Godkendelse
+Registreringsnummer
+19-205
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vintersæd, vinterraps, gulerødder, persillerod, kløvergræs, dild, purløg, porre,
+fodermajs med og uden udlæg af rajgræs, løg, friske ærter med og uden bælg, tørrede ærter, kartofler, hestebønner,
+grønne bønner med bælg, kål, blomsterløg og planteskolekulturer på friland, samt i vårbyg og vårhvede med udlæg af
+ærter, kløvergræs eller kløver/lucerne.
+Behandlingsfrist
+Må i gulerod og persillerod ikke anvendes senere end 90 dage før høst.
+Må i kløvergræs ikke anvendes senere end 42 dage før høst.
+Må i dild ikke anvendes senere end 49 dage før høst.
+Må i løg, porre og purløg ikke anvendes senere end 56 dage før høst.
+Må i fodermajs med eller uden undersået rajgræs ikke anvendes senere end 90 dage før høst.
+Må i friske ærter med og uden bælg ikke anvendes senere end 42 dage før høst.
+Må i tørrede ærter ikke anvendes senere end 42 dage før høst.
+Må i kartofler ikke anvendes senere end 45 dage før høst.
+Forbehold
+Brugsanvisningens angivelser skal overholdes.
+For at beskytte grundvandet må dette eller andre produkter indeholdende pendimethalin kun anvendes 1 gang på samme areal pr. vækstår (1. august - 31. juli) (SPe1).
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares under lås og utilgængeligt for børn (P405+P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i vinterraps ikke anvendes nærmere end 5 meter fra vandmiljøet (vandløb, søer mv) for at beskytte organismer, der lever i vand (Spe3).
+Må i vårbyg, vårhvede, kløvergræs, fodermajs, ærter, kartofler, vintersæd og hestebønner ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer mv) for at beskytte organismer, der lever i vand (Spe3).
+Må i gulerødder, persillerod, dild, purløg, porre, løg, grønne bønner, kål, blomsterløg og planteskolekulturer ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv) for at beskytte organismer, der lever i vand (Spe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en - og tokimbladet ukrudt i diverse blomsterfrø
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i etableret frøgræs, efter høst af dæksæd eller flere års frøgræsmarker
+Udl&#230;g af kl&#248;vergr&#230;s uden d&#230;ks&#230;d','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i udlæg af græs og kløvergræs uden dæksæd efterår/forår
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i pil
+Energipoppel','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i poppel og el til energiproduktion
+Hybridrajgr&#230;sItaliensk rajgr&#230;s','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i alm.-, ital,- og hybridrajgræs til frøproduktion udlagt i efteråret
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i skorzonerrod til frøproduktion
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i kål til frøavl
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i humlesneglebælg til frøproduktion
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i hestebønner
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i udlæg af lucerne uden dæksæd efterår/forår
+BroccoliHvidk&#229;lRosenk&#229;lR&#248;dk&#229;lSavoyk&#229;lSpidsk&#229;l','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod ukrudt i hvidkål, rødkål, spidskål, savoykål, rosenkål, blomkål og broccoli
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod ukrudt i persille på friland
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS til mindre anvendelse mod ukrudt i elefantgræs til tækkerør
+Hindb&#230;r','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod ukrudt i hindbær og brombær
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Command CS (19-109) og Stomp CS (19-205) til mindre anvendelse mod ukrudt i vinterraps
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod en- og tokimbladet ukrudt i udlæg af lucerne uden dæksæd efterår/forår
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod ukrudt i pastinak (produkt er nu regelret godkendt i persillerod)
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af Stomp CS, reg.nr. 19-205, til mindre anvendelse mod ukrudt i jordbær på friland, vejledning findes på Stomp CS-etiketten.
+Byg/&#230;rt hels&#230;dByghels&#230;dB&#248;nnerDildFodermajsGuler&#248;dderHesteb&#248;nnerKartoflerKl&#248;vergr&#230;sKl&#248;vergr&#230;s udlagt i renbestandK&#229;lL&#248;gMajs med udl&#230;g af rajgr&#230;sPersillerod (rodpersille)Planteskolekulturer p&#229; frilandPorrerPurl&#248;gVinterrapsVinters&#230;dV&#229;rbygV&#229;rbyg med udl&#230;g af kl&#248;verV&#229;rbyg med udl&#230;g af kl&#248;ver og gr&#230;s til fr&#248;V&#229;rbyg med udl&#230;g af kl&#248;vergr&#230;sV&#229;rbyg med udl&#230;g af lucerneV&#229;rbyg med udl&#230;g af &#230;rterV&#229;rhvedeV&#229;rhvede med udl&#230;g af kl&#248;verV&#229;rhvede med udl&#230;g af kl&#248;ver og gr&#230;s til fr&#248;V&#229;rhvede med udl&#230;g af kl&#248;vergr&#230;sV&#229;rhvede med udl&#230;g af lucerneV&#229;rhvede med udl&#230;g af &#230;rter&#198;rtehels&#230;d&#198;rter','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Stomp CS, reg.nr. 19-205, fornyet godkendelse
+Anvendelse
+Resistensrisiko
+For mange herbicider er der risiko for forekomst af biotyper, der er modstandsdygtige (resistente)
+overfor de anvendte aktivstoffer. Stomp CS består af aktivstoffet pendimethalin.
+Pendimethalin tilhører gruppen af dinitroanilin herbicider (HRAC gruppe 3 (tidligere K1)), som vurderes at have lav risiko for udvikling af resistens.
+Gentagne behandlinger med midler med samme virkemekanisme øger risikoen for udvikling af resistens.
+Aktivstoffet i Stomp CS pendimethalin har været anvendt i adskillige år i Danmark uden at der er konstateret resistente ukrudtsarter. Skift mellem midler med andre virkemekanismer, som har god effekt over for de aktuelle arter, vil dog altid være at anbefale.
+Risikoen for resistens hos herbicider kan nedsættes ved sprøjtning på små planter tidligt i vækstperioden.
+Resistensklasse
+K1 / 3
+Virkning
+Midlet har systemisk virkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Stomp CS kan blandes med andre plantebeskyttelsesmidler. For eventuelle blandingsmuligheder bør lokal vejledning eller rådgivning følges.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller på vaskepladsen. En
+uvasket sprøjte skal placeres i den behandlede mark, på vaskepladsen eller under tag.
+Sprøjten skal være monteret med spuledyser til indvendig rengøring af tanken og med separat vandtank
+med tilstrækkelig kapacitet, således at restsprøjtevæske kan fortyndes, og der kan foretages en grundig
+rengøring i marken. Restsprøjtevæske skal fortyndes mindst 50 gange med vand og udsprøjtes i den
+behandlede mark under kørsel (uden at den maksimalt tilladte dosering for det pågældende middel
+herved overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt. etiketten på det sidst anvendte
+middel for specifikke anvisninger) samtidig med at filtre, slanger og dyser kontrolleres for urenheder og
+eventuelle belægninger. Vaskevandet opsamles i egnede beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøministeriets vejledning om påfyldning og vask af sprøjter til udbringning af
+bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Stomp CS bør opbevares frostfrist i uåbnet original emballage beskyttet mod direkte sollys og andre varmekilder og ikke over 40 °C. Ved korrekt opbevaring er produktet holdbart i minimum 2 år fra produktionsdatoen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Adimax, Atlantis OD, Basagran SG, Boxer, Callisto, Centium 36 CS, Command CS, Fenix, Fighter 480, Kalif 360 CS, LFS Aclonifen, MaisTer, Pico 750 WG, Primera Super, Starane 333 HL, Manganchelat 8% Mn, YaraVita Bortrac, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita KombiPhos, YaraVita Magtrac, YaraVita Mantrac Pro
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Accurate Max, ATR Clomazon 360 CS, Clomate, DFF, Flurostar Forte, Lamdex, Metaxon, Sempra SC, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Mateno Duo SC 600
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Vinterraps
+Kornvalmue
+0,44 lEfterår umiddelbart efter såning og senest 3 dage efter såning
+Maksimalt 1 behandling pr sæson. Sprøjtefrist bestemt af anvendelsestidspunkt. For at opnå bredest mulig ukrudtseffekt anvendes Stomp CS i vinterraps normalt i blanding med Command CS. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Vintersæd
+Tokimbladet ukrudt
+1 lEfterår på afgrødens stadium 10-12
+Maksimalt 1 behandling pr sæson. Sprøjtefrist bestemt af anvendelsestidspunkt. Stomp CS anvendes om efteråret i kornets vækststadium 10-12 (så snart sprøjtespor kan ses). Fugtig jord
+fremmer virkningen, men Stomp CS bør altid udbringes tidligt i vækstsæsonen og uafhængigt af fugtighed i jorden. Stomp CS nedbrydes ikke af sollyset, hvorved produktet også virker efter en længere tør periode. Pga. At Stomp CS for en stor dels vedkommende optages via rødderne kan produktet udbringes under fugtige
+forhold, men da Stomp CS ofte udbringes i tankblandinger er det vigtigt at kontrollere blandingspartnerens krav til tørvejrsperiode efter udsprøjtnjng.
+Virkningen på humusholdig jord kan være nedsat pga. at aktivstoffet bindes til det organiske materiale. Store
+mængder af planterester kan forårsage uens fordeling af produktet og deraf følgende uens virkning. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Vårbyg, Vårbyg med udlæg af kløver, Vårbyg med udlæg af kløvergræs, Vårbyg med udlæg af lucerne, Vårhvede, Vårhvede med udlæg af kløver, Vårhvede med udlæg af kløvergræs, Vårhvede med udlæg af lucerne
+Tokimbladet ukrudt
+1 lAfgrødens stadium 11-13
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 6 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Byg/ært helsæd
+Tokimbladet ukrudt
+1 lAfgrødens stadium 11-13
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 6 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Kløvergræs, Udlæg af kløvergræs uden dæksæd
+Tokimbladet ukrudt
+1 lAfgrødens stadium 11-13
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 6 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Grønne ærter, Ærter til modenhed
+Tokimbladet ukrudt
+1 lÉn behandling, når ærterne er 2-3 cm høje
+Sprøjtefrist 6 uger. En eventuel tromling af ærterne bør foretages inden behandling med Stomp CS. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Grønne ærter, Ærter til modenhed
+Tokimbladet ukrudt
+0,5 lFørste behandling, når ærterne er 2-3 cm høje
+Sprøjtefrist 6 uger. En eventuel tromling af ærterne bør foretages inden behandling med Stomp CS. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+0,5 lAnden behandling, når ærterne er 4-6 cm høje
+Majs, Majs med udlæg af rajgræs
+Tokimbladet ukrudt
+1 lForår fra umiddelbart efter såning (stadium 00) til afgrødens stadium 13
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 3 mdr. Én behandling med Stomp CS i majs vil normalt ikke give en tilstrækkelig kontrol af ukrudt, hvorfor anvendelse af Stomp CS i majs vil være i kombination med andre midler. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Kartofler
+Tokimbladet ukrudt
+1 lFør afgrødens fremspiring
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 45 dage. Én behandling med Stomp CS i kartofler vil normalt ikke give en tilstrækkelig kontrol af ukrudt, hvorfor anvendelse af Stomp CS i kartofler vil være i kombination med andre midler. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Gulerødder
+Tokimbladet ukrudt
+1,6 lFør afgrødens fremspiring
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 3 mdr. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Løg, Porrer, Purløg
+Tokimbladet ukrudt
+1,6 lSe bemærkninger
+NB! Såede kulturer. Der behandles, før fremspiring eller når afgrøden er 6-8 cm. Maksimalt 1 behandling pr sæson. Sprøjtefrist 8 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Såløg
+Tokimbladet ukrudt
+1,6 lAfgrødens stadium 10-11
+NB! Der behandles på 1-bladstadiet. Maksimalt 1 behandling pr sæson. Sprøjtefrist 8 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Løg, Porrer
+Tokimbladet ukrudt
+1,6 lSe bemærkninger
+NB! Plantede kulturer. Der behandles, når planterne er 8-15 cm høje. Maksimalt 1 behandling pr sæson. Sprøjtefrist 8 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Dild
+Tokimbladet ukrudt
+1,6 lFør afgrødens fremspiring
+Maksimalt 1 behandling pr sæson. Sprøjtefrist 7 uger. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Blomsterløg
+Tokimbladet ukrudt
+1,6 lEfter plantning
+Maksimalt 1 behandling pr sæson. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Planteskolekulturer
+Tokimbladet ukrudt
+1,6 lSe bemærkninger
+NB! Der behandles om vinteren, før ukrudtet spirer frem. Maksimalt 1 behandling pr sæson. NB! Denne anvisning gælder Stomp CS med etiket fra før - tjek altid etiketten før brug..
+Grønne ærter, Ærter til modenhed
+Tokimbladet ukrudt
+1 lAfgrødens stadium 00-13
+Maksimalt 1 behandling pr vækstår. Ikke senere end 42 dage før høst. Vandmængde 100-400 L/ha NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Hestebønner
+Tokimbladet ukrudt
+1 lAfgrødens stadium 00-13
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-400 L/ha NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Kartofler
+Tokimbladet ukrudt
+1 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Ikke senere end 45 dage før høst. Vandmængde 200-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Gulerødder, Persillerod (rodpersille)
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Ikke senere end 90 dage før høst. Vandmængde 100-200 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Dild
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Ikke senere end 49 dage før høst. Vandmængde 100-200 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Løg, Porrer
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-14
+Såede eller udplantede løg og porrer. Maksimalt 1 behandling pr vækstår.Ikke senere end 56 dage før høst. Vandmængder 100-200 L/ha i såede afgrøder og 100-400 L/ha i udplantede afgrøder. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Purløg
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-14
+Såede purløg. Maksimalt 1 behandling pr vækstår.Ikke senere end 56 dage før høst. Vandmængder 100-200 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Vintersæd
+Tokimbladet ukrudt
+1 lEfterår på afgrødens stadium 10-12
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-250 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Vinterraps
+Tokimbladet ukrudt
+0,44 lEfterår på afgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-300 L/ha NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Vårbyg med udlæg af kløver, Vårbyg med udlæg af kløvergræs, Vårbyg med udlæg af lucerne, Vårbyg med udlæg af ærter, Vårhvede med udlæg af kløver, Vårhvede med udlæg af kløvergræs, Vårhvede med udlæg af lucerne, Vårhvede med udlæg af ærter
+Tokimbladet ukrudt
+0,9 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Vårbyg med udlæg af kløver, Vårbyg med udlæg af kløvergræs, Vårbyg med udlæg af lucerne, Vårbyg med udlæg af ærter, Vårhvede med udlæg af kløver, Vårhvede med udlæg af kløvergræs, Vårhvede med udlæg af lucerne, Vårhvede med udlæg af ærter
+Tokimbladet ukrudt
+1 lAfgrødens stadium 10-13
+Maksimalt 1 behandling pr vækstår. Vandmængder 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Kløvergræs udlagt i renbestand
+Tokimbladet ukrudt
+1 lAfgrødens stadium 11-13
+Maksimalt 1 behandling pr vækstår. Vandmængder 100-200 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Fodermajs, Fodermajs med udlæg af rajgræs
+Tokimbladet ukrudt
+1 lAfgrødens stadium 00-13
+Maksimalt 1 behandling pr vækstår. Ikke senere end 90 dage før høst. Vandmængde 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Havebønner
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Havebønner
+Enårig rapgræs, tokimbladet ukrudt
+1,45 lAfgrødens stadium 10-13
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Kål
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lFør udplantning
+Maksimalt 1 behandling pr vækstår. Vandmængde 100-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Planteskolekulturer på friland
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lFør ukrudtets fremspiring
+Behandling vinter før fremspiring af ukrudt. Maksimalt 1 behandling pr vækstår. Vandmængde 100-200 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Blomsterløg
+Enårig rapgræs, tokimbladet ukrudt
+1,6 lAfgrødens stadium 00-09
+Maksimalt 1 behandling pr vækstår. Vandmængde 200-400 L/ha. NB! Denne anvisning gælder Stomp CS med etiket fra eller senere - tjek altid etiketten før brug..
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+I tilfælde af udvintring af vintersæd kan der efter harvning i min 15 cm dybde sås vårhvede og vårbyg og efter pløjning kan der sås majs, ærter, kartofler, kløver og hestebønner.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+0
+ºC
+5-15
+ºC
+25
+ºC
+Luftfugtighed
+50
+%
+60-90
+%
+
+Jordfugtighed
+
+god
+
+Timers tørvejr
+2
+
+4
+
+6
+
+Virkemåde
+Aktivstoffet pendimethalin optages primært via rødderne og virker ved at blokere celledelingen
+hvorved strækningsvæksten og rodudviklingen standser. Følsomme planter vil ofte få et mørkegrønt kompakt
+udseende kort tid efter behandling, inden de senere dør og forsvinder.
+Effektoversigt:
+Problem
+Dosis
+Effekt1)
+Kilde
+Bemærkninger
+Agerstedmoder
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Enårig rapgræs
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Fuglegræs
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Hyrdetaske
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Kornvalmue
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Markforglemmigej
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Raps
+1 l/ha
+BASF (Stomp CS-etiketten)
+60-85% effekt
+Storkenæb
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Storkronet ærenpris
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Tvetand
+1 l/ha
+BASF (Stomp CS-etiketten)
+85% effekt
+Vindaks
+1 l/ha
+BASF (Stomp CS-etiketten)
+60-85% effekt
+1) ()
+Utilstrækkelig effekt eller effekt ikke belyst
+, ()
+Under 50% effekt
+, ()
+50-70% effekt
+, ()
+71-85% effekt
+, ()
+86-95% effekt
+, ()
+Over 95% effekt
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, helmaske.
+Filtertype A2P3
+Beskyttelsesdragt uden hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Nødstilfælde: Giftlinjen tlf.: 82121212 (24 timers service), Internationale BASF vagt.: +49 180 2273-112
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH204
+Indeholder isocyanater. Kan udløse allergisk reaktion.
+EUH208
+Indeholder 1,2-benzisothiazolin-3-one (BIT). Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H361d
+Mistænkt for at skade det ufødte barn.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Stomp CS
+Sikkerhedsdatablad
+Stomp CS
+Vejledning i Planteværn
+2026
+Side 395 til 398
+VP26s395-398.pdf.pdf--
+Side 395 til 398--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Stomp_CS_19-205_Godkendt_Etikette_20260204.pdf
