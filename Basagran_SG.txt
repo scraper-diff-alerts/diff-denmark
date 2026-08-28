@@ -1,0 +1,380 @@
+Basagran SG - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Basagran SG
+Ukrudtsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+3 kg
+Registreringsindehaver
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Distributør
+2300 København STlf: 32 66 07 00Fax: 32 96 35 20Mail: agro.nordic-baltic@nordic.basf.org','BASF A/S'); return true;" onmouseout="nd(); return true;" href="Http://www.agro.basf.dk/da/" target="_new"BASF A/S
+Firmaets produktside
+Basagran SG
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+630,00 kr/kg
+&nbsp()
+Formulering
+Vandopløseligt granulat
+Status
+Markedsført
+Indhold af aktivstoffer
+870 g/kg
+bentazon
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Andre frø
+1,66 kg/ha
+0,604 BI/kg
+Græs og kløver
+1,10 kg/ha
+0,906 BI/kg
+Majs
+0,575 kg/ha
+1,74 BI/kg
+(Vintersæd)
+0,828 kg/ha
+1,21 BI/kg
+Vårsæd
+0,828 kg/ha
+1,21 BI/kg
+Ærter
+0,552 kg/ha
+1,81 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,77 kg/ha
+0,565 B/kg
+Miljøadfærd
+1,93 kg/ha
+0,519 B/kg
+Miljøeffekt
+5,40 kg/ha
+0,185 B/kg
+I alt
+0,788 kg/ha
+1,27 B/kg
+
+Pesticidafgift: 196 kr. pr. kg
+Godkendelse
+Registreringsnummer
+19-168
+Miljøstyrelsens godkendelse
+Må kun anvendes til ukrudtsbekæmpelse i vårsæd med udlæg, ærter, hestebønner, kløver til frø, majs, frøgræs samt græs- og kløvergræsmarker til slæt og/eller afgræsning.
+Behandlingsfrist
+Må i friske ærter med og uden bælg samt tørrede ærter og bønner ikke anvendes senere end BBCH 12. Må i foder- og sukkermajs ikke anvendes senere end BBCH 19. Må i vårhvede, vårhavre og vårbyg med undersået kløver eller kløvergræs ikke anvendes senere end BBCH 14.
+Forbehold
+Brugsanvisningens doseringsangivelser må ikke overskrides. For at beskytte grundvandet må dette produkt eller andre produkter der indeholder bentazon, kun anvendes 1 gang om året forår-sommer i de i brugsanvisningen anførte samlede maksimale doseringer for aktivstoffet. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand. Opbevares under lås og utilgængeligt for børn (P405+P102). Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer. Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må ikke anvendes nærmere end 5 meter fra §3-områder for at beskytte vilde planter (SPe3). Må ikke anvendes nærmere end 1 meter fra §3-områder for at beskytte vilde planter ved split behandling (SPe3).
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 1 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Byg/&#230;rt hels&#230;d med udl&#230;g af kl&#248;vergr&#230;sFodermajsFriske &#230;rter (med og uden b&#230;lg)Fr&#248;gr&#230;sGr&#230;sHavre med udl&#230;g af fr&#248;gr&#230;sHavre med udl&#230;g af gr&#230;sHavre med udl&#230;g af kl&#248;verHavre med udl&#230;g af kl&#248;vergr&#230;sHavrehels&#230;d med udl&#230;gHesteb&#248;nnerKl&#248;ver til fr&#248;SukkermajsV&#229;rbyg med udl&#230;g af gr&#230;sV&#229;rbyg med udl&#230;g af gr&#230;s til fr&#248;V&#229;rbyg med udl&#230;g af kl&#248;verV&#229;rbyg med udl&#230;g af kl&#248;ver og engrapgr&#230;s til fr&#248;V&#229;rbyg med udl&#230;g af kl&#248;vergr&#230;sV&#229;rbyghels&#230;dV&#229;rbyghels&#230;d med kl&#248;vergr&#230;sudl&#230;gV&#229;rhvede med udl&#230;g af gr&#230;sV&#229;rhvede med udl&#230;g af kl&#248;verV&#229;rhvede med udl&#230;g af kl&#248;vergr&#230;sV&#229;rhvedehels&#230;d med udl&#230;g&#198;rter&#198;rter til modenhed','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Basagran SG (BAS 351 45 H), reg.nr. 19-168
+Anvendelse
+Resistensrisiko
+For mange herbicider er der risiko for forekomst af biotyper, der er modstandsdygtige
+(resistente) overfor de anvendte aktivstoffer.
+Bentazon tilhører gruppen af benzothiadiazinoner, der fungerer ved at hæmme
+fotosyntesen (HRAC gruppe 6), som vurderes at have lav risiko for udvikling af resistens.
+I Danmark er der ikke konstateret vigende effekter overfor bentazon.
+For generelt at mindske risikoen for udvikling af resistens anbefales det at blande med
+eller skifte mellem midler med andre virkemekanismer, som har god effekt over for de
+aktuelle arter.
+Resistensklasse
+C3 / 6
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Sørg altid for at sprøjten er korrekt rengjort samt efterset for belægninger inden
+tilberedning af sprøjtevæsken begyndes. Dette gælder især, hvis sprøjten har været
+anvendt til sprøjteopgaver i andre afgrøder.
+For granulatprodukter som Basagran SG er det vigtigt, at produktet påfyldes i en lind
+strøm der passer med vandets flow i præparatfyldeudstyret.
+Præparatfyldeudstyr:
+Ved anvendelse af præparatfyldeudstyr påfyldes den ønskede mængde præparat, som
+herefter suges op i sprøjtetanken. Efterfølgende skylles præparatfyldeudstyret, samt
+tomme dunke/beholdere. Gentag proceduren med at åbne/lukke for bundventil til der
+ikke er synlige spor af Basagran SG i fyldestationen.
+Generelt bør der være konstant omrøring under udbringning og kørsel og sprøjtevæsken
+udsprøjtes straks efter tilberedningen.
+Rengøring
+Efter endt sprøjtearbejde skal sprøjten og traktor rengøres enten i marken eller
+på vaskepladsen. En uvasket sprøjte skal placeres i den behandlede mark, på
+vaskepladsen eller under tag.
+Sprøjten skal være monteret med spuledyser til indvendig rengøring af tanken og
+med separat vandtank med tilstrækkelig kapacitet, således at restsprøjtevæske kan
+fortyndes, og der kan foretages en grundig rengøring i marken. Restsprøjtevæske skal
+fortyndes mindst 50 gange med vand og udsprøjtes i den behandlede mark under
+kørsel (uden at den maksimalt tilladte dosering for det pågældende middel herved
+overskrides).
+Rengøring i øvrigt foretages med egnede rengøringsmidler (se evt. etiketten på det sidst
+anvendte middel for specifikke anvisninger) samtidig med at filtre, slanger og dyser
+kontrolleres for urenheder og eventuelle belægninger. Vaskevandet opsamles i egnede
+beholdere og udbringes iht. gældende regler.
+I øvrigt henvises til Miljøministeriets vejledning om påfyldning og vask af sprøjter til
+udbringning af bekæmpelsesmidler, jf. Miljøministeriets bekendtgørelse nr. 1401 af .
+Opbevaring
+Produktet bør opbevares frostfrit i uåbnet original emballage beskyttet mod direkte
+sollys og andre varme kilder og ikke over 40 °C. Ved korrekt opbevaring er produktet holdbart i minimum 2 år fra produktionsdatoen.
+Basagran SG må kun opbevares i originalemballagen.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ally 20 SX, Boxer, Express 50 SX, Fenix, Harmony 50 SX, Kaiso Sorbie, Lamdex, Pirimor 500 WG, Starane 333 HL, Stomp CS, Manganchelat 8% Mn, YaraVita Bortrac, YaraVita Brassitrel Pro, YaraVita Coptrac 500, Yaravita Gramitrel, YaraVita Magtrac, YaraVita Mantrac Pro, YaraVita Zintrac
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Flurostar Forte, Tocalis, Mangansulfat 32
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Onyx EC
+Blandingspartnere, som der IKKE bør blandes med
+Foxtrot, YaraVita KombiPhos
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Hestebønner
+Tokimbladet ukrudt
+0,6 kgAfgrødens stadium 10-12
+Maks. 1 behandling.
+Friske ærter (med og uden bælg)
+Tokimbladet ukrudt
+0,6 kg + 0,5 l OlieAfgrødens stadium 10-12
+Enkelt sprøjtning. Maks. 1 behandling.
+Friske ærter (med og uden bælg)
+Tokimbladet ukrudt
+0,2 kg + 0,5 l OlieAfgrødens stadium 10-12
+Delt sprøjtning (splitsprøjtning) på afgrødens vækststadie 10-12, 7-14 dages interval mellem behandlinger.
+0,3 kg + 0,5 l Olie2. sprøjtning
+Ærter til modenhed
+Tokimbladet ukrudt
+0,6 kg + 0,5 l OlieAfgrødens stadium 10-12
+Enkelt sprøjtning. Maks. 1 behandling.
+Ærter til modenhed
+Tokimbladet ukrudt
+0,2 kg + 0,5 l OlieAfgrødens stadium 10-12
+Delt sprøjtning (splitsprøjtning) på afgrødens vækststadie 10-12, 7-14 dages interval mellem behandlinger.
+0,3 kg + 0,5 l Olie2. sprøjtning
+Fodermajs, Sukkermajs
+Tokimbladet ukrudt
+0,6 kg + 0,5 l OlieAfgrødens stadium 12-19
+Enkelt sprøjtning. Maks. 1 behandling.
+Fodermajs, Sukkermajs
+Tokimbladet ukrudt
+0,2 kg + 0,5 l OlieAfgrødens stadium 12-19
+Delt sprøjtning (splitsprøjtning) på afgrødens vækststadie 12-19, 7-14 dages interval mellem behandlinger.
+0,3 kg + 0,5 l Olie2. sprøjtning
+Vårbyg med udlæg af kløver, Vårbyg med udlæg af kløvergræs, Vårhavre med udlæg af kløver, Vårhavre med udlæg af kløvergræs, Vårhvede med udlæg af kløver, Vårhvede med udlæg af kløvergræs
+Tokimbladet ukrudt
+0,67 kg + 0,5 l OlieAfgrødens stadium 12-14
+Hvor udlægget (miks af græsser eller ærter) er til afgræsning eller ensilage. Maks. 1 behandling.
+Vårbyg med udlæg af græs til foder, Vårbyg med udlæg af græs til frø, Vårbyg med udlæg af kløver, Vårhavre med udlæg af græs, Vårhavre med udlæg af kløver, Vårhvede med udlæg af græs, Vårhvede med udlæg af kløver
+Tokimbladet ukrudt
+0,67 kg + 0,5 l OlieAfgrødens stadium 12-14
+Hvor udlægget er enkeltarter. Maks. 1 behandling.
+Hvidkløver til frøavl, Rødkløver til frøavl
+Tokimbladet ukrudt
+0,83 kg + 0,5 l OlieAfgrødens stadium 19-31
+Forårsanvendelse i høståret. Maks. en behandling.
+Frøgræs, Græs til afgræsning eller slæt (ensilage)
+Tokimbladet ukrudt
+0,81 kg + 0,5 l OlieAfgrødens stadium 30-32
+Forårsanvendelse i høståret. Maks. en behandling.
+Effekt
+Effekt på nyttedyr
+Ingen oplysninger
+Virkning på efterfølgende afgrøde
+Ingen.
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Temperatur
+12
+ºC
+20
+ºC
+25
+ºC
+Luftfugtighed
+60
+%
+70-90
+%
+
+Timers tørvejr
+2-3
+
+6
+
+Lysintensitet
+
+høj
+
+Virkemåde
+Bentazon er et bladmiddel der blokerer fotosyntesen i
+følsomme ukrudtsarter. Bentazon er et kontaktmiddel,
+der ikke transporteres rundt i planten. Midlet virker
+bedst på ukrudtets kimbladsstadie, ved temperaturer
+over 12°C, samt ved høj lysintensitet. Virkningen ses
+relativt hurtigt som en gul- eller brunfarvning med
+efterfølgende nedvisning af ukrudtet. Kornaf grøder tåler
+bentazon, fordi der sker en inaktivering i afgrøden, mens
+selektiviteten hos ærter delvis skyldes, at der afsættes
+mindre sprøjtemiddel på ærter end på ukrudt, fordi ærter
+er vanskeligere at befugte.
+Sikkerhed
+Fareklasse
+GHS05
+Ætsende
+
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Åndedrætsværn, halvmaske.
+Filtertype A2P3
+Forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Åndedrætsværn, halvmaske.
+Filtertype A2P2
+Beskyttelsesdragt med hætte
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten (P101).
+VED eksponering eller mistanke om eksponering: Søg lægehjælp (P308+P313).
+VED KONTAKT MED HUDEN: Vask med rigeligt vand (P302+P352).
+Ved hudirritation eller udslæt: Søg lægehjælp (P333+P313).
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern
+eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til
+GIFTLINJEN eller læge (P305+P351+P338+P310).
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse (P362+P364).
+Nødstilfælde: Giftlinjen tlf.: 82121212 (24 timers service), Internationale BASF
+vagt.: +49 180 2273-112
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+EUH451
+Kan forårsage meget langvarig og diffus forurening af vandressource
+H302
+Farlig ved indtagelse.
+H317
+Kan forårsage allergisk hudreaktion.
+H318
+Forårsager alvorlig øjenskade.
+H361d
+Mistænkt for at skade det ufødte barn.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338+P310
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning. Ring omgående til en GIFTINFORMATION eller en læge.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Basagran SG
+Sikkerhedsdatablad
+Basagran SG
+Vejledning i Planteværn
+2026
+Side 194 til 195
+VP26s194-195.pdf.pdf--
+Side 194 til 195--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Basagran_SG_19-168_Godkendt_Etikette_20230911.pdf
