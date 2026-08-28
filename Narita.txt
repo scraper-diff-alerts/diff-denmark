@@ -1,0 +1,190 @@
+Narita - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Narita
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+B-3803 Sint TruidenTlf: +32 11 78 57 17Fax: +32 11 68 15 65Mail: globachem@globachem.com','Globachem NV'); return true;" onmouseout="nd(); return true;" href="Http://www.globachem.com" target="_new"Globachem NV
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Landbrug
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Pris&nbsp(senest opdateret)
+350,00 kr/l
+&nbsp()
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+250 g/l
+difenoconazol
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+Kartofler
+0,600 l/ha
+1,67 BI/l
+(Roer)
+0,500 l/ha
+2,00 BI/l
+(Vinterraps)
+0,500 l/ha
+2,00 BI/l
+(Vintersæd)
+0,500 l/ha
+2,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+1,75 l/ha
+0,573 B/l
+Miljøadfærd
+3,53 l/ha
+0,283 B/l
+Miljøeffekt
+31,9 l/ha
+0,0314 B/l
+I alt
+1,13 l/ha
+0,887 B/l
+
+Pesticidafgift: 130 kr. pr. l
+Godkendelse
+Registreringsnummer
+613-11
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i kartofler.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 14 dage før høst, med mindst 10 dage mellem hver behandling.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+For at beskytte grundvandet må der højest anvendes de i brugsanvisningens angivne maksimale
+doseringer pr. vækstår (1. august - 31. juli). Der må endvidere i samme vækstår ikke også
+anvendes andre produkter, der indeholder mefentrifluconazol, tebuconazol eller difenoconazol
+med mindre doseringerne nedsættes tilsvarende. Hvis der anvendes flere produkter med
+disse stoffer skal doseringerne beregnes forholdsmæssigt ud fra aktivstoffernes respektive
+maksimale doser i de pågældende afgrøder eller afgrødestadier jf. brugsanvisningerne (SPe1).
+For at beskytte grundvandet må dette produkt maksimalt anvendes hvert tredje år på samme
+areal (Spe1).
+Opbevares under lås og utilgængeligt for
+børn (P405+P102).
+Må ikke opbevares sammen med fødevarer,
+drikkevarer og foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 10 meter fra vandmiljøet (vandløb, søer m.v.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Må ikke anvendes nærmere end 2 meter fra veje, boliger, institutioner og offentlige arealer for at beskytte beboere og forbipasserende.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Narita, reg.nr. 613-11, omklassificeret
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+GHS08
+Fare for kronisk sundhedsskade
+
+GHS09
+Miljøfarlig
+
+Signalord: FARE
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH066
+Gentagen kontakt kan give tør eller revnet hud.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H302
+Farlig ved indtagelse.
+H304
+Kan være livsfarligt, hvis det indtages og kommer i luftvejene.
+H319
+Forårsager alvorlig øjenirritation.
+H351
+Mistænkt for at fremkalde kræft.
+H410
+Meget giftig med langvarige virkninger for vandlevende organismer.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P270
+Der må ikke spises, drikkes eller ryges under brugen af dette produkt.
+P280
+Bær beskyttelseshandsker/beskyttelsestøj/ansigtsbeskyttelse.
+P301+P310+P331
+I TILFÆLDE AF INDTAGELSE: Ring omgående til en GIFTINFORMATION eller en læge. Fremkald IKKE opkastning
+P301+P312
+I TILFÆLDE AF INDTAGELSE: I tilfælde af ubehag ring til en GIFTINFORMATION eller en læge.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P308+P313
+VED eksponering eller mistanke om eksponering: Søg lægehjælp.
+P331
+Fremkald IKKE opkastning.
+P332+P313
+Ved hudirritation: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P391
+Udslip opsamles.
+P403+P233
+Opbevares på et godt ventileret sted. Hold beholderen tæt lukket.
+P405+P102
+Opbevares under lås og utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+3082
+RID_ADR
+9, III
+IMDG
+9, III
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Narita
+Sikkerhedsdatablad
+Narita
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/narita-label-dk.pdf
