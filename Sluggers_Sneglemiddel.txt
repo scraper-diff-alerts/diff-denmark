@@ -1,0 +1,160 @@
+Sluggers Sneglemiddel - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Sluggers Sneglemiddel
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+NG15 6DW NottinghamTlf: Fax: Mail: ','Doff Portland Limited'); return true;" onmouseout="nd(); return true;"Doff Portland Limited
+Distributør
+NG15 6DW NottinghamTlf: Fax: Mail: ','Doff Portland Limited'); return true;" onmouseout="nd(); return true;"Doff Portland Limited
+Anvendes indenfor
+Hus og have
+Brugergruppe
+Dette plantebeskyttelsesmiddel kan købes og anvendes af ikke-professionelle, f.eks. private haveejere, og kræver ikke autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Sneglekorn
+Status
+Markedsført
+Indhold af aktivstoffer
+10 g/kg
+jern(III)fosfat
+Parallelprodukt, identisk med Doff Sneglemiddel
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+24,8 kg/ha
+0,0404 BI/kg
+(Areal udenfor vækstsæsonen)
+24,8 kg/ha
+0,0404 BI/kg
+(Græs og kløver)
+24,8 kg/ha
+0,0404 BI/kg
+(Grøntsager)
+24,8 kg/ha
+0,0404 BI/kg
+(Kartofler)
+24,8 kg/ha
+0,0404 BI/kg
+(Majs)
+24,8 kg/ha
+0,0404 BI/kg
+(Roer)
+24,8 kg/ha
+0,0404 BI/kg
+(Vinterraps)
+24,8 kg/ha
+0,0404 BI/kg
+(Vintersæd)
+24,8 kg/ha
+0,0404 BI/kg
+(Vårraps)
+24,8 kg/ha
+0,0404 BI/kg
+(Vårsæd)
+24,8 kg/ha
+0,0404 BI/kg
+(Ærter)
+24,8 kg/ha
+0,0404 BI/kg
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 kg/ha
+0,0000 B/kg
+Miljøadfærd
+0,0000 kg/ha
+0,0000 B/kg
+Miljøeffekt
+57,9 kg/ha
+0,0173 B/kg
+I alt
+57,9 kg/ha
+0,0173 B/kg
+
+Pesticidafgift: 3 kr. pr. kg
+Godkendelse
+Registreringsnummer
+982-6
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af agersnegle og skovsnegle på dyrkede og udyrkede arealer i private haver og drivhuse.
+Behandlingsfrist
+Ingen.
+Forbehold
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare (EUH401).
+Brugsanvisningens anvisninger skal overholdes.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Midlet må kun opbevares i originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Godkendt
+
+Sluggers Sneglemiddel, reg.nr. 982-6
+Sikkerhed
+Fareklasse
+Intet piktogram
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ingen oplysninger
+RID_ADR
+Ingen oplysninger
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+Sluggers Sneglemiddel
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Sluggers_Sneglemiddel_982-6_Godkendt_Etikette_20260312.pdf
