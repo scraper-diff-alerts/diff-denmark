@@ -1,0 +1,166 @@
+LFS Pyraclostrobin - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+LFS Pyraclostrobin
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Der vises kun begrænsede informationer, da firmaet ikke har ønsket at bidrage økonomisk til vedligeholdelse af detaljerede informationer for dette produkt i Middeldatabasen. Kontakt venligst firmaet direkte, hvis du har behov for yderligere information om produktet.
+Almene oplysninger
+Registreringsindehaver
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Distributør
+6600 VejenTlf: 76 12 33 70Fax: 88 44 33 70Mail: sales@lfs-kemi.dk','LFS Kemi'); return true;" onmouseout="nd(); return true;" href="Http://www.lfs-kemi.dk" target="_new"LFS Kemi
+Anvendes indenfor
+Landbrug
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Endnu ikke markedsført
+Indhold af aktivstoffer
+250 g/l
+pyraclostrobin
+Parallelprodukt, identisk med Comet
+Behandlingsindeks:
+Afgrøde
+1 BI
+BI pr. enhed
+(Andre frø)
+1,00 l/ha
+1,00 BI/l
+(Grøntsager)
+1,00 l/ha
+1,00 BI/l
+(Kartofler)
+1,00 l/ha
+1,00 BI/l
+(Majs)
+1,00 l/ha
+1,00 BI/l
+(Roer)
+1,00 l/ha
+1,00 BI/l
+(Vinterraps)
+1,00 l/ha
+1,00 BI/l
+Vintersæd
+1,00 l/ha
+1,00 BI/l
+Vårsæd
+1,00 l/ha
+1,00 BI/l
+(Ærter)
+1,00 l/ha
+1,00 BI/l
+OBS: Midlet ikke godkendt til afgrøde(r) i parentes.
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+6,73 l/ha
+0,149 B/l
+Miljøadfærd
+6,88 l/ha
+0,145 B/l
+Miljøeffekt
+2,04 l/ha
+0,491 B/l
+I alt
+1,28 l/ha
+0,784 B/l
+
+Pesticidafgift: 115 kr. pr. l
+Godkendelse
+Registreringsnummer
+318-80
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme i korn.
+Behandlingsfrist
+Må ikke anvendes senere end 35 dage før høst i hvede, og må ikke anvendes senere end 42 dage før høst i byg, rug, triticale og havre.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte. Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand/undgå forurening via dræn fra gårdspladser og veje. Må ikke tømmes i kloakafløb. For at ungå udviklingen af resistens må dette produkt eller andre produkter, der indeholder pyraclostrobin ikke anvendes mere end 2 gange per sæson, i byg dog kun 1 gang per sæson. Opbevares utilgængeligt for børn. Må ikke opbevares sammen med nærings- og nydelsesmidler samt foderstoffer.
+Afstand til vandløb
+Må ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer m.v.).
+Afstand til §3-områder
+Ingen oplysninger
+Afstand til veje, beboelse mv.
+Ingen oplysninger
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+HavreHvedeRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+LFS Pyraclostrobin, reg.nr. 318-80
+HavreHvedeRugTriticale','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Afmeldt / registrering trukket
+
+LFS Pyraclostrobin, reg.nr. 318-80, afmeldt
+På forbudsliste
+
+LFS Pyraclostrobin, reg.nr. 318-80, Anvendelses- og besiddelsesforbud som følge af bestemmelserne i EU-forordning 1107/2009, der giver maksimalt 18 måneder til afvikling af restlagre efter udløb af godkendelse
+Sikkerhed
+Fareklasse
+Xn
+Sundhedsskadelig
+
+N
+Miljøfarlig
+
+Bifare
+Ikke farlig
+
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+R22
+Farlig ved indtagelse.
+R38
+Irriterer huden.
+R50/53
+Meget giftig for organismer, der lever i vand; kan forårsage uønskede langtidsvirkninger i vandmiljøet.
+R65
+Farlig: Kan give lungeskade ved indtagelse.
+S2
+Opbevares utilgængeligt for børn.
+S13
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+S23
+Undgå indånding af aerosoltåger.
+S24
+Undgå kontakt med huden.
+S28
+Kommer stoffet på huden vaskes straks med store mængder vand.
+Transport
+UN-nr.
+2902
+RID_ADR
+6.1
+IMDG
+Ingen oplysninger
+IATA
+Ingen oplysninger
+Yderligere oplysninger
+Etikette oplysninger
+LFS Pyraclostrobin
+Sikkerhedsdatablad
+Ingen oplysninger
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/LFS_Pyraclostrobin_318-80_Godkendt_Etikette_20140129.pdf
