@@ -1,0 +1,270 @@
+NeemAzal-T/S - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+NeemAzal-T/S
+Skadedyrsmiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+NeemAzal T/S
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+D-35633 LahnauTlf: Fax: Mail: ','Trifolio-M GmbH'); return true;" onmouseout="nd(); return true;" href="Http://www.trifolio-m.de" target="_new"Trifolio-M GmbH
+Distributør
+4330 HvalsøTlf: 46 49 11 71Fax: 46 49 11 70Mail: info@nordiskalkali.dk','Nordisk Alkali'); return true;" onmouseout="nd(); return true;" href="Http://www.nordiskalkali.dk" target="_new"Nordisk Alkali
+Anvendes indenfor
+Frugtavl, Landbrug, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+Ingen oplysninger
+Formulering
+Emulsionskoncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+10 g/l
+azadirachtin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+0,0000 l/ha
+0,0000 B/l
+Miljøadfærd
+599 l/ha
+0,0017 B/l
+Miljøeffekt
+276 l/ha
+0,0036 B/l
+I alt
+189 l/ha
+0,0053 B/l
+
+Pesticidafgift: 1 kr. pr. l
+Godkendelse
+Registreringsnummer
+643-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til insektbekæmpelse i kartofler og kernefrugt samt i tomater, auberginer, peberfrugter, agurker, drueagurker, courgetter, meloner, græskar og prydplanter i væksthuse.
+Behandlingsfrist
+Må i kartofler ikke anvendes senere end 4 dage før høst.
+Må i kernefrugt ikke anvendes senere end vækststadie 69.
+Må i tomater, auberginer, peberfrugter, agurker, drueagurker, courgetter, meloner, græskar ikke anvendes senere end 3 dage før høst.
+For at beskytte grundvandet må dette produkt kun anvendes en gang hvert 3. år i kernefrugt (SPe1).
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller med beholdere, der har indeholdt produktet. Rens ikke sprøjteudstyr nær overfladevand (SP1).
+Opbevares utilgængeligt for børn (P102).
+Må ikke opbevares sammen med fødevarer, drikkevarer og foderstoffer.
+Afstand til vandløb
+Må i kartofler ikke anvendes nærmere end 2 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Må i kernefrugt ikke anvendes nærmere end 20 meter fra vandmiljøet (vandløb, søer mv.) for at beskytte organismer, der lever i vand (SPe3).
+Afstand til §3-områder
+Må kernefrugt ikke anvendes nærmere end 20 meter fra §3-områder for at beskytte insekter og leddyr (SPe3).
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+Aubergine i v&#230;ksthusCourgetter i v&#230;ksthusDrueagurk i v&#230;ksthusGr&#230;skar i v&#230;ksthusKartoflerMelon i v&#230;ksthusPeber i v&#230;ksthusPrydplanter i v&#230;ksthusTomater i v&#230;ksthus&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+NeemAzal-T/S, reg.nr. 643-1
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal-T/S (reg.nr. 643-1) til mindre anvendelse mod insekter i væksthusgrøntsager i åbne væksthuse
+Prydplanter i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal T/S (reg.nr. 643-1) til mindre anvendelse mod insekter i prydplanter og planteskolekulturer dyrket i potter i åbne væksthuse
+Mindre anvendelse / Off-label godk.
+
+Godkendelse af NeemAzal-T/S (reg.nr. 643-1) til mindre anvendelse mod bladlus og trips i jordbær på friland
+Anvendelse
+Resistensrisiko
+Ingen oplysninger
+Resistensklasse
+Uklass.
+Afstand mellem behandlinger
+Ingen oplysninger
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Fyld tanken med vand og tilsæt NeemAzal-T/S under omrøring. Brug den opblandede
+sprøjtevæske samme dag.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevar tørt og køligt, men frostfrit. Ved opbevaring under 10° C kan der dannes bundfald.
+Dette bundfald kan opløses igen ved at opvarme til ca. 20-30° C uden at effekten
+mindskes. Omrystes efter opvarmning.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Kartofler
+Coloradobiller
+2,5 lVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Vandmængde 300-700 l/ha.
+Sprøjtefrist 4 dage. Maksimalt to behandlinger med mindst 7 dages interval.
+Æbler
+Bladlus, minerfluer
+3 lVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Vandmængde 600-1000 l/ha.
+Senest ved vækststadie 69 (lige efter afblomstring). Maksimalt én
+behandling hvert 3. år.
+Agurk i væksthus, Aubergine i væksthus, Courgetter i væksthus, Drueagurk i væksthus, Græskar i væksthus, Melon i væksthus, Peber i væksthus, Tomater i væksthus
+Bladlus, mellus, minerfluer, trips
+3 lVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Vandmængde 800-1000 l/ha.
+Sprøjtefrist 3 dage. Maksimalt tre behandlinger med mindst 7 dages interval.
+Prydplanter i væksthus
+Bladlus, mellus, minerfluer, trips
+3 lVed begyndende angreb, efter varsling, eller når skadetærskel er nået
+Vandmængde 800-1000 l/ha.
+Ingen sprøjtefrist i prydplanter. Maksimalt tre behandlinger med mindst 7 dages interval.
+Effekt
+Effekt på nyttedyr
+NeemAzal-T/S skader ikke specifikke nytteinsekter, som har en vigtig rolle med kontrol af
+tilbageblivende skadedyr. Derfor kan NeemAzal-T/S med fordel anvendes til brug i
+integreret bekæmpelse.
+Ikke farlig for bier.
+Ikke skadelig for populationer af rovmider Typhlodromus pyri (Acarina), jordløber Poecilius
+cupreus (Coleoptera), mariehøne Coccinella septempunctata (Coleoptera), rovgalmyg
+Aphidius rhopalosiphi (Hymenoptera), men skadelig for svirrefluer Episyrphus balteatus
+(Diptera).
+Virkning på efterfølgende afgrøde
+Ingen oplysninger
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+
+min.
+opt.
+max.
+Timers tørvejr
+
+8
+
+Andet
+NeemAzal-T/S virker bedst på insekter som æder eller suger på behandlede plantedele. Desuden
+er virkningen bedst på unge larvestadier.
+Visse arter kontrolleres dog ved at bestanden af insekter reduceres og bekæmpes således ikke
+fuldstændigt. Dette gælder f. eks. grøn æblebladlus.
+NeemAzal-T/S har ikke væsentlig virkning på skjoldlus, blodlus og kirsebærbladlus.
+Virkemåde
+NeemAzal-T/S indeholder NeemAzal, det oprensede aktivstof fra frøene af det tropiske neemtræ
+Azadirachta indica A. Juss, og formuleringen er baseret på planteolie og fornybare naturlige
+ingredienser. Det aktive stof trænger ind i bladene og fordeles delvist systemisk i planten.
+Insekterne indtager stoffet ved fødeindtagelse (sugende eller bidende).
+Virkningen af dette naturlige insektmiddel vil ikke i alle tilfælde have så høj virkningsgrad som
+traditionelle midler i kartofler og æbler.
+NeemAzal-T/S har en særlig måde at virke på. Det stopper fødeoptagelsen hos insekter, og en
+“knock down” effect kan derfor ikke forventes. Inden for få timer efter behandling med
+NeemAzal-T/S vil skadelige insekter som bladlus, mellus (hvide fluer), thrips, minérfluer, viklere,
+coloradobiller og andre sugende og bidende insekter og spindemider blive inaktive. Larver vil
+reagere ved stop af fødeindtagelse og hudskifte, hvilket vil være dødeligt; voksne individer vil
+stoppe fødeindtagelse og formering, men dør ikke øjeblikkeligt. Efter nogle få dage vil angrebet
+kollapse. Kolonier af bladlus kan være synlige i nogle dage, men der udvikles ikke nye unger.
+Da virkningen ikke er umiddelbart synlig, kan effekten først vurderes endeligt efter 7-10 dage.
+Effekt kan ses ved vurdering af forskellige faktorer som: Tab af bladmasse, skade på blade,
+dannelse af honningdug, udbytte, udvikling af skadedyrsbestanden, positiv indvirkning på
+nyttedyr. Resultatet af en sådan vurdering er mere retvisende end antallet af døde skadedyr.
+Sikkerhed
+Fareklasse
+Ingen oplysninger
+
+Signalord: FORSIGTIG
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+INDÅNDING: Frisk luft og hvile. Kontakt læge ved fortsat ildebefindende.
+HUDEN: Kommer stoffet på huden vaskes straks med store mængder vand. Fjern forurenet tøj.
+ØJNENE: Skyl straks med rigeligt vand og fortsæt i flere minutter. Kontakt læge.
+INDTAGELSE: Fremkald ikke opkastning. Rens munden med vand og kontakt læge.
+Bortskaffelse af emballage
+Rester skal afleveres til den kommunale affaldsordning for farligt affald. Tomme beholdere kan bortskaffes med dagrenovationen. Den tomme beholder bør skylles inden bortskaffelse. Skyllevandet hældes op i sprøjtevæsken.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH208
+Indeholder azadirachtin. Kan udløse allergisk reaktion.
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+P102
+Opbevares utilgængeligt for børn.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+NeemAzal-T/S
+Sikkerhedsdatablad
+NeemAzal-T/S
+Vejledning i Planteværn
+2026
+Side 168 til 171
+VP26s168-171.pdf.pdf--
+Side 168 til 171--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://www.nordiskalkali.dk/pdf/label-dk/neemazal-label-dk.pdf
