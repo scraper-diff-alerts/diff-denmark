@@ -1,0 +1,260 @@
+Vacciplant - Produktoplysninger - Middeldatabasen
+Middeldatabasen
+
+Produktoplysninger
+Vacciplant
+Svampemiddel
+Almene oplysninger
+Godkendelse
+Anvendelse
+Effekt
+Sikkerhed
+Transport
+Yderligere oplysninger
+Bemærk
+Oplysningerne nedenfor er baseret på informationer indhentet fra Miljøstyrelsen, kemikaliefirmaerne, grovvarebranchen mv. Trods udvist omhu under dataindsamling og -inddatering, påtager SEGES Innovation, Planter & Miljø sig intet ansvar for oplysningernes korrekthed. Eventuelle fejl og tilføjelser bedes indrapporteret til konsulent Jens Erik Jensen, SEGES Innovation, Planter & Miljø.
+Læs altid etiketten grundigt før brug!
+Almene oplysninger
+Tidligere navn(e)
+Ingen
+Pakningsstørrelse
+5 l
+Registreringsindehaver
+F-35419 Saint Malo cedexTlf: +33 (0) 2 99 19 19 19Fax: Mail: ','Laboratoires GOËMAR SAS'); return true;" onmouseout="nd(); return true;"Laboratoires GOËMAR SAS
+Distributør
+7500 HolstebroTlf: 76 66 03 00 / 20 32 38 44Fax: 76 66 03 03Mail: njensen@uniphos.com','UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)'); return true;" onmouseout="nd(); return true;" href="Http://dk.uplonline.com" target="_new"UPL Europe Ltd. (tidligere: United Phosphorus Ltd.)
+Anvendes indenfor
+Frilandsgartneri, Væksthusgartneri
+Brugergruppe
+Dette plantebeskyttelsesmiddel må kun købes af professionelle og anvendes erhvervsmæssigt og kræver gyldig autorisation.
+Midlet må anvendes i økologisk produktion.
+Pris&nbsp(senest opdateret)
+640,00 kr/l
+&nbsp()
+Formulering
+Vandopløseligt koncentrat
+Status
+Markedsført
+Indhold af aktivstoffer
+45 g/l
+laminarin
+Behandlingsindeks:
+Ingen
+
+Pesticidbelastning:
+Indikator
+1 B
+B pr. enhed
+Sundhed
+5,75 l/ha
+0,174 B/l
+Miljøadfærd
+2.000 l/ha
+0,0005 B/l
+Miljøeffekt
+376 l/ha
+0,0027 B/l
+I alt
+5,64 l/ha
+0,177 B/l
+
+Pesticidafgift: 26 kr. pr. l
+Godkendelse
+Registreringsnummer
+740-1
+Miljøstyrelsens godkendelse
+Må kun anvendes til bekæmpelse af svampesygdomme
+i jordbær, tomat, squash og græskar i åbne og lukkede
+væksthuse, samt i jordbær på friland.
+Behandlingsfrist
+Ingen.
+Forbehold
+Må ikke anvendes mod andre skadevoldere og ikke i højere
+doseringer end de i brugsanvisningen nævnte.
+Undgå forurening af vandmiljøet med produktet eller
+med beholdere, der har indeholdt produktet. Rens ikke
+sprøjteudstyr nær overfladevand (SP1).
+Må ikke tømmes i kloakafløb.
+Skal opbevares frostfrit.
+Opbevares utilgængeligt for børn
+(P102).
+Må ikke opbevares sammen
+med fødevarer, drikkevarer
+og foderstoffer.
+Midlet må kun
+opbevares i
+originalemballagen.
+Afstand til vandløb
+Ingen afstandskrav.
+Afstand til §3-områder
+Ingen afstandskrav.
+Afstand til veje, beboelse mv.
+Ingen afstandskrav.
+Godkendelsestype(r) og -interval
+Type
+Fra
+Til
+Tekst
+&#198;bler','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Mindre anvendelse / Off-label godk.
+
+Godkendelse Vacciplant, reg.nr. 740-1, til mindre anvendelse mod skurv og gloeosporiumråd i æble og pære. Brugsanvisning findes på Vacciplant-etiketten.
+Jordb&#230;r i lukket v&#230;ksthusJordb&#230;r i &#229;bne v&#230;ksthuseJordb&#230;r p&#229; frilandSquash (zucchini) i lukket v&#230;ksthusSquash (zucchini) i &#229;bne v&#230;ksthuseTomater i lukket v&#230;ksthusTomater i &#229;bne v&#230;ksthuse','Godkendt til'); return true;" onmouseout="nd(); return true;"
+Godkendt
+
+Vacciplant, reg.nr. 740-1
+Anvendelse
+Resistensrisiko
+Risiko for resistens er lav.
+Resistensklasse
+P04
+Virkning
+Midlet har kontaktvirkning
+Afstand mellem behandlinger
+5-10 dage.
+Opblandingsanvisninger
+Tilberedning af sprøjtevæske:
+Ryst dunken godt og tilsæt Vacciplant til sprøjtetanken, mens den fyldes med vand. Husk omrøring. Sprøjtevæsken udsprøjtes straks.
+Blanding med andre midler:
+Vacciplant er generelt blandbar med relevante insekt- og svampemidler.
+Der findes ikke afprøvningsresultater for blanding med næringsstoffer.
+Rengøring
+Ingen oplysninger
+Opbevaring
+Opbevares tørt og frostfrit.
+Blandingspartnere, som firmaerne står inde for (som er nævnt på etiketten eller på anden vis sagt god for af firmaet eller af firmaet bag blandingspartneren)
+Ingen oplysninger
+Blandingspartnere, som erfaringen viser, at der ingen problemer er med, og som der kan blandes med på eget ansvar, når generelle forholdsregler følges
+Ingen oplysninger
+Blandingspartnere, som er blandbare, forudsat at særlige betingelser er opfyldt - se oplysninger om blandinger for midlerne i Middeldatabasen - eller på midlernes etiketter
+Ingen oplysninger
+Blandingspartnere, som der IKKE bør blandes med
+Ingen oplysninger
+Brugsanvisning:
+Afgrøde(r)
+Skadegørere
+Løsning
+--
+Dosis pr. ha.
+Tidspunkt
+Bemærkninger
+Jordbær på friland
+Gråskimmel
+1 lTil og med afgrødens stadium 92
+1-7 sprøjtninger med 5-10 dages interval. Behandling skal ske forebyggende. Se yderligere bemærkninger på etiketten.
+Jordbær i lukket væksthus, Jordbær i åbne væksthuse
+Gråskimmel
+1 lTil og med afgrødens stadium 92
+1-7 sprøjtninger med 5-10 dages interval. To sæsoner per år per areal. Se yderligere bemærkninger på etiketten.
+Jordbær i lukket væksthus, Jordbær i åbne væksthuse
+Jordbærmeldug
+0,75 lTil og med afgrødens stadium 92
+1-7 sprøjtninger med 5-10 dages interval. To sæsoner per år per areal. Se yderligere bemærkninger på etiketten.
+Tomater i lukket væksthus, Tomater i åbne væksthuse
+Tomatpletråd
+1,5 lTil og med afgrødens stadium 89
+1-7 sprøjtninger med 7-10 dages interval. Se yderligere bemærkninger på etiketten.
+Græskar i lukket væksthus, Græskar i åbne væksthuse, Squash (zucchini) i lukket væksthus, Squash (zucchini) i åbne væksthuse
+Meldug
+0,75 lTil og med afgrødens stadium 92
+1-6 sprøjtninger med 5-7 dages interval. Skal anvendes præventivt Se yderligere bemærkninger på etiketten.
+Effekt
+Effekt på nyttedyr
+Midlet er skånsomt over for populationer af Typhlodromus pyri og Aphidius rhopalosiphi. Foreneligheden med anvendelse af øvrige nyttedyr
+er ikke kendt.
+Virkning på efterfølgende afgrøde
+Ingen
+Afprøvningsforsøg
+Landsforsøg
+Optimale virkningsforhold
+Ingen oplysninger
+Virkemåde
+Det aktive middel i Vacciplant, laminarin, er et naturligt forekommende stof ekstraheret fra en brunalge, som i øvrigt anvendes i fødevareindustrien.
+Vacciplant stimulerer afgrødens modstandsmekanismer og styrker derved modstandsdygtigheden mod angreb. Der er ikke direkte effekt på eksisterende angreb.
+Sikkerhed
+Fareklasse
+GHS07
+Advarsel (Lokalirriterende / Sundhedsskadelig
+
+Signalord: ADVARSEL
+Bifare
+Ikke farlig
+Beskyttelsesforanstaltninger
+Opblanding
+Beskyttelsesbriller
+Overtræksbukser eller forklæde
+Kemikalieresistente nitrilhandsker
+Støvler
+
+Udbringning (traktor med lukket førerkabine med kulfilter (kat. 4))
+Ingen værnemidler kræves
+
+Udbringning – ophold uden for førerkabine
+Overtræksbukser
+Kemikalieresistente nitrilhandsker
+Støvler
+Forgiftningssymptomer
+Ingen oplysninger
+Førstehjælp
+Ingen oplysninger
+Bortskaffelse af emballage
+Tom emballage og rester kan bortskaffes sammen med dagrenovationen.
+Risiko- og sikkerhedssætninger
+Kode
+Tekst
+EUH401
+Brugsanvisningen skal følges for ikke at bringe menneskers sundhed og miljøet i fare.
+H317
+Kan forårsage allergisk hudreaktion.
+H319
+Forårsager alvorlig øjenirritation.
+P101
+Hvis der er brug for lægehjælp, medbring da beholderen eller etiketten.
+P102
+Opbevares utilgængeligt for børn.
+P261
+Undgå indånding af spray.
+P264
+Vask hænder og ansigt grundigt efter brug.
+P280
+Bær beskyttelseshandsker/øjenbeskyttelse.
+P302+P352
+VED KONTAKT MED HUDEN: Vask med rigeligt sæbe og vand.
+P305+P351+P338
+VED KONTAKT MED ØJNENE: Skyl forsigtigt med vand i flere minutter. Fjern eventuelle kontaktlinser, hvis dette kan gøres let. Fortsæt skylning.
+P333+P313
+Ved hudirritation eller udslæt: Søg lægehjælp.
+P337+P313
+Ved vedvarende øjenirritation: Søg lægehjælp.
+P362+P364
+Alt tilsmudset tøj tages af og vaskes inden genanvendelse.
+P501
+Indholdet/beholderen bortskaffes i overensstemmelse med kommunale regler for affaldshåndtering.
+Transport
+UN-nr.
+Ikke klassificeret
+RID_ADR
+Ikke klassificeret
+IMDG
+Ikke klassificeret
+IATA
+Ikke klassificeret
+Yderligere oplysninger
+Etikette oplysninger
+Vacciplant
+Sikkerhedsdatablad
+Vacciplant
+Vejledning i Planteværn
+2026
+Side 347
+VP26s347.pdf.pdf--
+Side 347--
+(Udgivet af Landbrugsforlaget, køb bogen
+her)
+her)--
+
+Ophavsret: Middeldatabasen (www.middeldatabasen.dk) er ejet af SEGES Innovation og omfattet af dansk lov om ophavsret. Det er tilladt at citere – i begrænset omfang- fra Middeldatabasen, såfremt der er tydelig kildeangivelse. Det er ikke tilladt at benytte Middeldatabasens indhold som helt eller delvist grundlag for andre IT-ydelser uden tilladelse fra SEGES Innovation.
+
+
+
+PDF LINK: https://middeldatabasenpdf.dlbr.dk/etikette/Vacciplant_740-1_Etikette_20231213.pdf
